@@ -1,8 +1,9 @@
 # 目的
 
 このリポジトリの目的は、日本のソフトウェア企業に関して様々な分析を行うことです。
-すべての分析の起点は、 @company_list.csv から始まります。
+すべての分析の起点は、 company_list.csv から始まります。
 
 # company_list.csv を修正した場合の対応
 
-company_list.csv の修正を行なった場合は、必ず @check_links.py を実行して、CSV の中にリンク切れ URL が含まれていないことを保証してください。
+company_list.csv の URL の修正を行なった場合は、必ず @check_links.py を実行して、CSV の中にリンク切れ URL が含まれていないことを保証してください。
+URL 以外の修正を行なった場合は、この対応は不要です。

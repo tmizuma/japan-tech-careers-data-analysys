@@ -1,8 +1,8 @@
 ---
 name: gather-company-position-info
 description: 企業情報を受け取り、エンジニア求人情報をJSON形式で取得するサブエージェント。PROACTIVELY use when gathering job positions.
-allowed-tools: Fetch(*), Bash(playwright:*), Bash(chrome:*), Bash(mcp:*), Bash(npx:*), mcp__playwright__*, mcp__chrome__*
 tools: Read, Bash, mcp__playwright__*, mcp__chrome__*
+color: purple
 ---
 
 # 役割
