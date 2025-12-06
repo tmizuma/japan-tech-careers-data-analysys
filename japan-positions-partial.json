@@ -127,156 +127,99 @@
     "logo_url": "https://logo.clearbit.com/cyberagent.co.jp",
     "company_url": "https://www.cyberagent.co.jp/",
     "positions": [
-      {
-        "name": "【AI事業本部】バックエンドエンジニア オープンポジション",
-        "description": "AI事業本部でのバックエンドエンジニア。約60のプロダクト開発チームで生成AI技術を活用したサービス開発",
-        "techstack": ["Go", "Python", "GCP", "Kubernetes", "gRPC"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000071"
-      },
-      {
-        "name": "【メディア事業部】サーバーサイドエンジニア",
-        "description": "ABEMA、WINTICKET等のメディアサービスのバックエンド開発",
-        "techstack": ["Go", "GCP", "Kubernetes", "MongoDB", "Redis"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000221"
-      },
-      {
-        "name": "【WINTICKET】バックエンドエンジニア",
-        "description": "競輪・オートレースアプリWINTICKETのバックエンド開発。マイクロサービス、クリーンアーキテクチャ採用",
-        "techstack": ["Go", "GCP", "Kubernetes", "Cloud Spanner", "gRPC"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000752"
-      },
-      {
-        "name": "【AI Lab】リサーチサイエンティスト",
-        "description": "AI研究組織AI Labでの研究職。機械学習、NLP、コンピュータビジョン等の研究",
-        "techstack": ["Python", "PyTorch", "Machine Learning", "NLP", "Computer Vision"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000147"
-      },
-      {
-        "name": "【AI事業本部】機械学習エンジニア - 極予測AI",
-        "description": "広告クリエイティブのAI予測・自動生成ツール「極予測AI」の開発",
-        "techstack": ["Python", "Machine Learning", "LLM", "GCP", "BigQuery"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000177"
-      },
-      {
-        "name": "データサイエンティスト（経済学）",
-        "description": "経済学×機械学習を応用したプロダクト開発。小売DX、行政DX、アドテク領域",
-        "techstack": ["Python", "Machine Learning", "Economics", "SQL"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000181"
-      },
-      {
-        "name": "【ABEMA】データサイエンティスト",
-        "description": "ABEMAのサービス成長のためのデータ分析、アルゴリズム開発",
-        "techstack": ["Python", "SQL", "Machine Learning", "BigQuery"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000280"
-      },
-      {
-        "name": "【SGE】Unityクライアントエンジニア",
-        "description": "スマートフォンゲームのUnityクライアント開発",
-        "techstack": ["Unity", "C#", "Game Development"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000326"
-      },
-      {
-        "name": "【メディア事業部】Flutterエンジニア",
-        "description": "WINTICKET、Amebaマンガ等のFlutterアプリ開発",
-        "techstack": ["Flutter", "Dart", "iOS", "Android"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000515"
-      },
-      {
-        "name": "【SGE】Unityグラフィックスエンジニア",
-        "description": "ゲームのグラフィックスエンジン設計・実装・最適化",
-        "techstack": ["Unity", "C#", "Shader", "Graphics Programming"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000578"
-      },
-      {
-        "name": "【AI Shift】バックエンドエンジニア（TypeScript）",
-        "description": "AIエージェント構築プラットフォーム「AI Worker」の開発",
-        "techstack": ["TypeScript", "Node.js", "Kubernetes", "GCP"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000682"
-      },
-      {
-        "name": "【AI Shift】バックエンドエンジニア（Golang）",
-        "description": "VoiceBotプロダクトのバックエンド開発",
-        "techstack": ["Go", "GCP", "Kubernetes", "Python"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523068"
-      },
-      {
-        "name": "【CAM】バックエンドエンジニア",
-        "description": "エンタメ・ライフスタイルWebサービスのバックエンド開発。マイクロサービスアーキテクチャ",
-        "techstack": ["Node.js", "TypeScript", "Kubernetes", "GCP", "MongoDB"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000659"
-      },
-      {
-        "name": "【CAM】Webフロントエンジニア",
-        "description": "エンタメコンテンツのWebフロントエンド開発。Jamstack構成",
-        "techstack": ["TypeScript", "Next.js", "React", "Cloud Run"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000660"
-      },
-      {
-        "name": "【CAM】iOS/Androidエンジニア",
-        "description": "エンタメコンテンツのモバイルアプリ開発",
-        "techstack": ["Flutter", "Swift", "Kotlin", "iOS", "Android"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000661"
-      },
-      {
-        "name": "【CAM】データエンジニア",
-        "description": "データ活用施策のためのデータ基盤開発",
-        "techstack": ["Python", "SQL", "BigQuery", "GCP", "Machine Learning"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000662"
-      },
-      {
-        "name": "【CAM】SREエンジニア",
-        "description": "サービスの品質向上、インフラ運用、セキュリティ管理",
-        "techstack": ["Kubernetes", "GCP", "AWS", "Terraform", "Istio"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000663"
-      },
-      {
-        "name": "【タップル】バックエンドエンジニア",
-        "description": "マッチングアプリ「タップル」のバックエンド開発",
-        "techstack": ["TypeScript", "Node.js", "MySQL", "Redis"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000880"
-      },
-      {
-        "name": "【メディア事業部】エンジニアリングマネージャー（バックエンド）",
-        "description": "メディア事業部でのエンジニアリングマネージャー職",
-        "techstack": ["Go", "GCP", "Kubernetes", "Team Management"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936016981879885834"
-      },
-      {
-        "name": "Developer Productivity Engineer (DPE)",
-        "description": "開発生産性向上のためのCI/CD、Feature Flags開発。OSS開発",
-        "techstack": ["Go", "Kubernetes", "CI/CD", "OSS"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000694"
-      },
-      {
-        "name": "【グループIT推進本部】認証基盤(IdP)開発エンジニア",
-        "description": "社内ID管理、認証/認可システムの開発",
-        "techstack": ["Go", "Java", "AWS", "GCP", "gRPC", "Keycloak"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/idg001"
-      },
-      {
-        "name": "【グループIT推進本部】データ基盤エンジニア",
-        "description": "全社データ基盤、分析基盤の開発・運用",
-        "techstack": ["Go", "Java", "Python", "Kubernetes", "Kafka", "HBase"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/dpu001"
-      },
-      {
-        "name": "【QualiArts】サーバーサイドエンジニア",
-        "description": "スマートフォンゲームのサーバーサイド開発",
-        "techstack": ["Go", "GCP", "Unity"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/2004419278284361751"
-      },
-      {
-        "name": "【CyberZ】バックエンドエンジニア",
-        "description": "広告マーケティング支援ツールの開発。AI活用、生成AI",
-        "techstack": ["Go", "React", "TypeScript", "AWS", "LangChain"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/engineer002"
-      },
-      {
-        "name": "【Ameba】バックエンドエンジニア",
-        "description": "アメーバブログを中心としたサービスのバックエンド開発",
-        "techstack": ["Go", "Java", "AWS", "Kubernetes", "MySQL"],
-        "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360229"
-      }
+      {"name": "【AI事業本部】（バックエンドエンジニア）オープンポジション", "description": "AI事業本部でのバックエンドエンジニア。約60のプロダクト開発チームで生成AI技術を活用したサービス開発", "techstack": ["Go", "Python", "GCP", "Kubernetes", "gRPC"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000071"},
+      {"name": "【AI Lab】リサーチサイエンティスト", "description": "AI研究組織AI Labでの研究職。機械学習、NLP、コンピュータビジョン等の研究", "techstack": ["Python", "PyTorch", "Machine Learning", "NLP", "Computer Vision"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000147"},
+      {"name": "【AI事業本部】（機械学習エンジニア）極予測AI", "description": "広告クリエイティブのAI予測・自動生成ツール「極予測AI」の開発", "techstack": ["Python", "Machine Learning", "LLM", "GCP", "BigQuery"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000177"},
+      {"name": "データサイエンティスト（経済学）", "description": "経済学×機械学習を応用したプロダクト開発。小売DX、行政DX、アドテク領域", "techstack": ["Python", "Machine Learning", "Economics", "SQL"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000181"},
+      {"name": "【メディア事業部】サーバーサイドエンジニア", "description": "ABEMA、WINTICKET等のメディアサービスのバックエンド開発", "techstack": ["Go", "GCP", "Kubernetes", "MongoDB", "Redis"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000221"},
+      {"name": "【ABEMA】データサイエンティスト", "description": "ABEMAのサービス成長のためのデータ分析、アルゴリズム開発", "techstack": ["Python", "SQL", "Machine Learning", "BigQuery"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000280"},
+      {"name": "【SGE】Unityクライアントエンジニア", "description": "スマートフォンゲームのUnityクライアント開発", "techstack": ["Unity", "C#", "Game Development"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000326"},
+      {"name": "【メディア事業部】Flutterエンジニア", "description": "WINTICKET、Amebaマンガ等のFlutterアプリ開発", "techstack": ["Flutter", "Dart", "iOS", "Android"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000515"},
+      {"name": "【SGE】Unityグラフィックスエンジニア", "description": "ゲームのグラフィックスエンジン設計・実装・最適化", "techstack": ["Unity", "C#", "Shader", "Graphics Programming"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000578"},
+      {"name": "【株式会社QualiArts】クライアントエンジニア（リーダー候補）", "description": "スマートフォンゲームのUnityエンジニア。ゲーム機能の設計、実装、運用", "techstack": ["Unity", "C#", "Git", "GitHub"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000643"},
+      {"name": "WINTICKETのFlutterエンジニア", "description": "競輪・オートレースアプリWINTICKETのFlutter開発", "techstack": ["Flutter", "Dart", "Riverpod", "Freezed"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000751"},
+      {"name": "【Go】WINTICKETのバックエンドエンジニア", "description": "競輪・オートレースアプリWINTICKETのバックエンド開発。マイクロサービス、クリーンアーキテクチャ採用", "techstack": ["Go", "GCP", "Kubernetes", "Cloud Spanner", "gRPC"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000752"},
+      {"name": "WINTICKETのフロントエンドエンジニア", "description": "競輪アプリWINTICKETのWeb版フロントエンド開発", "techstack": ["TypeScript", "React", "TanStack Query", "Fastly"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000753"},
+      {"name": "ピグ新規サービス立ち上げ！Unityエンジニアリーダー候補", "description": "メタバースコミュニティ事業の新規サービス開発", "techstack": ["Unity", "C#", "3D", "Maya"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000857"},
+      {"name": "ピグ新規サービス立ち上げ！サーバーエンジニア", "description": "ピグの新規サービスのサーバーサイド開発", "techstack": ["Node.js", "TypeScript", "GCP", "Kubernetes"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000874"},
+      {"name": "【株式会社タップル】バックエンドエンジニア", "description": "マッチングアプリ「タップル」のバックエンド開発", "techstack": ["TypeScript", "Node.js", "MySQL", "Redis"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000880"},
+      {"name": "ピグサービスエンジニアオープンポジション", "description": "ピグ事業部でのエンジニアオープンポジション", "techstack": ["Unity", "Node.js", "TypeScript"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000910"},
+      {"name": "【メディア事業部】データサイエンティストマネージャー候補", "description": "メディアサービスの機械学習/データサイエンスマネージャー", "techstack": ["Python", "Machine Learning", "Data Science"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1694"},
+      {"name": "【AJA】データエンジニア", "description": "ABEMAを始めとする動画コンテンツの広告配信データ基盤開発", "techstack": ["Go", "GCP", "BigQuery", "Tableau"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1700"},
+      {"name": "【株式会社タップル】iOSエンジニア", "description": "マッチングアプリ「タップル」のiOSアプリ開発", "techstack": ["Swift", "iOS", "SwiftUI", "Swift Concurrency"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1717857096896237588"},
+      {"name": "【株式会社タップル】Androidエンジニア", "description": "マッチングアプリ「タップル」のAndroidアプリ開発", "techstack": ["Kotlin", "Android", "Jetpack"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1717857096896237589"},
+      {"name": "【メディア事業部】SRE", "description": "メディアサービスの信頼性向上に取り組むSRE", "techstack": ["GCP", "AWS", "Kubernetes", "Terraform", "Datadog"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1740286"},
+      {"name": "【SGE】Unity基盤エンジニア", "description": "ゲーム事業部の共通基盤開発", "techstack": ["Unity", "C#", "Git", "CI/CD"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1793543355508383745"},
+      {"name": "【SGE】Unity基盤エンジニア（業務委託）", "description": "ゲーム事業部の共通基盤開発（業務委託）", "techstack": ["Unity", "C#", "Git"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1793556056302227457"},
+      {"name": "【WINTICKET】データエンジニア", "description": "競輪アプリWINTICKETのデータ基盤開発", "techstack": ["SQL", "Python", "BigQuery", "GCP", "Dataform"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/18331"},
+      {"name": "【SGE】機械学習エンジニア（レベルデザイン）", "description": "ゲーム×AIの機械学習エンジニア", "techstack": ["Python", "Machine Learning", "Unity"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1928780994909495308"},
+      {"name": "【メディア事業部】エンジニアリングマネージャー（ネイティブ）", "description": "メディア事業部でのエンジニアリングマネージャー（ネイティブ）", "techstack": ["Swift", "Kotlin", "Flutter", "Team Management"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936016981879885833"},
+      {"name": "【メディア事業部】エンジニアリングマネージャー（バックエンド）", "description": "メディア事業部でのエンジニアリングマネージャー（バックエンド）", "techstack": ["Go", "GCP", "Kubernetes", "Team Management"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936016981879885834"},
+      {"name": "【メディア事業部】エンジニアリングマネージャー（フロントエンド）", "description": "メディア事業部でのエンジニアリングマネージャー（フロントエンド）", "techstack": ["TypeScript", "React", "Next.js", "Team Management"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936016981879885835"},
+      {"name": "AI Strategy & Planning プロトタイプエンジニア インターンシップ", "description": "AI研究成果のプロトタイプ実装", "techstack": ["Python", "AI", "Prototype"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360156"},
+      {"name": "【AI事業本部】バックエンド・ML/DS・Webフロント募集", "description": "AI事業本部でのエンジニア募集", "techstack": ["Go", "Python", "Machine Learning", "TypeScript"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360166"},
+      {"name": "【AI事業本部】サーバーサイドエンジニア（小売DX）", "description": "小売業界アプリのバックエンド開発", "techstack": ["Go", "AWS", "GCP", "Kubernetes"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360186"},
+      {"name": "【AI Shift】サーバーサイドエンジニア（VoiceBot）", "description": "AI電話応対サービスのバックエンド開発", "techstack": ["Go", "Python", "GCP", "Firestore"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360224"},
+      {"name": "【AI Shift】サーバーサイドエンジニア（AI Worker）", "description": "生成AI業務改善プラットフォームの開発", "techstack": ["TypeScript", "Hono", "GCP", "LLM"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360225"},
+      {"name": "【AI事業本部】リサーチエンジニア（オープンポジション）", "description": "AI研究組織でのリサーチエンジニア", "techstack": ["Python", "Machine Learning", "AI Research"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360228"},
+      {"name": "【メディア事業部】バックエンドエンジニア / Ameba", "description": "アメーバブログを中心としたサービスのバックエンド開発", "techstack": ["Go", "Java", "AWS", "Kubernetes", "MySQL"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360229"},
+      {"name": "【AI事業本部】機械学習エンジニア（NLP）", "description": "漫画等のコンテンツローカライズのNLP開発", "techstack": ["Python", "NLP", "LLM", "Machine Learning"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360230"},
+      {"name": "【AI事業本部】機械学習エンジニア（CV）", "description": "漫画等のコンテンツローカライズのCV開発", "techstack": ["Python", "Computer Vision", "Machine Learning"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360231"},
+      {"name": "【株式会社タップル】インフラエンジニア", "description": "マッチングアプリ「タップル」のインフラ開発", "techstack": ["AWS", "Kubernetes", "Terraform", "Docker"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360237"},
+      {"name": "【株式会社タップル】DS/MLエンジニア", "description": "マッチングアプリ「タップル」のML開発", "techstack": ["Python", "Machine Learning", "Data Science"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360238"},
+      {"name": "【経営DX本部】インフラエンジニア", "description": "グループ基幹システムのインフラ開発", "techstack": ["AWS", "Azure", "MySQL", "Tableau"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476522966"},
+      {"name": "【株式会社サムザップ】バックエンドエンジニア（インターン）", "description": "ゲーム開発を支えるバックエンドエンジニア", "techstack": ["Go", "GCP", "CI/CD"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476522977"},
+      {"name": "【株式会社サムザップ】クライアントエンジニア（インターン）", "description": "ゲーム開発を支えるクライアントエンジニア", "techstack": ["Unity", "C#"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476522978"},
+      {"name": "【株式会社グレンジ】ゲームクライアントエンジニア（インターン）", "description": "ハイブリッドカジュアルゲーム開発", "techstack": ["Unity", "C#", "Game Development"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476522979"},
+      {"name": "機械学習エンジニア/データサイエンティスト（オープンポジション）", "description": "メディア・IP事業部でのML/DS", "techstack": ["Python", "Machine Learning", "Data Science"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476522983"},
+      {"name": "【ABEMA】iOSエンジニア", "description": "ABEMAのiOSアプリ開発", "techstack": ["Swift", "iOS", "SwiftUI"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476522988"},
+      {"name": "【AI Shift】Webフロントエンドエンジニア", "description": "VoiceBot管理画面のフロントエンド開発", "techstack": ["TypeScript", "React", "ReactFlow"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476522999"},
+      {"name": "【AI Shift】機械学習エンジニア（インターン）", "description": "電話自動応対サービスの機械学習開発", "techstack": ["Python", "Machine Learning", "LLM", "NLP"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523012"},
+      {"name": "【AI Lab】リサーチエンジニア（NLP）", "description": "自然言語処理のリサーチエンジニア", "techstack": ["Python", "NLP", "LLM", "PyTorch"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523027"},
+      {"name": "【人事&経営DX領域】エンジニア", "description": "人事システム部でのエンジニア", "techstack": ["Java", "Python", "AWS", "kintone"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523031"},
+      {"name": "【AI事業本部】ML/DS（AI-POS）", "description": "AIエージェントによるデータ分析自動化", "techstack": ["Python", "LLM", "Machine Learning"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523051"},
+      {"name": "【AI Shift】バックエンドエンジニア（Golang）", "description": "VoiceBotプロダクトのバックエンド開発", "techstack": ["Go", "GCP", "Kubernetes", "Python"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523068"},
+      {"name": "【AI事業本部】接客エキスパート", "description": "AIロボットに接客を教える仕事", "techstack": ["AI", "Robotics"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523101"},
+      {"name": "【WINTICKET】Flutterエンジニア（UI/UX改善）インターン", "description": "WINTICKETのUI/UX改善提案", "techstack": ["Flutter", "Dart"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523121"},
+      {"name": "【WINTICKET】Flutterエンジニア（自動テスト改善）インターン", "description": "WINTICKETの自動テスト改善", "techstack": ["Flutter", "Dart", "Testing"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523122"},
+      {"name": "【AI事業本部】機械学習エンジニア（極予測TD）", "description": "広告テキスト効果予測・自動生成の開発", "techstack": ["Python", "Machine Learning", "NLP", "LLM"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523160"},
+      {"name": "【AI事業本部】バックエンドエンジニア（極予測TD）", "description": "広告テキスト効果予測ツールのバックエンド開発", "techstack": ["Go", "Python", "GCP", "Kubernetes"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523161"},
+      {"name": "【CyberACE/CARU】バックエンドエンジニア", "description": "成果報酬型LP広告プロダクトの開発", "techstack": ["Go", "GCP", "Cloud Run", "Firestore", "LangChain"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523171"},
+      {"name": "【AI Lab】リサーチエンジニア（実世界計測・自律移動ロボット）", "description": "ロボット研究のリサーチエンジニア", "techstack": ["Python", "ROS", "Computer Vision", "Robotics"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1959458289601175555"},
+      {"name": "【AI Lab】リサーチサイエンティスト（PD等）", "description": "日本学術振興会特別研究員-PD等", "techstack": ["Python", "Machine Learning", "Research"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1959458289601175566"},
+      {"name": "【AI事業本部】機械学習エンジニア（審査AI）", "description": "広告クリエイティブの審査AI開発", "techstack": ["Python", "Computer Vision", "Machine Learning"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1986666672570519557"},
+      {"name": "【WINTICKET】画像認識エンジニア", "description": "競輪映像の画像認識開発", "techstack": ["Python", "Computer Vision", "Machine Learning"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1986666672570519562"},
+      {"name": "【AI Lab】企画開発エンジニア", "description": "AI研究成果の戦略的利活用", "techstack": ["Python", "AI", "Product Development"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/1994715660961296386"},
+      {"name": "【QualiArts】サーバーサイドエンジニア", "description": "スマートフォンゲームのサーバーサイド開発", "techstack": ["Go", "GCP", "Unity"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/2004419278284361751"},
+      {"name": "【WINTICKET】Unityエンジニア", "description": "競輪CG映像のUnity開発", "techstack": ["Unity", "C#", "Computer Vision"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/2004419278284361767"},
+      {"name": "【WINTICKET】データサイエンティスト", "description": "競輪アプリWINTICKETのデータサイエンス", "techstack": ["Python", "SQL", "Machine Learning", "BigQuery"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/2034180316537065483"},
+      {"name": "【WINTICKET】機械学習エンジニア", "description": "競輪アプリWINTICKETの機械学習開発", "techstack": ["Python", "Machine Learning", "GCP"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/2034180316537065484"},
+      {"name": "【グループIT推進本部】エンジニアオープンポジション", "description": "グループIT推進本部でのエンジニア", "techstack": ["AWS", "GCP", "Python", "Java"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/cit001"},
+      {"name": "【CIU】マネージドサービス基盤エンジニア", "description": "Kubernetes as a Serviceの開発・運用", "techstack": ["Kubernetes", "Go", "OpenStack"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ciu001"},
+      {"name": "【CIU】ネットワークエンジニア", "description": "大規模データセンターのネットワーク設計・運用", "techstack": ["Network", "BGP", "NVIDIA", "Ansible"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ciu002"},
+      {"name": "【CIU】機械学習基盤エンジニア", "description": "ML Platformの開発・運用", "techstack": ["Kubernetes", "GPU", "Python", "NVIDIA"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ciu003"},
+      {"name": "【CIU】仮想サーバ基盤エンジニア", "description": "OpenStackを用いた仮想サーバ基盤の開発・運用", "techstack": ["OpenStack", "QEMU", "KVM", "Python"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ciu004"},
+      {"name": "【CIU】インフラエンジニア（サーバ・ストレージ）", "description": "プライベートクラウドの物理サーバ・ストレージ", "techstack": ["Linux", "Storage", "Ansible"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ciu005"},
+      {"name": "【CIU】インフラエンジニア兼プロジェクトリーダー", "description": "インフラプロジェクトのリード", "techstack": ["Kubernetes", "OpenStack", "Project Management"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ciu007"},
+      {"name": "【CIU】リードエンジニア", "description": "プライベートクラウドのリードエンジニア", "techstack": ["Kubernetes", "OpenStack", "Team Leadership"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ciu008"},
+      {"name": "【グループIT推進本部】フロントエンドエンジニア", "description": "社内向けWebサイトのフロントエンド開発", "techstack": ["React", "TypeScript", "Material-UI"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/con001"},
+      {"name": "【グループIT推進本部】人事給与システムエンジニア", "description": "人事給与システムの開発・運用", "techstack": ["Java", "Python", "AWS"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/con003"},
+      {"name": "【グループIT推進本部】システムエンジニア（リーダー候補）", "description": "人事領域のDXシステムエンジニア", "techstack": ["Java", "Python", "AWS"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/con004"},
+      {"name": "【全社データ技術局】サーバーサイドエンジニア", "description": "データ基盤のサーバーサイド開発", "techstack": ["Python", "Snowflake", "Tableau", "AWS"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/dag001"},
+      {"name": "【グループIT推進本部】フルスタックエンジニア", "description": "技術と戦略を融合させるフルスタックエンジニア", "techstack": ["TypeScript", "React", "Python", "AWS"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/dag002"},
+      {"name": "【データ戦略局】データエンジニア", "description": "データ基盤の構築・運用", "techstack": ["Python", "SQL", "AWS", "GCP"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/das001"},
+      {"name": "【データ戦略局】データアナリスト", "description": "データ分析による意思決定支援", "techstack": ["SQL", "Python", "BigQuery", "Tableau"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/das002"},
+      {"name": "【データプロダクトユニット】サーバーサイドエンジニア", "description": "データ基盤のサーバーサイド開発", "techstack": ["Python", "Go", "Kubernetes", "BigQuery"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/dpu001"},
+      {"name": "【CyberZ】フロントエンドエンジニア", "description": "広告マーケティング支援ツールのフロントエンド開発", "techstack": ["TypeScript", "React", "Next.js"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/engineer001"},
+      {"name": "【CyberZ】バックエンドエンジニア", "description": "広告マーケティング支援ツールのバックエンド開発", "techstack": ["Go", "React", "TypeScript", "AWS", "LangChain"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/engineer002"},
+      {"name": "【IDガバナンス局】認証基盤(IdP)開発エンジニア", "description": "社内ID管理、認証/認可システムの開発", "techstack": ["Go", "Java", "AWS", "GCP", "gRPC", "Keycloak"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/idg001"},
+      {"name": "【Nic】ネットワークエンジニア", "description": "オフィスネットワークの企画・設計・構築・運用", "techstack": ["Network", "Cisco", "WiFi"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/nic001"},
+      {"name": "【SSG】ソフトウェアエンジニア（セキュリティ）", "description": "LLMやMLOpsを活用したセキュリティ業務効率化", "techstack": ["Python", "LLM", "Security"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ssg001"},
+      {"name": "【SSG】SREエンジニア（セキュリティ）", "description": "セキュリティと信頼性を両立させるSRE", "techstack": ["Kubernetes", "AWS", "GCP", "Terraform"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ssg002"},
+      {"name": "【SSG】セキュリティコンサルタント", "description": "グループ全体のセキュリティコンサルティング", "techstack": ["Security", "ISMS", "Risk Assessment"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ssg003"},
+      {"name": "【SSG】セキュリティマネジメント（リーダー候補）", "description": "セキュリティマネジメントのリーダー候補", "techstack": ["Security", "Management"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/ssg004"},
+      {"name": "【シーエー・アドバンス】Webエンジニア（沖縄）", "description": "沖縄本社でのWebエンジニア", "techstack": ["TypeScript", "React", "Node.js"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/zad001"},
+      {"name": "【シーエー・アドバンス】システムエンジニア（リーダー候補・沖縄）", "description": "沖縄本社でのシステムエンジニアリーダー候補", "techstack": ["Java", "Python", "AWS"], "link": "https://hrmos.co/pages/cyberagent-group/jobs/zad003"}
     ]
   },
   "_metadata": {
