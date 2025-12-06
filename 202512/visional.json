@@ -1,0 +1,222 @@
+{
+  "company_name_en": "Visional",
+  "company_name_ja": "ビジョナル",
+  "positions": [
+    {
+      "name": "オープンポジション（エンジニア職）",
+      "description": "ビズリーチ社のエンジニアオープンポジション。ソフトウェアエンジニア、モバイルエンジニア、SRE/インフラエンジニア、その他エンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100803"
+    },
+    {
+      "name": "検索基盤エンジニア／プロダクト本部",
+      "description": "ビズリーチ社の検索基盤エンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083758"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア／リクルーティングプロダクト本部",
+      "description": "ビズリーチ社のWebアプリケーションエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995973"
+    },
+    {
+      "name": "リードエンジニア／リクルーティングプロダクト本部",
+      "description": "ビズリーチ社のリードエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995974"
+    },
+    {
+      "name": "DBRE (Database Reliability Engineer)",
+      "description": "ビズリーチサービスのDBRE。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100897"
+    },
+    {
+      "name": "データエンジニア／リクルーティングプロダクト本部",
+      "description": "ビズリーチサービスのデータエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100928"
+    },
+    {
+      "name": "【AI×Management】AI検索エンジニア／社長室",
+      "description": "ビズリーチ社のAI検索エンジニア。社長室直下。",
+      "techstack": ["AI"],
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083737"
+    },
+    {
+      "name": "新規事業セキュリティエンジニア【AI×Management】／社長直下組織",
+      "description": "ビズリーチ社の新規事業セキュリティエンジニア。社長直下組織。",
+      "techstack": ["Security", "AI"],
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995989"
+    },
+    {
+      "name": "MGR候補・社内システム推進（新組織立ち上げ）",
+      "description": "ビジョナル社の社内システム推進。新組織立ち上げ。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/visional/jobs/2070775774525681787"
+    },
+    {
+      "name": "フルスタックエンジニア／事業開発室",
+      "description": "ビズリーチ社のフルスタックエンジニア。事業開発室所属。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995986"
+    },
+    {
+      "name": "プロダクトマネージャー／リクルーティングプロダクト本部",
+      "description": "ビズリーチサービスのプロダクトマネージャー。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100868"
+    },
+    {
+      "name": "MLOpsエンジニア／リクルーティングプロダクト本部",
+      "description": "ビズリーチサービスのMLOpsエンジニア。",
+      "techstack": ["MLOps", "Machine Learning"],
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083594"
+    },
+    {
+      "name": "DevEx改善エンジニア／リクルーティングプロダクト本部",
+      "description": "ビズリーチサービスのDeveloper Experience改善エンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083648"
+    },
+    {
+      "name": "機械学習エンジニア／リクルーティングプロダクト本部",
+      "description": "ビズリーチサービスの機械学習エンジニア。",
+      "techstack": ["Machine Learning"],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100101260"
+    },
+    {
+      "name": "データサイエンティスト／リクルーティングプロダクト本部",
+      "description": "ビズリーチサービスのデータサイエンティスト。",
+      "techstack": ["Data Science"],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100101261"
+    },
+    {
+      "name": "LLMアプリケーション開発エンジニア／CTO室",
+      "description": "CTO室のLLMアプリケーション開発エンジニア。",
+      "techstack": ["LLM", "AI"],
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995982"
+    },
+    {
+      "name": "サーバーサイドエンジニア（ビズリーチ）",
+      "description": "ビズリーチサービスのサーバーサイドエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100866"
+    },
+    {
+      "name": "フロントエンドエンジニア（ビズリーチ）",
+      "description": "ビズリーチサービスのフロントエンドエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100867"
+    },
+    {
+      "name": "データエンジニア/DBREグループ",
+      "description": "ビズリーチサービスのデータエンジニア。DBREグループ所属。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100928"
+    },
+    {
+      "name": "SRE（ビズリーチ）",
+      "description": "ビズリーチサービスのSRE。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100806"
+    },
+    {
+      "name": "テックリード（HRMOS）",
+      "description": "HRMOSサービスのテックリード。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100782"
+    },
+    {
+      "name": "サーバーサイドエンジニア（HRMOS）",
+      "description": "HRMOSサービスのサーバーサイドエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100763"
+    },
+    {
+      "name": "フロントエンドエンジニア（HRMOS）",
+      "description": "HRMOSサービスのフロントエンドエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100776"
+    },
+    {
+      "name": "SRE（HRMOS）",
+      "description": "HRMOSサービスのSRE。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100780"
+    },
+    {
+      "name": "フロントエンドエンジニア（M&Aサクシード）",
+      "description": "M&Aサクシードサービスのフロントエンドエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/succeed/jobs/0000124"
+    },
+    {
+      "name": "バックエンドエンジニア（M&Aサクシード）",
+      "description": "M&Aサクシードサービスのバックエンドエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/succeed/jobs/0000125"
+    },
+    {
+      "name": "フルスタックエンジニア（M&Aサクシード）",
+      "description": "M&Aサクシードサービスのフルスタックエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/succeed/jobs/0000152"
+    },
+    {
+      "name": "リードエンジニア（yamory）",
+      "description": "脆弱性管理クラウドyamoryのリードエンジニア。",
+      "techstack": ["Security"],
+      "link": "https://hrmos.co/pages/assured/jobs/10000001"
+    },
+    {
+      "name": "SRE（yamory）",
+      "description": "脆弱性管理クラウドyamoryのSRE。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/assured/jobs/10000002"
+    },
+    {
+      "name": "CRE（yamory）",
+      "description": "脆弱性管理クラウドyamoryのCRE（Customer Reliability Engineer）。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/assured/jobs/10000008"
+    },
+    {
+      "name": "ソリューションアーキテクト（yamory）",
+      "description": "脆弱性管理クラウドyamoryのソリューションアーキテクト。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/assured/jobs/10000025"
+    },
+    {
+      "name": "社内ネットワークエンジニア・ネットワーク企画推進",
+      "description": "ビジョナル社の社内ネットワークエンジニア。",
+      "techstack": ["Network"],
+      "link": "https://hrmos.co/pages/visional/jobs/2070775774525681849"
+    },
+    {
+      "name": "R&D テックリード（ビズリーチ）",
+      "description": "ビズリーチサービスのR&Dテックリード。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083644"
+    },
+    {
+      "name": "プロダクトエンジニア（Assured）",
+      "description": "クラウドセキュリティ評価サービスAssuredのプロダクトエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/assured/jobs/00000084"
+    },
+    {
+      "name": "QAエンジニア（Assured）",
+      "description": "クラウドセキュリティ評価サービスAssuredのQAエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/assured/jobs/00000089"
+    },
+    {
+      "name": "SRE（Assured）",
+      "description": "クラウドセキュリティ評価サービスAssuredのSRE。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/assured/jobs/000000841"
+    }
+  ]
+}

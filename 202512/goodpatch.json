@@ -1,0 +1,48 @@
+{
+  "company_name_en": "Goodpatch",
+  "company_name_ja": "グッドパッチ",
+  "positions": [
+    {
+      "name": "【Layermate】フルスタックエンジニア",
+      "description": "AIプロダクト「Layermate」のフルスタックエンジニア。",
+      "techstack": ["AI"],
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/Layermate_engineer"
+    },
+    {
+      "name": "【Layermate/業務委託】フルスタックエンジニア",
+      "description": "AIプロダクト「Layermate」のフルスタックエンジニア（業務委託）。",
+      "techstack": ["AI"],
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/Layermate_engineer_os"
+    },
+    {
+      "name": "【Layermate/業務委託】AIプロダクトエンジニア",
+      "description": "AIプロダクト「Layermate」のAIエンジニア（業務委託）。",
+      "techstack": ["AI"],
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/Layermate_ai_engineer"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "description": "デザインディビジョン所属。クライアントの課題をコンセプトメイキングから開発まで一貫してサポート。",
+      "techstack": ["Frontend"],
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/0000005"
+    },
+    {
+      "name": "リードエンジニア",
+      "description": "デザインディビジョン所属。エンジニアチームのリード。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/leadengineer"
+    },
+    {
+      "name": "【Strap】フルスタックエンジニア",
+      "description": "オンラインホワイトボードツール「Strap」のフルスタックエンジニア。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/strap_FullStackEngineer"
+    },
+    {
+      "name": "【HRmony AI】フルスタックエンジニア",
+      "description": "HRコンサルティングAIサービス「HRmony AI」のフルスタックエンジニア。社長室所属。",
+      "techstack": ["AI"],
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/2075761214295924775"
+    }
+  ]
+}

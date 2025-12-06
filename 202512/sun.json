@@ -1,0 +1,114 @@
+{
+  "company_name_en": "Sun*",
+  "company_name_ja": "Sun*（サンアスタリスク）",
+  "positions": [
+    {
+      "name": "データエンジニア",
+      "description": "パブリッククラウド環境でのデータウェアハウス構築を担うデータエンジニア。",
+      "techstack": ["AWS", "GCP", "Azure"],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/751bdef8-b338-47a9-a7f4-9d55a735b957"
+    },
+    {
+      "name": "プロダクトエンジニア",
+      "description": "ビジネスデザイナーやUI/UXデザイナーと協働し、サービス・プロダクトの技術戦略策定やプロトタイプ開発をリード。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/7d2b7115-c073-4f50-9f07-46ffb6835ea9"
+    },
+    {
+      "name": "ソリューションアーキテクト",
+      "description": "サービスデザインから開発まで、0→1ベースでの開発や大手企業のシステム開発支援、PoCプロジェクトへの参画。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/1f65025d-0fd6-403f-a2bb-7468ce608f75"
+    },
+    {
+      "name": "Backend Engineer",
+      "description": "新サービスのプロトタイプ作成、技術選定、システム設計、アジャイルでのバックエンド開発。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/86262e21-ed8d-4c89-884e-9e93b66f17da"
+    },
+    {
+      "name": "Data Business Architect (Data/AI)",
+      "description": "Data/AI領域における顧客のビジネス課題および技術特性をふまえた企画や提案支援、プロジェクトデリバリーの支援。",
+      "techstack": ["AI", "Data"],
+      "link": "https://open.talentio.com/r/1/c/sun-asterisk_career/pages/89410"
+    },
+    {
+      "name": "Data Software Engineer (Data/AI)",
+      "description": "各種AIを中心としたサービスの設計やデータ分析基盤構築などData/AI領域のプロジェクトにおけるシステム開発。",
+      "techstack": ["AI", "Data"],
+      "link": "https://open.talentio.com/r/1/c/sun-asterisk_career/pages/89415"
+    },
+    {
+      "name": "AIソリューションアーキテクト (Data/AI)",
+      "description": "データおよびAI領域のプロジェクトにおけるプリセールスからシステム導入支援まで。",
+      "techstack": ["AI", "Data"],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/341bb4f6-6530-4292-8578-f6d1e9a08076"
+    },
+    {
+      "name": "System Architect",
+      "description": "複雑度の高いシステムにおける要件定義、システム設計、データベース設計および外部連携設計、PMの技術的サポート。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/6eb25dc4-0797-43f3-852a-6ec73cb57aea"
+    },
+    {
+      "name": "Cloud Architect (Infrastructure Engineer)",
+      "description": "AWS, Azure, GCPなどのクラウドサービス、マイクロサービス、サーバーレス、DevOpsなどのインフラ設計・構築、IaC実装。",
+      "techstack": ["AWS", "Azure", "GCP", "DevOps", "IaC"],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/ce26016a-0436-477b-a767-b3dcc0e5af12"
+    },
+    {
+      "name": "Engineer オープンポジション",
+      "description": "エンジニアとしての様々な開発経験を活かし、プロトタイプ作成や技術選定、システム設計、開発を担当。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/f4be585b-8666-416a-a6a5-97a4df3d7de6"
+    },
+    {
+      "name": "モバイルアプリエンジニア",
+      "description": "スマートデバイス向けアプリの設計、Swift, Kotlinでの開発。プロトタイプ作成や技術選定も担当。",
+      "techstack": ["iOS", "Android", "Swift", "Kotlin"],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/735dd277-54f4-4ed8-97eb-a3738683df6b"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "description": "新サービスのプロトタイプ作成、技術選定、システム設計、アジャイルでのフロントエンド開発。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/edeff12a-a63d-4342-957e-2aa36f6adad9"
+    },
+    {
+      "name": "プロジェクトマネージャーを目指すシステムエンジニア",
+      "description": "グローバルなエンジニアチームをはじめSun*の多様な職種のメンバーを束ね、プロジェクトを推進。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/0c76ef46-00a1-4f67-9dcf-3eb51dd80f58"
+    },
+    {
+      "name": "プロジェクトマネージャー(リーディングプレイヤー)",
+      "description": "グローバルなエンジニアチームをはじめSun*の多様な職種のメンバーを束ね、プロジェクトを推進。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/db7d0968-3cf7-48dc-892a-37f75dc70b84"
+    },
+    {
+      "name": "プロジェクトマネージャー(プロフェッショナル)",
+      "description": "グローバルなエンジニアチームをはじめSun*の多様な職種のメンバーを束ね、プロジェクトを推進。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/6e0fbcd3-1b00-48da-a2d6-4468f37971c8"
+    },
+    {
+      "name": "プロジェクトマネージャー(エグゼクティブ)",
+      "description": "グローバルなエンジニアチームをはじめSun*の多様な職種のメンバーを束ね、プロジェクトを推進。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/3435ebb2-dadb-42d2-a406-7eb2187121bf"
+    },
+    {
+      "name": "UI/UX specialist",
+      "description": "プロダクト開発におけるPoC、MVPの策定といった上流のデザインワーク・コンセプトワークからデザインの実装まで。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/c46945b8-b3dc-4890-adc5-4e63af4be28f"
+    },
+    {
+      "name": "UX Designer",
+      "description": "プロダクト開発におけるPoC、MVPの策定といった上流のデザインワーク・コンセプトワークをUXスペシャリストとして担当。",
+      "techstack": [],
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/207052bf-32d2-49ef-9f52-fe5efcae98bc"
+    }
+  ]
+}

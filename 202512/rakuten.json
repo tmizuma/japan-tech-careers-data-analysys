@@ -1,0 +1,120 @@
+{
+  "company_name_en": "Rakuten Group",
+  "company_name_ja": "楽天グループ株式会社",
+  "positions": [
+    {
+      "name": "Software Engineer - Measurement & Insight Section, Analytics Data Engineering Department",
+      "description": "アナリティクスデータエンジニアリング部門でのソフトウェアエンジニア。東京勤務。",
+      "techstack": ["Analytics", "Data Engineering", "Software Development"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Software-Engineer---Ad---Science-Product-Section--Analytics-Data-Engineering-Department--ADED-_1026275-10"
+    },
+    {
+      "name": "Senior Backend Software Engineer - Search Department",
+      "description": "検索部門のシニアバックエンドソフトウェアエンジニア。東京勤務。",
+      "techstack": ["Backend", "Search", "Software Development"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Senior-Backend-Software-Engineer---Search-Department--SED-_1025559-8"
+    },
+    {
+      "name": "Data Science Engineer - Search Department",
+      "description": "検索部門のデータサイエンスエンジニア。東京勤務。",
+      "techstack": ["Data Science", "Machine Learning", "Search"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Data-Science-Engineer---Search-Department--SED-_1027139-31"
+    },
+    {
+      "name": "Platform Engineer, DevOps - AI Lab",
+      "description": "AIラボのDevOpsプラットフォームエンジニア。東京勤務。",
+      "techstack": ["DevOps", "Platform Engineering", "AI", "Cloud"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Platform-Engineer--DevOps---AI-Lab--AILAB-_1029009-149"
+    },
+    {
+      "name": "Machine Learning Engineer - Frontier Research Department",
+      "description": "フロンティアリサーチ部門の機械学習エンジニア。東京勤務。",
+      "techstack": ["Machine Learning", "Deep Learning", "Python", "AI"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Machine-Learning-Engineer--Search---Recommendation---Machine-Learning---Deep-Learning-Engineering-Department--MDE-_1025555"
+    },
+    {
+      "name": "Cloud Engineer - Recommendation Department, AI & Data Division",
+      "description": "AI＆データ部門レコメンデーション課のクラウドエンジニア。東京勤務。",
+      "techstack": ["Cloud", "AWS", "GCP", "Recommendation Systems"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Cloud-Engineer---Recommendation-Department--AI---Data-Division_1028229-13"
+    },
+    {
+      "name": "JavaScript SDK Engineer - Analytics & Metrics Department",
+      "description": "アナリティクス＆メトリクス部門のJavaScript SDKエンジニア。東京勤務。",
+      "techstack": ["JavaScript", "SDK Development", "Analytics"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/JavaScript-SDK-Engineer---Analytics---Metrics-Department--AMD-_1029380-151"
+    },
+    {
+      "name": "Backend Engineer - AI for Business Department",
+      "description": "AI for Business部門のバックエンドエンジニア。東京勤務。",
+      "techstack": ["Backend", "AI", "Java", "Python"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Backend-Engineer---AI-for-Business-Department--AI4B-_1029348-62"
+    },
+    {
+      "name": "Front-End Engineer - Cloud Management Department",
+      "description": "クラウドマネジメント部門のフロントエンドエンジニア。東京勤務。",
+      "techstack": ["Frontend", "JavaScript", "React", "TypeScript"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Front-End-Engineer---Cloud-Management-Department--CMD-_1029929-154"
+    },
+    {
+      "name": "Senior Backend Application Engineer - Leisure Product Department",
+      "description": "レジャープロダクト部門のシニアバックエンドアプリケーションエンジニア。東京勤務。",
+      "techstack": ["Backend", "Java", "Spring", "Microservices"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Senior-Backend-Application-Engineer---Leisure-Product-Department--LPD-_1026975-106"
+    },
+    {
+      "name": "Full Stack Software Engineer - Agent Experience Department",
+      "description": "エージェントエクスペリエンス部門のフルスタックソフトウェアエンジニア。東京勤務。",
+      "techstack": ["Full Stack", "JavaScript", "Node.js", "React"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Full-Stack-Software-Engineer---Agent-Experience-Department--AGEX-_1027372-37"
+    },
+    {
+      "name": "Cloud Infrastructure Engineer - AI for Business Department",
+      "description": "AI for Business部門のクラウドインフラエンジニア。東京勤務。",
+      "techstack": ["Cloud Infrastructure", "AWS", "Kubernetes", "Docker"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Cloud-Infrastructure-Engineer---AI-for-Business-Department--AI4B-_1029352-151"
+    },
+    {
+      "name": "DevOps Engineer, DPaaS Group - Data Platform Department",
+      "description": "データプラットフォーム部門DPaaSグループのDevOpsエンジニア。東京勤務。",
+      "techstack": ["DevOps", "CI/CD", "Kubernetes", "Cloud"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/XMLNAME--HC--DevOps-Engineer--DPaaS-Group---Data-Platform-Department--DPD-_1029405-152"
+    },
+    {
+      "name": "Data Engineer, Data Solution Group - Data Knowledge Department",
+      "description": "データナレッジ部門データソリューショングループのデータエンジニア。東京勤務。",
+      "techstack": ["Data Engineering", "Big Data", "Spark", "Python"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Data-Engineer--Data-Solution-Group---Catalog-Management-Department--AI---Data-Division_1027646-116"
+    },
+    {
+      "name": "Senior Site Reliability Engineer, Search Platform - Search Department",
+      "description": "検索部門サーチプラットフォームのシニアSRE。東京勤務。",
+      "techstack": ["SRE", "Kubernetes", "Linux", "Cloud"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Senior-Site-Reliability-Engineer--Search-Platform---Search-Department--SED-_1029048-33"
+    },
+    {
+      "name": "QA Engineer - Analytics & Metrics Department",
+      "description": "アナリティクス＆メトリクス部門のQAエンジニア。東京勤務。",
+      "techstack": ["QA", "Test Automation", "Quality Assurance"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/QA-Engineer---Analytics---Metrics-Department--AMD-_1029423-152"
+    },
+    {
+      "name": "Senior Manager, Engineering - Incentive Platform Department",
+      "description": "インセンティブプラットフォーム部門のエンジニアリングシニアマネージャー。東京勤務。",
+      "techstack": ["Engineering Management", "Platform Engineering", "Leadership"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Senior-Manager---Incentive-Platform-Department--INPD-_1021161"
+    },
+    {
+      "name": "AI・Embeddedデバイス ソリューションエンジニアリング（リーダー）",
+      "description": "グループセールスディビジョン エンタープライズソリューションビジネス部のAI・Embeddedデバイスソリューションエンジニアリングリーダー。東京勤務。",
+      "techstack": ["AI", "Embedded Systems", "Solution Engineering"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Translatable-Text----AI-Embedded----GSD-_1028324-92"
+    },
+    {
+      "name": "ソリューションエンジニア（メンバーまたはリーダー）",
+      "description": "エンタープライズソリューションビジネス部のソリューションエンジニア。東京勤務。",
+      "techstack": ["Solution Engineering", "Pre-sales", "Technical Consulting"],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/ja-JP/RakutenInc/job/Tokyo-Japan/Pre-sales---Corporate-Network-Business-Supervisory-Department_1021458-2"
+    }
+  ]
+}

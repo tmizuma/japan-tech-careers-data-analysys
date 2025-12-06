@@ -1,0 +1,60 @@
+{
+  "company_name_en": "SODA inc.",
+  "company_name_ja": "株式会社SODA",
+  "positions": [
+    {
+      "name": "エンジニアリングマネージャー",
+      "description": "スニーカー・トレカフリマアプリ「スニダン」の開発チームマネジメント。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115257"
+    },
+    {
+      "name": "モバイルアプリエンジニア",
+      "description": "スニダンのモバイルアプリ開発。",
+      "techstack": ["Mobile", "iOS", "Android"],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/108487"
+    },
+    {
+      "name": "Webフロントエンドエンジニア",
+      "description": "スニダンのWebフロントエンド開発。",
+      "techstack": ["TypeScript", "Vue.js", "Nuxt.js", "React.js", "Next.js"],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115247"
+    },
+    {
+      "name": "SRE",
+      "description": "スニダンのインフラ・信頼性エンジニアリング。",
+      "techstack": ["AWS", "GCP", "Kubernetes"],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/108489"
+    },
+    {
+      "name": "Webバックエンドエンジニア",
+      "description": "スニダンのバックエンド開発。Golang、Kotlin、Java等を使用。",
+      "techstack": ["Golang", "Kotlin", "Java", "MongoDB", "MySQL", "Redis", "Elasticsearch"],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115243"
+    },
+    {
+      "name": "クオリティエンジニア",
+      "description": "スニダンの品質保証エンジニアリング。",
+      "techstack": ["QA", "Testing"],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115253"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "description": "スニダンの機械学習エンジニアリング。",
+      "techstack": ["Machine Learning", "AI"],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115255"
+    },
+    {
+      "name": "プロダクトセキュリティエンジニア",
+      "description": "スニダンのプロダクトセキュリティ。",
+      "techstack": ["Security"],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/99755"
+    },
+    {
+      "name": "コーポレートセキュリティリーダー",
+      "description": "SODAの企業セキュリティリーダー。",
+      "techstack": ["Security"],
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/100740"
+    }
+  ]
+}

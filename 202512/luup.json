@@ -1,0 +1,66 @@
+{
+  "company_name_en": "Luup",
+  "company_name_ja": "ループ",
+  "positions": [
+    {
+      "name": "Androidエンジニア",
+      "description": "LUUP Androidアプリの設計・実装。プロダクトマネジメント、データ分析の部門と連携しながらサービスを開発。",
+      "techstack": ["Android", "Kotlin", "Jetpack Compose", "MVVM"],
+      "link": "https://herp.careers/v1/luup/mKUfln_h7ynP"
+    },
+    {
+      "name": "iOSエンジニア",
+      "description": "LUUP iOSアプリの設計・実装。サーバサイド・IoTチームとの協業を通じたシステムのつなぎ込み。",
+      "techstack": ["iOS", "Swift"],
+      "link": "https://herp.careers/v1/luup/tL7k0mlByI3t"
+    },
+    {
+      "name": "IoTバックエンドエンジニア",
+      "description": "車両に搭載されているスマートロックなどのIoTデバイスへの通信を管理するバックエンドの開発・運用。",
+      "techstack": ["TypeScript", "Go", "Python", "GCP", "AWS", "IoT"],
+      "link": "https://herp.careers/v1/luup/QSs3nF1tkmdW"
+    },
+    {
+      "name": "Webフロントエンジニア",
+      "description": "管理画面アプリケーションや重要なWebアプリケーションの開発。Vue.js, Nuxt3を使用。",
+      "techstack": ["TypeScript", "Vue.js", "Nuxt3", "GCP", "Firebase"],
+      "link": "https://herp.careers/v1/luup/fVTNUOj03QkQ"
+    },
+    {
+      "name": "シニアインフラエンジニア（SRE）",
+      "description": "LUUPサービスの安定性向上、SLOの運用、障害検知のためのモニタリング整備、パフォーマンス改善。",
+      "techstack": ["GCP", "Firebase", "Kubernetes"],
+      "link": "https://herp.careers/v1/luup/iT17p2Q7jLjD"
+    },
+    {
+      "name": "バックエンドエンジニア（ユーザー向けアプリ）",
+      "description": "ユーザー向けモバイルアプリケーション向けの機能開発。アプリ向けAPIの開発。",
+      "techstack": ["TypeScript", "GCP", "Cloud Functions", "Firestore"],
+      "link": "https://herp.careers/v1/luup/xxozgchBPutp"
+    },
+    {
+      "name": "バックエンドエンジニア（業務オペレーション向けシステム）",
+      "description": "運営を支えるバックオペレーション向けシステムのバックエンド開発。",
+      "techstack": ["TypeScript", "GCP", "Cloud Functions", "Firestore"],
+      "link": "https://herp.careers/v1/luup/s6AI_b1Bk-z4"
+    },
+    {
+      "name": "デザイナー/PM",
+      "description": "LUUPサービスのデザイン・プロダクトマネジメント。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/luup/requisition-groups/8e1a8662-93f4-453c-8d93-c993fa6a7388"
+    },
+    {
+      "name": "データエンジニア/アナリスト",
+      "description": "LUUPサービスのデータ分析基盤構築・運用。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/luup/requisition-groups/7e6ac33f-c7f6-4309-92ab-fd0eab740b12"
+    },
+    {
+      "name": "ハードウェアエンジニア",
+      "description": "電動マイクロモビリティのハードウェア開発。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/luup/requisition-groups/a9d98508-09ba-49e3-bb92-702138c48e54"
+    }
+  ]
+}

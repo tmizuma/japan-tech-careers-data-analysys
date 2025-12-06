@@ -1,0 +1,126 @@
+{
+  "company_name_en": "Fusic",
+  "company_name_ja": "フュージック",
+  "positions": [
+    {
+      "name": "【特別選考】Webエンジニア（コーディングテスト）",
+      "description": "キャリア採用。コーディングテストによる特別選考枠。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/50"
+    },
+    {
+      "name": "Webエンジニア(エンジニア経験者）",
+      "description": "キャリア採用。エンジニア経験者向けWebエンジニア職。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/4"
+    },
+    {
+      "name": "Webエンジニア（TypeScript/React経験者）",
+      "description": "キャリア採用。TypeScriptとReact経験者向け。",
+      "techstack": ["TypeScript", "React"],
+      "link": "https://fusic.co.jp/recruit/positions/35"
+    },
+    {
+      "name": "Webエンジニア(業務未経験）",
+      "description": "キャリア採用。業務未経験者向けWebエンジニア職。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/6"
+    },
+    {
+      "name": "IoTクラウドエンジニア",
+      "description": "キャリア採用。IoTとクラウド技術を活用した開発。",
+      "techstack": ["IoT", "AWS"],
+      "link": "https://fusic.co.jp/recruit/positions/26"
+    },
+    {
+      "name": "アナリティクスエンジニア",
+      "description": "キャリア採用。データ分析基盤の構築・運用。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/57"
+    },
+    {
+      "name": "クラウドエンジニア",
+      "description": "キャリア採用。AWSを中心としたクラウドインフラの設計・構築。",
+      "techstack": ["AWS"],
+      "link": "https://fusic.co.jp/recruit/positions/7"
+    },
+    {
+      "name": "テストエンジニア(テスト実行担当）",
+      "description": "キャリア採用。テスト実行を担当するQAエンジニア。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/8"
+    },
+    {
+      "name": "テストエンジニア(プロジェクトマネジメント担当）",
+      "description": "キャリア採用。テストプロジェクトのマネジメント。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/34"
+    },
+    {
+      "name": "シニアプロジェクトマネージャー",
+      "description": "キャリア採用。シニアレベルのプロジェクトマネジメント。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/47"
+    },
+    {
+      "name": "プロジェクトマネージャー",
+      "description": "キャリア採用。Web開発プロジェクトのマネジメント。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/46"
+    },
+    {
+      "name": "【特別選考】プロダクトエンジニア（sigfy 学校連絡サービス）",
+      "description": "キャリア採用。コーディングテストによる特別選考。自社プロダクト開発。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/51"
+    },
+    {
+      "name": "プロダクトエンジニア sigfy（学校連絡サービス）",
+      "description": "キャリア採用。学校連絡サービスsigfyのプロダクト開発。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/52"
+    },
+    {
+      "name": "プロダクトエンジニア 360（360度フィードバックツール）",
+      "description": "キャリア採用。360度フィードバックツールのプロダクト開発。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/59"
+    },
+    {
+      "name": "宇宙クラウドエンジニア（宇宙業界経験者）",
+      "description": "キャリア採用。宇宙業界向けクラウドシステム開発。経験者向け。",
+      "techstack": ["AWS"],
+      "link": "https://fusic.co.jp/recruit/positions/55"
+    },
+    {
+      "name": "宇宙クラウドエンジニア（宇宙業界未経験者）",
+      "description": "キャリア採用。宇宙業界向けクラウドシステム開発。未経験者可。",
+      "techstack": ["AWS"],
+      "link": "https://fusic.co.jp/recruit/positions/56"
+    },
+    {
+      "name": "Webエンジニア（新卒）",
+      "description": "新卒採用。Webシステム開発。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/14"
+    },
+    {
+      "name": "機械学習モデル運用エンジニア（MLOpsエンジニア）",
+      "description": "新卒採用。機械学習モデルの運用・MLOps。",
+      "techstack": ["Machine Learning", "MLOps"],
+      "link": "https://fusic.co.jp/recruit/positions/32"
+    },
+    {
+      "name": "IoTクラウドエンジニア（新卒）",
+      "description": "新卒採用。IoTとクラウド技術を活用した開発。",
+      "techstack": ["IoT", "AWS"],
+      "link": "https://fusic.co.jp/recruit/positions/16"
+    },
+    {
+      "name": "テストエンジニア（新卒）",
+      "description": "新卒採用。テストエンジニア。",
+      "techstack": [],
+      "link": "https://fusic.co.jp/recruit/positions/17"
+    }
+  ]
+}

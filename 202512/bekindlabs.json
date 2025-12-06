@@ -1,0 +1,12 @@
+{
+  "company_name_en": "Bekind Labs",
+  "company_name_ja": "ビーカインド・ラボ",
+  "positions": [
+    {
+      "name": "Software Engineer",
+      "description": "Balanced Team、Lean Startup、XP（エクストリームプログラミング）を実践するチームでのフルスタック開発。ペアプログラミング、TDD、クライアントとの協働。",
+      "techstack": ["Kotlin", "TypeScript", "Go", "Python", "Ruby", "Full-stack", "TDD", "XP"],
+      "link": "https://elfin-grin-868.notion.site/English-Software-Engineer-259d463d15ed801d8ee4ebe888061bb0"
+    }
+  ]
+}

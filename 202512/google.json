@@ -1,0 +1,84 @@
+{
+  "company_name_en": "Google Japan",
+  "company_name_ja": "グーグル合同会社",
+  "positions": [
+    {
+      "name": "データセンター施設エンジニア、機械設備（英語、日本語）",
+      "description": "産業施設の暖房換気空調システムおよび機械システムの運用、保守、トラブルシューティング。千葉県印西市勤務。",
+      "techstack": ["HVAC", "Mechanical Systems", "Data Center"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/119432376991261382"
+    },
+    {
+      "name": "アソシエイト カスタマー エンジニア、障がい者向け gReach プログラム（日本語）",
+      "description": "パブリッククラウドプラットフォーム、ビッグデータ、PaaS、SaaS、IaaSなどの技術概念を扱う。東京勤務。",
+      "techstack": ["Cloud", "BigData", "PaaS", "SaaS", "IaaS"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/131956273322042054-greach"
+    },
+    {
+      "name": "ソフトウェア エンジニア、Android コア ネットワーキング",
+      "description": "Java、Kotlin、Rust、C++などでAndroidネットワーキングプロトコルの開発。東京勤務。",
+      "techstack": ["Java", "Kotlin", "Rust", "C++", "Android", "Networking"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/135433237252973254-android"
+    },
+    {
+      "name": "シニア ソフトウェア エンジニア、Android コア ネットワーキング",
+      "description": "Python、C、C++、Java、JavaScriptでのソフトウェア開発5年以上、HTTP/RPCクライアントライブラリ経験5年以上。東京勤務。",
+      "techstack": ["Python", "C", "C++", "Java", "JavaScript", "Android", "HTTP", "RPC"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/85083610519872198-android"
+    },
+    {
+      "name": "データセンター施設エンジニア、制御（日本語）",
+      "description": "産業施設の制御システム（自動化PLC含む）の開発、運用、保守、トラブルシューティング。千葉県印西市勤務。",
+      "techstack": ["PLC", "Control Systems", "Automation", "Data Center"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96360332770845382"
+    },
+    {
+      "name": "ソリューション エンジニア、ミッション クリティカル サービス、ストレージ、Google Cloud",
+      "description": "Java、C、C++、Python、Go、JavaScriptでのコーディング経験、分散システム経験。東京勤務。",
+      "techstack": ["Java", "C", "C++", "Python", "Go", "JavaScript", "Distributed Systems", "Google Cloud"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140902195204629190-google-cloud"
+    },
+    {
+      "name": "ソフトウェア エンジニアリング アソシエイト、障がい者向け gReach プログラム（日本語）",
+      "description": "Python、C、C++、Java、JavaScriptなどでのソフトウェア開発経験。東京勤務。",
+      "techstack": ["Python", "C", "C++", "Java", "JavaScript"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/95310282657538758-greach"
+    },
+    {
+      "name": "ソリューション エンジニア、ミッション クリティカル サービス、コンピューティング、Google Cloud",
+      "description": "Java、C、C++、Python、Go、JavaScriptでのデバッグとコーディング経験、分散システム経験。東京勤務。",
+      "techstack": ["Java", "C", "C++", "Python", "Go", "JavaScript", "Distributed Systems", "Google Cloud"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/132463615260140230-google-cloud"
+    },
+    {
+      "name": "シニア ソフトウェア エンジニア、生成 AI、Google Cloud AI",
+      "description": "Python、Java、C++でのソフトウェア開発5年以上、機械学習アルゴリズム（TensorFlow等）5年以上、英語・日本語必須。東京勤務。",
+      "techstack": ["Python", "Java", "C++", "TensorFlow", "Machine Learning", "AI", "Deep Learning", "NLP", "Google Cloud"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/142144342696305350-aigoogle-cloud-ai"
+    },
+    {
+      "name": "トップ カスタマー ソリューション エンジニア、データ分析、Google Cloud",
+      "description": "Java、C、C++、Python、Goでのコーディング経験、技術トラブルシューティング6年以上。東京勤務。",
+      "techstack": ["Java", "C", "C++", "Python", "Go", "Data Analytics", "Google Cloud"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/91195080546624198-google-cloud"
+    },
+    {
+      "name": "トップ カスタマー ソリューション エンジニア、ネットワーキング、Google Cloud",
+      "description": "Java、C、C++、Python、Goでのコーディング経験、分散システム・Web技術経験。東京勤務。",
+      "techstack": ["Java", "C", "C++", "Python", "Go", "Networking", "HTTP", "DNS", "TCP", "Google Cloud"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/117926407241114310-google-cloud"
+    },
+    {
+      "name": "広告ソリューション アーキテクト、gTech プロフェッショナル サービス（日本語、英語）",
+      "description": "HTML、CSS、JavaScriptでのプログラミング5年以上、英語・日本語必須。東京勤務。",
+      "techstack": ["HTML", "CSS", "JavaScript", "Advertising"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/106070103849607878-gtech"
+    },
+    {
+      "name": "カスタマー ソリューション エンジニア、ハイタッチ サポート、GKE、コンピューティング",
+      "description": "Java、C、C++、Python、Shell、Go、JavaScriptでのコーディング経験、仮想化・オーケストレーション経験。東京勤務。",
+      "techstack": ["Java", "C", "C++", "Python", "Shell", "Go", "JavaScript", "GKE", "Kubernetes", "Linux"],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/109209479056106182-gke"
+    }
+  ]
+}

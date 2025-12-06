@@ -1,0 +1,372 @@
+{
+  "company_name_en": "Classmethod",
+  "company_name_ja": "クラスメソッド",
+  "positions": [
+    {
+      "name": "AWSエンジニア（ジュニア）",
+      "description": "インフラエンジニア。AWSを活用したソリューション開発。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/aws-solution-engineer/"
+    },
+    {
+      "name": "AWSソリューションアーキテクト",
+      "description": "インフラエンジニア。AWSソリューションの設計・構築。急募。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/aws-solution-architect/"
+    },
+    {
+      "name": "AWSソリューションアーキテクト（ゲーム業界）",
+      "description": "インフラエンジニア。ゲーム業界向けAWSソリューション開発。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/game-development/"
+    },
+    {
+      "name": "SREエンジニア(運用案件リーダー)",
+      "description": "インフラエンジニア。AWS運用案件のリーダー。新着。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/aws-operations-sre/"
+    },
+    {
+      "name": "AWS運用エンジニア",
+      "description": "インフラエンジニア。AWSインフラの運用・保守。新着。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/aws-operations-engineer/"
+    },
+    {
+      "name": "Google Cloud ソリューションアーキテクト",
+      "description": "インフラエンジニア。Google Cloudソリューションの設計・構築。急募。",
+      "techstack": ["Google Cloud"],
+      "link": "https://careers.classmethod.jp/requirements/google-cloud-customer-engineer/"
+    },
+    {
+      "name": "データ分析基盤構築エンジニア（自社サービス）",
+      "description": "インフラエンジニア。自社サービス向けデータ分析基盤の構築。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/da-cloud-infrastructure-engineer/"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "description": "インフラエンジニア。AWSセキュリティソリューションの設計・構築。急募。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/aws-solution-architect-security/"
+    },
+    {
+      "name": "マルチクラウドインフラエンジニア",
+      "description": "インフラエンジニア。クラスメソッドテクノロジーズ配属。新着。",
+      "techstack": ["AWS", "Azure", "Google Cloud"],
+      "link": "https://careers.classmethod.jp/requirements/infra-engineer/"
+    },
+    {
+      "name": "クラウドエンジニア（シニア）",
+      "description": "インフラエンジニア。クラスメソッドテクノロジーズ配属。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/senior-cloud-engineer/"
+    },
+    {
+      "name": "Azureエンジニア",
+      "description": "インフラエンジニア。クラスメソッドテクノロジーズ配属。新着。",
+      "techstack": ["Azure"],
+      "link": "https://careers.classmethod.jp/requirements/azure-engineer-cmtech/"
+    },
+    {
+      "name": "BIエンジニア",
+      "description": "開発エンジニア。BIツールを活用したデータ分析・可視化。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/bi-engineer/"
+    },
+    {
+      "name": "データアナリスト",
+      "description": "開発エンジニア。データ分析業務。急募。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/data-analyst/"
+    },
+    {
+      "name": "テクニカルリードエンジニア（リテールアプリ共創部エンハンスメントチーム）",
+      "description": "開発エンジニア。リテールアプリ開発のテクニカルリード。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/enhance-technical-lead-engineer/"
+    },
+    {
+      "name": "テクニカルリードエンジニア（リテールアプリ共創部マッハチーム）",
+      "description": "開発エンジニア。リテールアプリ開発のテクニカルリード。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/mach-technical-lead-engineer/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（クラウドネイティブ開発）",
+      "description": "開発エンジニア。クラウドネイティブなサーバーサイド開発。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/serverside-application-cloud-native/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（製造Tech領域）",
+      "description": "開発エンジニア。製造業向けサーバーサイド開発。急募。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/cx-mbt-serverside-engineer/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（生成AI領域）",
+      "description": "開発エンジニア。生成AI関連のサーバーサイド開発。新着・急募。",
+      "techstack": ["AI"],
+      "link": "https://careers.classmethod.jp/requirements/serverside-generative-ai/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（Rust / スターバックス案件）",
+      "description": "開発エンジニア。Rustを使用したスターバックス向け開発。新着・急募。",
+      "techstack": ["Rust"],
+      "link": "https://careers.classmethod.jp/requirements/sbj-serverside-rust/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（Scala / スターバックス案件）",
+      "description": "開発エンジニア。Scalaを使用したスターバックス向け開発。新着・急募。",
+      "techstack": ["Scala"],
+      "link": "https://careers.classmethod.jp/requirements/sbj-serverside-scala/"
+    },
+    {
+      "name": "テクニカルリードエンジニア（製造Tech領域）",
+      "description": "開発エンジニア。製造業向け開発のテクニカルリード。新着・急募。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/technical-lead-engineer/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（リテールアプリ共創部マッハチーム）",
+      "description": "開発エンジニア。リテールアプリ向けサーバーサイド開発。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/mach-serverside-enginner/"
+    },
+    {
+      "name": "フロントエンドエンジニア（製造Tech領域）",
+      "description": "開発エンジニア。製造業向けフロントエンド開発。急募。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/cx-mbt-frontend-engineer/"
+    },
+    {
+      "name": "フロントエンドエンジニア（リテールアプリ共創部マッハチーム）",
+      "description": "開発エンジニア。リテールアプリ向けフロントエンド開発。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/mach-frontend-enginner/"
+    },
+    {
+      "name": "Webフロントエンジニア（TypeScript / スターバックス案件）",
+      "description": "開発エンジニア。TypeScriptを使用したスターバックス向けWeb開発。新着。",
+      "techstack": ["TypeScript", "React"],
+      "link": "https://careers.classmethod.jp/requirements/sbj-webapp-react/"
+    },
+    {
+      "name": "iOS/Androidリードエンジニア候補（製造Tech領域）",
+      "description": "開発エンジニア。製造業向けモバイルアプリ開発のリード候補。新着。",
+      "techstack": ["iOS", "Android"],
+      "link": "https://careers.classmethod.jp/requirements/mbt-mobile-lead-engineer/"
+    },
+    {
+      "name": "iOSアプリエンジニア（Swift / スターバックス案件）",
+      "description": "開発エンジニア。Swiftを使用したスターバックス向けiOSアプリ開発。新着。",
+      "techstack": ["Swift", "iOS"],
+      "link": "https://careers.classmethod.jp/requirements/sbj-nativeapp-ios/"
+    },
+    {
+      "name": "Flutterアプリ開発エンジニア（リテールアプリ共創部）",
+      "description": "開発エンジニア。Flutterを使用したリテールアプリ開発。新着。",
+      "techstack": ["Flutter"],
+      "link": "https://careers.classmethod.jp/requirements/retail-app-flutter-engineer/"
+    },
+    {
+      "name": "プロトタイピングエンジニア（モダンアプリ開発）",
+      "description": "開発エンジニア。モダンアプリのプロトタイピング。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/prototyping-engineer/"
+    },
+    {
+      "name": "サービス開発エンジニア（AWSを活用した自社サービス）",
+      "description": "開発エンジニア。AWSを活用した自社サービス開発。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/service-developer-engineer/"
+    },
+    {
+      "name": "生成AIエンジニア（Azure）",
+      "description": "開発エンジニア。Azureを活用した生成AI開発。新着。",
+      "techstack": ["Azure", "AI"],
+      "link": "https://careers.classmethod.jp/requirements/azure-generative-ai/"
+    },
+    {
+      "name": "Webアプリ開発エンジニア（生成AI関連）※大阪採用",
+      "description": "開発エンジニア。生成AI関連のWebアプリ開発。大阪勤務。新着・急募。",
+      "techstack": ["AI"],
+      "link": "https://careers.classmethod.jp/requirements/web-engineer-generation-ai/"
+    },
+    {
+      "name": "Webアプリ開発エンジニア(生成AI関連)※福岡採用",
+      "description": "開発エンジニア。生成AI関連のWebアプリ開発。福岡勤務。新着。",
+      "techstack": ["AI"],
+      "link": "https://careers.classmethod.jp/requirements/web-engineer-generation-ai-fukuoka/"
+    },
+    {
+      "name": "【ポテンシャル枠/第二新卒歓迎】生成AIエンジニア",
+      "description": "開発エンジニア。生成AI開発。ポテンシャル採用・第二新卒歓迎。新着。",
+      "techstack": ["AI"],
+      "link": "https://careers.classmethod.jp/requirements/generation-ai-potential/"
+    },
+    {
+      "name": "開発エンジニア（データ分析事業領域オープンポジション）",
+      "description": "開発エンジニア。データ分析事業領域のオープンポジション。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/da-engineer-open-position/"
+    },
+    {
+      "name": "データ分析基盤構築エンジニア",
+      "description": "開発エンジニア。データ分析基盤の構築。急募。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/data-analysis-engineer/"
+    },
+    {
+      "name": "ソリューションアーキテクト（データ分析分野）",
+      "description": "開発エンジニア。データ分析ソリューションの設計。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/data-solution-architect/"
+    },
+    {
+      "name": "インフォマティカエンジニア",
+      "description": "開発エンジニア。Informaticaを使用したデータ統合開発。急募。",
+      "techstack": ["Informatica"],
+      "link": "https://careers.classmethod.jp/requirements/informatica-engineer/"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "description": "開発エンジニア。機械学習モデルの開発・運用。",
+      "techstack": ["Machine Learning"],
+      "link": "https://careers.classmethod.jp/requirements/machine-learning-engineer/"
+    },
+    {
+      "name": "認証・認可・ユーザー管理基盤開発エンジニア",
+      "description": "開発エンジニア。認証・認可システムの開発。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/authentication-and-authorization-platform-development/"
+    },
+    {
+      "name": "ITエンジニア（バンコク）",
+      "description": "開発エンジニア。バンコク勤務。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/it-engineer/"
+    },
+    {
+      "name": "システムエンジニア(SQL / AWS活用したデータ分析基盤の保守開発）",
+      "description": "開発エンジニア。グループ採用求人。SQLとAWSを活用したデータ分析基盤開発。",
+      "techstack": ["SQL", "AWS"],
+      "link": "https://careers.classmethod.jp/requirements/an-aws-datebase-engineer/"
+    },
+    {
+      "name": "【ポテンシャル枠】ITエンジニア",
+      "description": "開発エンジニア。ポテンシャル採用枠。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/it-engineer-2/"
+    },
+    {
+      "name": "育成前提・若手開発エンジニア",
+      "description": "開発エンジニア。育成前提の若手採用。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/young-development-engineers/"
+    },
+    {
+      "name": "プロジェクトマネージャー / リーダー（データ分析ビジネス）",
+      "description": "プロジェクトリーダー/マネージャー。データ分析ビジネス。東京採用。急募。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/data-projectmanager/"
+    },
+    {
+      "name": "プロジェクトマネージャー / リーダー（エンタープライズマイグレーション）",
+      "description": "プロジェクトリーダー/マネージャー。エンタープライズシステムのマイグレーション。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/project-manager-leader/"
+    },
+    {
+      "name": "ジュニアプロジェクトマネージャー / リーダー（データ分析ビジネス）",
+      "description": "プロジェクトリーダー/マネージャー。データ分析ビジネス。東京採用。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/data-projectmanager-junior/"
+    },
+    {
+      "name": "プロジェクトマネージャー（小売ソフトウェア開発）",
+      "description": "プロジェクトリーダー/マネージャー。小売向けソフトウェア開発。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/mach-project-manager/"
+    },
+    {
+      "name": "モバイルアプリプロジェクトマネージャー候補",
+      "description": "プロジェクトリーダー/マネージャー。モバイルアプリ開発のPM候補。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/retail-app-projectmanager-native-j/"
+    },
+    {
+      "name": "デジタル変革プロジェクトマネージャー",
+      "description": "プロジェクトリーダー/マネージャー。DXプロジェクトのマネジメント。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/dx-project-manager/"
+    },
+    {
+      "name": "prismatixソリューションアーキテクト",
+      "description": "プロジェクトリーダー/マネージャー。自社サービスEC/CRMプラットフォーム。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/prismatix-solution-architect/"
+    },
+    {
+      "name": "EC/CRM/OMS開発プロジェクトリーダー",
+      "description": "プロジェクトリーダー/マネージャー。EC/CRM/OMS開発のリーダー。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/ec-crm-oms-development-project-leader/"
+    },
+    {
+      "name": "クラウドコンサルタント",
+      "description": "システムコンサルタント。クラウドソリューションのコンサルティング。急募。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/solution-architect-enterprise/"
+    },
+    {
+      "name": "AWS運用コンサルタント",
+      "description": "システムコンサルタント。AWS運用のコンサルティング。急募。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/customer-success-engineer/"
+    },
+    {
+      "name": "モダンデータスタックアーキテクト",
+      "description": "システムコンサルタント。モダンデータスタックの設計・構築。新着。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/modern-data-stack-architect/"
+    },
+    {
+      "name": "データ分析基盤・機械学習基盤コンサルタント",
+      "description": "システムコンサルタント。データ分析・ML基盤のコンサルティング。",
+      "techstack": ["Machine Learning"],
+      "link": "https://careers.classmethod.jp/requirements/data-consulting/"
+    },
+    {
+      "name": "モダンアプリコンサルタント",
+      "description": "システムコンサルタント。AWSモダンアプリのコンサルティング。急募。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/aws-modern-application-consultant/"
+    },
+    {
+      "name": "プリセールスエンジニア",
+      "description": "システムコンサルタント。プリセールス活動の技術支援。",
+      "techstack": [],
+      "link": "https://careers.classmethod.jp/requirements/pre-sales-engineer/"
+    },
+    {
+      "name": "AWS テクニカルサポートスペシャリスト",
+      "description": "サポートエンジニア。AWSテクニカルサポート。新着・急募。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/aws-technical-support-specialist/"
+    },
+    {
+      "name": "AWS サポートエンジニア",
+      "description": "サポートエンジニア。AWSサポート業務。新着。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/aws-support-engineer/"
+    },
+    {
+      "name": "AWSテクニカルサポートエンジニア",
+      "description": "サポートエンジニア。グループ採用求人。AWSテクニカルサポート。",
+      "techstack": ["AWS"],
+      "link": "https://careers.classmethod.jp/requirements/an-aws-technical-support-engineer/"
+    }
+  ]
+}

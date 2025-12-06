@@ -1,0 +1,168 @@
+{
+  "company_name_en": "Sakura Internet",
+  "company_name_ja": "さくらインターネット",
+  "positions": [
+    {
+      "name": "ソフトウェア開発エンジニア（オープンポジション）",
+      "description": "エンジニア（オープンポジション）枠。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/349/"
+    },
+    {
+      "name": "インフラ開発エンジニア（オープンポジション）",
+      "description": "エンジニア（オープンポジション）枠。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/347/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（テクニカルオペレーション）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/614/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア(クラウドSDK)",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/563/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア(Kubernetes基盤)",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": ["Kubernetes"],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/561/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（監視プラットフォーム）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/546/"
+    },
+    {
+      "name": "認証認可/監査ログ基盤開発エンジニア (バックエンド)",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/608/"
+    },
+    {
+      "name": "リレーショナルデータベースサービス開発エンジニア（バックエンド）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。さくらのクラウド関連。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/430/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（クラウドプラットフォーム基盤開発）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/624/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（ハード・ソフト境界領域）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/388/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（次世代クラウド基盤）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/384/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（次世代クラウド基盤・オーバーレイネットワーク）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/634/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（次世代クラウド基盤・セキュリティプロダクト）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/635/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（フロントエンド）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。さくらのクラウド関連。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/275/"
+    },
+    {
+      "name": "システム開発エンジニア（販売管理システム）",
+      "description": "アプリケーションエンジニア(クラウドプラットフォーム)。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/104/"
+    },
+    {
+      "name": "インフラ開発エンジニア（クラウドプラットフォーム機材検証）",
+      "description": "インフラエンジニア（クラウドプラットフォーム）。さくらの専用サーバ、さくらのクラウド関連。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/607/"
+    },
+    {
+      "name": "インフラ開発エンジニア（生成AI向けクラウドサービス）",
+      "description": "インフラエンジニア（クラウドプラットフォーム）。高火力関連。フルリモート可。",
+      "techstack": ["GPU"],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/351/"
+    },
+    {
+      "name": "インフラ開発エンジニア（ストレージスペシャリスト）",
+      "description": "インフラエンジニア（クラウドプラットフォーム）。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/779/"
+    },
+    {
+      "name": "サーバーエンジニア(データセンター運用)",
+      "description": "インフラエンジニア（ネットワーク/サーバーエンジニア・データセンター）。東京、大阪、石狩勤務。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/793/"
+    },
+    {
+      "name": "サービスネットワークエンジニア",
+      "description": "インフラエンジニア（ネットワーク/サーバーエンジニア・データセンター）。東京、大阪、石狩勤務。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/108/"
+    },
+    {
+      "name": "バックボーンネットワークエンジニア",
+      "description": "インフラエンジニア（ネットワーク/サーバーエンジニア・データセンター）。東京、大阪、石狩勤務。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/109/"
+    },
+    {
+      "name": "インフラエンジニア（サービス運用）",
+      "description": "インフラエンジニア（ネットワーク/サーバーエンジニア・データセンター）。フルリモート可、シフト勤務。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/111/"
+    },
+    {
+      "name": "エンジニアリングマネージャ／ソフトウェア開発（クラウドプラットフォーム）",
+      "description": "エンジニアリングマネージャ。さくらの専用サーバ、さくらのクラウド関連。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/368/"
+    },
+    {
+      "name": "エンジニアリングマネージャ／インフラ開発 (クラウドプラットフォーム）",
+      "description": "エンジニアリングマネージャ。さくらの専用サーバ、高火力、さくらのクラウド関連。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/606/"
+    },
+    {
+      "name": "エンジニアリングマネジャー（AIプラットフォーム）",
+      "description": "エンジニアリングマネージャ。高火力DOK、AIプラットフォーム関連。東京、大阪勤務。",
+      "techstack": ["AI"],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/681/"
+    },
+    {
+      "name": "デザインエンジニア",
+      "description": "デザイナー職。さくらのVPS、さくらのクラウド関連。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/113/"
+    },
+    {
+      "name": "データセンター企画・設計",
+      "description": "設備管理。フルリモート可。",
+      "techstack": [],
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/419/"
+    }
+  ]
+}
