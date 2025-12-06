@@ -18,8 +18,15 @@ def load_company_data(json_dir: str) -> dict:
         with open(json_file, encoding="utf-8") as f:
             data = json.load(f)
 
+        # リスト形式のファイルはスキップ（フォーマットが異なる）
+        if not isinstance(data, dict):
+            print(f"  Warning: Skipping {json_file.name} (not a dict)")
+            continue
+
         # positionsの数を計算し、positions配列を削除
-        positions = data.pop("positions", [])
+        positions = data.get("positions", [])
+        if "positions" in data:
+            del data["positions"]
         data["num_of_positions"] = len(positions)
 
         companies[company_key] = data
@@ -27,18 +34,44 @@ def load_company_data(json_dir: str) -> dict:
     return companies
 
 
+def get_valid_sales(sales):
+    """salesの値を検証し、有効な数値を返す。無効な場合はNoneを返す"""
+    if sales is None:
+        return None
+    # 文字列の場合は数値に変換を試みる
+    if isinstance(sales, str):
+        try:
+            sales = int(sales)
+        except ValueError:
+            return None
+    # -1は不明を意味する
+    if sales == -1:
+        return None
+    return sales
+
+
 def sort_by_sales(companies: dict) -> list:
-    """salesの降順でソート"""
+    """salesの降順でソート（無効なsalesは除外）"""
+    # 有効なsalesを持つ企業のみをフィルタリング
+    valid_companies = {
+        k: v for k, v in companies.items() if get_valid_sales(v.get("sales")) is not None
+    }
+
     return sorted(
-        companies.items(),
-        key=lambda x: x[1].get("sales", -1) if x[1].get("sales", -1) != -1 else float("-inf"),
+        valid_companies.items(),
+        key=lambda x: get_valid_sales(x[1].get("sales")),
         reverse=True,
     )
 
 
 def sort_by_positions(companies: dict) -> list:
-    """num_of_positionsの降順でソート"""
-    return sorted(companies.items(), key=lambda x: x[1].get("num_of_positions", 0), reverse=True)
+    """num_of_positionsの降順でソート（0件は除外）"""
+    # position数が1以上の企業のみをフィルタリング
+    valid_companies = {k: v for k, v in companies.items() if v.get("num_of_positions", 0) > 0}
+
+    return sorted(
+        valid_companies.items(), key=lambda x: x[1].get("num_of_positions", 0), reverse=True
+    )
 
 
 def create_ranking_json(sorted_companies: list) -> dict:
@@ -48,7 +81,10 @@ def create_ranking_json(sorted_companies: list) -> dict:
 
 def main():
     json_dir = "202512"
-    output_dir = "."
+    output_dir = "current"
+
+    # 出力ディレクトリを作成
+    os.makedirs(output_dir, exist_ok=True)
 
     # JSONファイルを読み込み
     print(f"Loading JSON files from {json_dir}/...")

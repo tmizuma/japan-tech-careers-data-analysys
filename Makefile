@@ -6,4 +6,4 @@ rankings:
 
 # 生成されたランキングファイルを削除
 clean:
-	rm -f sales_ranking.json position_ranking.json
+	rm -rf current && mkdir -p current
