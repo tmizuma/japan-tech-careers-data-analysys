@@ -1,0 +1,71 @@
+# ゴール
+
+current フォルダ配下に以下の json ファイルを作成する
+
+- sales_ranking.json
+- position_ranking.json
+
+202512/ フォルダ配下に、大量の json ファイルがあります。これは、ファイル名が企業 key を示しています。
+それぞれの json は以下のようなフォーマットをしています
+
+```json
+{
+  "company_name_ja": "TBM",
+  "company_name_en": "TBM",
+  "description": "石灰石を主原料とする環境配慮型新素材「LIMEX」を開発。プラスチック・紙の代替として10000以上の企業・自治体が採用。推計企業価値1218億円の日本発ユニコーンで累計400億円超を資金調達。2024年にはCO2を回収して生成する炭酸カルシウムを使う「CR LIMEX」のプロトタイプ開発に成功。WorldStar Global Packaging Awards 2025受賞。グローバル展開と自動車内装等の高付加価値用途へ拡大中。",
+  "description_en": "Developed environmentally-friendly new material \"LIMEX\" using limestone as main ingredient. Adopted by over 10,000 companies and municipalities as plastic and paper alternative. Japan-born unicorn with estimated enterprise value of 121.8 billion yen, raising over 40 billion yen cumulatively. Successfully developed \"CR LIMEX\" prototype using calcium carbonate generated from captured CO2 in 2024. Won WorldStar Global Packaging Awards 2025. Expanding globally and into high-value applications like automotive interiors.",
+  "hiring_url": "https://tb-m.com/recruit/",
+  "num_of_employees": "300+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://logo.clearbit.com/tb-m.com",
+  "company_url": "https://tb-m.com/",
+  "positions": [
+    {
+      "name": "AIエンジニア（受託開発/プロダクト開発/LLMエンジニア）",
+      "description": "AI事業のコアメンバーとして、技術選定、アーキテクチャ設計、PoCからプロダクト実装までを一貫してリード。業務効率化ツール開発、大規模受託案件、自社SaaSプロダクト開発を担当。",
+      "techstack": [
+        "Python",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "AWS",
+        "GCP",
+        "Azure",
+        "OpenAI API",
+        "LangChain",
+        "LlamaIndex",
+        "RAG"
+      ],
+      "link": "https://hrmos.co/pages/tb-m/jobs/2182421082450927622"
+    },
+    {
+      "name": "情報システムチーム リーダー・マネージャー候補",
+      "description": "コーポレートIT部門のリーダー候補。ITインフラの構築・運用、セキュリティ強化、IPOに向けたIT統制（J-SOX）整備、社内DX推進をリード。",
+      "techstack": ["EDR", "MDM"],
+      "link": "https://hrmos.co/pages/tb-m/jobs/n_L_19_01"
+    }
+  ]
+}
+```
+
+sales_ranking.json では全部の json を合算し、以下のような json フォーマットにします。
+
+```json
+
+{
+    companies: [
+        "<企業key>": {
+            それぞれのjsonファイルと同じ内容
+            ただし、positions配列を削除し、代わりに、num_of_positions: ポジション数 (len(positions))を追加する
+        }
+    ]
+}
+```
+
+企業 key は sales の値の大きい順で並んでいる必要があります。
+
+position_ranking.json は出力フォーマットは同じで、並び替えを positions の数で並べ替えて欲しいです。
+
+これを実現するためのスクリプトとそれを呼び出す Makefile を作成してください。
+スクリプトの言語や手段は問いません。目的を達成するためのスクリプトとと、それを実行するための手順を README.md に出力してくれれば良いです。

@@ -123,4 +123,4 @@
 113. [x] aws (Amazon Web Services Japan) - https://aws.amazon.com/jp/careers/ (成功: 3 件取得)
 114. [x] google (Google Japan) - https://careers.google.com/intl/ja_jp/ (成功: 13 件取得)
 115. [x] microsoft (Microsoft Japan) - https://careers.microsoft.com/ (成功: 22 件取得)
-116. [x] rakuten (Rakuten Group) - https://corp.rakuten.co.jp/careers/ (成功: 307 件取得)
+116. [x] rakuten (Rakuten Group) - https://corp.rakuten.co.jp/careers/engineer/ (成功: 198 件取得)
