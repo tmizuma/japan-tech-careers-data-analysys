@@ -48,12 +48,14 @@ tools: Read, Write, Bash, mcp__playwright__*
 
 ### 2. CSV 読み込み
 
-gathering-todo.md が既に存在する場合は、company_list.csv を読み込まないでください。
+このリポジトリのトップディレクトリに gathering-todo.md が既に存在する場合は、company_list.csv を読み込まないでください。
 
-gathering-todo.md が存在しない場合は、このファイルを作成するために、company_list.csv を全行を読み込み、`company_name_en` と `hiring_url` カラムを読み込みます。
+このリポジトリのトップディレクトリに gathering-todo.md が存在しない場合は、このファイルを作成するために、company_list.csv を全行を読み込み、`company_name_en` と `hiring_url` カラムを読み込みます。
 この二つのカラムは gathering-todo.md 作成のために用います。
 
 ### 3. gathering-todo.md 作成
+
+このリポジトリのトップディレクトリに gathering-todo.md を作成してください。
 
 **【重要】CSV の全企業を必ず記載してください（処理範囲に関わらず）**
 
