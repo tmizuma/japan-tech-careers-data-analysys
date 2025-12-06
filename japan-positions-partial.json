@@ -1,0 +1,287 @@
+{
+  "mercari": {
+    "company_name_ja": "メルカリ",
+    "company_name_en": "Mercari",
+    "description": "日本最大のフリマアプリ「メルカリ」を運営。累計出品数40億品を突破し月間2300万人以上が利用。メルペイ（決済）やメルコイン（暗号資産）などFintech事業も展開。「Go Bold」「All for One」「Be a Pro」のバリューのもと世界50カ国以上出身の多様なエンジニアが活躍。2024年にはオンデマンドワークサービス「メルカリ ハロ」をローンチ。",
+    "description_en": "Operates Japan's largest flea market app \"Mercari\". Surpassed 4 billion cumulative listings with over 23 million monthly users. Also expands into Fintech with Merpay (payments) and Mercoin (cryptocurrency). Diverse engineers from over 50 countries thrive under the values of \"Go Bold,\" \"All for One,\" and \"Be a Pro.\" Launched on-demand work service \"Mercari Hallo\" in 2024.",
+    "hiring_url": "https://careers.mercari.com/",
+    "num_of_employees": "2000+",
+    "sales": 170000000000,
+    "foreign_engineers": true,
+    "logo_url": "https://logo.clearbit.com/mercari.com",
+    "company_url": "https://about.mercari.com/",
+    "positions": [
+      {
+        "name": "Senior Software engineer, iOS (AI/LLM) – Mercari",
+        "description": "iOS engineer position focusing on AI/LLM integration",
+        "techstack": ["iOS", "Swift", "AI", "LLM"],
+        "link": "https://mercari.workable.com/jobs/5339865"
+      },
+      {
+        "name": "Data scientist, R4D, Mercari",
+        "description": "Data scientist position in R4D research division",
+        "techstack": ["Python", "Machine Learning", "Data Science"],
+        "link": "https://mercari.workable.com/jobs/5330656"
+      },
+      {
+        "name": "AI Research Scientist, R4D, Mercari",
+        "description": "AI research scientist position in R4D division",
+        "techstack": ["AI", "Machine Learning", "Python", "PyTorch"],
+        "link": "https://mercari.workable.com/jobs/5330605"
+      },
+      {
+        "name": "Software Engineer, Backend – US App",
+        "description": "Backend engineer for US Mercari application",
+        "techstack": ["Go", "Backend", "Kubernetes", "GCP"],
+        "link": "https://mercari.workable.com/jobs/5294302"
+      },
+      {
+        "name": "Senior Software Engineer, SRE – US App",
+        "description": "Senior SRE position for US application infrastructure",
+        "techstack": ["SRE", "Kubernetes", "GCP", "Go"],
+        "link": "https://mercari.workable.com/jobs/5241328"
+      },
+      {
+        "name": "Data Platform Engineer – Mercari",
+        "description": "Data platform engineering position",
+        "techstack": ["BigQuery", "GCP", "Data Engineering", "Python"],
+        "link": "https://mercari.workable.com/jobs/5225385"
+      },
+      {
+        "name": "Software Engineer – Mercari/Merpay/Mercoin (Internship)",
+        "description": "Software engineering internship across Mercari group",
+        "techstack": ["Go", "TypeScript", "Kubernetes"],
+        "link": "https://mercari.workable.com/jobs/4696023"
+      },
+      {
+        "name": "Software Engineer, Machine Learning – US App",
+        "description": "Machine learning engineer for US application",
+        "techstack": ["Machine Learning", "Python", "PyTorch"],
+        "link": "https://mercari.workable.com/jobs/5141436"
+      },
+      {
+        "name": "Senior Analytics Engineer – Mercari",
+        "description": "Senior analytics engineering position",
+        "techstack": ["BigQuery", "DBT", "SQL", "Data Analytics"],
+        "link": "https://mercari.workable.com/jobs/5082016"
+      },
+      {
+        "name": "Software Engineer, Backend – Mercoin",
+        "description": "Backend engineer for Mercoin cryptocurrency service",
+        "techstack": ["Go", "Blockchain", "Kubernetes", "GCP"],
+        "link": "https://mercari.workable.com/jobs/3782172"
+      },
+      {
+        "name": "Software Engineer, QA – Merpay",
+        "description": "QA engineer for Merpay payment service",
+        "techstack": ["QA", "Test Automation"],
+        "link": "https://mercari.workable.com/jobs/2128520"
+      },
+      {
+        "name": "Software Engineer, Backend – Merpay",
+        "description": "Backend engineer for Merpay payment service",
+        "techstack": ["Go", "Kubernetes", "GCP", "Backend"],
+        "link": "https://mercari.workable.com/jobs/2128485"
+      },
+      {
+        "name": "Technical Project Manager (Corporate DX) – Mercari",
+        "description": "Technical project manager for corporate digital transformation",
+        "techstack": ["Project Management", "DX"],
+        "link": "https://mercari.workable.com/jobs/5108765"
+      },
+      {
+        "name": "Systems Engineer (Corporate DX) – Mercari",
+        "description": "Systems engineer for corporate digital transformation",
+        "techstack": ["Systems Engineering", "DX"],
+        "link": "https://mercari.workable.com/jobs/4593923"
+      },
+      {
+        "name": "Security Engineer – Mercari (Internship)",
+        "description": "Security engineering internship position",
+        "techstack": ["Security"],
+        "link": "https://mercari.workable.com/jobs/5274872"
+      },
+      {
+        "name": "Product Security Engineer – Mercari",
+        "description": "Product security engineer position",
+        "techstack": ["Security", "Application Security"],
+        "link": "https://mercari.workable.com/jobs/5195403"
+      },
+      {
+        "name": "Platform Security Engineer – Mercari",
+        "description": "Platform security engineer position",
+        "techstack": ["Security", "Platform Engineering", "GCP"],
+        "link": "https://mercari.workable.com/jobs/5149590"
+      }
+    ]
+  },
+  "cyberagent": {
+    "company_name_ja": "サイバーエージェント",
+    "company_name_en": "CyberAgent",
+    "description": "インターネット広告、メディア（ABEMA等）、ゲーム事業を展開する日本を代表するIT企業。「21世紀を代表する会社を創る」をビジョンに掲げ、AI事業やDX支援にも注力。2024年売上高7,200億円、従業員6,000名以上。",
+    "description_en": "A leading Japanese IT company operating internet advertising, media (ABEMA), and gaming businesses. With the vision of 'Creating a company that represents the 21st century,' focusing on AI and DX. Revenue of 720 billion yen in 2024, with over 6,000 employees.",
+    "hiring_url": "https://hrmos.co/pages/cyberagent-group",
+    "num_of_employees": "6000+",
+    "sales": 720000000000,
+    "foreign_engineers": true,
+    "logo_url": "https://logo.clearbit.com/cyberagent.co.jp",
+    "company_url": "https://www.cyberagent.co.jp/",
+    "positions": [
+      {
+        "name": "【AI事業本部】バックエンドエンジニア オープンポジション",
+        "description": "AI事業本部でのバックエンドエンジニア。約60のプロダクト開発チームで生成AI技術を活用したサービス開発",
+        "techstack": ["Go", "Python", "GCP", "Kubernetes", "gRPC"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000071"
+      },
+      {
+        "name": "【メディア事業部】サーバーサイドエンジニア",
+        "description": "ABEMA、WINTICKET等のメディアサービスのバックエンド開発",
+        "techstack": ["Go", "GCP", "Kubernetes", "MongoDB", "Redis"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000221"
+      },
+      {
+        "name": "【WINTICKET】バックエンドエンジニア",
+        "description": "競輪・オートレースアプリWINTICKETのバックエンド開発。マイクロサービス、クリーンアーキテクチャ採用",
+        "techstack": ["Go", "GCP", "Kubernetes", "Cloud Spanner", "gRPC"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000752"
+      },
+      {
+        "name": "【AI Lab】リサーチサイエンティスト",
+        "description": "AI研究組織AI Labでの研究職。機械学習、NLP、コンピュータビジョン等の研究",
+        "techstack": ["Python", "PyTorch", "Machine Learning", "NLP", "Computer Vision"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000147"
+      },
+      {
+        "name": "【AI事業本部】機械学習エンジニア - 極予測AI",
+        "description": "広告クリエイティブのAI予測・自動生成ツール「極予測AI」の開発",
+        "techstack": ["Python", "Machine Learning", "LLM", "GCP", "BigQuery"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000177"
+      },
+      {
+        "name": "データサイエンティスト（経済学）",
+        "description": "経済学×機械学習を応用したプロダクト開発。小売DX、行政DX、アドテク領域",
+        "techstack": ["Python", "Machine Learning", "Economics", "SQL"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000181"
+      },
+      {
+        "name": "【ABEMA】データサイエンティスト",
+        "description": "ABEMAのサービス成長のためのデータ分析、アルゴリズム開発",
+        "techstack": ["Python", "SQL", "Machine Learning", "BigQuery"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000280"
+      },
+      {
+        "name": "【SGE】Unityクライアントエンジニア",
+        "description": "スマートフォンゲームのUnityクライアント開発",
+        "techstack": ["Unity", "C#", "Game Development"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000326"
+      },
+      {
+        "name": "【メディア事業部】Flutterエンジニア",
+        "description": "WINTICKET、Amebaマンガ等のFlutterアプリ開発",
+        "techstack": ["Flutter", "Dart", "iOS", "Android"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000515"
+      },
+      {
+        "name": "【SGE】Unityグラフィックスエンジニア",
+        "description": "ゲームのグラフィックスエンジン設計・実装・最適化",
+        "techstack": ["Unity", "C#", "Shader", "Graphics Programming"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000578"
+      },
+      {
+        "name": "【AI Shift】バックエンドエンジニア（TypeScript）",
+        "description": "AIエージェント構築プラットフォーム「AI Worker」の開発",
+        "techstack": ["TypeScript", "Node.js", "Kubernetes", "GCP"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000682"
+      },
+      {
+        "name": "【AI Shift】バックエンドエンジニア（Golang）",
+        "description": "VoiceBotプロダクトのバックエンド開発",
+        "techstack": ["Go", "GCP", "Kubernetes", "Python"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936019283746394476523068"
+      },
+      {
+        "name": "【CAM】バックエンドエンジニア",
+        "description": "エンタメ・ライフスタイルWebサービスのバックエンド開発。マイクロサービスアーキテクチャ",
+        "techstack": ["Node.js", "TypeScript", "Kubernetes", "GCP", "MongoDB"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000659"
+      },
+      {
+        "name": "【CAM】Webフロントエンジニア",
+        "description": "エンタメコンテンツのWebフロントエンド開発。Jamstack構成",
+        "techstack": ["TypeScript", "Next.js", "React", "Cloud Run"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000660"
+      },
+      {
+        "name": "【CAM】iOS/Androidエンジニア",
+        "description": "エンタメコンテンツのモバイルアプリ開発",
+        "techstack": ["Flutter", "Swift", "Kotlin", "iOS", "Android"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000661"
+      },
+      {
+        "name": "【CAM】データエンジニア",
+        "description": "データ活用施策のためのデータ基盤開発",
+        "techstack": ["Python", "SQL", "BigQuery", "GCP", "Machine Learning"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000662"
+      },
+      {
+        "name": "【CAM】SREエンジニア",
+        "description": "サービスの品質向上、インフラ運用、セキュリティ管理",
+        "techstack": ["Kubernetes", "GCP", "AWS", "Terraform", "Istio"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000663"
+      },
+      {
+        "name": "【タップル】バックエンドエンジニア",
+        "description": "マッチングアプリ「タップル」のバックエンド開発",
+        "techstack": ["TypeScript", "Node.js", "MySQL", "Redis"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000880"
+      },
+      {
+        "name": "【メディア事業部】エンジニアリングマネージャー（バックエンド）",
+        "description": "メディア事業部でのエンジニアリングマネージャー職",
+        "techstack": ["Go", "GCP", "Kubernetes", "Team Management"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/1936016981879885834"
+      },
+      {
+        "name": "Developer Productivity Engineer (DPE)",
+        "description": "開発生産性向上のためのCI/CD、Feature Flags開発。OSS開発",
+        "techstack": ["Go", "Kubernetes", "CI/CD", "OSS"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/0000694"
+      },
+      {
+        "name": "【グループIT推進本部】認証基盤(IdP)開発エンジニア",
+        "description": "社内ID管理、認証/認可システムの開発",
+        "techstack": ["Go", "Java", "AWS", "GCP", "gRPC", "Keycloak"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/idg001"
+      },
+      {
+        "name": "【グループIT推進本部】データ基盤エンジニア",
+        "description": "全社データ基盤、分析基盤の開発・運用",
+        "techstack": ["Go", "Java", "Python", "Kubernetes", "Kafka", "HBase"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/dpu001"
+      },
+      {
+        "name": "【QualiArts】サーバーサイドエンジニア",
+        "description": "スマートフォンゲームのサーバーサイド開発",
+        "techstack": ["Go", "GCP", "Unity"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/2004419278284361751"
+      },
+      {
+        "name": "【CyberZ】バックエンドエンジニア",
+        "description": "広告マーケティング支援ツールの開発。AI活用、生成AI",
+        "techstack": ["Go", "React", "TypeScript", "AWS", "LangChain"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/engineer002"
+      },
+      {
+        "name": "【Ameba】バックエンドエンジニア",
+        "description": "アメーバブログを中心としたサービスのバックエンド開発",
+        "techstack": ["Go", "Java", "AWS", "Kubernetes", "MySQL"],
+        "link": "https://hrmos.co/pages/cyberagent-group/jobs/19360169818798858360229"
+      }
+    ]
+  },
+  "_metadata": {
+    "last_updated": "2025-12-07T00:00:00Z",
+    "completed_count": 2,
+    "total_count": 116
+  }
+}

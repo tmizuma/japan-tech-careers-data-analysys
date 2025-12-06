@@ -16,9 +16,12 @@ tools: Read, Write, Bash, mcp__playwright__*
   - 形式: CSV（ヘッダー行を含む）
   - 必須カラム: `company_name_en`, `hiring_url`
 
-- **第 2 引数（オプション）**: `--max-companies`
-- **第 3 引数（オプション）**: 一度に処理する企業数の上限（数値）
-  - 例: `--max-companies 10`
+- **第 2 引数（オプション）**: `--from`
+- **第 3 引数（オプション）**: 処理開始位置のインデックス（1 始まり）
+- **第 4 引数（オプション）**: `--to`
+- **第 5 引数（オプション）**: 処理終了位置のインデックス（1 始まり、この位置を含む）
+  - 例: `--from 1 --to 10` で 1 番目から 10 番目の企業を処理
+  - 例: `--from 11 --to 20` で 11 番目から 20 番目の企業を処理
   - 指定しない場合は全件処理
 
 ## 前提条件
@@ -35,7 +38,7 @@ company_name_ja,company_name_en,description,description_en,hiring_url,num_of_emp
 
 **データ型:**
 
-- `sales`: 整数型（非公開の場合は -1）
+- `sales`: 整数型（億円単位、非公開の場合は -1）
 - `foreign_engineers`: boolean 型（TRUE/FALSE）
 - その他: 文字列型
 
@@ -46,23 +49,29 @@ company_name_ja,company_name_en,description,description_en,hiring_url,num_of_emp
 1. 第 1 引数が指定されていない場合は `company_list.csv` をデフォルトとする
 2. 指定されたファイルが存在することを確認
 3. ファイルが CSV 形式であることを確認
-4. `--max-companies` オプションが指定されている場合、数値が有効か確認
+4. `--from` と `--to` オプションが指定されている場合、数値が有効か確認
+   - `--from` は 1 以上の整数
+   - `--to` は `--from` 以上の整数
+   - `--from` のみ指定された場合は、`--to` は総企業数として扱う
+   - `--to` のみ指定された場合はエラー（`--from` も必要）
 
 **引数なしの場合（デフォルト動作）:**
 
 ```
-使用方法: /gather-japan-position-info [CSVファイルパス] [--max-companies N]
+使用方法: /gather-japan-position-info [CSVファイルパス] [--from N --to M]
 
 例:
   /gather-japan-position-info
   /gather-japan-position-info company_list.csv
-  /gather-japan-position-info company_list.csv --max-companies 10
+  /gather-japan-position-info company_list.csv --from 1 --to 10
+  /gather-japan-position-info company_list.csv --from 11 --to 20
 
 引数:
   CSVファイルパス (オプション) - 企業情報CSVファイル（デフォルト: company_list.csv）
 
 オプション:
-  --max-companies N  一度に処理する企業数の上限（指定しない場合は全件処理）
+  --from N  処理開始位置（1始まり、指定しない場合は1）
+  --to M    処理終了位置（1始まり、この位置を含む。指定しない場合は全件）
 
 CSVファイル形式:
   - ヘッダー行を含むCSV
@@ -90,11 +99,17 @@ CSVファイル形式:
 見つかったカラム: {実際のカラムリスト}
 ```
 
-**--max-companies の値が無効な場合:**
+**--from/--to の値が無効な場合:**
 
 ```
-❌ エラー: --max-companies の値は正の整数である必要があります。
-指定された値: {値}
+❌ エラー: --from/--to の値が無効です。
+
+条件:
+- --from は 1 以上の整数である必要があります
+- --to は --from 以上の整数である必要があります
+- --to のみを指定することはできません（--from も必要）
+
+指定された値: --from {from値} --to {to値}
 ```
 
 ### ステップ 2: CSV ファイルの読み込み
@@ -109,6 +124,7 @@ CSV ファイルを読み込み、処理対象の企業リストを作成しま�
 - `company_name_en` が空の行はスキップ
 - `sales` カラムを整数型として読み込む（-1 は非公開を意味）
 - `foreign_engineers` カラムを boolean 型として読み込む
+- **全ての有効な企業を読み込み、gathering-todo.md に記載します（処理範囲指定に関わらず）**
 
 **空の CSV または有効な企業がない場合:**
 
@@ -117,9 +133,16 @@ CSV ファイルを読み込み、処理対象の企業リストを作成しま�
 company_name_en と hiring_url が両方とも入力されている行が必要です。
 ```
 
-### ステップ 3: gathering-todo.md の作成・確認
+### ステップ 3: gathering-todo.md の作成・確認（全企業を必ず記載）
 
 進捗管理用の `gathering-todo.md` ファイルを作成または既存ファイルを確認します。
+
+**【最重要】gathering-todo.md には必ず CSV の全企業を記載してください。**
+
+- 処理範囲（--from/--to）を指定した場合でも、TODO リストには全企業が含まれます
+- これにより、どの範囲を指定しても一貫したインデックスで企業を参照できます
+- 例: CSV に 100 社ある場合、`--from 1 --to 2`を指定しても、TODO には 1 番目から 100 番目まで全て記載されます
+- 処理するのは指定範囲のみですが、TODO リスト自体は全企業を含みます
 
 **新規作成の場合:**
 
@@ -130,33 +153,59 @@ company_name_en と hiring_url が両方とも入力されている行が必要�
 
 - 開始時刻: {現在時刻}
 - CSV ファイル: {ファイルパス}
-- 総企業数: {N}
-- 処理上限: {max_companies 指定時のみ表示}
+- 総企業数: {N}社
+- 処理範囲: {from}番目 〜 {to}番目 (範囲指定時のみ表示)
 
 ## 企業リスト
 
-- [ ] mercari (Mercari) - https://careers.mercari.com/ (未開始)
-- [ ] cyberagent (CyberAgent) - https://www.cyberagent.co.jp/careers/ (未開始)
-      ...
+1. [ ] mercari (Mercari) - https://careers.mercari.com/ (未開始)
+2. [ ] cyberagent (CyberAgent) - https://www.cyberagent.co.jp/careers/ (未開始)
+3. [ ] rakuten (Rakuten Group) - https://rakuten.careers/ (未開始)
+       ...
+4. [ ] lastcompany (Last Company) - https://... (未開始)
 ```
+
+**例: CSV に 100 社あり、--from 1 --to 2 を指定した場合:**
+
+```markdown
+# 求人情報収集 TODO
+
+## 処理状況
+
+- 開始時刻: 2025-12-07 10:00:00
+- CSV ファイル: company_list.csv
+- 総企業数: 100 社
+- 処理範囲: 1 番目 〜 2 番目
+
+## 企業リスト
+
+1. [ ] mercari (Mercari) - https://careers.mercari.com/ (未開始)
+2. [ ] cyberagent (CyberAgent) - https://hrmos.co/pages/cyberagent-group (未開始)
+3. [ ] rakuten (Rakuten Group) - https://rakuten.careers/ (未開始)
+4. [ ] line (LINE Corporation) - https://linecorp.com/careers/ (未開始)
+       ...
+5. [ ] lastcompany (Last Company) - https://... (未開始)
+```
+
+処理範囲は 1 番目〜2 番目ですが、TODO リストには全 100 社が記載されています。
 
 **既存ファイルがある場合（再開モード）:**
 
 - 既存の `gathering-todo.md` を読み込み
 - 完了済み（`- [x]`）の企業はスキップ
-- 未完了の企業のみ処理対象：
-  - `- [ ] ... (未開始)` - 処理対象
-  - `- [/] ... (部分失敗)` - 処理対象（再試行）
-  - `- [!] ... (失敗: ...)` - 処理対象（再試行）
+- 未完了の企業のうち、指定範囲内のもののみ処理対象：
+  - `N. [ ] ... (未開始)` - 処理対象（N が指定範囲内の場合）
+  - `N. [/] ... (部分失敗)` - 処理対象（再試行、N が指定範囲内の場合）
+  - `N. [!] ... (失敗: ...)` - 処理対象（再試行、N が指定範囲内の場合）
 
 **ステータス形式:**
 
-- `- [ ] {key} ({company_name_en}) - {hiring_url} (未開始)` - 未処理
-- `- [x] {key} ({company_name_en}) - {hiring_url} (成功: N件取得)` - 成功
-- `- [/] {key} ({company_name_en}) - {hiring_url} (部分失敗)` - 一部のみ取得成功
-- `- [!] {key} ({company_name_en}) - {hiring_url} (失敗: エラー内容)` - 失敗
+- `N. [ ] {key} ({company_name_en}) - {hiring_url} (未開始)` - 未処理
+- `N. [x] {key} ({company_name_en}) - {hiring_url} (成功: M件取得)` - 成功
+- `N. [/] {key} ({company_name_en}) - {hiring_url} (部分失敗)` - 一部のみ取得成功
+- `N. [!] {key} ({company_name_en}) - {hiring_url} (失敗: エラー内容)` - 失敗
 
-{key} は company_name_en を正規化したもの（小文字、記号削除等）
+N は CSV 内の行番号（1 始まり）、{key} は company_name_en を正規化したもの（小文字、記号削除等）
 
 ### ステップ 3.5: company-patterns.json の読み込み（オプション）
 
@@ -200,18 +249,28 @@ Playwright MCP を使用して、各企業の求人情報を収集します。
 
 - **1 社ずつ順次処理**（ブラウザリソース競合を回避するため）
 - 各企業の処理完了を待ってから次を開始
-- **max_companies が指定されている場合、その数だけ処理したら中断**
+- **--from と --to が指定されている場合、その範囲のみ処理**
 
 **処理フロー:**
 
 ```
-処理対象企業リスト = gathering-todo.md から未完了企業を抽出
-処理済みカウンター = 0
+# ステップA: CSV全体を読み込み
+全企業リスト = CSVから全企業を読み込み（例: 100社）
 
-for 企業データ in 処理対象企業リスト:
-    if max_companies が指定されている and 処理済みカウンター >= max_companies:
-        処理を中断
-        break
+# ステップB: gathering-todo.mdに全企業を記載
+gathering-todo.md に全企業を記載（1番目〜100番目）
+
+# ステップC: 処理範囲を決定
+処理範囲開始 = --from が指定されている場合は その値、そうでない場合は 1
+処理範囲終了 = --to が指定されている場合は その値、そうでない場合は 総企業数
+
+# ステップD: 指定範囲のみを処理
+for インデックス in 処理範囲開始 から 処理範囲終了:
+    企業データ = 全企業リスト[インデックス]
+
+    # gathering-todo.md で完了済みの企業はスキップ
+    if gathering-todo.md で当該企業が完了済み:
+        continue
 
     # 企業キーの正規化
     企業キー = company_name_en を正規化
@@ -233,8 +292,6 @@ for 企業データ in 処理対象企業リスト:
     # 成功した場合、パターンをキャッシュに保存（オプション）
     if 成功 and パターンが検出された:
         company-patterns.json を更新
-
-    処理済みカウンター += 1
 ```
 
 #### 企業キーの正規化ルール
@@ -299,7 +356,7 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 
 **5.3: 求人一覧ページからの情報収集**
 
-求人一覧ページ(CSV の hiring_url)から以下の情報を収集してください。ポジション詳細ページへの遷移は不要です。
+求人一覧ページから以下の情報を収集してください。ポジション詳細ページへの遷移は不要です。
 
 **収集する情報:**
 
@@ -337,17 +394,32 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 
 - ポジション詳細ページへの遷移は不要です
 - 一覧ページから取得可能な情報のみを収集してください
-- 求人数が多い場合でも、全ての求人を探索対象としてください。勝手な判断で途中で処理を打ち切ることをしないでください
-- これは統計情報として扱われるため、少なくともポジション数は正確に把握する必要があります
+- 求人数が多い場合でも、全ての求人を対象としてください
+- 網羅的に漏れなく情報を取得する必要があります
+- **「代表的」「一部」の選択は禁止** - 必ず全件を収集すること
 
-**【重要】全件取得の原則:**
+**フィルタ/カテゴリが複数ある場合の処理手順:**
 
-- **省略・サンプリング禁止**: 「代表的な求人」「主要な求人」などの判断で一部のみを取得することは禁止。必ず全件取得すること
-- **確認ルール**: 以下の場合は作業を進める前にユーザーに報告し確認を取ること
-  - ページに表示されている求人総数と、実際に取得した件数に差異がある場合
-  - ページネーションや「もっと見る」ボタンがあり、全件表示されていない可能性がある場合
-  - フィルタリング後の件数が想定より著しく少ない場合（例: エンジニア求人が0件）
-- **完了基準**: 各企業について、取得可能な全てのエンジニア求人を取得したことを確認してから次の企業に進むこと
+求人一覧ページに職種カテゴリやフィルタが複数ある場合（例: バックエンド、フロントエンド、ML等）:
+
+1. **全てのエンジニア関連カテゴリを特定する**
+   - 各カテゴリの求人件数を記録
+   - 例: バックエンド(23), フロントエンド(6), ML(12) → 合計41件
+
+2. **各カテゴリを順番に選択して全求人を収集する**
+   - カテゴリAを選択 → 全求人を取得
+   - カテゴリBを選択 → 全求人を取得
+   - 全カテゴリを処理するまで繰り返し
+
+3. **重複の除去**
+   - 同じ求人が複数カテゴリに表示される場合は重複を除去
+
+**ブラウザスナップショットが切り詰められた場合:**
+
+- 追加のスナップショットを取得してデータを継続収集
+- ページをスクロールして未取得部分を表示
+- 次のページに遷移して継続
+- **部分的なデータで完了としない** - 全データを取得するまで処理を継続
 
 ### ステップ 6: 結果の収集と TODO 更新
 
@@ -355,9 +427,11 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 
 1. **gathering-todo.md の更新**
 
-   - 成功時: `- [x] {key} ({company_name_en}) - {hiring_url} (成功: N件取得)`
-   - 部分失敗: `- [/] {key} ({company_name_en}) - {hiring_url} (部分失敗)`
-   - 失敗時: `- [!] {key} ({company_name_en}) - {hiring_url} (失敗: エラー内容)`
+   - 成功時: `N. [x] {key} ({company_name_en}) - {hiring_url} (成功: M件取得)`
+   - 部分失敗: `N. [/] {key} ({company_name_en}) - {hiring_url} (部分失敗)`
+   - 失敗時: `N. [!] {key} ({company_name_en}) - {hiring_url} (失敗: エラー内容)`
+
+   N は CSV 内の行番号（1 始まり）
 
 2. **中間結果の保存**
 
@@ -478,33 +552,34 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 3. `japan-positions.json` に保存
 4. 成功時のみ `japan-positions-partial.json` を削除
 
-**max_companies で途中終了した場合:**
+**--from/--to で範囲指定した場合:**
 
-- `japan-positions.json` は作成しない
+- `japan-positions.json` は作成しない（全件処理が完了していないため）
 - `japan-positions-partial.json` のみ保持
-- 次回実行時に続きから処理
+- 別の範囲を処理する場合や、残りを処理する場合は、適切な範囲を指定して再実行
 
 ### ステップ 8: 完了サマリーの表示
 
 処理完了後、以下の形式でサマリーを表示します：
 
-**途中終了時（max_companies 指定時）:**
+**範囲指定実行時（--from/--to 指定時）:**
 
 ```
-⏸️ 求人情報収集を一時停止
+⏸️ 求人情報収集を一時停止（範囲指定実行）
 
 処理サマリー:
-- 今回処理: 10社
+- 処理範囲: 10番目 〜 20番目
+- 今回処理: 11社
 - 成功: 8社
-- 部分成功: 1社
+- 部分成功: 2社
 - 失敗: 1社
-- 今回取得ポジション数: 42件
+- 今回取得ポジション数: 82件
 
 出力ファイル:
 - japan-positions-partial.json (中間結果)
 
-残り企業: 90社
-再開するには同じコマンドを再度実行してください。
+全体進捗: 20/100社完了
+残りを処理するには、--from 21 --to 100 を指定して再実行してください。
 
 詳細は gathering-todo.md を確認してください。
 ```
@@ -647,6 +722,7 @@ Playwright MCP を使用して、指定された URL のページを取得しま
   → 100社のデータを検出
 
 📝 gathering-todo.md を作成中...
+  → 全100社を記載（1番目〜100番目）
 
 🔍 Playwright MCP の確認中...
   ✅ 利用可能
@@ -654,9 +730,9 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 🚀 求人情報収集を開始...
   → 100社を順次処理中...
 
-✅ mercari (Mercari): 8件取得
-✅ cyberagent (CyberAgent): 12件取得
-✅ rakuten (Rakuten Group): 6件取得
+✅ 1. mercari (Mercari): 8件取得
+✅ 2. cyberagent (CyberAgent): 12件取得
+✅ 3. rakuten (Rakuten Group): 6件取得
 ...
 
 📄 japan-positions.json を出力しました
@@ -682,14 +758,24 @@ Playwright MCP を使用して、指定された URL のページを取得しま
   → my-companies.csv
   → 50社のデータを検出
 
+📝 gathering-todo.md を作成中...
+  → 全50社を記載（1番目〜50番目）
+
+🔍 Playwright MCP の確認中...
+  ✅ 利用可能
+
+🚀 求人情報収集を開始...
+  → 50社を順次処理中...
+
+✅ 1. company1 (Company1): 5件取得
 ...
 ```
 
-### 段階的実行（max-companies 使用）
+### 範囲指定実行（--from/--to 使用）
 
 ```
 ユーザー入力:
-/gather-japan-position-info --max-companies 10
+/gather-japan-position-info --from 1 --to 10
 
 処理:
 📖 CSVファイルを読み込み中...
@@ -697,45 +783,71 @@ Playwright MCP を使用して、指定された URL のページを取得しま
   → 100社のデータを検出
 
 📝 gathering-todo.md を作成中...
+  → 全100社を記載（1番目〜100番目）
+  → 今回の処理範囲: 1番目 〜 10番目
 
 🔍 Playwright MCP の確認中...
   ✅ 利用可能
 
 🚀 求人情報収集を開始...
-  → 最大10社を処理中...
+  → 1番目から10番目を処理中...
 
-✅ mercari (Mercari): 8件取得
-✅ cyberagent (CyberAgent): 12件取得
+✅ 1. mercari (Mercari): 8件取得
+✅ 2. cyberagent (CyberAgent): 12件取得
 ...（10社分）
 
-⏸️ 求人情報収集を一時停止
+⏸️ 求人情報収集を一時停止（範囲指定実行）
 
 処理サマリー:
+- 処理範囲: 1番目 〜 10番目
 - 今回処理: 10社
 - 成功: 8社
 - 部分成功: 1社
 - 失敗: 1社
 - 今回取得ポジション数: 82件
 
-残り企業: 90社
-再開するには同じコマンドを再度実行してください。
+全体進捗: 10/100社完了
+残りを処理するには、--from 11 --to 100 を指定して再実行してください。
 ```
 
-### 再開実行
+### 続きから再開実行
 
 ```
 ユーザー入力:
-/gather-japan-position-info --max-companies 10
+/gather-japan-position-info --from 11 --to 20
 
 処理:
 📖 既存の gathering-todo.md を検出
+  → gathering-todo.md には全100社が記載されている
   → 再開モードで実行
-  → 未完了: 90社
-  → 今回処理: 最大10社
+  → 処理範囲: 11番目 〜 20番目
+  → 範囲内の未完了: 10社
 
-🚀 残りの企業を処理中...
+🚀 指定範囲の企業を処理中...
 
-✅ 求人情報収集を一時停止（再開処理）
+✅ 11. rakuten (Rakuten Group): 15件取得
+✅ 12. line (LINE Corporation): 10件取得
+...
+
+⏸️ 求人情報収集を一時停止（範囲指定実行）
+
+全体進捗: 20/100社完了
+```
+
+### 特定企業のみ再実行（失敗企業の再試行）
+
+```
+ユーザー入力:
+/gather-japan-position-info --from 5 --to 5
+
+処理:
+📖 既存の gathering-todo.md を検出
+  → gathering-todo.md には全100社が記載されている
+  → 5番目の企業のみを処理
+
+🚀 指定企業を処理中...
+
+✅ 5. smarthr (SmartHR): 7件取得
 ```
 
 ## 注意事項
@@ -745,10 +857,16 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 3. **順次処理**: ブラウザ競合を避けるため 1 社ずつ処理（並行実行禁止）
 4. **遅延設定**: 各リクエスト間に 1-3 秒の遅延を入れる
 5. **コミットしない**: このコマンドはコミットを行わない
-6. **段階的実行**: 大量の企業を処理する場合は `--max-companies` で分割実行を推奨
+6. **範囲指定実行**: 大量の企業を処理する場合は `--from` と `--to` で分割実行を推奨
 7. **CSV 情報の保持**: CSV の全カラム情報を出力 JSON に含める
 8. **データ型の保持**: sales は整数型、foreign_engineers は boolean 型として扱う
 9. **一覧ページのみ**: ポジション詳細ページへの遷移は不要
+10. **【最重要】インデックス管理**:
+    - **gathering-todo.md には必ず CSV の全企業をインデックス付きで記載すること**
+    - 処理範囲（--from/--to）を指定した場合でも、TODO リストには全企業が含まれる
+    - 例: CSV に 100 社ある場合、`--from 1 --to 2`を指定しても 1 番目から 100 番目まで全て記載
+    - これにより、どの範囲を実行しても一貫したインデックスで企業を参照できる
+    - 途中から再開したり、飛ばした企業を後で処理したりすることが可能になる
 
 ## データ構造の詳細
 
