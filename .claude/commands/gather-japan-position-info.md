@@ -48,7 +48,10 @@ tools: Read, Write, Bash, mcp__playwright__*
 
 ### 2. CSV 読み込み
 
-全行を読み込み、`company_name_en` と `hiring_url` が両方とも有効な行のみを対象とします。
+gathering-todo.md が既に存在する場合は、company_list.csv を読み込まないでください。
+
+gathering-todo.md が存在しない場合は、このファイルを作成するために、company_list.csv を全行を読み込み、`company_name_en` と `hiring_url` カラムを読み込みます。
+この二つのカラムは gathering-todo.md 作成のために用います。
 
 ### 3. gathering-todo.md 作成
 

@@ -1,0 +1,14 @@
+{
+  "company_name_ja": "Opn",
+  "company_name_en": "Opn",
+  "description": "2013年設立のアジア地域特化フィンテック企業。オンライン決済「Omise」を50種類の決済手段で提供しPCI-DSS準拠の高セキュリティを実現。2024年にAI技術を活用したインテリジェント・ルーティングやジェネレーティブ・ダッシュボードを導入し決済承認率向上と不正リスク低減を実現。「すべての人々にデジタルエコノミーへのアクセスを」がビジョン。",
+  "description_en": "Asia-focused fintech company founded in 2013. Provides online payment \"Omise\" with 50 payment methods and PCI-DSS compliant high security. In 2024, introduced AI-powered intelligent routing and generative dashboards to improve payment approval rates and reduce fraud risks. Vision: \"Digital economy access for everyone.\"",
+  "hiring_url": "https://www.opn.ooo/jp/careers/",
+  "num_of_employees": "500+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/opn.ooo",
+  "company_url": "https://www.opn.ooo/",
+  "positions": [],
+  "_note": "日本拠点のエンジニア求人なし。全求人がタイ・バンコク拠点。"
+}
