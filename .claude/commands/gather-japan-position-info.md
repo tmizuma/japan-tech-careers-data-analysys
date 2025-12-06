@@ -1,7 +1,7 @@
 ---
 description: 企業情報CSVから日本のソフトウェアエンジニア求人情報を収集するコマンド
-allowed-tools: Bash(*), Read(*.md), Read(*.txt), Read(*.json), Read(*.csv), Write(*.md), Write(*.json)
-tools: Read, Write, Bash
+allowed-tools: Bash(*), Read(*.md), Read(*.txt), Read(*.json), Read(*.csv), Write(*.md), Write(*.json), mcp__playwright__*
+tools: Read, Write, Bash, mcp__playwright__*
 ---
 
 # タスク: 日本のソフトウェアエンジニア求人情報収集
@@ -23,7 +23,7 @@ tools: Read, Write, Bash
 
 ## 前提条件
 
-- Playwright MCP または Chrome MCP が利用可能であること
+- Playwright MCP が利用可能であること
 - 企業情報 CSV ファイルが存在すること
 - CSV に `company_name_en` と `hiring_url` カラムが含まれていること
 
@@ -180,17 +180,29 @@ company_name_en と hiring_url が両方とも入力されている行が必要�
 }
 ```
 
-### ステップ 4: サブエージェントの順次呼び出し
+### ステップ 4: MCP 可用性の確認
 
-`gather-company-position-info` サブエージェントを使用して、各企業の求人情報を収集します。
+**重要: Playwright MCP が利用できない場合は即座にエラーを返してください。**
+
+1. **Playwright MCP** (`mcp__playwright__*`) が利用可能か確認
+2. **利用不可の場合は即座にエラーを返却して終了**
+
+```
+❌ エラー: Playwright MCP が利用できません。
+Playwright MCP を有効にしてから再度実行してください。
+```
+
+### ステップ 5: 各企業の求人情報を順次収集
+
+Playwright MCP を使用して、各企業の求人情報を収集します。
 
 **実行ルール:**
 
 - **1 社ずつ順次処理**（ブラウザリソース競合を回避するため）
-- 各サブエージェントの完了を待ってから次を開始
+- 各企業の処理完了を待ってから次を開始
 - **max_companies が指定されている場合、その数だけ処理したら中断**
 
-**呼び出し方法:**
+**処理フロー:**
 
 ```
 処理対象企業リスト = gathering-todo.md から未完了企業を抽出
@@ -201,49 +213,141 @@ for 企業データ in 処理対象企業リスト:
         処理を中断
         break
 
-    # 企業情報を整形（CSVの全カラムを含める）
-    企業情報JSON = {
-        "company_name_ja": CSVの値,
-        "company_name_en": CSVの値,
-        "description": CSVの値,
-        "description_en": CSVの値,
-        "hiring_url": CSVの値,
-        "num_of_employees": CSVの値,
-        "sales": CSVの値（整数型）,
-        "foreign_engineers": CSVの値（boolean型）,
-        "logo_url": CSVの値,
-        "company_url": CSVの値
-    }
+    # 企業キーの正規化
+    企業キー = company_name_en を正規化
 
     # パターンキャッシュの確認（オプション）
     パターンURL = null
     if company-patterns.json に企業のパターンが存在:
         パターンURL = パターンから取得
 
-    Task(gather-company-position-info):
-      "以下の企業情報から求人情報を取得してください：
+    # 求人情報の収集（以下の詳細手順を実行）
+    結果 = 企業の求人情報を収集(企業データ, パターンURL)
 
-       Company Info:
-       {企業情報JSONを文字列化したもの}
+    # 結果を gathering-todo.md に記録
+    gathering-todo.md を更新
 
-       {パターンURLがあれば}
-       Pattern URL: {パターンURL}
-
-       取得した情報はJSON形式で返してください。"
-
-    結果を gathering-todo.md に記録
-    結果を japan-positions-partial.json に保存
+    # 結果を japan-positions-partial.json に保存
+    japan-positions-partial.json を更新
 
     # 成功した場合、パターンをキャッシュに保存（オプション）
-    if 成功 and 結果に_debug.pattern_detectedが含まれる:
+    if 成功 and パターンが検出された:
         company-patterns.json を更新
 
     処理済みカウンター += 1
 ```
 
-**注意:** Playwright MCP は単一のブラウザインスタンスを共有するため、並行実行すると競合が発生します。必ず順次処理してください。
+#### 企業キーの正規化ルール
 
-### ステップ 5: 結果の収集と TODO 更新
+`company_name_en` を以下のルールで正規化してキーとします：
+
+- **英語のみ使用**
+- **小文字のみ**
+- **スペース・記号は使用禁止**（削除する）
+- **接尾辞は削除**: Inc., Ltd., Co., Corp., 株式会社, グループ 等
+- **ハイフン・アンダースコアは削除**
+- **数字はそのまま保持**
+
+例:
+
+- "Mercari" → `mercari`
+- "Rakuten Group" → `rakuten`
+- "LY Corporation" → `lycorporation`
+- "SmartHR" → `smarthr`
+- "PayPay" → `paypay`
+
+#### 求人情報収集の詳細手順
+
+各企業に対して以下の手順で求人情報を収集します：
+
+**5.1: ページの取得**
+
+Playwright MCP を使用して、指定された URL のページを取得します。
+
+**通常の場合:**
+
+1. hiring_url にアクセス
+2. 必要に応じて求人ページへのリンクを探索
+
+**注意事項:**
+
+- User-Agent は標準的なブラウザのものを使用
+- タイムアウト: 30 秒
+- 接続エラー時は 1 回リトライ
+
+**5.2: エンジニア求人のフィルタリング**
+
+ページ内の求人情報から、以下のキーワードを含む**エンジニア関連職種のみ**をフィルタリングしてください。
+大文字小文字を区別せずマッチングします。
+
+**フィルタリングキーワード:**
+
+- Engineer, Developer, Programmer
+- SRE, DevOps, Infrastructure
+- QA, Quality Assurance, Test
+- Data Scientist, ML Engineer, AI, Machine Learning
+- Security Engineer, Platform Engineer
+- Frontend, Backend, Full-stack, Fullstack
+- Mobile, iOS, Android, Web
+- Software, エンジニア, 開発, プログラマ
+- Tech Lead, Architect, CTO
+
+**除外キーワード:**
+
+- Sales, Marketing, HR, Finance, Legal, Admin
+- 営業, マーケティング, 人事, 経理, 法務, 総務
+
+**5.3: 関連ページへの遷移（必要に応じて）**
+
+求人一覧ページから各求人の詳細ページへ遷移し、以下の情報を収集してください：
+
+1. **求人タイトル** (name)
+2. **求人説明** (description)
+   - 最大 500 文字
+   - 500 文字を超える場合は末尾を "..." で切り詰め
+3. **技術スタック** (techstack)
+   - 求人詳細ページから以下を探す:
+     - "Required Skills", "技術スタック", "使用技術" セクション
+     - "Requirements", "必須スキル" セクション内の技術キーワード
+   - 抽出対象例: Python, JavaScript, Go, Java, Ruby, TypeScript,
+     React, Vue, Angular, Node.js, Django, Rails, AWS, GCP, Azure,
+     Kubernetes, Docker, PostgreSQL, MySQL, MongoDB, Redis 等
+   - 技術名の標準化:
+     - `javascript` → `JavaScript`
+     - `k8s` → `Kubernetes`
+     - `postgres` → `PostgreSQL`
+     - `react.js` → `React`
+4. **求人ページへのリンク** (link)
+5. **インターンシップかどうか** (is_internship)
+   - キーワード: Intern, Internship, インターン
+6. **正社員かどうか** (is_permanent_employee)
+   - キーワード: Full-time, Permanent, 正社員, 正規雇用
+7. **日本語不要フラグ** (japanese_not_required)
+   - 日本語が不要であることを示すキーワード: "No Japanese required", "English only", "日本語不要", "英語のみ"
+   - 見つからない場合は false
+8. **英語求人フラグ** (english_position)
+   - 英語での求人であることを示す特徴: ページ全体が英語、"English position", "Global team"
+   - 見つからない場合は false
+9. **給与下限** (salary_min)
+   - 年収の下限額を抽出（例: "年収 600 万円〜1000 万円" → 6000000）
+   - 見つからない場合は -1
+10. **給与上限** (salary_max)
+    - 単位: 万円
+    - 年収の上限額を抽出（例: "年収 600 万円〜1000 万円" → 10000000）
+    - 見つからない場合は -1
+11. **高給フラグ** (high_salary)
+    - 給与下限が 1000 万円以上の場合は true
+    - それ以外は false
+
+**処理の注意点:**
+
+- 求人が複数ページにわたる場合、各詳細ページに遷移して情報を取得
+- 詳細ページから一覧に戻る際はブラウザの「戻る」機能を使用
+- 給与情報は求人詳細ページから抽出（例: "年収 600〜1000 万円"、"Annual salary: 6M-10M JPY"）
+- 網羅的に漏れなく情報を取得する必要がある
+- 日本語不要・英語求人の判定は求人ページの言語とキーワードから判断
+
+### ステップ 6: 結果の収集と TODO 更新
 
 各企業の処理が完了したら、以下を実行します：
 
@@ -255,7 +359,7 @@ for 企業データ in 処理対象企業リスト:
 
 2. **中間結果の保存**
 
-   - サブエージェントから返された JSON を受け取る
+   - 収集した JSON を生成
    - CSV の企業情報（全カラム）と positions 配列をマージ
    - `japan-positions-partial.json` に**上書き保存**
    - 保存形式は最終出力と同じ JSON 形式
@@ -288,7 +392,12 @@ for 企業データ in 処理対象企業リスト:
         "techstack": ["Go", "Kubernetes"],
         "link": "https://...",
         "is_internship": false,
-        "is_permanent_employee": true
+        "is_permanent_employee": true,
+        "japanese_not_required": false,
+        "english_position": false,
+        "salary_min": 6000000,
+        "salary_max": 1000000,
+        "high_salary": false
       }
     ]
   },
@@ -298,7 +407,7 @@ for 企業データ in 処理対象企業リスト:
     "description": "...",
     "description_en": "...",
     "sales": 7200,
-    ...
+    "foreign_engineers": false,
     "positions": [...]
   },
   "_metadata": {
@@ -309,7 +418,24 @@ for 企業データ in 処理対象企業リスト:
 }
 ```
 
-### ステップ 6: 最終 JSON 出力
+**データ型の注意:**
+
+- 必ず `{` で始まり `}` で終わる有効な JSON オブジェクトを生成してください
+- 入力として受け取った企業情報の**全フィールド**を出力に含めてください
+- **データ型を正確に保持**してください:
+  - `sales`: 整数型（ダブルクォート不要、例: 1700, -1）
+  - `foreign_engineers`: boolean 型（ダブルクォート不要、例: true, false）
+  - `salary_min`: 整数型（例: 6000000, -1）
+  - `salary_max`: 整数型（例: 10000000, -1）
+  - `is_internship`: boolean 型
+  - `is_permanent_employee`: boolean 型
+  - `japanese_not_required`: boolean 型
+  - `english_position`: boolean 型
+  - `high_salary`: boolean 型
+  - その他: 文字列型
+- positions 配列に収集した求人情報を格納してください
+
+### ステップ 7: 最終 JSON 出力
 
 **全ての企業の処理が完了した場合のみ**、最終結果を出力します。
 
@@ -337,7 +463,12 @@ for 企業データ in 処理対象企業リスト:
         "techstack": ["Go", "Kubernetes"],
         "link": "https://...",
         "is_internship": false,
-        "is_permanent_employee": true
+        "is_permanent_employee": true,
+        "japanese_not_required": false,
+        "english_position": false,
+        "salary_min": 8000000,
+        "salary_max": 15000000,
+        "high_salary": false
       }
     ]
   },
@@ -351,6 +482,13 @@ for 企業データ in 処理対象企業リスト:
 
 - `sales`: 整数型（例: 1700, 7200, -1）
 - `foreign_engineers`: boolean 型（true/false）
+- `salary_min`: 整数型（例: 6000000, -1）
+- `salary_max`: 整数型（例: 10000000, -1）
+- `is_internship`: boolean 型
+- `is_permanent_employee`: boolean 型
+- `japanese_not_required`: boolean 型
+- `english_position`: boolean 型
+- `high_salary`: boolean 型
 - その他: 文字列型
 
 **出力処理:**
@@ -366,7 +504,7 @@ for 企業データ in 処理対象企業リスト:
 - `japan-positions-partial.json` のみ保持
 - 次回実行時に続きから処理
 
-### ステップ 7: 完了サマリーの表示
+### ステップ 8: 完了サマリーの表示
 
 処理完了後、以下の形式でサマリーを表示します：
 
@@ -418,11 +556,92 @@ for 企業データ in 処理対象企業リスト:
 - `sales` カラムが整数に変換できない場合は -1 として扱う
 - `foreign_engineers` カラムが boolean でない場合は false として扱う
 
-### サブエージェント失敗時
+### 接続エラー
 
-- エラーをログに記録
-- gathering-todo.md を `- [!]` で更新
-- 他の企業の処理は継続
+企業の求人ページに接続できない場合：
+
+```json
+{
+  "{正規化された企業キー}": {
+    "company_name_ja": "${入力値}",
+    "company_name_en": "${入力値}",
+    "description": "${入力値}",
+    "description_en": "${入力値}",
+    "hiring_url": "${入力値}",
+    "num_of_employees": "${入力値}",
+    "sales": ${入力値（整数型）},
+    "foreign_engineers": ${入力値（boolean型）},
+    "logo_url": "${入力値}",
+    "company_url": "${入力値}",
+    "positions": [],
+    "error": "CONNECTION_ERROR",
+    "error_message": "Failed to connect to ${url} after retry"
+  }
+}
+```
+
+### ページ構造解析失敗
+
+```json
+{
+  "{正規化された企業キー}": {
+    "company_name_ja": "${入力値}",
+    "company_name_en": "${入力値}",
+    "description": "${入力値}",
+    "description_en": "${入力値}",
+    "hiring_url": "${入力値}",
+    "num_of_employees": "${入力値}",
+    "sales": ${入力値（整数型）},
+    "foreign_engineers": ${入力値（boolean型）},
+    "logo_url": "${入力値}",
+    "company_url": "${入力値}",
+    "positions": [],
+    "error": "PARSE_ERROR",
+    "error_message": "Failed to parse job listings from ${url}"
+  }
+}
+```
+
+### 求人情報なし
+
+企業ページにエンジニア関連の求人が見つからない場合、空の配列を返します：
+
+```json
+{
+  "{正規化された企業キー}": {
+    "company_name_ja": "${入力値}",
+    "company_name_en": "${入力値}",
+    "description": "${入力値}",
+    "description_en": "${入力値}",
+    "hiring_url": "${入力値}",
+    "num_of_employees": "${入力値}",
+    "sales": ${入力値（整数型）},
+    "foreign_engineers": ${入力値（boolean型）},
+    "logo_url": "${入力値}",
+    "company_url": "${入力値}",
+    "positions": []
+  }
+}
+```
+
+### タイムアウト
+
+30 秒を超える処理は中断し、取得済みの情報のみを返します：
+
+```json
+{
+  "{正規化された企業キー}": {
+    "company_name_ja": "${入力値}",
+    "company_name_en": "${入力値}",
+    ...（入力の全フィールド、データ型保持）,
+    "positions": [
+      ...取得済みの求人情報...
+    ],
+    "_warning": "PARTIAL_RESULT",
+    "_warning_message": "Processing timed out. Returning partial results."
+  }
+}
+```
 
 ### 部分的な失敗
 
@@ -448,6 +667,9 @@ for 企業データ in 処理対象企業リスト:
   → 100社のデータを検出
 
 📝 gathering-todo.md を作成中...
+
+🔍 Playwright MCP の確認中...
+  ✅ 利用可能
 
 🚀 求人情報収集を開始...
   → 100社を順次処理中...
@@ -496,6 +718,9 @@ for 企業データ in 処理対象企業リスト:
 
 📝 gathering-todo.md を作成中...
 
+🔍 Playwright MCP の確認中...
+  ✅ 利用可能
+
 🚀 求人情報収集を開始...
   → 最大10社を処理中...
 
@@ -535,7 +760,7 @@ for 企業データ in 処理対象企業リスト:
 
 ## 注意事項
 
-1. **即時更新**: サブエージェント完了後は即座に TODO を更新
+1. **即時更新**: 各企業の処理完了後は即座に TODO を更新
 2. **中間保存**: 途中結果は常に `japan-positions-partial.json` に保存
 3. **順次処理**: ブラウザ競合を避けるため 1 社ずつ処理（並行実行禁止）
 4. **遅延設定**: 各リクエスト間に 1-3 秒の遅延を入れる
@@ -570,18 +795,9 @@ JSON出力:
 }
 ```
 
-### 企業キーの正規化ルール
-
-`company_name_en` を以下のルールで正規化してキーとします：
-
-- 小文字に変換
-- スペース・記号を削除
-- 例: "Mercari" → "mercari", "LY Corporation" → "lycorporation"
-
 ## 依存関係
 
-- `gather-company-position-info` サブエージェント
-- Playwright MCP または Chrome MCP
+- Playwright MCP (`mcp__playwright__*`)
 
 ## オプション機能
 
