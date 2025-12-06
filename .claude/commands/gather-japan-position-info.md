@@ -6,7 +6,7 @@ tools: Read, Write, Bash, mcp__playwright__*
 
 # タスク: 日本のソフトウェアエンジニア求人情報収集
 
-企業情報 CSV を受け取り、各企業の採用ページからエンジニア関連の求人情報を収集して JSON 形式で出力します。
+企業情報 CSV を受け取り、各企業の採用ページから求人一覧を取得して JSON 形式で出力します。ポジション詳細画面には遷移せず、一覧ページから取得可能な情報のみを収集します。
 
 ## 引数
 
@@ -35,7 +35,7 @@ company_name_ja,company_name_en,description,description_en,hiring_url,num_of_emp
 
 **データ型:**
 
-- `sales`: 整数型（億円単位、非公開の場合は -1）
+- `sales`: 整数型（非公開の場合は -1）
 - `foreign_engineers`: boolean 型（TRUE/FALSE）
 - その他: 文字列型
 
@@ -297,18 +297,19 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 - Sales, Marketing, HR, Finance, Legal, Admin
 - 営業, マーケティング, 人事, 経理, 法務, 総務
 
-**5.3: 関連ページへの遷移（必要に応じて）**
+**5.3: 求人一覧ページからの情報収集**
 
-求人一覧ページから各求人の詳細ページへ遷移し、以下の情報を収集してください：
+求人一覧ページ(CSV の hiring_url)から以下の情報を収集してください。ポジション詳細ページへの遷移は不要です。
+
+**収集する情報:**
 
 1. **求人タイトル** (name)
 2. **求人説明** (description)
+   - 一覧ページに表示されている説明文のみ
    - 最大 500 文字
    - 500 文字を超える場合は末尾を "..." で切り詰め
 3. **技術スタック** (techstack)
-   - 求人詳細ページから以下を探す:
-     - "Required Skills", "技術スタック", "使用技術" セクション
-     - "Requirements", "必須スキル" セクション内の技術キーワード
+   - 一覧ページに表示されている技術キーワードを抽出
    - 抽出対象例: Python, JavaScript, Go, Java, Ruby, TypeScript,
      React, Vue, Angular, Node.js, Django, Rails, AWS, GCP, Azure,
      Kubernetes, Docker, PostgreSQL, MySQL, MongoDB, Redis 等
@@ -317,35 +318,36 @@ Playwright MCP を使用して、指定された URL のページを取得しま
      - `k8s` → `Kubernetes`
      - `postgres` → `PostgreSQL`
      - `react.js` → `React`
+   - 見つからない場合は空の配列
 4. **求人ページへのリンク** (link)
-5. **インターンシップかどうか** (is_internship)
-   - キーワード: Intern, Internship, インターン
-6. **正社員かどうか** (is_permanent_employee)
-   - キーワード: Full-time, Permanent, 正社員, 正規雇用
-7. **日本語不要フラグ** (japanese_not_required)
-   - 日本語が不要であることを示すキーワード: "No Japanese required", "English only", "日本語不要", "英語のみ"
-   - 見つからない場合は false
-8. **英語求人フラグ** (english_position)
-   - 英語での求人であることを示す特徴: ページ全体が英語、"English position", "Global team"
-   - 見つからない場合は false
-9. **給与下限** (salary_min)
-   - 年収の下限額を抽出（例: "年収 600 万円〜1000 万円" → 6000000）
-   - 見つからない場合は -1
-10. **給与上限** (salary_max)
-    - 単位: 万円
-    - 年収の上限額を抽出（例: "年収 600 万円〜1000 万円" → 10000000）
-    - 見つからない場合は -1
-11. **高給フラグ** (high_salary)
-    - 給与下限が 1000 万円以上の場合は true
-    - それ以外は false
+
+**フィルタリング機能の活用:**
+
+- 求人一覧ページにフィルタリング機能がある場合は活用してください
+- 例: 職種でエンジニア関連のみを絞り込む
+- 例: 勤務地で日本を絞り込む
+
+**ページング処理:**
+
+- 求人一覧が複数ページにわたる場合、最終ページまで処理してください
+- 「次へ」「Next」等のページング要素を検出して遷移
+- 最終ページに到達したら処理を終了
 
 **処理の注意点:**
 
-- 求人が複数ページにわたる場合、各詳細ページに遷移して情報を取得
-- 詳細ページから一覧に戻る際はブラウザの「戻る」機能を使用
-- 給与情報は求人詳細ページから抽出（例: "年収 600〜1000 万円"、"Annual salary: 6M-10M JPY"）
-- 網羅的に漏れなく情報を取得する必要がある
-- 日本語不要・英語求人の判定は求人ページの言語とキーワードから判断
+- ポジション詳細ページへの遷移は不要です
+- 一覧ページから取得可能な情報のみを収集してください
+- 求人数が多い場合でも、全ての求人を探索対象としてください。勝手な判断で途中で処理を打ち切ることをしないでください
+- これは統計情報として扱われるため、少なくともポジション数は正確に把握する必要があります
+
+**【重要】全件取得の原則:**
+
+- **省略・サンプリング禁止**: 「代表的な求人」「主要な求人」などの判断で一部のみを取得することは禁止。必ず全件取得すること
+- **確認ルール**: 以下の場合は作業を進める前にユーザーに報告し確認を取ること
+  - ページに表示されている求人総数と、実際に取得した件数に差異がある場合
+  - ページネーションや「もっと見る」ボタンがあり、全件表示されていない可能性がある場合
+  - フィルタリング後の件数が想定より著しく少ない場合（例: エンジニア求人が0件）
+- **完了基準**: 各企業について、取得可能な全てのエンジニア求人を取得したことを確認してから次の企業に進むこと
 
 ### ステップ 6: 結果の収集と TODO 更新
 
@@ -388,16 +390,15 @@ Playwright MCP を使用して、指定された URL のページを取得しま
     "positions": [
       {
         "name": "Backend Engineer",
-        "description": "...",
+        "description": "We are looking for backend engineers...",
         "techstack": ["Go", "Kubernetes"],
-        "link": "https://...",
-        "is_internship": false,
-        "is_permanent_employee": true,
-        "japanese_not_required": false,
-        "english_position": false,
-        "salary_min": 6000000,
-        "salary_max": 1000000,
-        "high_salary": false
+        "link": "https://careers.mercari.com/jp/jobs/123"
+      },
+      {
+        "name": "iOS Engineer",
+        "description": "Join our iOS team...",
+        "techstack": ["Swift", "iOS"],
+        "link": "https://careers.mercari.com/jp/jobs/124"
       }
     ]
   },
@@ -425,13 +426,6 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 - **データ型を正確に保持**してください:
   - `sales`: 整数型（ダブルクォート不要、例: 1700, -1）
   - `foreign_engineers`: boolean 型（ダブルクォート不要、例: true, false）
-  - `salary_min`: 整数型（例: 6000000, -1）
-  - `salary_max`: 整数型（例: 10000000, -1）
-  - `is_internship`: boolean 型
-  - `is_permanent_employee`: boolean 型
-  - `japanese_not_required`: boolean 型
-  - `english_position`: boolean 型
-  - `high_salary`: boolean 型
   - その他: 文字列型
 - positions 配列に収集した求人情報を格納してください
 
@@ -459,16 +453,9 @@ Playwright MCP を使用して、指定された URL のページを取得しま
     "positions": [
       {
         "name": "Backend Engineer",
-        "description": "...",
+        "description": "We are looking for backend engineers...",
         "techstack": ["Go", "Kubernetes"],
-        "link": "https://...",
-        "is_internship": false,
-        "is_permanent_employee": true,
-        "japanese_not_required": false,
-        "english_position": false,
-        "salary_min": 8000000,
-        "salary_max": 15000000,
-        "high_salary": false
+        "link": "https://careers.mercari.com/jp/jobs/123"
       }
     ]
   },
@@ -482,13 +469,6 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 
 - `sales`: 整数型（例: 1700, 7200, -1）
 - `foreign_engineers`: boolean 型（true/false）
-- `salary_min`: 整数型（例: 6000000, -1）
-- `salary_max`: 整数型（例: 10000000, -1）
-- `is_internship`: boolean 型
-- `is_permanent_employee`: boolean 型
-- `japanese_not_required`: boolean 型
-- `english_position`: boolean 型
-- `high_salary`: boolean 型
 - その他: 文字列型
 
 **出力処理:**
@@ -768,6 +748,7 @@ Playwright MCP を使用して、指定された URL のページを取得しま
 6. **段階的実行**: 大量の企業を処理する場合は `--max-companies` で分割実行を推奨
 7. **CSV 情報の保持**: CSV の全カラム情報を出力 JSON に含める
 8. **データ型の保持**: sales は整数型、foreign_engineers は boolean 型として扱う
+9. **一覧ページのみ**: ポジション詳細ページへの遷移は不要
 
 ## データ構造の詳細
 
