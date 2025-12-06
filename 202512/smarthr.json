@@ -1,0 +1,236 @@
+{
+  "company_name_ja": "SmartHR",
+  "company_name_en": "SmartHR",
+  "description": "クラウド人事労務ソフト国内シェアNo.1。入退社手続き・年末調整・給与明細をペーパーレス化し従業員データを一元管理。人事評価・サーベイ・配置シミュレーション等タレントマネジメントにも拡張。NEXTユニコーン企業に2019年から継続選出。10以上のプロダクトでRuby on Railsを採用しプロダクト志向のエンジニアが活躍。",
+  "description_en": "#1 market share for cloud HR software in Japan. Digitizes onboarding/offboarding, year-end tax adjustments, and pay slips while centralizing employee data. Expanded into talent management including performance reviews, surveys, and placement simulations. Continuously selected as NEXT Unicorn since 2019. Employs Ruby on Rails across 10+ products with product-oriented engineers thriving.",
+  "hiring_url": "https://smarthr.co.jp/recruit/",
+  "num_of_employees": "1000+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/smarthr.co.jp",
+  "company_url": "https://smarthr.co.jp/",
+  "positions": [
+    {
+      "name": "【時短勤務可】ウェブアプリケーションエンジニア（オープンポジション バックエンド）",
+      "description": "短時間勤務で育児と両立しながらキャリアを発展させたい方を対象としたバックエンドエンジニアポジション",
+      "techstack": ["Ruby on Rails", "TypeScript", "React"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/115913"
+    },
+    {
+      "name": "データ連携エンジニア（プラットフォーム領域）",
+      "description": "データ連携プロダクトの開発およびSmartHRと外部サービスの連携開発を担当",
+      "techstack": ["Ruby", "TypeScript", "API"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/115618"
+    },
+    {
+      "name": "AI開発部・プレイングマネージャー候補",
+      "description": "AI（ML/LLM）を利用した機能の各プロダクトへの導入およびAIプロダクトの立ち上げを担当",
+      "techstack": ["Python", "Machine Learning", "LLM"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/113356"
+    },
+    {
+      "name": "CRE（プロダクト改善）",
+      "description": "SmartHRというプロダクトを安心・信頼して使ってもらえることに貢献するCREポジション",
+      "techstack": ["Ruby on Rails", "TypeScript"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/113448"
+    },
+    {
+      "name": "CRE（Observability）",
+      "description": "社として把握しているお客様の状況の信頼性を高めるCREポジション",
+      "techstack": ["Ruby on Rails", "Observability"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/113443"
+    },
+    {
+      "name": "新卒プロダクトエンジニア（2027年入社）",
+      "description": "HR領域のB2B SaaS企業として急成長を続けるSmartHRのウェブアプリケーションエンジニア",
+      "techstack": ["Ruby on Rails", "TypeScript", "React"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/112855"
+    },
+    {
+      "name": "新卒採用MLエンジニア（2027年入社）",
+      "description": "ML/LLMを用いた研究から本番運用までを推進し、新しい価値を生み出す",
+      "techstack": ["Python", "Machine Learning", "LLM"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/110283"
+    },
+    {
+      "name": "バックエンドエンジニア（スマホアプリ開発チーム）",
+      "description": "スマホアプリのバックエンド連携機能の開発、既存機能の改修、保守・運用",
+      "techstack": ["Ruby on Rails", "API", "iOS", "Android"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/112050"
+    },
+    {
+      "name": "【業務委託】ウェブアプリケーションエンジニア_フルスタック（プラットフォーム領域）",
+      "description": "アプリストアに関連する機能全般を開発。SmartHR APIを活用したパートナー向け機能開発も担当",
+      "techstack": ["Ruby on Rails", "TypeScript", "React"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/111340"
+    },
+    {
+      "name": "シニアウェブアプリケーションエンジニア（情シス領域_バックエンド）",
+      "description": "ID管理を始めとした外部サービスとの連携強化、情シス領域向け新規プロダクトの開発",
+      "techstack": ["Ruby on Rails", "TypeScript"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/108623"
+    },
+    {
+      "name": "シニアウェブアプリケーションエンジニア（タレントマネジメント領域_バックエンド）",
+      "description": "タレントマネジメント領域のプロダクト開発における設計やパフォーマンス改善のリード",
+      "techstack": ["Ruby on Rails", "TypeScript"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/108608"
+    },
+    {
+      "name": "AI専任チーム・エンジニアリングマネージャー候補",
+      "description": "AI（ML/LLM）を利用した機能の各プロダクトへの導入を担当するチームのEM",
+      "techstack": ["Python", "Machine Learning", "LLM"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/108588"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（勤怠管理領域 フロントエンド）",
+      "description": "プロダクト間の連携や共通化を行い、ユーザー価値の最大化に取り組むフロントエンドエンジニア",
+      "techstack": ["TypeScript", "React"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/116041"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（勤怠管理領域 バックエンド）",
+      "description": "プロダクト間の連携や共通化を行い、ユーザー価値の最大化に取り組むバックエンドエンジニア",
+      "techstack": ["Ruby on Rails"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/107509"
+    },
+    {
+      "name": "Embedded SRE（労務領域）",
+      "description": "データベースをはじめとしたインフラ〜アプリケーションレイヤーの構成やパフォーマンスの改善",
+      "techstack": ["SRE", "AWS", "Kubernetes"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/107412"
+    },
+    {
+      "name": "Developer Enablement",
+      "description": "エンジニア向けの学習機会の提供、キャリアサポート、技術広報、採用などを担当",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/106720"
+    },
+    {
+      "name": "品質保証エンジニア（PjM /アプリストア事業）",
+      "description": "SmartHR Plusの掲載アプリ審査業務ディレクション",
+      "techstack": ["QA", "Security"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/106794"
+    },
+    {
+      "name": "エンジニアリングマネージャー候補",
+      "description": "プロダクトエンジニアグループにおけるマネジメント候補ポジション",
+      "techstack": ["Ruby on Rails", "TypeScript"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/106604"
+    },
+    {
+      "name": "プラットフォームエンジニア（プロダクト横断基盤領域 バックエンド）",
+      "description": "プロダクト間の連携や共通化を行い、ユーザー価値の最大化に取り組むバックエンドエンジニア",
+      "techstack": ["Ruby on Rails", "TypeScript"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/103872"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（従業員ポータル領域 バックエンド）",
+      "description": "従業員が自身の情報を管理し、各種手続きを効率的に行うセルフサービスプラットフォームの開発",
+      "techstack": ["Ruby on Rails"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/103874"
+    },
+    {
+      "name": "MLOpsエンジニア",
+      "description": "AI（ML/LLM）を利用した機能を開発する際の基盤を構築、運用",
+      "techstack": ["Python", "MLOps", "Kubernetes"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/103563"
+    },
+    {
+      "name": "プロダクトセキュリティエンジニア (PSIRTユニット)",
+      "description": "マルチプロダクトで急成長するプロダクト全体のセキュリティ向上に関する活動",
+      "techstack": ["Security", "Ruby on Rails"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/101725"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（AI専任チーム）",
+      "description": "AI（ML/LLM）を利用した機能の各プロダクトへの導入およびAIプロダクトの立ち上げ",
+      "techstack": ["Python", "Ruby on Rails", "Machine Learning"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/101511"
+    },
+    {
+      "name": "シニアSRE",
+      "description": "マルチプロダクトで急成長するプロダクト全体の信頼性やパフォーマンスを改善",
+      "techstack": ["SRE", "AWS", "Kubernetes", "Terraform"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/98449"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（チーフ候補）",
+      "description": "プロダクトエンジニアグループにおけるプレイングマネージャー向けポジション",
+      "techstack": ["Ruby on Rails", "TypeScript"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/98237"
+    },
+    {
+      "name": "プロジェクトマネージャー（API連携・パートナー支援）",
+      "description": "プラットフォーム事業部のパートナーアライアンス専任の技術サポート",
+      "techstack": ["API"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/96535"
+    },
+    {
+      "name": "MLエンジニア",
+      "description": "ML/LLMを利用したプロダクトの実験および本番環境への実装を推進",
+      "techstack": ["Python", "Machine Learning", "LLM"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/75924"
+    },
+    {
+      "name": "シニアウェブアプリケーションエンジニア（労務領域_バックエンド）",
+      "description": "SmartHR基本機能における機能開発時の設計やパフォーマンス改善のリード",
+      "techstack": ["Ruby on Rails"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/83919"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（労務領域 バックエンド）",
+      "description": "人事・労務領域プロダクトのバックエンドエンジニア。新機能開発や既存機能の改修",
+      "techstack": ["Ruby on Rails"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/82193"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（タレントマネジメント領域 バックエンド）",
+      "description": "タレントマネジメント領域プロダクトのバックエンドエンジニア",
+      "techstack": ["Ruby on Rails"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/82188"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（タレントマネジメント領域 フロントエンド）",
+      "description": "タレントマネジメント領域プロダクトのフロントエンドエンジニア",
+      "techstack": ["TypeScript", "React"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/82220"
+    },
+    {
+      "name": "シニアプラットフォームエンジニア（プロダクト横断基盤 バックエンド）",
+      "description": "マルチプロダクト戦略を支える基盤を構築するチームでの開発",
+      "techstack": ["Ruby on Rails", "TypeScript"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/79794"
+    },
+    {
+      "name": "QAエンジニア（チーフ候補）",
+      "description": "品質保証活動およびチームの方針策定・遂行、メンバーの目標設定・評価・育成",
+      "techstack": ["QA", "Test Automation"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/83193"
+    },
+    {
+      "name": "QAエンジニア",
+      "description": "ソフトウェアテストを通じて、仕様やUI/UXを含め品質保証活動を行う",
+      "techstack": ["QA", "Test Automation"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/45053"
+    },
+    {
+      "name": "アクセシビリティスペシャリスト（シニア）",
+      "description": "SmartHR製品のアクセシビリティ向上を担う",
+      "techstack": ["Accessibility", "TypeScript"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/68110"
+    },
+    {
+      "name": "アクセシビリティエンジニア（シニア）",
+      "description": "SmartHRの製品のアクセシビリティに責任を持ち、開発チームと協働して向上",
+      "techstack": ["Accessibility", "TypeScript", "React"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/87404"
+    },
+    {
+      "name": "オープンポジション（エンジニア/デザイナー/PdM 等）",
+      "description": "プロダクト開発にご興味がある方を広く募集。経歴と意向に沿ってポジションを検討",
+      "techstack": ["Ruby on Rails", "TypeScript", "React"],
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/45055"
+    }
+  ]
+}

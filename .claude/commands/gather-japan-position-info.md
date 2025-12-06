@@ -11,18 +11,19 @@ tools: Read, Write, Bash, mcp__playwright__*
 ## 引数
 
 ```
-/gather-japan-position-info [CSVファイルパス] [--from N --to M]
+/gather-japan-position-info [CSVファイルパス] [yyyymm] [--from N --to M]
 ```
 
 - **CSV ファイルパス**: デフォルト `company_list.csv`
+- **yyyymm**: 出力先フォルダ名（例: `202412`）、必須
 - **--from N**: 処理開始位置（1 始まり）、省略時は 1
 - **--to M**: 処理終了位置（1 始まり、この位置を含む）、省略時は全件
 
 例:
 
-- `/gather-japan-position-info` - 全件処理
-- `/gather-japan-position-info --from 1 --to 10` - 1〜10 番目を処理
-- `/gather-japan-position-info --from 11 --to 20` - 11〜20 番目を処理
+- `/gather-japan-position-info company_list.csv 202412` - 全件処理、202412 フォルダに出力
+- `/gather-japan-position-info company_list.csv 202412 --from 1 --to 10` - 1〜10 番目を処理
+- `/gather-japan-position-info company_list.csv 202501 --from 11 --to 20` - 11〜20 番目を処理
 
 ## CSV 形式
 
@@ -40,6 +41,8 @@ tools: Read, Write, Bash, mcp__playwright__*
 
 - CSV ファイルの存在確認
 - 必須カラムの確認
+- `yyyymm` が指定されているか確認（必須）
+- `yyyymm` フォルダが存在しない場合は作成
 - `--from` は 1 以上、`--to` は `--from` 以上
 - `--to` のみ指定は不可
 
@@ -178,13 +181,7 @@ CSV の全カラム情報 + positions 配列を保存:
 
 データ型保持: `sales`は整数、`foreign_engineers`は boolean
 
-### 7. 最終出力
-
-**全件完了時のみ** `japan-positions.json` を作成（`_metadata`を削除）
-
-範囲指定時は `japan-positions-partial.json` のみ保持
-
-### 8. 完了サマリー
+### 7. 完了サマリー
 
 範囲指定時:
 
@@ -198,6 +195,7 @@ CSV の全カラム情報 + positions 配列を保存:
 - 失敗: {失敗数}社
 - 今回取得ポジション数: {件数}件
 
+出力先: {yyyymm}/ フォルダ
 全体進捗: {完了数}/{総数}社完了
 ```
 
@@ -212,39 +210,45 @@ CSV の全カラム情報 + positions 配列を保存:
 - 失敗: {失敗数}社
 - 取得ポジション総数: {件数}件
 
-出力ファイル: japan-positions.json
+出力先: {yyyymm}/ フォルダ（{成功数}個のJSONファイル）
 ```
 
 ## エラーハンドリング
 
-**接続エラー:**
+**接続エラー時の個別 JSON ファイル:**
+
+`{yyyymm}/{企業キー}.json`:
 
 ```json
 {
-  "{key}": {
-    ...全CSVフィールド,
-    "positions": [],
-    "error": "CONNECTION_ERROR",
-    "error_message": "Failed to connect"
-  }
+  "company_name_ja": "...",
+  "company_name_en": "...",
+  "sales": 1700,
+  "foreign_engineers": true,
+  ...全CSVフィールド,
+  "positions": [],
+  "error": "CONNECTION_ERROR",
+  "error_message": "Failed to connect"
 }
 ```
 
-**パースエラー:**
+**パースエラー時の個別 JSON ファイル:**
+
+`{yyyymm}/{企業キー}.json`:
 
 ```json
 {
-  "{key}": {
-    ...全CSVフィールド,
-    "positions": [],
-    "error": "PARSE_ERROR",
-    "error_message": "Failed to parse listings"
-  }
+  "company_name_ja": "...",
+  "company_name_en": "...",
+  ...全CSVフィールド,
+  "positions": [],
+  "error": "PARSE_ERROR",
+  "error_message": "Failed to parse listings"
 }
 ```
 
 **タイムアウト:**
-取得済みの情報のみ返し、`_warning: "PARTIAL_RESULT"` を追加
+取得済みの情報のみ返し、`"_warning": "PARTIAL_RESULT"` を追加
 
 ## 重要事項
 

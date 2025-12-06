@@ -1,0 +1,110 @@
+{
+  "company_name_ja": "GMOインターネット",
+  "company_name_en": "GMO Internet",
+  "description": "ドメイン・レンタルサーバーで国内大手のインターネットインフラ企業。インフラ・広告・金融・暗号資産の4事業を展開し連結売上高2774億円（2024年度）。クリエイター・エンジニア比率50.7%で60%を目標に技術力を強化中。「AIで未来を創るNo.1企業グループ」を目指しAI・ロボティクス分野にも積極投資。開発・運用・サポート・販売を一貫して自社で行う。",
+  "description_en": "Major Japanese internet infrastructure company in domains and rental servers. Operates four business segments: infrastructure, advertising, finance, and cryptocurrency, with consolidated revenue of 277.4 billion yen (FY2024). Creator/engineer ratio at 50.7%, targeting 60% to strengthen technical capabilities. Aims to be \"#1 company group creating the future with AI\" with active investment in AI and robotics. Handles development, operations, support, and sales entirely in-house.",
+  "hiring_url": "https://recruit.gmo.jp/",
+  "num_of_employees": "7000+",
+  "sales": 250000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/gmo.jp",
+  "company_url": "https://www.gmo.jp/",
+  "positions": [
+    {
+      "name": "ロボットエンジニア",
+      "description": "Webアプリケーションエンジニアとしてロボット開発に従事",
+      "techstack": ["Web Application", "Robotics"],
+      "link": "https://recruit.group.gmo/careers/detail/256/"
+    },
+    {
+      "name": "情報システム部門 マネージャー候補",
+      "description": "インフラエンジニアとして情報システム部門のマネジメント",
+      "techstack": ["Infrastructure", "System Administration"],
+      "link": "https://recruit.group.gmo/careers/detail/258/"
+    },
+    {
+      "name": "エンジニアオープン【東京】",
+      "description": "Webアプリケーションエンジニア（東京勤務）",
+      "techstack": ["Web Application"],
+      "link": "https://recruit.group.gmo/careers/detail/13/"
+    },
+    {
+      "name": "エンジニアオープン【大阪】",
+      "description": "Webアプリケーションエンジニア（大阪勤務）",
+      "techstack": ["Web Application"],
+      "link": "https://recruit.group.gmo/careers/detail/52/"
+    },
+    {
+      "name": "データサイエンティスト（マネージャー候補）",
+      "description": "データサイエンス部門のマネージャー候補",
+      "techstack": ["Data Science", "Machine Learning", "Python"],
+      "link": "https://recruit.group.gmo/careers/detail/14/"
+    },
+    {
+      "name": "データサイエンティスト",
+      "description": "データサイエンティストとしてデータ分析・機械学習を担当",
+      "techstack": ["Data Science", "Machine Learning", "Python"],
+      "link": "https://recruit.group.gmo/careers/detail/15/"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "description": "機械学習モデルの開発・運用",
+      "techstack": ["Machine Learning", "Python", "TensorFlow", "PyTorch"],
+      "link": "https://recruit.group.gmo/careers/detail/16/"
+    },
+    {
+      "name": "ベトナムブリッジエンジニア【大阪】",
+      "description": "ベトナムチームとの橋渡し役エンジニア（大阪勤務）",
+      "techstack": ["Web Application", "Bridge Engineering"],
+      "link": "https://recruit.group.gmo/careers/detail/118/"
+    },
+    {
+      "name": "ベトナムブリッジエンジニア【東京】",
+      "description": "ベトナムチームとの橋渡し役エンジニア（東京勤務）",
+      "techstack": ["Web Application", "Bridge Engineering"],
+      "link": "https://recruit.group.gmo/careers/detail/119/"
+    },
+    {
+      "name": "データサイエンティスト（フィンテック）",
+      "description": "フィンテック領域のデータサイエンティスト",
+      "techstack": ["Data Science", "Fintech", "Python"],
+      "link": "https://recruit.group.gmo/careers/detail/213/"
+    },
+    {
+      "name": "データサイエンティスト（情報系博士）",
+      "description": "情報系博士号取得者向けデータサイエンティスト",
+      "techstack": ["Data Science", "Machine Learning", "Research"],
+      "link": "https://recruit.group.gmo/careers/detail/214/"
+    },
+    {
+      "name": "データサイエンティスト（バイオインフォマティクス）【老化細胞研究/東京大学医科学研究所】",
+      "description": "東大医科研との共同研究でバイオインフォマティクスを担当",
+      "techstack": ["Bioinformatics", "Data Science", "Python"],
+      "link": "https://recruit.group.gmo/careers/detail/215/"
+    },
+    {
+      "name": "エンジニアオープン（マネージャー候補）【東京】",
+      "description": "Webアプリケーションエンジニアのマネージャー候補（東京勤務）",
+      "techstack": ["Web Application", "Management"],
+      "link": "https://recruit.group.gmo/careers/detail/223/"
+    },
+    {
+      "name": "エンジニアオープン（マネージャー候補）【大阪】",
+      "description": "Webアプリケーションエンジニアのマネージャー候補（大阪勤務）",
+      "techstack": ["Web Application", "Management"],
+      "link": "https://recruit.group.gmo/careers/detail/224/"
+    },
+    {
+      "name": "テックリード",
+      "description": "Webアプリケーション開発のテックリード（東京/大阪）",
+      "techstack": ["Web Application", "Tech Lead"],
+      "link": "https://recruit.group.gmo/careers/detail/242/"
+    },
+    {
+      "name": "テックリード（ベトナム語必須）",
+      "description": "ベトナム語スキル必須のテックリード（東京/大阪）",
+      "techstack": ["Web Application", "Tech Lead", "Vietnamese"],
+      "link": "https://recruit.group.gmo/careers/detail/243/"
+    }
+  ]
+}
