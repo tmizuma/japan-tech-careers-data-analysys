@@ -1,68 +1,105 @@
 {
   "company_name_ja": "Rapidus",
   "company_name_en": "Rapidus",
-  "logo_url": "",
+  "logo_url": "https://logo.clearbit.com/rapidus.inc",
   "company_url": "https://www.rapidus.inc/",
   "hiring_url": "https://www.rapidus.inc/recruit/",
   "positions": [
     {
       "name": "（技術開発統括部）FEOLプロセスインテグレーションエンジニア（3年以上）",
       "description": "2nm世代、及びBeyond 2nmの先端ロジック開発、主にFEOL工程のプロセスとインテグレーション開発。北海道・海外",
-      "techstack": ["Semiconductor", "Process Integration", "FEOL"],
+      "techstack": [
+        "Semiconductor",
+        "Process Integration",
+        "FEOL"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（技術開発統括部）BEOLマネージャー",
       "description": "2nm世代、及びBeyond 2nmの先端ロジック開発、主に配線形成プロセス技術開発。海外・北海道",
-      "techstack": ["Semiconductor", "BEOL", "Process Development"],
+      "techstack": [
+        "Semiconductor",
+        "BEOL",
+        "Process Development"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（技術開発統括部）BEOLプロセスインテグレーションエンジニア（3年以上）",
       "description": "2nm世代、及びBeyond 2nmの先端ロジック開発、主に配線工程のプロセスインテグレーション。北海道・海外",
-      "techstack": ["Semiconductor", "Process Integration", "BEOL"],
+      "techstack": [
+        "Semiconductor",
+        "Process Integration",
+        "BEOL"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（技術開発統括部）FEOLマネージャー",
       "description": "2nm世代、及びBeyond 2nmの先端ロジック開発における主にフロントエンドの業務。北海道・海外",
-      "techstack": ["Semiconductor", "FEOL", "Process Development"],
+      "techstack": [
+        "Semiconductor",
+        "FEOL",
+        "Process Development"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（技術開発統括部）信頼性技術エンジニア",
       "description": "2nm世代、及びBeyond 2nmの先端ロジック開発における、プロセス信頼性開発および信頼性技術開発。北海道・海外",
-      "techstack": ["Semiconductor", "Reliability Engineering"],
+      "techstack": [
+        "Semiconductor",
+        "Reliability Engineering"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（技術開発統括部）信頼性マネージャー",
       "description": "2nm世代、及びBeyond 2nmの先端ロジック開発における、製品の信頼性に関する業務。海外・北海道",
-      "techstack": ["Semiconductor", "Reliability Engineering"],
+      "techstack": [
+        "Semiconductor",
+        "Reliability Engineering"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（技術開発統括部）評価解析エンジニア",
       "description": "2nm世代、及びBeyond 2nmの先端ロジック開発における主にデバイス、論理ブロックの評価解析。北海道・海外",
-      "techstack": ["Semiconductor", "Device Evaluation", "Analysis"],
+      "techstack": [
+        "Semiconductor",
+        "Device Evaluation",
+        "Analysis"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（技術開発統括部）CMOSデバイスエンジニア",
       "description": "2nm世代、およびBeyond 2nm先端ロジック開発における、最先端CMOSトランジスタを中心としたデバイス開発。北海道・海外",
-      "techstack": ["Semiconductor", "CMOS", "Device Engineering"],
+      "techstack": [
+        "Semiconductor",
+        "CMOS",
+        "Device Engineering"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（技術開発統括部）Lithoエキスパート",
       "description": "2nm世代、及びBeyond 2nmの先端ロジック開発における主にリソグラフィの業務。北海道・海外",
-      "techstack": ["Semiconductor", "Lithography", "EUV"],
+      "techstack": [
+        "Semiconductor",
+        "Lithography",
+        "EUV"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     },
     {
       "name": "（生産管理部）半導体材料 購買管理 マネージャー／リーダー",
       "description": "半導体製造に必要な材料の購買業務全般、サプライヤとの交渉・納期管理・在庫調整。北海道",
-      "techstack": ["Semiconductor", "Supply Chain"],
+      "techstack": [
+        "Semiconductor",
+        "Supply Chain"
+      ],
       "link": "https://rapidus.link/recruit/experienced/"
     }
   ],

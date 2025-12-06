@@ -1,20 +1,37 @@
 {
   "company_name_ja": "WED",
   "company_name_en": "WED",
-  "logo_url": "",
+  "logo_url": "https://logo.clearbit.com/wed.company",
   "company_url": "https://wed.company/",
   "hiring_url": "https://herp.careers/v1/wedinc",
   "positions": [
     {
       "name": "SRE",
       "description": "ハイトラフィックなtoCサービスの運用、SLI/SLO運用、オブザーバビリティ体制構築、CI/CD改善",
-      "techstack": ["Go", "Ruby", "Python", "GCP", "GKE", "Terraform", "Datadog", "GitHub Actions"],
+      "techstack": [
+        "Go",
+        "Ruby",
+        "Python",
+        "GCP",
+        "GKE",
+        "Terraform",
+        "Datadog",
+        "GitHub Actions"
+      ],
       "link": "https://herp.careers/v1/wedinc/EHEPamMmD8Eu"
     },
     {
       "name": "ネイティブアプリエンジニア",
       "description": "レシート買取アプリONEの新機能開発・改善、パフォーマンス向上",
-      "techstack": ["Kotlin", "Swift", "Jetpack Compose", "SwiftUI", "MVVM", "Clean Architecture", "GitHub Actions"],
+      "techstack": [
+        "Kotlin",
+        "Swift",
+        "Jetpack Compose",
+        "SwiftUI",
+        "MVVM",
+        "Clean Architecture",
+        "GitHub Actions"
+      ],
       "link": "https://herp.careers/v1/wedinc/ZqQAO4knNJ8y"
     }
   ]

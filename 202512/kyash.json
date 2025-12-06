@@ -1,44 +1,88 @@
 {
   "company_name_ja": "Kyash",
   "company_name_en": "Kyash",
-  "logo_url": "",
+  "logo_url": "https://logo.clearbit.com/kyash.co",
   "company_url": "https://www.kyash.co/",
   "hiring_url": "https://www.kyash.co/recruit",
   "positions": [
     {
       "name": "【業務委託】サーバーサイドエンジニア / Serverside Engineer",
       "description": "プロダクトエンジニアリング。モバイル向けAPIサーバー及びマイクロサービスの設計・開発・運用、Visa及びQUICPay決済システムの開発",
-      "techstack": ["Go", "AWS", "PostgreSQL", "MySQL", "Redis", "Terraform", "Docker", "Datadog"],
+      "techstack": [
+        "Go",
+        "AWS",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Terraform",
+        "Docker",
+        "Datadog"
+      ],
       "link": "https://herp.careers/v1/kyash/lq9ZPUSE4U6s"
     },
     {
       "name": "【正社員】iOSエンジニア / iOS Engineer",
       "description": "プロダクトエンジニアリング。デジタルウォレットアプリ「Kyash」のiOSアプリの開発全般",
-      "techstack": ["iOS", "Swift"],
+      "techstack": [
+        "iOS",
+        "Swift"
+      ],
       "link": "https://herp.careers/v1/kyash/P6zjeNH5sFg8"
     },
     {
       "name": "【正社員】SRE / Site Reliability Engineer",
       "description": "プロダクトエンジニアリング。マイクロサービス実行環境の設計・構築・運用、CI/CD環境およびデプロイフローの設計・開発・運用",
-      "techstack": ["Go", "AWS", "ECS", "Fargate", "Lambda", "PostgreSQL", "Redis", "Terraform", "Docker", "Datadog"],
+      "techstack": [
+        "Go",
+        "AWS",
+        "ECS",
+        "Fargate",
+        "Lambda",
+        "PostgreSQL",
+        "Redis",
+        "Terraform",
+        "Docker",
+        "Datadog"
+      ],
       "link": "https://herp.careers/v1/kyash/UGgDtbzCGPkE"
     },
     {
       "name": "【正社員】サーバーサイドエンジニア / Serverside Engineer",
       "description": "プロダクトエンジニアリング。モバイル向けAPIサーバー及びマイクロサービスの設計・開発・運用、決済システムの開発",
-      "techstack": ["Go", "AWS", "PostgreSQL", "MySQL", "Redis", "Terraform", "Docker", "Datadog"],
+      "techstack": [
+        "Go",
+        "AWS",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Terraform",
+        "Docker",
+        "Datadog"
+      ],
       "link": "https://herp.careers/v1/kyash/dqa01JLlIgu_"
     },
     {
       "name": "【正社員】サーバーサイドエンジニア（法人送金） / Serverside Engineer",
       "description": "プロダクトエンジニアリング。法人送金事業のサーバーサイド・フロントエンド全般の開発、銀行との接続システム",
-      "techstack": ["Go", "Vue.js", "JavaScript", "PostgreSQL", "AWS", "Docker", "Terraform", "Datadog"],
+      "techstack": [
+        "Go",
+        "Vue.js",
+        "JavaScript",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Terraform",
+        "Datadog"
+      ],
       "link": "https://herp.careers/v1/kyash/Zjvd6Kfo-h-i"
     },
     {
       "name": "【正社員】データアナリスト / Data analyst",
       "description": "B2C事業本部。データ基盤の維持・最適化、ユーザー行動データの分析とインサイト提供、KPI設計・モニタリング",
-      "techstack": ["Tableau", "Data Analysis"],
+      "techstack": [
+        "Tableau",
+        "Data Analysis"
+      ],
       "link": "https://herp.careers/v1/kyash/_RAyH_W-q1Y1"
     }
   ]

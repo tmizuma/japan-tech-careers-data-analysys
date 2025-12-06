@@ -414,7 +414,7 @@
     "finatext": {
       "company_name_ja": "Finatext",
       "company_name_en": "Finatext",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/finatext.com",
       "company_url": "https://finatext.com/",
       "hiring_url": "https://finatext.com/recruit/",
       "num_of_positions": 24
@@ -550,7 +550,7 @@
     "paypay": {
       "company_name_ja": "PayPay",
       "company_name_en": "PayPay",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/paypay.ne.jp",
       "company_url": "https://about.paypay.ne.jp/",
       "hiring_url": "https://about.paypay.ne.jp/career/",
       "num_of_positions": 20
@@ -558,7 +558,7 @@
     "bitflyer": {
       "company_name_ja": "ビットフライヤー",
       "company_name_en": "bitFlyer",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/bitflyer.com",
       "company_url": "https://bitflyer.com/ja-jp",
       "hiring_url": "https://bitflyer.com/ja-jp/recruit",
       "num_of_positions": 20
@@ -618,7 +618,7 @@
     "telexistence": {
       "company_name_ja": "テレイグジスタンス",
       "company_name_en": "Telexistence",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/tx-inc.com",
       "company_url": "https://tx-inc.com/",
       "hiring_url": "https://tx-inc.com/en/career/",
       "num_of_positions": 18
@@ -788,7 +788,7 @@
     "synspective": {
       "company_name_ja": "シンスペクティブ",
       "company_name_en": "Synspective",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/synspective.com",
       "company_url": "https://synspective.com/",
       "hiring_url": "https://synspective.com/recruit/",
       "num_of_positions": 15
@@ -809,7 +809,7 @@
     "coincheck": {
       "company_name_ja": "コインチェック",
       "company_name_en": "Coincheck",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/coincheck.com",
       "company_url": "https://coincheck.com/",
       "hiring_url": "https://corporate.coincheck.com/recruit/jobsearch/engineering",
       "num_of_positions": 14
@@ -926,7 +926,7 @@
     "hashport": {
       "company_name_ja": "ハッシュポート",
       "company_name_en": "HashPort",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/hashport.io",
       "company_url": "https://hashport.io/",
       "hiring_url": "https://hashport.io/recruit/",
       "num_of_positions": 10
@@ -934,7 +934,7 @@
     "rapidus": {
       "company_name_ja": "Rapidus",
       "company_name_en": "Rapidus",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/rapidus.inc",
       "company_url": "https://www.rapidus.inc/",
       "hiring_url": "https://www.rapidus.inc/recruit/",
       "_note": "全18ページに渡り100件以上の求人あり。主に半導体製造関連エンジニア職",
@@ -981,7 +981,7 @@
     "groovex": {
       "company_name_ja": "GROOVE X",
       "company_name_en": "Groove X",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/groove-x.com",
       "company_url": "https://groove-x.com/",
       "hiring_url": "https://groove-x.com/recruit/",
       "num_of_positions": 9
@@ -1031,7 +1031,7 @@
     "gmofg": {
       "company_name_ja": "GMOフィナンシャルゲート",
       "company_name_en": "GMO Financial Gate",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/gmo-fg.com",
       "company_url": "https://gmo-fg.com/",
       "hiring_url": "https://hrmos.co/pages/gmo-fg/jobs",
       "num_of_positions": 8
@@ -1057,7 +1057,7 @@
     "mujin": {
       "company_name_ja": "Mujin",
       "company_name_en": "Mujin",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/mujin.co.jp",
       "company_url": "https://www.mujin.co.jp/",
       "hiring_url": "https://www.mujin.co.jp/recruit/",
       "num_of_positions": 8
@@ -1065,7 +1065,7 @@
     "ispace": {
       "company_name_ja": "アイスペース",
       "company_name_en": "ispace",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/ispace-inc.com",
       "company_url": "https://ispace-inc.com/",
       "hiring_url": "https://ispace-inc.com/jpn/careers/",
       "num_of_positions": 7
@@ -1266,7 +1266,7 @@
     "kyash": {
       "company_name_ja": "Kyash",
       "company_name_en": "Kyash",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/kyash.co",
       "company_url": "https://www.kyash.co/",
       "hiring_url": "https://www.kyash.co/recruit",
       "num_of_positions": 6
@@ -1287,7 +1287,7 @@
     "paidy": {
       "company_name_ja": "Paidy",
       "company_name_en": "Paidy",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/paidy.com",
       "company_url": "https://corp.paidy.com/",
       "hiring_url": "https://corp.paidy.com/recruit/",
       "num_of_positions": 5
@@ -1313,7 +1313,7 @@
     "kanmu": {
       "company_name_ja": "カンム",
       "company_name_en": "Kanmu",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/kanmu.co.jp",
       "company_url": "https://kanmu.co.jp/",
       "hiring_url": "https://herp.careers/v1/kanmu",
       "num_of_positions": 4
@@ -1411,7 +1411,7 @@
     "komoju": {
       "company_name_ja": "KOMOJU (Degica)",
       "company_name_en": "KOMOJU (Degica)",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/degica.com",
       "company_url": "https://ja.komoju.com/",
       "hiring_url": "https://apply.workable.com/degica-hiring/",
       "num_of_positions": 2
@@ -1458,7 +1458,7 @@
     "wed": {
       "company_name_ja": "WED",
       "company_name_en": "WED",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/wed.company",
       "company_url": "https://wed.company/",
       "hiring_url": "https://herp.careers/v1/wedinc",
       "num_of_positions": 2
@@ -1484,7 +1484,7 @@
     "nudge": {
       "company_name_ja": "ナッジ",
       "company_name_en": "Nudge",
-      "logo_url": "",
+      "logo_url": "https://logo.clearbit.com/nudge.works",
       "company_url": "https://nudge.works/",
       "hiring_url": "https://nudge.works/talents",
       "num_of_positions": 1

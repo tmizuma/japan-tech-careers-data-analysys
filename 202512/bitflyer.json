@@ -1,128 +1,180 @@
 {
   "company_name_ja": "ビットフライヤー",
   "company_name_en": "bitFlyer",
-  "logo_url": "",
+  "logo_url": "https://logo.clearbit.com/bitflyer.com",
   "company_url": "https://bitflyer.com/ja-jp",
   "hiring_url": "https://bitflyer.com/ja-jp/recruit",
   "positions": [
     {
       "name": "プロジェクトマネージャー",
       "description": "暗号資産取引サービスの開発プロジェクト管理",
-      "techstack": ["Project Management"],
+      "techstack": [
+        "Project Management"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/5"
     },
     {
       "name": "プロダクトデザイナー",
       "description": "暗号資産取引サービスのプロダクトデザイン",
-      "techstack": ["Product Design", "UI/UX"],
+      "techstack": [
+        "Product Design",
+        "UI/UX"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/34"
     },
     {
       "name": "サーバーサイドエンジニア",
       "description": "暗号資産取引サービスのサーバーサイド開発",
-      "techstack": ["Backend Development"],
+      "techstack": [
+        "Backend Development"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/60"
     },
     {
       "name": "Webフロントエンジニア",
       "description": "暗号資産取引サービスのWebフロントエンド開発",
-      "techstack": ["Frontend", "JavaScript"],
+      "techstack": [
+        "Frontend",
+        "JavaScript"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/93"
     },
     {
       "name": "iOSアプリエンジニア",
       "description": "暗号資産取引アプリのiOS開発",
-      "techstack": ["iOS", "Swift"],
+      "techstack": [
+        "iOS",
+        "Swift"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/64"
     },
     {
       "name": "Androidアプリエンジニア",
       "description": "暗号資産取引アプリのAndroid開発",
-      "techstack": ["Android", "Kotlin"],
+      "techstack": [
+        "Android",
+        "Kotlin"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/65"
     },
     {
       "name": "クラウドエンジニア",
       "description": "クラウドインフラの構築・運用",
-      "techstack": ["Cloud", "AWS", "GCP"],
+      "techstack": [
+        "Cloud",
+        "AWS",
+        "GCP"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/16"
     },
     {
       "name": "SRE",
       "description": "サービスの信頼性向上・インフラ運用",
-      "techstack": ["SRE", "Infrastructure"],
+      "techstack": [
+        "SRE",
+        "Infrastructure"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/38"
     },
     {
       "name": "脆弱性診断士",
       "description": "セキュリティ脆弱性診断業務",
-      "techstack": ["Security", "Penetration Testing"],
+      "techstack": [
+        "Security",
+        "Penetration Testing"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/40"
     },
     {
       "name": "セキュリティエンジニア",
       "description": "セキュリティ対策・運用",
-      "techstack": ["Security Engineering"],
+      "techstack": [
+        "Security Engineering"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/100"
     },
     {
       "name": "ヘルプデスク",
       "description": "社内ITヘルプデスク業務",
-      "techstack": ["IT Support", "Help Desk"],
+      "techstack": [
+        "IT Support",
+        "Help Desk"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/18"
     },
     {
       "name": "Software Engineer in Test",
       "description": "テスト自動化・品質向上",
-      "techstack": ["Test Automation", "QA"],
+      "techstack": [
+        "Test Automation",
+        "QA"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/20"
     },
     {
       "name": "QAエンジニア",
       "description": "品質保証業務",
-      "techstack": ["QA", "Testing"],
+      "techstack": [
+        "QA",
+        "Testing"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/66"
     },
     {
       "name": "Backend Engineer",
       "description": "バックエンドシステム開発",
-      "techstack": ["Backend Development"],
+      "techstack": [
+        "Backend Development"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/58"
     },
     {
       "name": "DevOps Engineer",
       "description": "DevOps環境の構築・運用",
-      "techstack": ["DevOps", "CI/CD"],
+      "techstack": [
+        "DevOps",
+        "CI/CD"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/59"
     },
     {
       "name": "IT統制",
       "description": "IT統制・ガバナンス業務",
-      "techstack": ["IT Governance"],
+      "techstack": [
+        "IT Governance"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/69"
     },
     {
       "name": "エンジニアリングマネージャー",
       "description": "エンジニアチームのマネジメント",
-      "techstack": ["Engineering Management"],
+      "techstack": [
+        "Engineering Management"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/91"
     },
     {
       "name": "データエンジニア",
       "description": "データ基盤の構築・運用",
-      "techstack": ["Data Engineering"],
+      "techstack": [
+        "Data Engineering"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/94"
     },
     {
       "name": "ネットワークエンジニア",
       "description": "ネットワークインフラの構築・運用",
-      "techstack": ["Network Engineering"],
+      "techstack": [
+        "Network Engineering"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/97"
     },
     {
       "name": "グローバル ベンダーマネジメント",
       "description": "グローバルITベンダーのマネジメント",
-      "techstack": ["Vendor Management"],
+      "techstack": [
+        "Vendor Management"
+      ],
       "link": "https://bitflyer.com/ja-jp/recruit/offers/99"
     }
   ]

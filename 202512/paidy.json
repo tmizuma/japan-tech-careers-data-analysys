@@ -1,38 +1,51 @@
 {
   "company_name_ja": "Paidy",
   "company_name_en": "Paidy",
-  "logo_url": "",
+  "logo_url": "https://logo.clearbit.com/paidy.com",
   "company_url": "https://corp.paidy.com/",
   "hiring_url": "https://corp.paidy.com/recruit/",
   "positions": [
     {
       "name": "Software Engineer",
       "description": "Engineering / IT Division",
-      "techstack": ["Software Engineering"],
+      "techstack": [
+        "Software Engineering"
+      ],
       "link": "https://corp.paidy.com/media_center/work_life/recruitment/job/7465686003"
     },
     {
       "name": "Software Engineering Team Lead",
       "description": "Engineering / IT Division",
-      "techstack": ["Software Engineering", "Leadership"],
+      "techstack": [
+        "Software Engineering",
+        "Leadership"
+      ],
       "link": "https://corp.paidy.com/media_center/work_life/recruitment/job/7465955003"
     },
     {
       "name": "Risk Engineer",
       "description": "Engineering / IT Division",
-      "techstack": ["Risk Engineering"],
+      "techstack": [
+        "Risk Engineering"
+      ],
       "link": "https://corp.paidy.com/media_center/work_life/recruitment/job/7466048003"
     },
     {
       "name": "Senior Risk Business Intelligence Engineer",
       "description": "Product Management, Credit & Fraud Risk Division",
-      "techstack": ["BI", "Risk Engineering", "Data"],
+      "techstack": [
+        "BI",
+        "Risk Engineering",
+        "Data"
+      ],
       "link": "https://corp.paidy.com/media_center/work_life/recruitment/job/7519766003"
     },
     {
       "name": "Integration Consultant",
       "description": "Sales Division. Technical integration support",
-      "techstack": ["Integration"],
+      "techstack": [
+        "Integration"
+      ],
       "link": "https://corp.paidy.com/media_center/work_life/recruitment/job/7498983003"
     }
   ]

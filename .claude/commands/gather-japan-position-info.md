@@ -171,9 +171,14 @@ CSV の全カラム情報 + positions 配列を保存:
   "mercari": {
     "company_name_ja": "メルカリ",
     "company_name_en": "Mercari",
+    "logo_url": "https://logo.clearbit.com/mercari.com",
+    "company_url": "https://about.mercari.com/",
+    "hiring_url": "https://careers.mercari.com/",
+    "description": "フリマアプリ「メルカリ」を運営",
+    "description_en": "Operates flea market app Mercari",
+    "num_of_employees": "2000+",
     "sales": 1700,
     "foreign_engineers": true,
-    ...全CSVカラム,
     "positions": [...]
   },
   "_metadata": {
@@ -183,6 +188,11 @@ CSV の全カラム情報 + positions 配列を保存:
   }
 }
 ```
+
+**【重要】CSVの全フィールドを必ず含めること:**
+- `company_name_ja`, `company_name_en`, `description`, `description_en`
+- `hiring_url`, `num_of_employees`, `sales`, `foreign_engineers`
+- `logo_url`, `company_url`
 
 データ型保持: `sales`は整数、`foreign_engineers`は boolean
 
@@ -228,9 +238,14 @@ CSV の全カラム情報 + positions 配列を保存:
 {
   "company_name_ja": "...",
   "company_name_en": "...",
+  "logo_url": "https://logo.clearbit.com/...",
+  "company_url": "https://...",
+  "hiring_url": "https://...",
+  "description": "...",
+  "description_en": "...",
+  "num_of_employees": "...",
   "sales": 1700,
   "foreign_engineers": true,
-  ...全CSVフィールド,
   "positions": [],
   "error": "CONNECTION_ERROR",
   "error_message": "Failed to connect"
@@ -245,7 +260,14 @@ CSV の全カラム情報 + positions 配列を保存:
 {
   "company_name_ja": "...",
   "company_name_en": "...",
-  ...全CSVフィールド,
+  "logo_url": "https://logo.clearbit.com/...",
+  "company_url": "https://...",
+  "hiring_url": "https://...",
+  "description": "...",
+  "description_en": "...",
+  "num_of_employees": "...",
+  "sales": 1700,
+  "foreign_engineers": true,
   "positions": [],
   "error": "PARSE_ERROR",
   "error_message": "Failed to parse listings"
