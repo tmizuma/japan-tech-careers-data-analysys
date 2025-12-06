@@ -1,0 +1,153 @@
+{
+  "company_name_ja": "Finatext",
+  "company_name_en": "Finatext",
+  "logo_url": "",
+  "company_url": "https://finatext.com/",
+  "hiring_url": "https://finatext.com/recruit/",
+  "positions": [
+    {
+      "name": "データエンジニア（ジョブチェンジ歓迎）",
+      "description": "ナウキャスト。Snowflake×dbt×Terraform。データ基盤の設計、構築、テスト、開発、保守、運用",
+      "techstack": ["Python", "dbt", "Airflow", "Snowflake", "Terraform", "AWS", "Google Cloud", "Azure"],
+      "link": "https://herp.careers/v1/finatexthd/8b5CCP9oCzpI"
+    },
+    {
+      "name": "データエンジニア",
+      "description": "ナウキャスト。フルリモート可。データ基盤の構築、データ分析、SaaS開発、生成AI関連開発",
+      "techstack": ["Python", "dbt", "Airflow", "Snowflake", "Terraform", "Vue.js", "React", "AWS"],
+      "link": "https://herp.careers/v1/finatexthd/Zed_DMxiz8cY"
+    },
+    {
+      "name": "シニアデータエンジニア",
+      "description": "ナウキャスト。フルリモート可。技術選定・設計から関与、データ基盤構築、生成AI導入支援",
+      "techstack": ["Python", "dbt", "Airflow", "Snowflake", "Terraform", "AWS", "Google Cloud", "Azure"],
+      "link": "https://herp.careers/v1/finatexthd/KhEf95X_TKvD"
+    },
+    {
+      "name": "データプラットフォームエンジニア｜Data Service",
+      "description": "ナウキャスト。Snowflake x dbt x Terraform、社内データ分析基盤の高度化や管理",
+      "techstack": ["Python", "dbt", "Airflow", "Snowflake", "Terraform", "AWS", "Google Cloud", "Azure"],
+      "link": "https://herp.careers/v1/finatexthd/vq3kh6QmhGCn"
+    },
+    {
+      "name": "ジュニアデータサイエンティスト(アナリティクスエンジニア)｜Data Service",
+      "description": "ナウキャスト。新規事業。分析からプロダクト開発まで一気通貫で挑戦",
+      "techstack": ["Python", "Data Science", "Analytics"],
+      "link": "https://herp.careers/v1/finatexthd/ZtY8rx9bSv77"
+    },
+    {
+      "name": "シニアデータサイエンティスト(アナリティクスエンジニア)｜Data Service",
+      "description": "ナウキャスト。フルリモート可。データ分析×エンジニアリングで新規プロダクトを創り育てる",
+      "techstack": ["Python", "Data Science", "Analytics"],
+      "link": "https://herp.careers/v1/finatexthd/StEPLzYwSLoF"
+    },
+    {
+      "name": "LLMエンジニア（ジョブチェンジ歓迎）",
+      "description": "ナウキャスト。生成AI×データ活用の新規事業。LLMを活用した業務システム・データ基盤の設計・開発",
+      "techstack": ["Python", "LLM", "OpenAI", "AWS", "Google Cloud", "Azure"],
+      "link": "https://herp.careers/v1/finatexthd/P4_HikP5nXuI"
+    },
+    {
+      "name": "LLMエンジニア",
+      "description": "ナウキャスト。フルリモート可。生成AI×SaaSプロダクトの新規事業",
+      "techstack": ["Python", "LLM", "OpenAI", "AWS", "Google Cloud", "Azure"],
+      "link": "https://herp.careers/v1/finatexthd/8WJ5JIB97QCB"
+    },
+    {
+      "name": "クラウドインフラエンジニア（データ基盤・生成AI関連）｜Data AI Solution",
+      "description": "ナウキャスト。フルリモート可。AI・LLMをコアに据えた新規プロダクトの1人目クラウドインフラエンジニア",
+      "techstack": ["Python", "Airflow", "Snowflake", "Terraform", "AWS", "Google Cloud", "Azure"],
+      "link": "https://herp.careers/v1/finatexthd/Ym-0o8pzektb"
+    },
+    {
+      "name": "バックエンドエンジニア",
+      "description": "Finatext。金融インフラ（BaaS/Inspire/Crest）もしくは生成AI×データ活用のSaaSプロダクト開発",
+      "techstack": ["Go", "Python", "AWS", "Google Cloud", "Terraform", "Docker", "MySQL"],
+      "link": "https://herp.careers/v1/finatexthd/iRI8okPMACP_"
+    },
+    {
+      "name": "バックエンドエンジニア｜InsurTech",
+      "description": "Finatext。SaaS型デジタル保険システム「Inspire」の開発",
+      "techstack": ["Go", "AWS", "Terraform", "Docker", "MySQL"],
+      "link": "https://herp.careers/v1/finatexthd/kqBE6Npd2b39"
+    },
+    {
+      "name": "バックエンドエンジニア｜Brokerage",
+      "description": "スマートプラス。証券ビジネスプラットフォーム「BaaS」のサーバサイド開発",
+      "techstack": ["Go", "Kotlin", "Spring Boot", "AWS", "Terraform", "Docker", "MySQL"],
+      "link": "https://herp.careers/v1/finatexthd/YL6ZDVnaecFZ"
+    },
+    {
+      "name": "バックエンドエンジニア｜Fintech SHIFT",
+      "description": "Finatext。金融サービスのシステム開発。三菱UFJ銀行へのシステム提供等",
+      "techstack": ["Go", "AWS", "Terraform", "Docker", "MySQL"],
+      "link": "https://herp.careers/v1/finatexthd/M1863Wi21mHe"
+    },
+    {
+      "name": "バックエンドエンジニア | Credit",
+      "description": "Finatext。SaaS型クレジット基幹システム「Crest」の開発",
+      "techstack": ["Go", "gRPC", "TypeScript", "React", "Vue", "PostgreSQL", "Terraform", "Docker"],
+      "link": "https://herp.careers/v1/finatexthd/Aht13KCI3ZlV"
+    },
+    {
+      "name": "シニアバックエンドエンジニア｜Fintech SHIFT",
+      "description": "Finatext。金融サービスのシステム開発、エンジニアの育成やマネジメント",
+      "techstack": ["Go", "AWS", "Terraform", "Docker", "MySQL"],
+      "link": "https://herp.careers/v1/finatexthd/3o2i16_dfiXy"
+    },
+    {
+      "name": "シニアバックエンドエンジニア｜Credit",
+      "description": "Finatext。SaaS型クレジット基幹システム「Crest」の開発リード",
+      "techstack": ["Go", "gRPC", "TypeScript", "React", "Vue", "PostgreSQL", "Terraform", "Docker"],
+      "link": "https://herp.careers/v1/finatexthd/0w4X6zj21iqb"
+    },
+    {
+      "name": "バックエンドエンジニア｜Data Service",
+      "description": "ナウキャスト。生成AI＆データ活用。金融営業支援向け生成AIプロダクト等",
+      "techstack": ["Python", "Go", "Airflow", "Snowflake", "AWS", "Terraform", "Docker", "MySQL"],
+      "link": "https://herp.careers/v1/finatexthd/8qcAFZre4nCV"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "description": "Finatext。Webアプリケーションの設計・実装・リリース",
+      "techstack": ["TypeScript", "Vue.js", "React.js", "AWS", "Terraform"],
+      "link": "https://herp.careers/v1/finatexthd/msJoB5MpS5UJ"
+    },
+    {
+      "name": "フロントエンドエンジニア｜Brokerage",
+      "description": "スマートプラス。証券ビジネスプラットフォーム「BaaS」のフロントエンド開発",
+      "techstack": ["TypeScript", "Vue.js", "React.js", "AWS", "Terraform"],
+      "link": "https://herp.careers/v1/finatexthd/mOKwttLUxLfd"
+    },
+    {
+      "name": "アーキテクト｜Fintech SHIFT",
+      "description": "Finatext。金融サービスのシステム設計・技術選択",
+      "techstack": ["Go", "AWS", "Terraform", "Docker", "MySQL"],
+      "link": "https://herp.careers/v1/finatexthd/oBmVDYz2BifB"
+    },
+    {
+      "name": "マルチスタックエンジニア｜Brokerage",
+      "description": "スマートプラス。証券ビジネスプラットフォーム「BaaS」のサーバサイド/フロントエンド/インフラの設計・開発",
+      "techstack": ["TypeScript", "Vue.js", "React.js", "Go", "AWS", "Terraform"],
+      "link": "https://herp.careers/v1/finatexthd/5-H7iRGj-GtO"
+    },
+    {
+      "name": "テックリード",
+      "description": "Finatext。金融インフラの開発リード、技術検証・技術選定・技術的問題解決",
+      "techstack": ["Go", "TypeScript", "Vue.js", "React.js", "AWS", "Terraform", "MySQL"],
+      "link": "https://herp.careers/v1/finatexthd/J9NlaMTnjfrO"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "description": "Finatext。自社プロダクトに対するセキュリティ診断、EDRやSIEMの運用",
+      "techstack": ["Security", "BurpSuite", "Google Chronicle", "Okta"],
+      "link": "https://herp.careers/v1/finatexthd/LRqzY-uYsApg"
+    },
+    {
+      "name": "プラットフォームエンジニア",
+      "description": "Finatext。プラットフォームエンジニアリング、クラウド基盤構築、ガードレール作成",
+      "techstack": ["AWS", "Terraform", "GitHub", "Datadog", "Cloudflare Zero Trust"],
+      "link": "https://herp.careers/v1/finatexthd/xLokyrCvS3nN"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "company_name_ja": "KAKEHASHI",
+  "company_name_en": "KAKEHASHI",
+  "description": "「医療をつなぎ医療を照らす」をミッションに調剤薬局向けSaaS「Musubi」を提供。電子薬歴・在庫管理・患者支援を一元化する薬局体験アシスタントとして全国14000店舗超（日本の薬局の20%超）に導入。ウエルシア薬局・イオン薬局など大手チェーンも採用。2025年シリーズDで140億円を調達しゴールドマン・サックスがリード投資。生成AIによる薬歴作成支援やWeb問診機能を順次リリース。ドメイン駆動設計（DDD）を実践し複雑な医療ドメインをモデル化。",
+  "description_en": "Provides pharmacy SaaS \"Musubi\" for dispensing pharmacies with mission \"Connecting and illuminating healthcare.\" Deployed as pharmacy experience assistant unifying electronic medication records, inventory management, and patient support in over 14,000 stores nationwide (over 20% of Japanese pharmacies). Adopted by major chains including Welcia and AEON Pharmacy. Raised 14 billion yen in Series D 2025 with Goldman Sachs as lead investor. Sequentially releasing generative AI medication record support and web interview features. Practices Domain-Driven Design (DDD) to model complex healthcare domains.",
+  "hiring_url": "https://hrmos.co/pages/kakehashi/jobs",
+  "num_of_employees": "300+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://logo.clearbit.com/kakehashi.life",
+  "company_url": "https://kakehashi.life/",
+  "positions": [
+    {
+      "name": "【Musubi】バックエンドエンジニア",
+      "description": "自社サービスである「Musubi」のバックエンドの開発をリード。Musubiバックエンドの設計および開発、新機能の追加開発や既存機能の改修、高品質、安定性、パフォーマンス、セキュリティなど多面的な視点から現在のシステムを分析し将来を見据えた設計をリード。技術スタック: Python, TypeScript, FastAPI, Pyramid, Angular, AWS (DynamoDB, Aurora, Cognito, API Gateway, Lambda, OpenSearch Service, SQS), AWS CDK, Terraform, Datadog, Sentry, GitHub Actions",
+      "techstack": ["Python", "TypeScript", "FastAPI", "Pyramid", "Angular", "AWS", "DynamoDB", "Aurora", "Cognito", "API Gateway", "Lambda", "OpenSearch", "SQS", "AWS CDK", "Terraform", "Datadog", "Sentry", "GitHub Actions"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1830241021403398144"
+    },
+    {
+      "name": "【Musubi AI在庫管理】シニアバックエンドエンジニア",
+      "description": "AIを活用した在庫と発注の最適化サービスのバックエンドエンジニアとして、プロダクト開発および技術リード。ステークホルダーとの仕様策定、各種AWSサービスをフル活用したアーキテクチャ設計、社内プロダクトや社内サービスとのシステム連携、各種インフラ運用の自動化、CI/CDの強化を担当。技術スタック: AWS Glue, AppSync (GraphQL), Aurora, Lambda, Cognito, ECS(Fargate), Python, TypeScript, Terraform, Databricks",
+      "techstack": ["Python", "TypeScript", "AWS", "Glue", "AppSync", "GraphQL", "Aurora", "Lambda", "Cognito", "ECS", "Fargate", "Terraform", "Databricks", "GitHub", "Datadog", "Sentry"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1830241039136915456"
+    },
+    {
+      "name": "【新規事業】シニアデータアナリスト",
+      "description": "Patient Engagement領域における患者の行動変容を促すプロダクトのデータ分析担当。医薬品市場や処方実態の分析、NSM/KPI設計、データの可視化などプロダクト改善に向けた意思決定支援、分析基盤構築に向けたデータマートやDWH設計・構築の支援。技術スタック: SQL, Python, Jupyter notebook, Redash, Databricks, OpenAI, Gemini, Claude (Amazon Bedrock), GitHub Copilot, Dify, Cursor, Devin",
+      "techstack": ["SQL", "Python", "Jupyter", "Redash", "Databricks", "OpenAI", "Gemini", "Claude", "Amazon Bedrock", "GitHub Copilot", "Cursor", "Devin"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523684"
+    },
+    {
+      "name": "【Musubi】フロントエンドエンジニア",
+      "description": "自社サービスである「Musubi」のフロントエンドの開発を担当。新機能開発、コード品質の改善、リファクタリング、共通UIコンポーネント基盤の整備、ライブラリのバージョンアップなど。技術スタック: TypeScript, Electron, Angular, AWS (DynamoDB, Aurora, Cognito, API Gateway, Lambda, OpenSearch Service, SQS), AWS CDK, Terraform, Datadog, Sentry, GitHub Actions",
+      "techstack": ["TypeScript", "Electron", "Angular", "AWS", "DynamoDB", "Aurora", "Cognito", "API Gateway", "Lambda", "OpenSearch", "SQS", "AWS CDK", "Terraform", "Datadog", "Sentry", "GitHub Actions"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523692"
+    },
+    {
+      "name": "【Pocket Musubi】バックエンドエンジニア",
+      "description": "おくすり連絡帳アプリ「Pocket Musubi」のバックエンド開発。Python、TypeScriptを用いたAPI開発（REST & GraphQL）、AWSサーバレスアーキテクチャに基づくインフラ構築、AWS CDKやTerraformなどのIaCツールを用いたインフラ構築、技術的な課題発見・解決策の提案・実行を担当。技術スタック: Python, TypeScript, Django, MySQL, React, Next.js, AWS (Amplify, S3, API Gateway, Lambda, RDS), Databricks, Datadog, Sentry, PagerDuty",
+      "techstack": ["Python", "TypeScript", "Django", "MySQL", "React", "Next.js", "AWS", "Amplify", "S3", "API Gateway", "Lambda", "RDS", "AWS CDK", "Terraform", "Databricks", "Datadog", "Sentry", "PagerDuty"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523715"
+    },
+    {
+      "name": "【Musubi】UX・UIデザイナー",
+      "description": "デザイン領域の横断組織に所属し、調剤薬局向け電子薬歴システム「Musubi」のUXデザインおよびUIデザインを担当。プロダクトの周辺環境や薬剤師業務などを考え、よい体験と本質的な課題解決をユーザーに提供することをチームとして推進。Figma, AdobeCC, GitHub, Slackを使用。",
+      "techstack": ["Figma", "Adobe CC", "GitHub", "Slack"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523718"
+    },
+    {
+      "name": "【生成AI】機械学習エンジニア",
+      "description": "生成AIを活用した新プロダクトの機械学習エンジニアとして、プロダクト改善や立ち上げを担当。音声認識、構造化等の自然言語処理に関するユースケースの問題設定、実験、評価、プロダクト・実験基盤の設計・実装を担当。技術スタック: React, Hono, TypeScript, Python, AWS (Glue, Athena, ECS Fargate, SageMaker, Lambda, CDK), Azure OpenAI Service, GCP VertexAI, Databricks, GitHub Copilot, Dify, Cursor, Devin",
+      "techstack": ["React", "Hono", "TypeScript", "Python", "AWS", "Glue", "Athena", "ECS", "Fargate", "SageMaker", "Lambda", "AWS CDK", "Azure", "OpenAI", "GCP", "Vertex AI", "Databricks", "GitHub Copilot", "Cursor", "Devin"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523727"
+    },
+    {
+      "name": "【新規事業】Patient Engagement事業_プロダクトエンジニア",
+      "description": "Patient Engagement領域における患者の行動変容を促すプロダクトや、クライアント向けの管理機能・自動レポーティングツールなどの新規機能開発・機能拡充・ブラッシュアップを担当。技術スタック: Python, TypeScript, AWS (Glue, AppSync (GraphQL), Aurora, Lambda, Cognito, ECS(Fargate), CDK), Terraform, Databricks, GitHub, Slack, figma",
+      "techstack": ["Python", "TypeScript", "AWS", "Glue", "AppSync", "GraphQL", "Aurora", "Lambda", "Cognito", "ECS", "Fargate", "AWS CDK", "Terraform", "Databricks"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523729"
+    },
+    {
+      "name": "【新規事業】データサイエンティスト",
+      "description": "Patient Engagement領域における患者の行動変容を促すサービス開発のためのデータ分析。医薬品市場や処方実態の分析、NSM/KPI設計、データの可視化などプロダクト改善に向けた意思決定支援を担当。技術スタック: SQL, Python, Jupyter notebook, Redash, Databricks, OpenAI, Gemini, Claude (Amazon Bedrock), GitHub Copilot, Dify, Cursor, Devin",
+      "techstack": ["SQL", "Python", "Jupyter", "Redash", "Databricks", "OpenAI", "Gemini", "Claude", "Amazon Bedrock", "GitHub Copilot", "Cursor", "Devin"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523746"
+    },
+    {
+      "name": "【新規事業】アナリティクスエンジニア (マネージャー候補)",
+      "description": "データに基づいた意思決定を加速させるための分析基盤の構築と改善、および分析を担当。データマートの設計・開発・運用を通じて事業を推進。技術スタック: Databricks, Databricks SQL, Spark, DeltaLake, Databricks Lakeflow Jobs, Unity Catalog, Data Asset Bundles, GitHub Actions, AWS (RDS, DynamoDB, Glue Data Catalog, S3, Kinesis Streams)",
+      "techstack": ["Databricks", "SQL", "Spark", "DeltaLake", "AWS", "RDS", "DynamoDB", "Glue", "S3", "Kinesis", "GitHub Actions"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523749"
+    },
+    {
+      "name": "【プロダクト共通】エンジニアリングマネージャー",
+      "description": "カケハシの開発部門におけるチームのエンジニアリングマネージャーとして、人/組織/技術の側面からマネジメントを行い、チーム・組織のアウトカム最大化に取り組む。技術面・組織面での潜在的課題発見と課題解決の推進、開発生産性の向上、技術的負債の解消など。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523751"
+    },
+    {
+      "name": "【プラットフォームドメイン】エンジニアリングマネージャー",
+      "description": "プラットフォームドメインチームのエンジニアリングマネージャーとして、人/組織/技術の側面からマネジメントを行い、チーム・組織のアウトカム最大化に取り組む。技術面・組織面での潜在的課題発見と課題解決の推進、開発生産性の向上、技術的負債の解消など。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523752"
+    },
+    {
+      "name": "【SRE】エンジニアリングマネージャー",
+      "description": "SREチームのエンジニアリングマネージャーとして、人/組織/技術の側面からマネジメントを行い、SREの観点からチーム・組織のアウトカム最大化に取り組む。開発メトリクス/KPIをもとにした自律的な改善サイクルの検討・提案と推進、各プロダクトのSLO/SLI設定・運用のリード。",
+      "techstack": ["Datadog"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523753"
+    },
+    {
+      "name": "【プラットフォームドメイン】Head of Engineering 候補",
+      "description": "プラットフォームドメインのHead of Engineering(HoE)候補として、ビジネス領域のシニアステークホルダー・各プロダクトドメインのHoEと協働しながらプラットフォームドメインの戦略策定・ロードマップ作成・実行に取り組む。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523755"
+    },
+    {
+      "name": "【Engagementドメイン】Head of Engineering 候補",
+      "description": "Engagementドメインでは患者への服薬フォローを実現できるプロダクト「Pocket Musubi」、患者接点を通した患者アドヒアランス向上・PRO（Patient reported outcome）を用いたエビデンス創出を軸とした新規事業を加速させるプロダクト開発のHoE候補。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523756"
+    },
+    {
+      "name": "【情報システム部門】コーポレートエンジニア（セキュリティ・コーポレートガバナンス担当）",
+      "description": "ITインフラや社内システムの戦略設計・導入をリードし、事業成長と組織拡大に対応した柔軟なIT環境を構築。M&Aに伴うPMIにおけるIT統合、上場準備を見据えたITガバナンス・内部統制の強化を担当。技術スタック: Google Workspace, Slack, Entra ID, Microsoft Intune, Okta, Zscaler, Jamf, Sophos",
+      "techstack": ["Google Workspace", "Slack", "Entra ID", "Microsoft Intune", "Okta", "Zscaler", "Jamf", "Sophos", "LANSCOPE", "iOS"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523759"
+    },
+    {
+      "name": "社内システムエンジニア | システム活用を主軸に社内オペレーションの課題解決推進チーム",
+      "description": "販売管理に関わるデータ設計およびシステム開発と運用支援を担当。kintone & Javascriptカスタマイズ、Zapier（IPaaS）、GAS、VBAを用いた開発。技術スタック: kintone, JavaScript, Zapier, GAS, VBA, GitHub, VSCode, Slack, Google Workspace",
+      "techstack": ["kintone", "JavaScript", "Zapier", "GAS", "VBA", "GitHub", "Slack", "Google Workspace"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523761"
+    },
+    {
+      "name": "【データ基盤チーム】データプラットフォームエンジニア",
+      "description": "安心してデータが使えて、使いやすいデータプラットフォームの開発・運用を担当。データメッシュを実現するためのデータプラットフォームの設計・開発・運用、データパイプラインの設計・開発・運用、運用業務の改善・自動化。技術スタック: Databricks, AWS (RDS, DynamoDB, Glue Data Catalog, S3, Kinesis Streams), Terraform, GitHub Actions",
+      "techstack": ["Databricks", "AWS", "RDS", "DynamoDB", "Glue", "S3", "Kinesis", "Terraform", "GitHub Actions"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523762"
+    },
+    {
+      "name": "フロントエンドエンジニア｜全社共通",
+      "description": "カケハシの各プロダクト（Musubi, Musubi Insight, Pocket Musubi, Musubi AI在庫管理）におけるフロントエンド開発を担当。リファクタリング、共通UIコンポーネント基盤の整備、ライブラリのバージョンアップなどに取り組む。技術スタック: Angular, React, Vue, TypeScript, Sentry, Datadog",
+      "techstack": ["Angular", "React", "Vue", "TypeScript", "Sentry", "Datadog", "ESLint", "Prettier", "Biome"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523764"
+    },
+    {
+      "name": "バックエンドエンジニア｜全社共通",
+      "description": "カケハシの各プロダクト（Musubi, Musubi Insight, Pocket Musubi, Musubi AI在庫管理, 処方箋データ基盤システム）におけるバックエンド開発を担当。AWSのマネージドサービスを最大限活用し、スケーラブルなシステム設計・実装を担当。技術スタック: TypeScript, Python, AWS (Cognito, Amplify, Lambda, EventBrige), CDK, Terraform, Datadog, Sentry",
+      "techstack": ["TypeScript", "Python", "AWS", "Cognito", "Amplify", "Lambda", "EventBridge", "AWS CDK", "Terraform", "Datadog", "Sentry"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523765"
+    },
+    {
+      "name": "フルスタックエンジニア｜全社共通",
+      "description": "カケハシの各プロダクトにおける開発を担当。フロント・バックをまたぐプロダクト全体の構造を俯瞰し、リアーキテクトにより顧客への価値提供を促進。技術スタック: TypeScript, Python, Angular, React, Vue, AWS (Cognito, Amplify, Lambda, EventBrige), CDK, Terraform, Datadog, Sentry",
+      "techstack": ["TypeScript", "Python", "Angular", "React", "Vue", "AWS", "Cognito", "Amplify", "Lambda", "EventBridge", "AWS CDK", "Terraform", "Datadog", "Sentry"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523766"
+    },
+    {
+      "name": "Embedded SRE｜全社共通",
+      "description": "カケハシの各プロダクトのサービスの信頼性と開発生産性について、主にSREの観点から運用・改善していく責務を担当。インフラの設計および開発、メンテナンス、信頼性向上、開発者体験の向上、GitHub Actionsを用いた開発およびテストパイプラインの構築支援・改善。技術スタック: AWS, Terraform, CDK, GitHub Actions, Datadog, Sentry",
+      "techstack": ["AWS", "Terraform", "AWS CDK", "GitHub Actions", "Datadog", "Sentry", "mabl"],
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523767"
+    }
+  ]
+}

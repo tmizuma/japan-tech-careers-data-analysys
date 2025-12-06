@@ -1,0 +1,51 @@
+{
+  "company_name_ja": "アイスペース",
+  "company_name_en": "ispace",
+  "logo_url": "",
+  "company_url": "https://ispace-inc.com/",
+  "hiring_url": "https://ispace-inc.com/jpn/careers/",
+  "positions": [
+    {
+      "name": "RF Communications Engineer Intern",
+      "description": "JP - Advanced Research and Development. On-site, Intern, Tokyo, Japan",
+      "techstack": ["RF", "Communications"],
+      "link": "https://jobs.lever.co/ispace-inc/ef6febd6-4279-4d6a-900c-a1c3aa68ea39"
+    },
+    {
+      "name": "Embedded Software Engineer",
+      "description": "JP Engineering Office - Engineering and R&D. Hybrid, Full-time (Regular), Tokyo, Japan",
+      "techstack": ["Embedded", "Software"],
+      "link": "https://jobs.lever.co/ispace-inc/47148799-c333-44a0-afeb-9da852f5c3a7"
+    },
+    {
+      "name": "Lunar Orbiter System Engineer (Native Japanese requirement)",
+      "description": "JP Engineering Office - Engineering and R&D. Hybrid, Full-time (Regular), Tokyo, Japan",
+      "techstack": ["Systems Engineering", "Space"],
+      "link": "https://jobs.lever.co/ispace-inc/1424295b-98ec-4809-a2d7-ab62eafe137b"
+    },
+    {
+      "name": "Rocket Propulsion Engineer",
+      "description": "JP Engineering Office - Engineering and R&D. Hybrid, Full-time (Regular), Tokyo, Japan",
+      "techstack": ["Propulsion", "Aerospace"],
+      "link": "https://jobs.lever.co/ispace-inc/8180e2ec-57ad-439d-8fc0-46af1de7fa35"
+    },
+    {
+      "name": "Senior Embedded Software Engineer",
+      "description": "JP Engineering Office - Engineering and R&D. Hybrid, Full-time (Regular), Tokyo, Japan",
+      "techstack": ["Embedded", "Software"],
+      "link": "https://jobs.lever.co/ispace-inc/aed5fe38-a8e2-4117-bd85-c2ed536fa2f4"
+    },
+    {
+      "name": "ペイロードシステムエンジニア（日本語必要）",
+      "description": "JP Engineering Office - Engineering and R&D. Hybrid, Full-time (Regular), Tokyo, Japan",
+      "techstack": ["Systems Engineering", "Payload"],
+      "link": "https://jobs.lever.co/ispace-inc/24df6b29-2666-41f8-9373-2deea9168396"
+    },
+    {
+      "name": "社内SEエンジニア Microsoft Windows Engineer",
+      "description": "JP People Office - IT. Hybrid, Full-time (Regular), Tokyo, Japan",
+      "techstack": ["Windows", "IT Infrastructure"],
+      "link": "https://jobs.lever.co/ispace-inc/9f7f069e-53a7-420f-94a6-497eca786f5e"
+    }
+  ]
+}

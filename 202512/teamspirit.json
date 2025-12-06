@@ -1,0 +1,66 @@
+{
+  "company_name_ja": "チームスピリット",
+  "company_name_en": "TeamSpirit",
+  "description": "「働くを変え、チームの力を解き放つ」をミッションに、勤怠・工数管理・経費精算を一元化するバックオフィスSaaS「TeamSpirit」を提供。Salesforce Platformをベースに開発、日本で唯一のAppExchange Premier Partner。東証グロース上場、導入社数2,100社以上、66万ID以上。フレックス・ハイブリッド勤務を採用。",
+  "description_en": "With the mission 'Transform work, unleash team power', provides back-office SaaS 'TeamSpirit' that integrates attendance, time tracking, and expense management. Developed on Salesforce Platform as Japan's only AppExchange Premier Partner. Listed on TSE Growth with 2,100+ companies and 660,000+ IDs. Offers flex and hybrid work arrangements.",
+  "hiring_url": "https://herp.careers/v1/teamspirit",
+  "num_of_employees": "217",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/teamspirit.com",
+  "company_url": "https://corp.teamspirit.com/",
+  "positions": [
+    {
+      "name": "シニアWEBアプリケーションエンジニア／大企業向けプロダクト担当（TEX）",
+      "description": "Salesforce Platform上で開発されたエンタープライズ向けSaaS「チームスピリット」のアプリケーション開発。Apex+JavaScriptによる新機能設計・開発、アーキテクチャ設計。2週間スプリントのスクラム開発。",
+      "techstack": ["Apex", "JavaScript", "TypeScript", "React", "Redux", "HTML5", "CSS3", "SOQL", "Java", "Salesforce Platform", "Heroku", "AWS", "Sentry", "JIRA", "Confluence", "Bitbucket", "Jenkins", "CircleCI", "Figma", "Slack", "Teams"],
+      "link": "https://herp.careers/v1/teamspirit/1O83BXhoKT0j"
+    },
+    {
+      "name": "SREエンジニア",
+      "description": "弊社中核製品「チームスピリット」の信頼性・可用性を支えるインフラ構築とプロダクトコードレビュー。AWS等のクラウド基盤設計・構築、監視設計、IaC化推進、CI/CDパイプライン整備、障害対応・プロセス整備。",
+      "techstack": ["AWS", "Terraform", "IaC", "CI/CD", "Salesforce Platform", "Monitoring", "Observability", "Docker"],
+      "link": "https://herp.careers/v1/teamspirit/3ipdeMhlgm38"
+    },
+    {
+      "name": "WEBアプリケーションエンジニア／中小企業向けプロダクト担当（PD）",
+      "description": "中小企業向けプロダクトの開発。勤怠・工数管理・経費精算などバックオフィス業務の機能開発。スクラムチームでの設計・開発・テスト。2週間スプリントのアジャイル開発。",
+      "techstack": ["JavaScript", "Lightning Web Components", "Dojo Toolkit", "HTML5", "CSS3", "Apex", "SOQL", "Java", "Salesforce Platform", "AWS", "JIRA", "Confluence", "Bitbucket", "Figma", "Cacoo", "Autify", "Jenkins", "JUnit", "Selenium", "Slack", "Teams"],
+      "link": "https://herp.careers/v1/teamspirit/YF0RE80B17Se"
+    },
+    {
+      "name": "セールスエンジニア（ソリューションセールス経験者）",
+      "description": "従業員1000名以上の企業向けプリセールス。働き方改革プラットフォームの技術提案、デモンストレーション、フィット＆ギャップ分析。ERPシステム間連携の実現方式提案。",
+      "techstack": ["Salesforce Platform", "ERP Integration", "Pre-Sales"],
+      "link": "https://herp.careers/v1/teamspirit/gTjWs4M6_YsB"
+    },
+    {
+      "name": "セールスエンジニア（プリセールス経験者）",
+      "description": "従業員1000名以上の企業向けプリセールス。大企業向け新プロダクトの市場開拓、技術提案、デモンストレーション。",
+      "techstack": ["Salesforce Platform", "ERP Integration", "Pre-Sales"],
+      "link": "https://herp.careers/v1/teamspirit/WhZvwmI3UV9W"
+    },
+    {
+      "name": "プロダクト導入コンサルタント／エンタープライズ担当",
+      "description": "エンタープライズ向けSaaS「TeamSpiritエンタープライズ」の導入プロジェクト。顧客業務と製品機能のFit&Gap分析、Salesforce Platform活用のソリューション設計・実装。",
+      "techstack": ["Salesforce Platform", "Solution Design", "Low-Code Development"],
+      "link": "https://herp.careers/v1/teamspirit/0dwXl33215ob"
+    },
+    {
+      "name": "運用コンサルタント／エンタープライズ企業担当（PD）",
+      "description": "エンタープライズ向けSaaSプロダクト運用中の大企業ユーザーの運用課題解決。システム運用フェーズの課題管理、製品機能・設定変更の提案・支援。",
+      "techstack": ["Salesforce Platform", "System Operations"],
+      "link": "https://herp.careers/v1/teamspirit/dHB5LJ45moKV"
+    },
+    {
+      "name": "製品導入アドオン開発コンサルタント（中小企業向け担当）",
+      "description": "自社SaaS製品のアドオン開発コンサルタント。お客様要件に合わせたカスタムソリューションの提案・開発。アドオン機能のパッケージ化検討・開発。",
+      "techstack": ["Salesforce Platform", "Apex", "Custom Development"],
+      "link": "https://herp.careers/v1/teamspirit/ko0mN3_JZvjv"
+    }
+  ],
+  "_metadata": {
+    "collected_at": "2025-12-07",
+    "total_positions": 8
+  }
+}

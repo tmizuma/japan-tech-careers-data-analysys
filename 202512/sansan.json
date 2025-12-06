@@ -1,0 +1,182 @@
+{
+  "company_name_ja": "Sansan",
+  "company_name_en": "Sansan",
+  "description": "名刺管理サービス「Sansan」、名刺アプリ「Eight」、経理DXサービス「Bill One」、AI契約データベース「Contract One」を展開。ビジネスインフラの構築を目指す。東京証券取引所プライム市場上場。",
+  "description_en": "Operates business card management service 'Sansan', business card app 'Eight', accounting DX service 'Bill One', and AI contract database 'Contract One'. Aims to build business infrastructure. Listed on Tokyo Stock Exchange Prime Market.",
+  "hiring_url": "https://jp.corp-sansan.com/recruit/",
+  "num_of_employees": "1000+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/sansan.com",
+  "company_url": "https://jp.corp-sansan.com/",
+  "positions": [
+    {
+      "name": "Webアプリ開発エンジニア［Sansan］",
+      "description": "「Sansan」の企画から開発、その後の改善まで行います。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76408"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［Bill One］",
+      "description": "経理DXサービス「Bill One」の開発を行います。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76481"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［Contract One］",
+      "description": "AI契約データベース「Contract One」の開発を行います。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76540"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［Eight］",
+      "description": "名刺アプリ「Eight」やイベントプラットフォームの開発。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/84005"
+    },
+    {
+      "name": "SRE［Bill One］",
+      "description": "「Bill One」のSREとして、プロダクトの信頼性やパフォーマンスの改善に携わります。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76443"
+    },
+    {
+      "name": "SRE［Eight］",
+      "description": "「Eight」やイベントプラットフォームのSREとして信頼性改善に携わります。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76594"
+    },
+    {
+      "name": "SRE・プラットフォームエンジニア",
+      "description": "「Contract One」「名刺メーカー」のSREを担当します。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/77237"
+    },
+    {
+      "name": "AI・検索エンジニア［Contract One］",
+      "description": "AI契約データベース「Contract One」において、根幹機能である検索機能の開発を担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/112831"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "description": "機械学習・自然言語処理・画像認識など、ビジネス情報のデータ化・活用に向けた技術開発全般を担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76600"
+    },
+    {
+      "name": "MLOps・Platformエンジニア",
+      "description": "研究開発部門の研究成果をサービスに組み込み、ML基盤の構築を担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/89966"
+    },
+    {
+      "name": "Androidエンジニア",
+      "description": "技術本部で、当社が展開するAndroidアプリ開発を担当します。",
+      "techstack": ["Kotlin", "Android"],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76400"
+    },
+    {
+      "name": "iOSエンジニア",
+      "description": "技術本部で、当社が提供するサービスのiOSアプリ開発を担当します。",
+      "techstack": ["Swift", "iOS"],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76610"
+    },
+    {
+      "name": "QAエンジニア",
+      "description": "各種プロダクトのQA（品質保証）を担当し、リードします。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/97211"
+    },
+    {
+      "name": "インフラエンジニア［Sansan］",
+      "description": "「Sansan」に関連する複数のプロダクトのインフラ領域を担当します。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/78400"
+    },
+    {
+      "name": "セキュリティエンジニア［SOC］",
+      "description": "社内の情報セキュリティ運用担当として、セキュリティ製品の運用、問い合わせ対応、診断業務を担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76586"
+    },
+    {
+      "name": "セキュリティエンジニア（プロダクトセキュリティ）",
+      "description": "攻撃者視点で社内システムやプロダクトを診断し、セキュリティ施策を実施。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76590"
+    },
+    {
+      "name": "データエンジニア［データ戦略］",
+      "description": "ビジネスデータベースの構築と、各プロダクトにおけるデータ利活用の支援を担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/98203"
+    },
+    {
+      "name": "データエンジニア［全社横断データ基盤］",
+      "description": "全社データ基盤の設計・運用を通じ、利活用支援や新技術導入を推進。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76397"
+    },
+    {
+      "name": "コーポレートエンジニア［DevOps］",
+      "description": "ツール開発やシステム間連携機能の開発を通して業務課題を解決。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76556"
+    },
+    {
+      "name": "コーポレートエンジニア［インフラ担当］",
+      "description": "全社共通で利用するコーポレートITの企画、設計/構築、運用を担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/80070"
+    },
+    {
+      "name": "コーポレートエンジニア［ソフトウェア］",
+      "description": "社内システムの要件定義からリリース、運用保守まで行います。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/71159"
+    },
+    {
+      "name": "フロントエンドエンジニア［ブランディング部門］",
+      "description": "サービスWebサイトやコーポレートサイトのフロントエンド実装業務全般を担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76944"
+    },
+    {
+      "name": "フロントエンドスペシャリスト［Bill One］",
+      "description": "「Bill One」のフロントエンド技術リードとして、技術戦略の策定・推進を担います。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/107310"
+    },
+    {
+      "name": "プロダクトマネジャー［AI機能 Sansan］",
+      "description": "「Sansan AIエージェント」および「MCPサーバー」のプロダクトマネジメントをリード。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/116559"
+    },
+    {
+      "name": "シニアプロダクトマネジャー［Bill One］",
+      "description": "ユーザー体験のリサーチを基に、プロダクトの改善案や新機能の企画立案を行う。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/91559"
+    },
+    {
+      "name": "エンジニアリングマネジャー［Bill One］",
+      "description": "「Bill One」のエンジニアリングマネジャーとして、開発から組織マネジメントまで担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76495"
+    },
+    {
+      "name": "テクニカルリード アーキテクト［Bill One］",
+      "description": "「Bill One」の開発、技術的な支援やメンバー教育、アーキテクトとしてサービス設計を担う。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76425"
+    },
+    {
+      "name": "共通認証基盤エンジニア",
+      "description": "「Bill One」と「Contract One」の認証で利用する共通認証基盤の設計・開発を担当。",
+      "techstack": [],
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/80298"
+    }
+  ]
+}

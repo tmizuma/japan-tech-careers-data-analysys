@@ -1,0 +1,80 @@
+{
+  "company_name_ja": "Hacobu",
+  "company_name_en": "Hacobu",
+  "description": "「運ぶを最適化する」をミッションとする物流テックスタートアップ。クラウド物流管理ソリューション「MOVO」や物流DXコンサルティング「Hacobu Strategy」を通じて、企業間物流の最適化を支援。シェアNo.1のトラック予約受付サービス「MOVO Berth」を展開。Findy Team+ Award 2024 Frontier Award受賞。生成AIツール（Devin・Cursor・ChatGPT・Claude Code）を全エンジニアに提供。",
+  "description_en": "Logistics tech startup with the mission 'We Innovate Logistics'. Supports enterprise logistics optimization through cloud logistics management solution 'MOVO' and DX consulting 'Hacobu Strategy'. Operates 'MOVO Berth', the No.1 truck reservation service. Won Findy Team+ Award 2024 Frontier Award. Provides generative AI tools (Devin, Cursor, ChatGPT, Claude Code) to all engineers.",
+  "hiring_url": "https://herp.careers/v1/hacobu",
+  "num_of_employees": "200",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/hacobu.jp",
+  "company_url": "https://hacobu.jp/",
+  "positions": [
+    {
+      "name": "フロントエンドエンジニア（テックリード候補）",
+      "description": "物流DXサービスをリードするフロントエンドエンジニア。TS/Reactによる機能開発、UI/UX改善、共通コンポーネントライブラリの開発・運用。",
+      "techstack": ["TypeScript", "React", "Tanstack Query", "Tanstack Router", "Redux", "styled-components", "zod", "Storybook", "Vite", "webpack", "ESLint", "Prettier", "Jest", "chromatic", "orval"],
+      "link": "https://herp.careers/v1/hacobu/5qipebiWRJ0t"
+    },
+    {
+      "name": "EM / エンジニアリングマネージャー",
+      "description": "プロダクト開発組織の生産性向上がミッション。ピープルマネジメント、組織カルチャーの醸成、開発生産性の可視化・改善。",
+      "techstack": ["Go", "TypeScript", "React", "Echo", "gRPC", "OpenAPI", "GraphQL", "AWS", "EKS", "Lambda", "Aurora MySQL", "DynamoDB", "Istio", "Docker", "Terraform", "Ansible", "CircleCI", "ArgoCD", "Datadog", "BigQuery", "GitHub Copilot", "Cursor", "Claude Code", "Findy Team+"],
+      "link": "https://herp.careers/v1/hacobu/3mrybLD920yM"
+    },
+    {
+      "name": "QAエンジニア（QA・TE・SET）",
+      "description": "自社SaaSサービスの品質向上を担当。仕様レビュー、テスト計画・設計・実行、E2Eテスト自動化の導入・実装・運用。MagicPod活用。",
+      "techstack": ["MagicPod", "Postman", "Playwright", "GitHub", "Jira", "Figma", "Datadog", "CircleCI", "Claude Code", "Codex", "Cursor", "Devin", "ChatGPT", "Gemini"],
+      "link": "https://herp.careers/v1/hacobu/ws1cpMvYOxMO"
+    },
+    {
+      "name": "シニアEM / エンジニアリングマネージャー",
+      "description": "テクニカル × ピープル両輪型エンジニアリングマネージャー。プロダクトチームを牽引し、事業成長と開発生産性を同時に加速。",
+      "techstack": ["Go", "TypeScript", "React", "Echo", "gRPC", "OpenAPI", "GraphQL", "AWS", "EKS", "Lambda", "Aurora MySQL", "DynamoDB", "Istio", "Docker", "Terraform", "Ansible", "CircleCI", "ArgoCD", "Datadog", "BigQuery", "GitHub Copilot", "Cursor", "Claude Code", "Findy Team+"],
+      "link": "https://herp.careers/v1/hacobu/Gm1OaUggti8g"
+    },
+    {
+      "name": "シニアQAエンジニア（QA・TE・SET）",
+      "description": "自社サービスの品質向上をリード。品質指標の策定・達成、QC・QAの両面から品質向上を推進。AI機能の品質保証も担当。",
+      "techstack": ["MagicPod", "Postman", "Playwright", "GitHub", "Jira", "Figma", "Datadog", "CircleCI", "Claude Code", "Codex", "Cursor", "Devin", "ChatGPT", "Gemini"],
+      "link": "https://herp.careers/v1/hacobu/8ZfqMnhUZ1io"
+    },
+    {
+      "name": "フルスタックエンジニア",
+      "description": "CTO直下で新規事業・新規プロダクトのPoC・MVP開発を牽引。高い実行力と推進力で迅速に仮説検証を繰り返す。",
+      "techstack": ["Go", "TypeScript", "OpenAPI", "GraphQL", "gRPC", "AWS", "EKS", "Lambda", "Aurora MySQL", "DynamoDB", "ElastiCache", "Kinesis", "S3", "SQS", "Istio", "Docker", "Terraform", "Ansible", "GitHub Actions", "ArgoCD", "Datadog", "BigQuery", "CloudComposer", "Claude Code", "Codex", "Cursor", "Devin", "LangChain", "LangGraph", "Amazon Bedrock"],
+      "link": "https://herp.careers/v1/hacobu/yAv0TAMXGRi3"
+    },
+    {
+      "name": "2027年新卒エンジニアコース",
+      "description": "自社プロダクトMOVOの開発。フロントエンド・バックエンドエンジニアとして配属。WEB、インフラ、QA、機械学習、データサイエンスなど多様なキャリアパス。",
+      "techstack": ["Go", "TypeScript", "React", "Echo", "gRPC", "OpenAPI", "GraphQL", "AWS", "EKS", "Lambda", "Aurora MySQL", "DynamoDB", "Istio", "Docker", "Terraform", "Ansible", "CircleCI", "ArgoCD", "Datadog", "BigQuery", "GitHub Copilot", "Cursor", "Claude Code"],
+      "link": "https://herp.careers/v1/hacobu/keNycRczDcI_"
+    }
+  ],
+  "_metadata": {
+    "collected_at": "2025-12-07",
+    "total_positions": 7,
+    "tech_stack_summary": {
+      "backend": ["Go", "Echo", "gRPC"],
+      "frontend": ["TypeScript", "React", "Redux", "styled-components", "zod", "Tanstack Query", "Tanstack Router"],
+      "api": ["OpenAPI", "GraphQL", "gRPC"],
+      "infrastructure": ["AWS", "EKS", "Lambda", "Aurora MySQL", "DynamoDB", "ElastiCache", "Kinesis", "S3", "SQS", "Istio", "Docker"],
+      "iac": ["Terraform", "Ansible"],
+      "ci_cd": ["CircleCI", "ArgoCD", "GitHub Actions"],
+      "monitoring": ["Datadog", "CloudWatch Logs", "fluentbit"],
+      "data": ["BigQuery", "CloudComposer", "LookerStudio"],
+      "testing": ["MagicPod", "Postman", "Playwright", "Jest"],
+      "ai_tools": ["GitHub Copilot", "Cursor", "Claude Code", "Devin", "ChatGPT", "Gemini", "Codex", "LangChain", "LangGraph", "Amazon Bedrock"],
+      "dev_tools": ["GitHub", "Slack", "Jira", "JetBrains", "VS Code", "Figma", "Notion", "Box", "Findy Team+"]
+    },
+    "notable_features": [
+      "Findy Team+ Award 2024 Frontier Award受賞",
+      "生成AIツール（Devin・Cursor・ChatGPT・Claude Code）を全員に無制限提供",
+      "シェアNo.1トラック予約受付サービス",
+      "7チーム・50名規模の開発組織",
+      "フルリモート可・フレックス制度"
+    ]
+  }
+}

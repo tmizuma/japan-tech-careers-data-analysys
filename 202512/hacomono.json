@@ -1,0 +1,191 @@
+{
+  "company_name_ja": "hacomono",
+  "company_name_en": "hacomono",
+  "description": "「ウェルネス産業を新次元へ。」をミッションに会員管理・予約・決済・POSシステムをオールインワンで提供するウェルネス特化型基幹業務統合プラットフォーム。フィットネスクラブ・公共運動施設・運動スクールなど8000店舗超・累計920万ユーザーが導入し業界最大規模。2024年にリリースした「hacomono決済」はGMV160億円に到達しNRR136%を記録。シリーズDで46億円を調達し累計資金調達額120億円。ARRはT2D3超の成長を継続しチャーンレート0.4%未満の低水準を維持。",
+  "description_en": "Wellness-specialized integrated business platform providing all-in-one member management, reservations, payments, and POS systems with mission \"Taking the wellness industry to new dimensions.\" Industry's largest scale with over 8,000 stores and cumulative 9.2 million users including fitness clubs, public sports facilities, and sports schools. \"hacomono Payment\" released in 2024 reached 16 billion yen GMV with 136% NRR. Raised 4.6 billion yen in Series D with cumulative funding of 12 billion yen. Maintains beyond T2D3 ARR growth with churn rate under 0.4%.",
+  "hiring_url": "https://open.talentio.com/r/1/c/hacomono/homes/4140",
+  "num_of_employees": "200+",
+  "sales": "-1",
+  "foreign_engineers": "FALSE",
+  "logo_url": "https://logo.clearbit.com/hacomono.jp",
+  "company_url": "https://www.hacomono.jp/",
+  "positions": [
+    {
+      "title": "プロダクトエンジニア",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/89130",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby", "Go", "TypeScript", "Ruby on Rails", "Vue.js", "Nuxt.js", "AWS", "GCP", "BigQuery", "Terraform", "Docker", "MySQL", "CircleCI", "GitHub Actions", "Jenkins"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "プロダクトリードエンジニア（スペシャリスト）",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/89131",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby", "Go", "TypeScript", "Ruby on Rails", "Vue.js", "Nuxt.js", "AWS", "GCP", "Terraform", "Docker", "MySQL"],
+      "experience_required": "リード経験"
+    },
+    {
+      "title": "プロダクトエンジニア (モバイルアプリ / テックリード)",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/89132",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["Swift", "Kotlin", "Flutter", "TypeScript", "AWS", "GCP"],
+      "experience_required": "テックリード経験"
+    },
+    {
+      "title": "FitFits開発部_ソフトウェアエンジニア",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/fitfits-se",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby", "Go", "TypeScript", "Ruby on Rails", "Vue.js", "AWS", "GCP", "MySQL"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "FitFits開発部_Flutterエンジニア",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/fitfits-flutter",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["Flutter", "Dart", "Swift", "Kotlin", "Firebase"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "AIソフトウェアエンジニア",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/103609",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["生成AI", "LLM", "Python", "AWS", "API設計", "DB設計"],
+      "experience_required": "AI開発経験"
+    },
+    {
+      "title": "VP of Engineering",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/vpoe",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby", "Go", "TypeScript", "AWS", "GCP", "組織マネジメント"],
+      "experience_required": "VPoE経験"
+    },
+    {
+      "title": "プラットフォーム アーキテクト",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/platform-architect",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["AWS", "GCP", "Terraform", "Kubernetes", "Docker", "アーキテクチャ設計"],
+      "experience_required": "アーキテクト経験"
+    },
+    {
+      "title": "サービス基盤エンジニア",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/service-infra",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["AWS", "GCP", "Terraform", "Docker", "Kubernetes", "CI/CD"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "プラットフォームエンジニア_スクラムマスター / EM",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/platform-em",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["AWS", "GCP", "Terraform", "スクラム", "アジャイル"],
+      "experience_required": "EM経験"
+    },
+    {
+      "title": "フロントエンド基盤エンジニア (スペシャリスト)",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/frontend-specialist",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "Vue.js", "Nuxt.js", "React", "Webpack", "Vite"],
+      "experience_required": "スペシャリスト経験"
+    },
+    {
+      "title": "データ基盤エンジニア (テックリード)",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/data-techlead",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["BigQuery", "GCP", "Python", "SQL", "dbt", "Airflow", "データ基盤設計"],
+      "experience_required": "テックリード経験"
+    },
+    {
+      "title": "セキュリティマネージャー",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/security-manager",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["セキュリティ", "ISMS", "SOC2", "脆弱性管理", "AWS"],
+      "experience_required": "セキュリティマネージャー経験"
+    },
+    {
+      "title": "コーポレートIT",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/corporate-it",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["IT管理", "SaaS管理", "セキュリティ", "ネットワーク"],
+      "experience_required": "コーポレートIT経験"
+    },
+    {
+      "title": "QAマネージャー (候補)",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/qa-manager",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["QA", "テスト自動化", "品質管理", "CI/CD"],
+      "experience_required": "QAマネジメント経験"
+    },
+    {
+      "title": "QAスペシャリスト",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/qa-specialist",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["QA", "テスト自動化", "品質管理"],
+      "experience_required": "QA経験"
+    },
+    {
+      "title": "QA エンジニア",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/qa-engineer",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["QA", "テスト自動化", "Selenium", "Cypress"],
+      "experience_required": "QA経験"
+    },
+    {
+      "title": "エンタープライズCREマネージャー",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/enterprise-cre",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["CRE", "カスタマーサクセス", "技術サポート"],
+      "experience_required": "CRE/CSE経験"
+    },
+    {
+      "title": "組込みエンジニア (IoTプロダクト)",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/iot-engineer",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["組込み", "IoT", "C", "C++", "ファームウェア"],
+      "experience_required": "組込み開発経験"
+    },
+    {
+      "title": "運用保守エンジニア (リーダー候補)",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/ops-leader",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["AWS", "Linux", "監視", "運用自動化", "障害対応"],
+      "experience_required": "運用保守経験"
+    },
+    {
+      "title": "【エンジニア】オープンポジション",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/engineer-open",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby", "Go", "TypeScript", "AWS", "GCP"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "コーポレートAIエンジニア",
+      "url": "https://open.talentio.com/r/1/c/hacomono/pages/corporate-ai",
+      "location": "東京（フルリモート）",
+      "employment_type": "正社員",
+      "tech_stack": ["生成AI", "LLM", "Python", "業務自動化"],
+      "experience_required": "AI開発経験"
+    }
+  ],
+  "collected_at": "2025-12-07"
+}

@@ -1,0 +1,162 @@
+{
+  "company_name_ja": "サイボウズ",
+  "company_name_en": "Cybozu",
+  "description": "「チームワークあふれる社会を創る」をミッションに、国産グループウェアkintone、Garoon、サイボウズ Officeなどを提供。kintoneは国内外30,000社以上で利用されるノーコード/ローコード業務改善プラットフォーム。東証プライム上場。100人100通りの働き方を推進し、フルリモート勤務も可能。",
+  "description_en": "With the mission to 'create a society full of teamwork', provides groupware products including kintone, Garoon, and Cybozu Office. kintone is a no-code/low-code business improvement platform used by over 30,000 companies globally. Listed on TSE Prime. Promotes '100 ways of working for 100 people' with full remote work options available.",
+  "hiring_url": "https://cybozu.co.jp/recruit/",
+  "num_of_employees": "1000+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/cybozu.co.jp",
+  "company_url": "https://cybozu.co.jp/",
+  "positions": [
+    {
+      "name": "エンジニアリングマネージャー（kintone）",
+      "description": "kintone開発チームのエンジニアリングマネージャー。チームマネジメント、技術的な意思決定、採用・育成を担当。",
+      "techstack": ["Java", "JavaScript", "React", "MySQL", "Elasticsearch", "AWS"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/engineering-manager.html"
+    },
+    {
+      "name": "プロダクトエンジニア（kintone）",
+      "description": "kintoneのWebアプリケーション開発。要件検討からUI/UXデザイン、設計、実装、改善提案まで全工程に関与。スクラム開発、モブプログラミングを実施。",
+      "techstack": ["Java", "JavaScript", "React", "Redux", "Spring Framework", "MySQL", "Elasticsearch", "GitHub Actions", "Storybook", "New Relic", "Datadog"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-engineer-kintone.html"
+    },
+    {
+      "name": "プロダクトエンジニア（kintone／生成AI）",
+      "description": "kintoneの生成AI機能開発。LLMを活用した新機能の企画・設計・実装。",
+      "techstack": ["Java", "JavaScript", "React", "LLM", "AI", "MySQL", "AWS"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-engineer-kintone-ai.html"
+    },
+    {
+      "name": "プラットフォームエンジニア (kintone)",
+      "description": "kintoneのプラットフォーム基盤開発。外部システム連携、API開発などを担当。",
+      "techstack": ["Java", "JavaScript", "React", "MySQL", "AWS", "Kubernetes"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/platform-engineer-kintone.html"
+    },
+    {
+      "name": "プロダクトエンジニア（サイボウズ Office）",
+      "description": "サイボウズ Officeの開発。グループウェア機能の企画・設計・実装。",
+      "techstack": ["Java", "JavaScript", "MySQL", "AWS"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-engineer-cybozu-office.html"
+    },
+    {
+      "name": "シニアプロダクトエンジニア（販売管理システム）",
+      "description": "販売管理システムの開発。シニアレベルでの技術的リードシップを担当。",
+      "techstack": ["Java", "JavaScript", "MySQL", "AWS"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-sales-system.html"
+    },
+    {
+      "name": "プロダクトエンジニア（kintone／フロントエンド）",
+      "description": "kintoneのフロントエンド開発。Reactへのリプレイス、UI/UX改善を担当。",
+      "techstack": ["JavaScript", "TypeScript", "React", "Redux", "styled-components", "Storybook"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-engineer-front-end-engineer-kintone.html"
+    },
+    {
+      "name": "シニアプロダクトエンジニア（kintone／フロントエンド）",
+      "description": "kintoneのフロントエンド開発をシニアレベルでリード。技術的な意思決定、アーキテクチャ設計を担当。",
+      "techstack": ["JavaScript", "TypeScript", "React", "Redux", "styled-components", "Storybook"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-product-engineer-front-end-kintone.html"
+    },
+    {
+      "name": "iOSエンジニア",
+      "description": "サイボウズ製品のiOSアプリ開発。ネイティブアプリの企画・設計・実装。",
+      "techstack": ["Swift", "iOS", "Xcode"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/ios-engineer.html"
+    },
+    {
+      "name": "Androidエンジニア",
+      "description": "サイボウズ製品のAndroidアプリ開発。ネイティブアプリの企画・設計・実装。",
+      "techstack": ["Kotlin", "Android", "Android Studio"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/android-engineer.html"
+    },
+    {
+      "name": "プラグイン・ソリューション開発エンジニア",
+      "description": "kintoneプラグインおよびソリューションの開発。カスタマイズ機能の企画・実装。",
+      "techstack": ["JavaScript", "TypeScript", "React", "kintone API"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/plugin-engineer.html"
+    },
+    {
+      "name": "クラウド基盤エンジニア（SRE/データストア）",
+      "description": "サイボウズのクラウド基盤におけるデータストア領域のSRE。信頼性向上、パフォーマンス最適化を担当。",
+      "techstack": ["MySQL", "Redis", "Elasticsearch", "Kubernetes", "Terraform", "AWS"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/datastore.html"
+    },
+    {
+      "name": "クラウド基盤エンジニア（Cloud Platform）",
+      "description": "サイボウズのクラウドプラットフォーム基盤の設計・構築・運用。",
+      "techstack": ["Kubernetes", "Docker", "Terraform", "AWS", "Linux"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/Cloud-Platform.html"
+    },
+    {
+      "name": "クラウド基盤エンジニア（Platform QA）",
+      "description": "クラウドプラットフォームのQA。インフラの品質保証、テスト自動化を担当。",
+      "techstack": ["Kubernetes", "Docker", "Terraform", "AWS", "Linux", "Test Automation"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/cloudplatform-qa-engineer.html"
+    },
+    {
+      "name": "クラウド基盤エンジニア（Network&DC）",
+      "description": "データセンター・ネットワーク基盤の設計・構築・運用。",
+      "techstack": ["Network", "Linux", "Data Center", "AWS"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/cloud-platform-network-dc.html"
+    },
+    {
+      "name": "Senior Software Engineer – QA Platform Development",
+      "description": "QAプラットフォームの開発。テスト自動化基盤の構築・改善を担当。English speaking position.",
+      "techstack": ["Python", "JavaScript", "TypeScript", "Selenium", "Playwright", "CI/CD"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-software-engineer-qa-platform-development.html"
+    },
+    {
+      "name": "Senior Frontend Engineer",
+      "description": "フロントエンド開発のシニアポジション。技術的リードシップを担当。English speaking position.",
+      "techstack": ["JavaScript", "TypeScript", "React", "Vue.js"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-frontend-engineer.html"
+    },
+    {
+      "name": "Senior Backend Engineer, Microservices (Go)",
+      "description": "Go言語でのマイクロサービス開発。バックエンドシステムの設計・実装。English speaking position.",
+      "techstack": ["Go", "Microservices", "Kubernetes", "Docker", "gRPC"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-backend-engineer-microservices-go.html"
+    },
+    {
+      "name": "QAエンジニア",
+      "description": "サイボウズ製品のQA。テスト計画・設計・実行、品質保証プロセスの改善を担当。",
+      "techstack": ["Selenium", "Jest", "JUnit", "Test Automation"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/qa-engineer.html"
+    },
+    {
+      "name": "プロダクトデザイナー",
+      "description": "サイボウズ製品のUI/UXデザイン。ユーザーリサーチ、プロトタイピングを担当。",
+      "techstack": ["Figma", "Design Systems", "Prototyping"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-designer.html"
+    },
+    {
+      "name": "プロダクトセキュリティエンジニア",
+      "description": "サイボウズ製品のセキュリティ。脆弱性診断、セキュリティ設計レビューを担当。",
+      "techstack": ["Security", "Penetration Testing", "OWASP", "AWS Security"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/security-engineer.html"
+    },
+    {
+      "name": "ソリューションエンジニア（大企業向け）",
+      "description": "大企業向けのソリューション提案。技術的なプリセールス、導入支援を担当。",
+      "techstack": ["kintone", "Garoon", "JavaScript", "API"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/sales-engineer-enterprise.html"
+    },
+    {
+      "name": "カスタマーサクセスエンジニア（大企業向け）",
+      "description": "大企業顧客のカスタマーサクセス支援。技術的なサポート、活用促進を担当。",
+      "techstack": ["kintone", "Garoon", "JavaScript", "API"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/customer-success-engineer-enterprise.html"
+    },
+    {
+      "name": "【サイボウズ・ラボ】研究開発部門",
+      "description": "サイボウズ・ラボでの研究開発。先端技術の研究、プロトタイプ開発を担当。",
+      "techstack": ["Research", "Prototyping", "Various Languages"],
+      "link": "https://cybozu.co.jp/recruit/entry/career/cybozu-lab.html"
+    }
+  ],
+  "_metadata": {
+    "collected_at": "2025-12-07",
+    "total_positions": 24
+  }
+}

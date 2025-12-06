@@ -1,0 +1,66 @@
+{
+  "company_name_ja": "ユーザベース",
+  "company_name_en": "Uzabase",
+  "description": "「経済情報の力で、誰もがビジネスを楽しめる世界をつくる」をパーパスに、経済情報プラットフォームSPEEDA、ソーシャル経済メディアNewsPicksなどを運営。The 7 Valuesを掲げ、フルリモート・フルフレックス・副業可の柔軟な働き方を推進。XP/ペアプログラミング/TDDを重視した開発文化。",
+  "description_en": "With the purpose of 'Empowering business through economic information', operates economic information platform SPEEDA and social economic media NewsPicks. Promotes flexible work styles with full remote, full flex, and side jobs allowed under The 7 Values. Development culture emphasizes XP, pair programming, and TDD.",
+  "hiring_url": "https://www.uzabase.com/jp/careers/",
+  "num_of_employees": "1000+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/uzabase.com",
+  "company_url": "https://www.uzabase.com/jp/",
+  "positions": [
+    {
+      "name": "Speeda - SRE (Site Reliability Engineer)",
+      "description": "自社プロダクトSpeedaを支えるハイブリッドクラウドの構築・運用。オンプレミス、GCP、AWSを利用したインフラ構築、マイクロサービス開発・運用、Docker/Kubernetes/Istio運用。",
+      "techstack": ["GCP", "AWS", "Docker", "Kubernetes", "Istio", "MySQL", "PostgreSQL", "Elasticsearch", "Aerospike", "Jenkins", "CircleCI", "GitLab", "Ansible", "Terraform", "Prometheus", "Grafana", "Java", "Go", "Python", "BigQuery"],
+      "link": "https://hrmos.co/pages/uzabase/jobs/1829077236709650475"
+    },
+    {
+      "name": "Speeda - 機械学習エンジニア (ML/NLP)",
+      "description": "Speedaの機械学習基盤や学習パイプライン、CI/CDパイプラインの構築。自然言語処理、マルチラベル分類モデル、LLMを活用した企業情報抽出モデルの開発・運用。",
+      "techstack": ["Python", "PyTorch", "TensorFlow", "NLP", "LLM", "Machine Learning", "Deep Learning", "GCP", "AWS"],
+      "link": "https://hrmos.co/pages/uzabase/jobs/1829077236709650481"
+    },
+    {
+      "name": "Speeda - ソフトウェアエンジニア(サーバー/フロント)",
+      "description": "マイクロサービスをターゲットとした少人数チームでペアプロ・モブプロしながらSpeedaを開発。XPベースのアジャイル開発、TDD、DDD、リファクタリングを推進。",
+      "techstack": ["Kotlin", "Clojure", "Dart", "Rust", "Elixir", "Scala", "Go", "Java", "TypeScript", "JavaScript", "Python", "Ruby", "F#", "React", "Vue.js", "Angular", "AngularDart", "FlutterWeb", "SpringBoot", "Ktor", "Phoenix", "PostgreSQL", "MySQL", "Elasticsearch", "Kubernetes", "GKE", "Anthos", "Istio", "Docker", "Terraform", "Ansible", "GitHub Actions", "ArgoCD"],
+      "link": "https://hrmos.co/pages/uzabase/jobs/1829077236709650483"
+    },
+    {
+      "name": "Speeda - ソフトウェアエンジニア(サーバー/フロント/大阪勤務)",
+      "description": "2025年8月から大阪オフィスを立ち上げ。Speedaの開発力強化を目的に大阪で新しい開発チームを構築。XP/ペアプロ/TDD文化。",
+      "techstack": ["Kotlin", "Clojure", "Dart", "Rust", "Elixir", "Scala", "Go", "Java", "TypeScript", "JavaScript", "Python", "Ruby", "React", "Vue.js", "Angular", "SpringBoot", "PostgreSQL", "MySQL", "Elasticsearch", "Kubernetes", "GKE", "Docker", "Terraform", "GitHub Actions"],
+      "link": "https://hrmos.co/pages/uzabase/jobs/2120358509695033369"
+    },
+    {
+      "name": "Corporate - コーポレートエンジニア（Salesforce中心）",
+      "description": "SalesforceやMulesoftを活用した業務システム基盤の構築・改善開発。ビジネス部門からの要求ヒアリングから要件定義、設計、開発、デリバリーまで。フルリモート可。",
+      "techstack": ["Salesforce", "Mulesoft", "iPaaS", "API", "SQL"],
+      "link": "https://hrmos.co/pages/uzabase/jobs/Corporate_006"
+    },
+    {
+      "name": "ソフトウェアエンジニア - NewsPicks Expert",
+      "description": "NewsPicks Expertのバックエンド/フロントエンド開発。Go、Kotlin、TypeScript、Next.jsを使用。Google Cloud/AWS/Kubernetes環境。フルリモート・フルフレックス。",
+      "techstack": ["Go", "Kotlin", "TypeScript", "Next.js", "Echo", "SpringBoot", "Express", "PostgreSQL", "MySQL", "Google Cloud", "AWS", "Kubernetes", "ArgoCD", "Terraform", "Datadog", "Bugsnag", "GitHub"],
+      "link": "https://hrmos.co/pages/uzabase/jobs/Corporate_039"
+    },
+    {
+      "name": "Corporate - PMO（IT基盤プロジェクト管理）",
+      "description": "急成長SaaS企業のIT基盤を創造し事業変革をリード。複数部門にまたがるプロジェクトの計画策定、進捗・課題・リスク管理、ポートフォリオ管理。フルリモート可。",
+      "techstack": ["Project Management", "Agile", "Scrum", "IT Systems"],
+      "link": "https://hrmos.co/pages/uzabase/jobs/Corporate_055"
+    },
+    {
+      "name": "27年新卒｜NewsPicks エンジニア職",
+      "description": "NewsPicksのエンジニアとして事業課題を発見し主体的に取り組む。Webアプリ/iOS/Android開発経験歓迎。2027年卒業見込み対象。",
+      "techstack": ["Web", "iOS", "Android", "Programming"],
+      "link": "https://hrmos.co/pages/uzabase/jobs/Newgrads27_004"
+    }
+  ],
+  "_metadata": {
+    "collected_at": "2025-12-07",
+    "total_positions": 8
+  }
+}

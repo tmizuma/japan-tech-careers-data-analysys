@@ -1,0 +1,57 @@
+{
+  "company_name_ja": "GMOフィナンシャルゲート",
+  "company_name_en": "GMO Financial Gate",
+  "logo_url": "",
+  "company_url": "https://gmo-fg.com/",
+  "hiring_url": "https://hrmos.co/pages/gmo-fg/jobs",
+  "positions": [
+    {
+      "name": "アプリケーションエンジニア (リーダークラス)",
+      "description": "キャッシュレス決済プラットフォーム事業のアプリケーション開発、要件定義からリリースまでのフルライフサイクル、チームマネジメント",
+      "techstack": ["Java", "HTML", "JavaScript", "SQL", "TypeScript", "Python", "Spring Boot", "AWS"],
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1710577000032026647"
+    },
+    {
+      "name": "アプリケーションエンジニア",
+      "description": "キャッシュレス決済プラットフォーム事業のアプリケーション開発、要件定義からリリースまでのフルライフサイクル",
+      "techstack": ["Java", "HTML", "JavaScript", "SQL", "AWS", "TypeScript", "Python", "Spring Boot"],
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1710577000032026648"
+    },
+    {
+      "name": "サイトリライアビリティエンジニア",
+      "description": "ハイブリッドクラウドプラットフォームの高度化・保全、インフラ/ネットワーク/ミドルウェア/クラウドサービスの設計・開発・運用",
+      "techstack": ["Linux", "Windows", "AWS", "Azure", "MySQL", "Ansible", "CloudFormation", "ServiceNow"],
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1710577000032026649"
+    },
+    {
+      "name": "ネットワークエンジニア",
+      "description": "ハイブリッドクラウドプラットフォームにおけるネットワークの高度化・保全、外部・内部ネットワークの実装",
+      "techstack": ["Linux", "Windows", "AWS", "Azure", "Cisco", "Firewall"],
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1710577000032026650"
+    },
+    {
+      "name": "サイトリライアビリティエンジニア（リーダークラス）",
+      "description": "ハイブリッドクラウドプラットフォームの高度化・保全、チームマネジメント、DX・IT高度化推進",
+      "techstack": ["Linux", "Windows", "AWS", "Azure", "Python", "SQL", "Ansible", "CloudFormation"],
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1827166141792948273"
+    },
+    {
+      "name": "決済端末開発 PMO",
+      "description": "キャッシュレス決済端末のアプリケーションソフトウェア開発、大型プロジェクト管理",
+      "techstack": ["Java", "Android"],
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1827166141792948302"
+    },
+    {
+      "name": "決済端末アプリケーションソフト開発メンバー",
+      "description": "決済手段・キャッシュレス端末の開発案件、要件定義・ベンダーマネジメント",
+      "techstack": ["Java", "C#", "Linux", "Android"],
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1827166141792948304"
+    },
+    {
+      "name": "DX推進・社内ITセキュリティ・運用高度化担当",
+      "description": "DX推進、セキュリティと利便性を両立させた社内IT環境の整備・運用",
+      "techstack": ["Microsoft 365", "Azure AD", "Intune", "CASB", "SASE", "PowerShell"],
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/2130559325370748949"
+    }
+  ]
+}

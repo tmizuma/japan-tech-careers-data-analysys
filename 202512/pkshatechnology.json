@@ -1,0 +1,271 @@
+{
+  "company_name_ja": "PKSHA Technology",
+  "company_name_en": "PKSHA Technology",
+  "description": "東京大学発AIスタートアップで2017年9月東証マザーズ上場（現プライム）。自然言語処理・画像認識・機械学習/深層学習技術を活用しAI SaaS・アルゴリズムソリューションを提供。主力製品「PKSHA ChatAgent」は深層学習と日本語固有NLP技術で5000万人超の会話ログを分析し高精度な意図理解を実現しAIチャットボット市場シェアNo.1。3000社以上に導入。2024年にはマイクロソフトと共同で世界初のRetentive Network活用日英LLMを開発。2025年6月期売上高154億円（前年比125.1%）と高成長を継続。",
+  "description_en": "AI startup spun out from University of Tokyo, listed on TSE Mothers in September 2017 (now Prime). Provides AI SaaS and algorithm solutions utilizing NLP, image recognition, and machine/deep learning technologies. Flagship product \"PKSHA ChatAgent\" analyzes over 50 million conversation logs with deep learning and Japanese-specific NLP technology to achieve high-precision intent understanding, holding #1 AI chatbot market share. Deployed in over 3,000 companies. Developed world's first Japanese-English LLM utilizing Retentive Network jointly with Microsoft in 2024. FY2025 June revenue of 15.4 billion yen (YoY +125.1%) with continued high growth.",
+  "hiring_url": "https://hrmos.co/pages/pkshatech/jobs",
+  "num_of_employees": "300+",
+  "sales": "14000000000",
+  "foreign_engineers": "TRUE",
+  "logo_url": "https://logo.clearbit.com/pkshatech.com",
+  "company_url": "https://www.pkshatech.com/",
+  "positions": [
+    {
+      "title": "アルゴリズムエンジニア (機械学習エンジニア/データサイエンティスト)【AI Solution】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/000eng_001",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "深層学習", "自然言語処理", "画像認識", "データサイエンス"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "UI/UXデザイナー【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/000eng_007",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "UI/UX", "デザインシステム", "ユーザーリサーチ"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "ソフトウエアエンジニア【AI Research&Solution】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/000eng_008",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "TypeScript", "AWS", "Azure", "Docker", "Terraform", "AWS CDK", "GitHub Actions", "Cursor", "Claude Code"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "ソフトウエアエンジニア【MaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/000eng_010",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Flutter", "Next.js", "GCP", "AWS", "Kubernetes", "Terraform", "CircleCI", "GitHub Actions"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "プロダクトマネージャー【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/000eng_011",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロダクトマネジメント", "AI SaaS", "ロードマップ策定"],
+      "experience_required": "PM経験"
+    },
+    {
+      "title": "アルゴリズムエンジニア (機械学習エンジニア/データサイエンティスト)【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/000eng_012",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "LLM", "自然言語処理", "SaaS"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "コミュニケーションデザイナー【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/000eng_014",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "Adobe Creative Cloud", "Notion"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "QAエンジニア【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/000eng_020",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["QA", "テスト自動化", "Playwright", "Autify", "GitHub", "Linear", "Datadog"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "ソフトウエアエンジニア【新規事業/AI HR開発推進室】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349003",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "Next.js", "Nest.js", "Python", "AWS", "Azure", "Terraform", "AWS CDK", "LLM"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "ソフトウエアエンジニア(フロントエンド)【PKSHA Speech Insight】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349034",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "React", "Redux", "Go", "Python", "AWS", "GitHub Actions", "Terraform", "Cursor", "Claude Code", "Devin"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "CEO室 アルゴリズムエンジニア（事業価値最大化担当）",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349035",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "深層学習", "自然言語処理", "画像認識", "需要予測", "異常検知"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "CEO室 ソフトウェアエンジニア（事業価値最大化担当）",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349036",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "TypeScript", "AWS", "Azure", "Docker", "Terraform", "AWS CDK", "GitHub Actions"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "【26年新卒】アルゴリズムエンジニア",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/003new_2605",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "データサイエンス"],
+      "experience_required": "新卒（修士以上）"
+    },
+    {
+      "title": "【26年新卒】ソフトウエアエンジニア",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/003new_2606",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "Go", "TypeScript", "Ruby", "AWS", "Azure", "GCP", "Docker", "Terraform"],
+      "experience_required": "新卒"
+    },
+    {
+      "title": "セールスエンジニア【AI SaaS/AI knowledge Stream】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/1753752720520376385",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Webサービス", "ネットワーク", "セキュリティ", "データベース", "API"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "AI Productivity Engineer - CTO Office",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/ai-productivity",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "Go", "TypeScript", "AI/LLM", "DevOps"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "BizDev【AI Research&Solution】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_001",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["DXコンサルティング", "プロジェクトマネジメント", "AI"],
+      "experience_required": "コンサル経験"
+    },
+    {
+      "title": "マーケター【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_002",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["BtoBマーケティング", "MA", "デジタルマーケティング"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "インサイドセールス【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_003",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["SaaSセールス", "インサイドセールス"],
+      "experience_required": "営業経験"
+    },
+    {
+      "title": "セールス【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_004",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["エンタープライズセールス", "AI SaaS"],
+      "experience_required": "営業経験"
+    },
+    {
+      "title": "カスタマーサクセス マネージャー【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_008",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["カスタマーサクセス", "SaaS", "マネジメント"],
+      "experience_required": "CS経験・マネジメント経験"
+    },
+    {
+      "title": "AI SaaSプロジェクトマネージャー【AI SaaS/AI Voice】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_011",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロジェクトマネジメント", "SIer", "コンタクトセンター"],
+      "experience_required": "PM経験"
+    },
+    {
+      "title": "カスタマーサクセス【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_020",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["カスタマーサクセス", "ITプロジェクトマネジメント"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "カスタマーサポート（テクニカルサポート）【AI SaaS】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/1960527706052689936",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["テクニカルサポート", "トラブルシューティング"],
+      "experience_required": "テクニカルサポート経験"
+    },
+    {
+      "title": "プリセールス/セールスエンジニア【AI SaaS/AI knowledge】",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349020",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プリセールス", "技術営業", "Webサービス", "セキュリティ"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "経営企画",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_006",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["経営企画", "予算策定", "データ分析"],
+      "experience_required": "経営企画経験"
+    },
+    {
+      "title": "経理",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/1753752720520376420",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["経理", "決算", "開示業務"],
+      "experience_required": "経理経験"
+    },
+    {
+      "title": "法務",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/002coop_012",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["法務", "契約書審査", "M&A"],
+      "experience_required": "企業法務経験"
+    },
+    {
+      "title": "採用人事",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/002coop_001",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["採用", "エンジニア採用"],
+      "experience_required": "採用人事経験"
+    },
+    {
+      "title": "経営企画_IR責任者候補",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/002coop_011",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["IR", "経営企画", "財務会計"],
+      "experience_required": "IR経験"
+    },
+    {
+      "title": "戦略投資室_M&A担当",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/001biz_018",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["M&A", "財務分析", "PMI"],
+      "experience_required": "M&A経験"
+    },
+    {
+      "title": "広報",
+      "url": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349041",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["広報", "メディアリレーション", "プレスリリース"],
+      "experience_required": "広報経験"
+    }
+  ],
+  "collected_at": "2025-12-07"
+}

@@ -1,0 +1,71 @@
+{
+  "company_name_ja": "Micin",
+  "company_name_en": "Micin",
+  "description": "オンライン診療サービス「curon（クロン）」を運営し登録医療機関数は国内最大規模の6000件超。予約から診察・処方・決済・薬の配送までをオンラインで完結し月間利用者の8割がリピート。2024年に日本調剤との連携を拡大しオンライン服薬指導や処方箋送信・薬局店頭受取が可能に。通院専用キャッシュレス決済「クロンスマートパス」は1500以上の医療機関に導入。薬局向け「クロンお薬サポート」でオンライン服薬指導を支援。デジタルセラピューティクス・保険事業まで幅広く展開。",
+  "description_en": "Operates online medical consultation service \"curon\" with Japan's largest scale of over 6,000 registered medical institutions. Completes reservation to consultation, prescription, payment, and medication delivery online with 80% of monthly users being repeat customers. Expanded partnership with Nihon Chouzai in 2024 enabling online medication guidance, prescription transmission, and pharmacy pickup. Hospital-dedicated cashless payment \"Curon SmartPass\" deployed in over 1,500 medical institutions. Supports online medication guidance for pharmacies with \"Curon Medication Support.\" Broadly expands into digital therapeutics and insurance businesses.",
+  "hiring_url": "https://recruit.micin.jp/",
+  "num_of_employees": "100+",
+  "sales": "-1",
+  "foreign_engineers": "FALSE",
+  "logo_url": "https://logo.clearbit.com/micin.jp",
+  "company_url": "https://micin.jp/",
+  "positions": [
+    {
+      "title": "フルスタックアプリケーションエンジニア／オンライン医療事業",
+      "url": "https://hrmos.co/pages/micin/jobs/10000000062",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "TypeScript", "Next.js", "React Native", "AWS", "GCP", "Datadog", "Sentry", "GitHub"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "アプリケーションエンジニア／デジタルセラピューティクス事業",
+      "url": "https://hrmos.co/pages/micin/jobs/10000000069",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "Redwood.js", "Prisma", "GraphQL", "React", "Terraform", "AWS", "GCP"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "開発責任者候補/オンライン医療事業",
+      "url": "https://hrmos.co/pages/micin/jobs/10000000104",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "TypeScript", "React", "Next.js", "React Native", "AWS", "GCP", "Terraform", "Datadog", "Sentry", "GitHub"],
+      "experience_required": "テックリード経験"
+    },
+    {
+      "title": "QAエンジニア／オンライン医療事業部",
+      "url": "https://hrmos.co/pages/micin/jobs/10000000124",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["自動テスト", "CI/CD", "Ruby on Rails", "Next.js", "React Native", "Redwood.js", "AWS", "GCP", "Vercel", "JIRA", "Confluence"],
+      "experience_required": "QA経験者"
+    },
+    {
+      "title": "テックリード/オンライン医療事業",
+      "url": "https://hrmos.co/pages/micin/jobs/10000000130",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "TypeScript", "React", "Next.js", "React Native", "AWS", "GCP", "Terraform", "Datadog", "Sentry", "GitHub"],
+      "experience_required": "テックリード経験"
+    },
+    {
+      "title": "アプリケーションエンジニア／オンライン医療事業",
+      "url": "https://hrmos.co/pages/micin/jobs/10000000131",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "TypeScript", "React", "Next.js", "AWS", "GCP"],
+      "experience_required": "フルスタック経験"
+    },
+    {
+      "title": "プラットフォームエンジニア／エンジニアリング・デザイン部（横断基盤）",
+      "url": "https://hrmos.co/pages/micin/jobs/13",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "Ruby", "Ruby on Rails", "React", "Next.js", "Node.js", "PostgreSQL", "AWS", "Terraform", "Sentry", "Datadog", "GitHub", "JIRA", "Confluence", "Figma"],
+      "experience_required": "Webアプリケーション開発経験"
+    }
+  ],
+  "collected_at": "2025-12-07"
+}

@@ -1,0 +1,126 @@
+{
+  "company_name_ja": "ユビー",
+  "company_name_en": "Ubie",
+  "positions": [
+    {
+      "name": "プロダクト基盤エンジニア（バックエンド）",
+      "description": "全社のプロダクト開発チームが持続的に開発生産性を最大化し続けられる仕組みづくり。モジュラモノリス中心のバックエンド開発、基盤サービスの企画・設計から開発・運用、自動テストの仕組みづくりと推進。",
+      "techstack": ["Node.js", "TypeScript", "Go", "PostgreSQL", "GraphQL", "Google Cloud", "CI/CD", "GitHub Copilot", "Devin", "Cursor"],
+      "link": "https://herp.careers/v1/ubiehr/M27_30Z-qLxQ"
+    },
+    {
+      "name": "プロダクト基盤エンジニア（Webフロントエンド）",
+      "description": "全社のWebフロントエンドの専門性に軸足を置くプラットフォームエンジニア。中長期の成長を見据えた戦略策定や設計から開発運用まで一貫して担当。持続可能なWebフロントエンド開発を推進する仕組みづくり。",
+      "techstack": ["React", "TypeScript", "Next.js", "GraphQL", "GitHub Copilot", "Devin", "Cursor"],
+      "link": "https://herp.careers/v1/ubiehr/xs2oPdoN7pXz"
+    },
+    {
+      "name": "プロダクト基盤エンジニア（認証認可基盤）",
+      "description": "認証認可や医療データ（PHR）基盤といった重要な基盤サービスの開発。医療プラットフォームの中核システムの設計・開発・運用。",
+      "techstack": ["Go", "TypeScript", "Google Cloud", "GitHub Copilot", "Devin", "Cursor"],
+      "link": "https://herp.careers/v1/ubiehr/YCfO7_Vx1l58"
+    },
+    {
+      "name": "プロダクトエンジニア（フルスタック）",
+      "description": "症状検索エンジン「ユビー」や医療機関向けサービスの設計・開発・運用。フロントエンドからバックエンドまでフルスタックで担当。",
+      "techstack": ["TypeScript", "React", "Next.js", "Node.js", "Go", "PostgreSQL", "Google Cloud", "GitHub Copilot", "Devin", "Cursor"],
+      "link": "https://herp.careers/v1/ubiehr/2PGTZ45P-x31"
+    },
+    {
+      "name": "プロダクトエンジニア（バックエンド）",
+      "description": "医療機関事業本部またはテクノロジープラットフォーム部でのバックエンド開発。医療機関向けサービスや症状検索エンジンの設計・開発・運用。",
+      "techstack": ["Node.js", "TypeScript", "Go", "PostgreSQL", "GraphQL", "Google Cloud", "GitHub Copilot", "Devin", "Cursor"],
+      "link": "https://herp.careers/v1/ubiehr/Tirj5oCs5hdd"
+    },
+    {
+      "name": "コーポレートAIエンジニア",
+      "description": "生成AIを活用した社内生産性向上の推進。データ分析の効率化やプログラミング支援など、作業効率を数倍にする取り組みを担当。",
+      "techstack": ["Python", "GPT", "Claude", "Gemini", "Azure OpenAI", "Dify", "GitHub Copilot", "Cursor"],
+      "link": "https://herp.careers/v1/ubiehr/_oeH0lYReImI"
+    },
+    {
+      "name": "プロダクト基盤エンジニア（テスト）",
+      "description": "全社のプロダクト開発における自動テストの仕組みづくりと推進（SET）。テストフレームワークの技術選定・運用、品質と開発スピードの両立を推進。",
+      "techstack": ["TypeScript", "Node.js", "Go", "CI/CD", "GitHub Actions", "GitHub Copilot", "Devin", "Cursor"],
+      "link": "https://herp.careers/v1/ubiehr/KpXDyMooDlNU"
+    },
+    {
+      "name": "Corporate Engineering Manager",
+      "description": "コーポレートエンジニアリングチームのマネジメント。社内ITインフラ、生産性向上ツールの企画・運用、チームビルディング。",
+      "techstack": ["GitHub Copilot", "Devin", "Cursor", "Notion AI"],
+      "link": "https://herp.careers/v1/ubiehr/i5yZXEKLgR7y"
+    },
+    {
+      "name": "エンジニアリングマネージャー（Medical Engineering）",
+      "description": "テクノロジープラットフォーム部でのエンジニアリングマネジメント。医療エンジニアリングチームのマネジメント、技術戦略の策定・推進。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/ubiehr/B9TFMqgMgDUU"
+    },
+    {
+      "name": "QAエンジニア",
+      "description": "全社プロダクトの品質保証を担当。テスト設計・実行、品質改善活動、開発チームへのEnabling。",
+      "techstack": ["TypeScript", "GitHub Actions", "CI/CD"],
+      "link": "https://herp.careers/v1/ubiehr/bfPkWMEgZJ7X"
+    },
+    {
+      "name": "SRE（サイト・リライアビリティ・エンジニア）",
+      "description": "全プロダクトのインフラ開発と運用。SLI/SLO設計、モニタリング環境の構築、CI/CDパイプライン整備、LLM活用機能の信頼性担保、グローバル開発・運用体制の構築。",
+      "techstack": ["Linux", "Docker", "Kubernetes", "Google Cloud", "AWS", "Terraform", "Envoy Proxy", "Istio", "Go", "PostgreSQL", "MySQL", "GitHub Copilot", "Devin", "Cursor"],
+      "link": "https://herp.careers/v1/ubiehr/_NEC__F2uvVP"
+    },
+    {
+      "name": "データアナリスト",
+      "description": "ファーマイノベーション事業本部でのデータ分析。リアルワールドデータ（RWD）を活用した製薬企業向け事業のデータ分析・インサイト抽出。",
+      "techstack": ["SQL", "Python", "BigQuery", "Looker"],
+      "link": "https://herp.careers/v1/ubiehr/jOXYtKIKkonz"
+    },
+    {
+      "name": "フルサイクルBIエンジニア",
+      "description": "データ基盤からBIツールまでフルサイクルで担当。データモデリング、ダッシュボード構築、データガバナンス推進。",
+      "techstack": ["SQL", "dbt", "BigQuery", "Looker", "Lightdash", "Python", "GitHub Actions"],
+      "link": "https://herp.careers/v1/ubiehr/Bilnrfg8U7vj"
+    },
+    {
+      "name": "データエンジニア",
+      "description": "全社データプラットフォームのアーキテクチャ設計・構築・運用。dbtを用いたデータパイプライン構築、データモデリング戦略の策定、データガバナンス体制の構築。",
+      "techstack": ["dbt", "SQL", "BigQuery", "Redshift", "Python", "Airflow", "GitHub Actions", "Lightdash", "Looker", "Google Cloud"],
+      "link": "https://herp.careers/v1/ubiehr/MExdfj2UgARV"
+    },
+    {
+      "name": "プロダクトデザイナー",
+      "description": "ペイシェントガイド部でのプロダクトデザイン。症状検索エンジン「ユビー」のUI/UXデザイン、ユーザーリサーチ、デザインシステムの構築。",
+      "techstack": ["Figma"],
+      "link": "https://herp.careers/v1/ubiehr/abumTWwzCIwb"
+    },
+    {
+      "name": "テクニカル・プロダクトマネージャー",
+      "description": "テクノロジープラットフォーム部でのプロダクトマネジメント。技術的な観点からプロダクト戦略を策定・推進、エンジニアリングチームとの連携。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/ubiehr/qkv2Paw9ESAX"
+    },
+    {
+      "name": "プロダクトマネージャー（病院事業）",
+      "description": "医療機関事業本部でのプロダクトマネジメント。医療機関向けサービスの成長戦略立案・実行、ビジネスチームや開発チームとの連携。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/ubiehr/i0-w9ZpSmvLe"
+    },
+    {
+      "name": "プロダクトマネージャー（グロース）",
+      "description": "ペイシェントガイド部でのプロダクトマネジメント。症状検索エンジン「ユビー」のグロース戦略立案・実行。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/ubiehr/oRAZJ65hTJ8H"
+    },
+    {
+      "name": "プロダクトマネージャー（新規事業）",
+      "description": "ペイシェントガイド部での新規事業プロダクトマネジメント。新規プロダクトの企画・立ち上げ・成長戦略の推進。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/ubiehr/deCBcmdncRmr"
+    },
+    {
+      "name": "プロダクトマネージャー（治験リクルーティングサービス）",
+      "description": "ファーマイノベーション事業本部でのプロダクトマネジメント。治験リクルーティングサービスの成長戦略立案・実行。",
+      "techstack": [],
+      "link": "https://herp.careers/v1/ubiehr/JaRnhRIjJX76"
+    }
+  ]
+}

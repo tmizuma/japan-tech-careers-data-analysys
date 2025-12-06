@@ -1,0 +1,207 @@
+{
+  "company_name_ja": "Timee",
+  "company_name_en": "Timee",
+  "description": "スキマバイト・スポットワーク市場のリーディングカンパニー。累計登録ワーカー1000万人・登録事業所33.5万拠点で国内No.1のスキマバイトプラットフォームを運営。履歴書・面接不要で即日勤務可能・勤務終了後すぐ報酬受取可能な仕組みで人手不足解消と柔軟な働き方を両立。2024年のスポットワーク市場規模は1216億円で2年前から3倍超に拡大。2024年7月に東証グロース上場し時価総額1569億円の大型上場を達成。第3四半期累計売上高248億円（前年比30.5%増）と大幅増収増益を継続。",
+  "description_en": "Leading company in gig work and spot work market. Operates Japan's #1 gig work platform with 10 million cumulative registered workers and 335,000 registered business locations. Enables same-day work without resume or interview and immediate payment after shift completion, addressing labor shortages while enabling flexible work styles. 2024 spot work market size reached 121.6 billion yen, tripling from two years prior. Listed on TSE Growth in July 2024 with major IPO achieving 156.9 billion yen market cap. Q3 cumulative revenue of 24.8 billion yen (YoY +30.5%) with continued significant revenue and profit growth.",
+  "hiring_url": "https://corp.timee.co.jp/recruit/",
+  "num_of_employees": "1000+",
+  "sales": "16000000000",
+  "foreign_engineers": "FALSE",
+  "logo_url": "https://logo.clearbit.com/timee.co.jp",
+  "company_url": "https://timee.co.jp/",
+  "positions": [
+    {
+      "title": "Senior Product Security Engineer",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191786",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["セキュリティ", "プロダクトセキュリティ", "脆弱性診断"],
+      "experience_required": "シニアエンジニア"
+    },
+    {
+      "title": "認証基盤開発エンジニア",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191807",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["認証基盤", "バックエンド", "Ruby", "Go"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Software Engineer, Platform",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191812",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["AWS", "GCP", "Kubernetes", "Terraform", "SRE"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Senior Software Engineer, Backend",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191806",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "Go", "MySQL", "Redis", "AWS"],
+      "experience_required": "シニアエンジニア"
+    },
+    {
+      "title": "Software Engineer, Android",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191801",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["Kotlin", "Android", "Jetpack Compose"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Software Engineer, iOS",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191800",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["Swift", "iOS", "SwiftUI"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Software Engineer, Backend",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191805",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "Go", "MySQL", "AWS"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "インフラアーキテクト（データ基盤）",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191763",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["BigQuery", "GCP", "データ基盤", "LLM", "セキュリティ"],
+      "experience_required": "アーキテクト経験"
+    },
+    {
+      "title": "データプログラムマネージャー",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191762",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["データ分析", "プロジェクトマネジメント"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "MLOpsエンジニア",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191755",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["MLOps", "Python", "機械学習", "Kubernetes", "AWS", "GCP"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "データサイエンティスト",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191752",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "SQL", "機械学習", "データ分析"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "シニアデータサイエンティスト",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191753",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "SQL", "機械学習", "LLM", "データ分析"],
+      "experience_required": "シニア経験"
+    },
+    {
+      "title": "シニアMLOpsエンジニア",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191756",
+      "location": "全国",
+      "employment_type": "正社員",
+      "tech_stack": ["MLOps", "Python", "機械学習", "Kubernetes"],
+      "experience_required": "シニア経験"
+    },
+    {
+      "title": "シニアプロダクトデザイナー",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191764",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "UI/UX", "プロダクトデザイン"],
+      "experience_required": "シニアデザイナー"
+    },
+    {
+      "title": "プロダクトマネージャー/PdM",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191768",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロダクトマネジメント", "Discovery", "Go-to-Market"],
+      "experience_required": "PM経験"
+    },
+    {
+      "title": "シニアコーポレートIT/Senior CorporateIT",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191759",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["IT管理", "ZTNA", "セキュリティ", "SaaS管理"],
+      "experience_required": "シニア経験"
+    },
+    {
+      "title": "PdM（共通基盤）/プロダクトマネージャー（共通基盤）",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191757",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロダクトマネジメント", "共通基盤", "マルチプロダクト"],
+      "experience_required": "PM経験"
+    },
+    {
+      "title": "DoP(Director of Product)候補",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191811",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロダクトマネジメント", "組織マネジメント"],
+      "experience_required": "DoP/CPO経験"
+    },
+    {
+      "title": "テクニカルプログラムマネージャー/Technical Program Manager",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191810",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["OpenID Connect", "プロジェクトマネジメント", "ロードマップ策定"],
+      "experience_required": "TPM経験"
+    },
+    {
+      "title": "Engineering Manager",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191809",
+      "location": "フルリモート",
+      "employment_type": "正社員",
+      "tech_stack": ["組織マネジメント", "エンジニアリング"],
+      "experience_required": "EM経験"
+    },
+    {
+      "title": "PdM（新規事業・新規プロダクト）/プロダクトマネージャー（新規事業・新規プロダクト）",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191718",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロダクトマネジメント", "新規事業開発"],
+      "experience_required": "PM経験"
+    },
+    {
+      "title": "PdM（Growth）/プロダクトマネージャー（グロース領域）",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191703",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロダクトマネジメント", "グロース", "データ分析"],
+      "experience_required": "PM経験"
+    },
+    {
+      "title": "Senior PMO/Project Management Office",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191658",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロジェクトマネジメント", "PMO"],
+      "experience_required": "シニアPMO経験"
+    },
+    {
+      "title": "Product Strategist",
+      "url": "https://hrmos.co/pages/timee/jobs/16822514041183191808",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["プロダクト戦略", "ビジネス戦略"],
+      "experience_required": "戦略経験"
+    }
+  ],
+  "collected_at": "2025-12-07"
+}

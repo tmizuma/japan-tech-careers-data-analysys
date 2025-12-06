@@ -1,0 +1,93 @@
+{
+  "company_name_ja": "コインチェック",
+  "company_name_en": "Coincheck",
+  "logo_url": "",
+  "company_url": "https://coincheck.com/",
+  "hiring_url": "https://corporate.coincheck.com/recruit/jobsearch/engineering",
+  "positions": [
+    {
+      "name": "エンジニアリングマネージャー（開発・AI本部）",
+      "description": "暗号資産取引サービスの開発・AI本部でのエンジニアリングマネジメント",
+      "techstack": ["Engineering Management"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0013"
+    },
+    {
+      "name": "バックエンドエンジニア（開発・AI本部）",
+      "description": "暗号資産取引サービスのバックエンド開発",
+      "techstack": ["Backend Development"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0004"
+    },
+    {
+      "name": "セキュリティ担当（セキュリティ部）",
+      "description": "暗号資産取引サービスのセキュリティ業務",
+      "techstack": ["Security"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/D0001"
+    },
+    {
+      "name": "クリプトエンジニア（開発・AI本部）",
+      "description": "暗号資産・ブロックチェーン関連の開発",
+      "techstack": ["Blockchain", "Cryptocurrency"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0006"
+    },
+    {
+      "name": "リードエンジニア（開発・AI本部）",
+      "description": "暗号資産取引サービスの開発リード",
+      "techstack": ["Lead Engineer"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0005"
+    },
+    {
+      "name": "SET（Software Engineer in Test）(システムインフラストラクチャ部)",
+      "description": "テスト自動化・品質向上のためのソフトウェア開発",
+      "techstack": ["Test Automation", "QA"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0012"
+    },
+    {
+      "name": "QMO（Quality Management Officer）（システムインフラストラクチャ部）",
+      "description": "品質管理・品質保証業務",
+      "techstack": ["Quality Management", "QA"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0011"
+    },
+    {
+      "name": "SRE(システムインフラストラクチャ部)",
+      "description": "サービスの信頼性向上・インフラ運用",
+      "techstack": ["SRE", "Infrastructure"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0009"
+    },
+    {
+      "name": "社内DXエンジニア(社内サービス部)",
+      "description": "社内システムのDX推進・開発",
+      "techstack": ["DX", "Internal Systems"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0007"
+    },
+    {
+      "name": "シニアフロントエンドエンジニア（開発・AI本部）",
+      "description": "暗号資産取引サービスのフロントエンド開発",
+      "techstack": ["Frontend", "JavaScript"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0010"
+    },
+    {
+      "name": "iOSエンジニア（アプリケーションプラットフォーム部）",
+      "description": "暗号資産取引アプリのiOS開発",
+      "techstack": ["iOS", "Swift"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0003"
+    },
+    {
+      "name": "Androidエンジニア（アプリケーションプラットフォーム部）",
+      "description": "暗号資産取引アプリのAndroid開発",
+      "techstack": ["Android", "Kotlin"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0002"
+    },
+    {
+      "name": "ブロックチェーンエンジニア（コールドウォレット G）",
+      "description": "コールドウォレット関連のブロックチェーン開発",
+      "techstack": ["Blockchain", "Cold Wallet"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0001"
+    },
+    {
+      "name": "QAエンジニア（アプリケーションプラットフォーム部）",
+      "description": "暗号資産取引アプリの品質保証",
+      "techstack": ["QA", "Test"],
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0008"
+    }
+  ]
+}

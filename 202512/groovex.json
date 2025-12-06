@@ -1,0 +1,63 @@
+{
+  "company_name_ja": "GROOVE X",
+  "company_name_en": "Groove X",
+  "logo_url": "",
+  "company_url": "https://groove-x.com/",
+  "hiring_url": "https://groove-x.com/recruit/",
+  "positions": [
+    {
+      "name": "機械学習(画像)エンジニア",
+      "description": "LOVOTで使う機械学習モデルを作る、モデルを作る環境を整えるお仕事。認識アプリケーションの開発と保守、学習データセットの構築。",
+      "techstack": ["Python", "Rust", "Go", "PyTorch", "GCP", "Machine Learning"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1464666"
+    },
+    {
+      "name": "人の声を認知するLOVOTの音声認識エンジニア",
+      "description": "LOVOTの「耳」に相当する部分のソフトウェア開発全般。マイクロフォンアレイによるフロントエンド処理全般の開発・実装。",
+      "techstack": ["Speech Recognition", "Audio Processing", "Linux"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1506860"
+    },
+    {
+      "name": "ファームウェアエンジニア",
+      "description": "センサーやアクチュエータの制御を行うマイコンのファームウェア開発。市場故障の原因解析、生産・アフターサービスの検査工程の最適化。",
+      "techstack": ["C", "Python", "Go", "Firmware", "Microcontroller"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1506865"
+    },
+    {
+      "name": "家庭用ロボット LOVOTの組み込みLinuxエンジニア（Jetson）",
+      "description": "ミドルウェアの開発を中心に、ソフトウェアが動作するOS・プラットフォームの開発。LOVOT用のLinux OS (rootfs)の構築。",
+      "techstack": ["Linux", "Go", "Ubuntu", "Jetson", "Embedded"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1506848"
+    },
+    {
+      "name": "クラウドエンジニア",
+      "description": "LOVOTやスマートフォンアプリとの連携の基盤であるプラットフォームの開発・運用。API（REST/gRPC）の設計及び開発、Kubernetesクラスタの運用。",
+      "techstack": ["Go", "gRPC", "Kubernetes", "GCP", "React", "BigQuery"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/877126"
+    },
+    {
+      "name": "ソフトウェア領域のプロダクトオーナー（PO）",
+      "description": "LOVOTのソフトウェア領域におけるプロダクトオーナーとして、プロダクト戦略とロードマップ策定、要件定義と開発ディレクション。",
+      "techstack": ["Product Management", "Agile", "Scrum"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/2180251"
+    },
+    {
+      "name": "機械学習テックリードエンジニア",
+      "description": "機械学習に関連するコア技術の開発。環境認識、移動制御といった各技術領域も含めたシステム全体の設計。",
+      "techstack": ["Machine Learning", "Python", "Deep Learning"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/2163788"
+    },
+    {
+      "name": "スクラムマスター",
+      "description": "2~3の開発チームのスクラムマスターを担い、日々の開発業務や組織運営、チームのサポート。アジャイル/スクラムトレーニングの計画と実行。",
+      "techstack": ["Scrum", "Agile"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/275351"
+    },
+    {
+      "name": "LOVOTのミドルウェア開発エンジニア",
+      "description": "デバイスを制御するサービスの開発、MCUやセンサーデバイスなどをつなぐサービスの開発。ネットワーク制御（WiFi, Bluetooth, NFCデバイスなど）。",
+      "techstack": ["Go", "Linux", "Ubuntu", "Middleware"],
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1800827"
+    }
+  ]
+}

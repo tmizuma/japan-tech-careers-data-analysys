@@ -1,0 +1,164 @@
+{
+  "company_name_ja": "マネーフォワード",
+  "company_name_en": "Money Forward",
+  "description": "「お金を前へ。人生をもっと前へ。」をミッションに、個人向け家計簿アプリ「マネーフォワード ME」（1700万人以上利用）、法人向けバックオフィスSaaS「マネーフォワード クラウド」を展開。東証プライム上場。SaaS×Fintechで日本有数の規模を誇り、エンジニア組織の英語化を推進中。",
+  "description_en": "With the mission 'Money Forward. Move your life forward.', operates personal finance app 'Money Forward ME' (17M+ users) and business SaaS 'Money Forward Cloud'. Listed on TSE Prime. One of Japan's largest SaaS×Fintech companies, actively promoting English in engineering organization.",
+  "hiring_url": "https://recruit.moneyforward.com/",
+  "num_of_employees": "2000+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/moneyforward.com",
+  "company_url": "https://corp.moneyforward.com/",
+  "positions": [
+    {
+      "name": "バックエンドエンジニア（マネーフォワード掛け払い）",
+      "description": "企業間後払い決済サービスのアーキテクチャ設計、技術選定、実装、リリース、継続的改善を担当。マイクロサービスアーキテクチャでの開発。",
+      "techstack": ["Go", "TypeScript", "Nuxt.js", "Remix", "Nest.js", "gRPC", "GraphQL", "MySQL", "BigQuery", "Kubernetes", "GKE", "Cloud Run", "Docker"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/003go02"
+    },
+    {
+      "name": "バックエンドエンジニア（テックリード候補）（会計Plus）",
+      "description": "マネーフォワード クラウド会計Plusの新規機能開発、信頼性が高く高速なバックエンドの設計・開発。関西拠点勤務。",
+      "techstack": ["Ruby on Rails", "Go", "TypeScript", "Next.js", "React", "MySQL", "AWS", "Docker", "Redis"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1705418"
+    },
+    {
+      "name": "シニアソフトウェアエンジニア（クラウド経費・債務支払）",
+      "description": "福岡拠点でマネーフォワード クラウド経費、クラウド債務支払のWebアプリケーション開発。",
+      "techstack": ["Ruby on Rails", "Go", "Node.js", "GraphQL", "React", "TypeScript", "Next.js", "MySQL", "AWS", "GCP", "Kubernetes"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1960606981176266782"
+    },
+    {
+      "name": "Webエンジニア（テックリード候補）（STREAMED）",
+      "description": "AI×BPO×SaaSのクラウド記帳サービス「STREAMED」のデータ化基盤システム開発。技術負債の解消とリアーキテクト。",
+      "techstack": ["PHP", "Python", "Django", "React", "JavaScript", "MySQL", "AWS"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2017888113558388788"
+    },
+    {
+      "name": "AIソリューションエンジニア（AI推進室）",
+      "description": "AIを活用した社内業務効率改善。課題解決手法の提案・検証・開発およびプロジェクトマネジメント。",
+      "techstack": ["Python", "Go", "TypeScript", "React", "AWS", "GCP", "Azure", "LangChain", "RAG", "OpenAI API"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2047160677453344965"
+    },
+    {
+      "name": "データプロダクトエンジニア（データ戦略室）",
+      "description": "全社的なデータ戦略およびガバナンスの策定、技術支援。AIや機械学習を組み込んだデータ活用推進。",
+      "techstack": ["Python", "Go", "Flask", "Django", "FastAPI", "AWS", "GCP", "Azure"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2047160677453344992"
+    },
+    {
+      "name": "バックエンドエンジニア（デジタルバンク）",
+      "description": "三井住友FGとの提携による新デジタル銀行設立プロジェクト。Mambuを活用した銀行システム構築。",
+      "techstack": ["Kotlin", "Java", "Spring Boot", "MySQL", "Redis", "Docker", "AWS ECS", "Apache Kafka"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2116343163783999497"
+    },
+    {
+      "name": "Tech Lead（Business Platform Development）",
+      "description": "マネーフォワードクラウドの共通基盤となるマイクロサービスやバックエンドシステムの開発をリード。",
+      "techstack": ["Go", "Java", "MySQL", "DynamoDB", "Redis", "Terraform", "Kubernetes", "AWS", "GCP", "Docker", "Kafka"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2139652574670553100"
+    },
+    {
+      "name": "シニアバックエンドエンジニア（ID基盤）",
+      "description": "マネーフォワードクラウド全体の認証・認可・ユーザー管理のマイクロサービス開発。1日数千万リクエストを処理。",
+      "techstack": ["Ruby on Rails", "Go", "GraphQL", "gRPC", "MySQL", "Kafka", "Redis", "AWS", "Kubernetes", "Terraform"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2174353643180318721"
+    },
+    {
+      "name": "Backend Developer (Go)（Money Forward X）",
+      "description": "金融機関向けコーポレートバンキングプラットフォームのGo言語での開発。",
+      "techstack": ["Go", "AWS", "Docker", "Kubernetes", "Terraform"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2174353643180318756"
+    },
+    {
+      "name": "Senior Software Engineer（個人事業主向けサービス）",
+      "description": "クラウド確定申告、クラウド開業届などのフルスタック開発。",
+      "techstack": ["Ruby on Rails", "Kotlin", "Go", "Next.js", "TypeScript", "React", "GraphQL", "MySQL", "Redis", "AWS"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2174353643180318757"
+    },
+    {
+      "name": "バックエンドエンジニア（アカウントアグリゲーション）",
+      "description": "銀行・クレジットカード・証券など金融サービスからデータを収集するシステム開発。2500以上の連携先との接続運用。",
+      "techstack": ["Java", "Kotlin", "MySQL", "Docker", "Redis", "AWS"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2174353643180318759"
+    },
+    {
+      "name": "Senior Backend Engineer (Ruby)（会計開発部）",
+      "description": "マネーフォワード クラウド会計の機能開発・保守・改善。ミッションクリティカルシステムの安定運用。",
+      "techstack": ["Ruby on Rails", "React", "TypeScript", "MySQL", "AWS", "GCP", "Docker", "Redis", "GraphQL"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2149422232150540336"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "description": "マネーフォワードクラウドのフロントエンド開発。React/TypeScriptを中心とした開発。",
+      "techstack": ["React", "TypeScript", "Next.js", "webpack", "Jest"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs?category=1707296059459596291"
+    },
+    {
+      "name": "SRE",
+      "description": "マネーフォワードクラウドのインフラ運用・信頼性向上。Kubernetes、AWS環境の設計・運用。",
+      "techstack": ["Kubernetes", "AWS", "GCP", "Terraform", "Docker", "Datadog"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs?category=1707296059459596292"
+    },
+    {
+      "name": "モバイルエンジニア（iOS/Android）",
+      "description": "マネーフォワードMEやクラウドサービスのiOS/Androidアプリ開発。",
+      "techstack": ["Swift", "SwiftUI", "Kotlin", "Android Jetpack"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs?category=1707296059459596293"
+    },
+    {
+      "name": "MLエンジニア",
+      "description": "機械学習・自然言語処理・画像認識など、AIを活用したプロダクト機能開発。",
+      "techstack": ["Python", "TensorFlow", "PyTorch", "AWS SageMaker", "BigQuery"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs?category=1707296059459596294"
+    },
+    {
+      "name": "AIソリューションエンジニア（プロダクトAIソリューション部）",
+      "description": "生成AI・RAGなどの最新技術を活用したバックオフィス業務の課題解決。AIソリューションの企画・設計・実装・運用。",
+      "techstack": ["Python", "Go", "TypeScript", "React", "AWS", "GCP", "Azure", "LLM", "RAG"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1877612029521268827"
+    },
+    {
+      "name": "アナリティクスエンジニア（分析推進部）",
+      "description": "データ分析基盤の汎用データマート設計・改修、AI活用による業務生産性向上のデータモデリング・可視化。",
+      "techstack": ["BigQuery", "dbt", "Dataform", "Looker", "Python", "SQL"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/0004330"
+    },
+    {
+      "name": "コーポレートエンジニア",
+      "description": "全社共通のITインフラ・社内システムの企画・設計・構築・運用。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/moneyforward/jobs?category=1707296059459596296"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "description": "プロダクトセキュリティ、SOC運用、セキュリティ診断業務。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/moneyforward/jobs?category=1666322478647443458,1862162235189092352"
+    },
+    {
+      "name": "QAエンジニア・SDET",
+      "description": "各種プロダクトのQA（品質保証）、テスト自動化、AIを活用した品質改善。",
+      "techstack": ["Python", "JavaScript"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1705418982829588559"
+    },
+    {
+      "name": "エンジニアリングマネージャー（マネーフォワードME）",
+      "description": "マネーフォワードMEの開発部全体を率いるEM。チームビルディング、ピープルマネジメント、プロジェクトマネジメント。",
+      "techstack": ["Ruby on Rails", "Kotlin", "Swift", "AWS", "GCP", "Kubernetes"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1877612029521268929"
+    },
+    {
+      "name": "シニアエンジニアリングマネージャー（アカウントアグリゲーション）",
+      "description": "エンジニアチームのアウトプット最大化、中長期戦略立案、採用・育成・評価。",
+      "techstack": ["Java", "Kotlin", "MySQL", "AWS", "Docker"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1705418982829588571"
+    },
+    {
+      "name": "データサイエンティスト（研究開発）",
+      "description": "機械学習・統計分析を活用したプロダクト改善、データ分析。",
+      "techstack": ["Python", "BigQuery", "TensorFlow"],
+      "link": "https://hrmos.co/pages/moneyforward/jobs?category=1707296059459596330"
+    }
+  ]
+}

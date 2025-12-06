@@ -1,0 +1,269 @@
+{
+  "company_name_ja": "LayerX",
+  "company_name_en": "LayerX",
+  "description": "「すべての経済活動を、デジタル化する」をミッションに、法人支出管理サービス「バクラク」、AIエージェント「Ai Workforce」、Fintech事業の3つを展開。2023年にシリーズBで約100億円調達。Gunosy共同創業者の福島良典氏がCEO。LLM・生成AIを積極活用し、「Bet AI」を掲げる。フレックス・リモート可。",
+  "description_en": "With the mission 'Digitize all economic activities', operates three businesses: corporate expense management service 'Bakuraku', AI agent 'Ai Workforce', and Fintech. Raised approximately 10 billion yen in Series B in 2023. CEO Yoshinori Fukushima co-founded Gunosy. Actively leverages LLM and generative AI under 'Bet AI' slogan. Flex and remote work available.",
+  "hiring_url": "https://jobs.layerx.co.jp/position/",
+  "num_of_employees": "400",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/layerx.co.jp",
+  "company_url": "https://layerx.co.jp/",
+  "positions": [
+    {
+      "name": "シニアプロダクトエンジニア_フルスタック",
+      "description": "バクラクの既存プロダクトや基盤機能の開発・運用、新規プロダクトの立ち上げ。特定分野のプロダクト開発チームのリード。",
+      "techstack": ["Go", "TypeScript", "React", "GCP", "AWS", "PostgreSQL", "GraphQL"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52735"
+    },
+    {
+      "name": "シニアプロダクトエンジニア_バックエンド",
+      "description": "バックエンドを中心としたフルスタックなプロダクト・基盤開発。既存プロダクトの機能開発・運用、新規プロダクトの立ち上げ。",
+      "techstack": ["Go", "TypeScript", "GCP", "AWS", "PostgreSQL", "GraphQL"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52737"
+    },
+    {
+      "name": "シニアプロダクトエンジニア_フロントエンド",
+      "description": "Webフロントエンドを中心としたフルスタックなプロダクト・基盤開発。技術選定・設計方針策定。",
+      "techstack": ["TypeScript", "React", "Next.js", "GCP", "AWS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52739"
+    },
+    {
+      "name": "ソフトウェアエンジニア_モバイル",
+      "description": "バクラク申請・経費精算のFlutterモバイルアプリ開発。新規プロダクト開発。",
+      "techstack": ["Flutter", "Dart", "iOS", "Android", "Firebase"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52740"
+    },
+    {
+      "name": "ソフトウェアエンジニア_AI-UX",
+      "description": "バクラクにおける「業務の完全自動運転」を実現するAIプロダクト・機能開発。LLM、VLM、AIエージェント技術の活用。",
+      "techstack": ["Python", "TypeScript", "LLM", "VLM", "AI Agent", "GCP", "AWS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/93439"
+    },
+    {
+      "name": "ソフトウェアエンジニア_APIプラットフォーム",
+      "description": "バクラクシリーズの外部公開向けREST APIの設計・開発。iPaaS連携などのエコシステム構築。",
+      "techstack": ["Go", "TypeScript", "REST API", "OpenAPI", "GCP"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/106042"
+    },
+    {
+      "name": "ソフトウェアエンジニア_BizOps",
+      "description": "BizOpsプロセス全体の自動化・最適化基盤の設計・実装。LLM/生成AIを用いたワークフロー自動化。",
+      "techstack": ["Go", "Python", "TypeScript", "LLM", "CRM", "SFA", "ERP"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/108414"
+    },
+    {
+      "name": "ソフトウェアエンジニア_セールスイネーブルメント",
+      "description": "データとAIを活用し営業の生産性を上げるソフトウェア開発。LLMやベクトル検索の処理パイプライン開発。",
+      "techstack": ["Python", "TypeScript", "LLM", "Vector Search", "React"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/93990"
+    },
+    {
+      "name": "ソフトウェアエンジニア_フルスタック_決済事業",
+      "description": "BtoB決済プロダクト開発。カード決済の経理業務改善、不正決済防止のML活用、フルスタック機能開発。",
+      "techstack": ["Go", "TypeScript", "React", "Machine Learning", "GCP", "AWS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/61168"
+    },
+    {
+      "name": "ソフトウェアエンジニア_ユーザー管理基盤",
+      "description": "バクラクシリーズ横断の共通基盤開発・運用。認証/認可基盤、マスタデータ、監査機能、API基盤。",
+      "techstack": ["Go", "TypeScript", "Authentication", "Authorization", "GCP"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/93721"
+    },
+    {
+      "name": "ソフトウェアエンジニア_新規プロダクト",
+      "description": "フルスタックなプロダクト開発。新規プロダクトの立ち上げ、チームリード。",
+      "techstack": ["Go", "TypeScript", "React", "GCP", "AWS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/96435"
+    },
+    {
+      "name": "シニアソフトウェアエンジニア_Platform_Enabling",
+      "description": "プロダクト開発の効率化と品質向上のための仕組み作り。技術選定・設計方針策定。",
+      "techstack": ["Go", "TypeScript", "React", "GCP", "AWS", "CI/CD"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/113198"
+    },
+    {
+      "name": "SRE (Site Reliability Engineer)",
+      "description": "複数プロダクトのプラットフォームインフラやCI/CD基盤の設計・構築・運用。信頼性・スケーラビリティ向上。",
+      "techstack": ["GCP", "AWS", "Kubernetes", "Terraform", "Docker", "Datadog", "IaC"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52741"
+    },
+    {
+      "name": "CRE（Customer Reliability Engineer）",
+      "description": "顧客の信頼性向上のための課題解決。Webエンジニアとしての技術的問い合わせ調査、パフォーマンスボトルネック解決。",
+      "techstack": ["Go", "TypeScript", "React", "GCP", "AWS", "Debugging"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/92538"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "description": "バクラクの「業務の完全自動運転」実現。LLM、VLM、AIエージェント、画像認識、NLPを駆使した機械学習モデリング。",
+      "techstack": ["Python", "PyTorch", "TensorFlow", "LLM", "VLM", "Computer Vision", "NLP", "GCP"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/63504"
+    },
+    {
+      "name": "MLOpsエンジニア",
+      "description": "AIプロダクト・機能を実現するためのMLOps/LLMOps構築。継続的なモニタリング・改善の仕組み作り。",
+      "techstack": ["Python", "MLOps", "LLMOps", "Kubernetes", "GCP", "AWS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/71190"
+    },
+    {
+      "name": "エンジニアリングマネージャー",
+      "description": "開発チームの成果最大化のためのマネジメント。ピープルマネジメント、アーキテクチャ・技術選定。",
+      "techstack": ["Go", "TypeScript", "React", "GCP", "AWS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52743"
+    },
+    {
+      "name": "エンジニアリングマネージャー_AI・機械学習領域",
+      "description": "AI技術の社会実装プロジェクト推進、新規AIプロダクト・基盤の企画設計・開発リード。チームビルディング・採用。",
+      "techstack": ["Python", "LLM", "VLM", "AI Agent", "Machine Learning", "GCP"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112746"
+    },
+    {
+      "name": "QAエンジニア",
+      "description": "プロダクトのQA業務遂行。新機能テスト計画・設計・実施、自動E2Eテストの運用。",
+      "techstack": ["Test Automation", "E2E Testing", "Quality Assurance", "CI/CD"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52742"
+    },
+    {
+      "name": "シニアQAエンジニア",
+      "description": "QAリードとして品質戦略・テスト計画策定。統合テスト、非機能テスト設計、QAチームメンバー育成。",
+      "techstack": ["Test Automation", "E2E Testing", "Performance Testing", "Security Testing", "CI/CD"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/67677"
+    },
+    {
+      "name": "データエンジニア",
+      "description": "プロダクトおよび社内SaaSからのデータETL処理、データレイク/データウェアハウス構築・運用。",
+      "techstack": ["Python", "SQL", "BigQuery", "GCP", "AWS", "ETL", "Snowflake"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/61470"
+    },
+    {
+      "name": "プロダクトセキュリティエンジニア",
+      "description": "プロダクトの脆弱性管理、リスク評価、インシデント対応、セキュリティトレーニング、データ保護。",
+      "techstack": ["Security", "Vulnerability Assessment", "GCP", "AWS", "DevSecOps"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/81246"
+    },
+    {
+      "name": "【Ai Workforce】シニアソフトウェアエンジニア",
+      "description": "大規模言語モデルに関するプロダクトの企画・設計・開発。論文調査・実装。",
+      "techstack": ["Python", "TypeScript", "LLM", "OpenAI", "Azure", "GCP"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/106136"
+    },
+    {
+      "name": "【Ai Workforce】ソフトウェアエンジニア",
+      "description": "大規模言語モデルに関するプロダクトの企画・設計・開発。社内におけるLLM利用促進。",
+      "techstack": ["Python", "TypeScript", "LLM", "OpenAI", "Azure"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/78437"
+    },
+    {
+      "name": "【Ai Workforce】Forward Deployed Engineer",
+      "description": "顧客業務に深く入り込み、Ai Workforceを使用したソリューション設計・実装。LLMチューニング、精度評価。",
+      "techstack": ["Python", "LLM", "AI Agent", "Azure", "OpenAI"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/110968"
+    },
+    {
+      "name": "【Ai Workforce】LLMエンジニア",
+      "description": "Ai Workforce導入プロジェクト参画。AIワークフロー/エージェント構築、LLMチューニング、精度評価。",
+      "techstack": ["Python", "LLM", "AI Agent", "Azure", "OpenAI"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112640"
+    },
+    {
+      "name": "【Ai Workforce】AI/LLMリサーチエンジニア_R&D",
+      "description": "AIやLLM、AI Agentをプロダクトに組み込むための応用技術研究・検証・ツール化。",
+      "techstack": ["Python", "LLM", "AI Agent", "Research", "PyTorch"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/110834"
+    },
+    {
+      "name": "【Ai Workforce】AI検索エンジニア",
+      "description": "大規模ビジネスドキュメントの全文検索・セマンティック検索機能の設計・実装・運用。",
+      "techstack": ["Elasticsearch", "Solr", "Lucene", "Azure AI Search", "Python"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/107758"
+    },
+    {
+      "name": "【Ai Workforce】MLOps / 機械学習基盤エンジニア",
+      "description": "ドキュメントデータやAI Agentのコンテキストデータ活用のための機械学習・データ管理基盤開発・運用。",
+      "techstack": ["Python", "MLOps", "Machine Learning", "Deep Learning", "LLM"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112898"
+    },
+    {
+      "name": "【Ai Workforce】シニアデータエンジニア",
+      "description": "データ戦略立案、データ基盤アーキテクチャ検討・構築・運用。AI Agentにおけるデータ活用方式確立。",
+      "techstack": ["Python", "SQL", "BigQuery", "Snowflake", "Azure", "Data Architecture"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/109629"
+    },
+    {
+      "name": "【Ai Workforce】SRE",
+      "description": "Ai Workforceのインフラ設計・構築。顧客クラウド環境へのプロダクト展開プロジェクト主導。",
+      "techstack": ["Azure", "AWS", "GCP", "Kubernetes", "Terraform", "Docker"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52751"
+    },
+    {
+      "name": "【Ai Workforce】QAエンジニア",
+      "description": "Ai WorkforceのQA業務。新機能テスト計画・設計・実施、テスト自動化推進。",
+      "techstack": ["Test Automation", "E2E Testing", "API Testing", "Unit Testing"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/102067"
+    },
+    {
+      "name": "【Ai Workforce】デザインエンジニア",
+      "description": "プロダクトフロントエンド開発とデザインシステム構築。デザインとエンジニアリングの横断的コミュニケーション。",
+      "techstack": ["TypeScript", "React", "Figma", "Design Systems", "CSS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112355"
+    },
+    {
+      "name": "【Fintech】ソフトウェアエンジニア",
+      "description": "証券バックシステムの開発・運用。Go, TypeScript, AWSを中心としたプロダクト開発。",
+      "techstack": ["Go", "TypeScript", "AWS", "PostgreSQL"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/64897"
+    },
+    {
+      "name": "【Fintech】ソフトウェアエンジニア_生成AI活用",
+      "description": "生成AIを活用した社内向けWebアプリケーション開発。契約書レビュー支援、稟議書自動生成機能。",
+      "techstack": ["TypeScript", "Next.js", "React", "AWS", "LLM"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/110229"
+    },
+    {
+      "name": "【Fintech】DevOps",
+      "description": "ITガバナンスに必要な要素をクラウドサービスとエンジニアリングで実現。資産管理、ユーザー管理、セキュリティ対応。",
+      "techstack": ["AWS", "Terraform", "Docker", "Kubernetes", "Security"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/87524"
+    },
+    {
+      "name": "【CEO室】新規プロダクト開発ソフトウェアエンジニア兼プロダクトマネージャー",
+      "description": "生成AIを活用した新規プロダクトの企画・設計・開発。初期検証からリリースまでのプロセスリード。",
+      "techstack": ["Go", "TypeScript", "React", "LLM", "GCP", "AWS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/100928"
+    },
+    {
+      "name": "プロダクト開発職（新卒採用）/ 26卒・27卒",
+      "description": "バクラクシリーズの新機能開発、プロダクト改善。技術選定・設計方針策定。",
+      "techstack": ["Go", "TypeScript", "React", "GCP", "AWS"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52734"
+    },
+    {
+      "name": "機械学習エンジニア（新卒採用）",
+      "description": "OCR関連の事業課題・技術課題解決。文字列検出、文字認識、NLPを活用したOCRコア開発。",
+      "techstack": ["Python", "PyTorch", "TensorFlow", "Computer Vision", "NLP", "OCR"],
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/90035"
+    }
+  ],
+  "_metadata": {
+    "collected_at": "2025-12-07",
+    "total_positions": 39,
+    "tech_stack_summary": {
+      "backend": ["Go", "TypeScript", "Python"],
+      "frontend": ["React", "Next.js", "TypeScript"],
+      "mobile": ["Flutter", "Dart"],
+      "ai_ml": ["LLM", "VLM", "AI Agent", "PyTorch", "TensorFlow", "OpenAI", "Computer Vision", "NLP", "OCR"],
+      "infrastructure": ["GCP", "AWS", "Azure", "Kubernetes", "Docker", "Terraform"],
+      "database": ["PostgreSQL", "BigQuery", "Snowflake", "Elasticsearch"],
+      "devops": ["CI/CD", "IaC", "MLOps", "LLMOps", "Datadog"],
+      "dev_tools": ["GitHub", "Figma", "Notion"]
+    },
+    "notable_features": [
+      "「Bet AI」を掲げLLM・生成AIを積極活用",
+      "バクラク・Ai Workforce・Fintechの3事業展開",
+      "シリーズBで約100億円調達",
+      "Gunosy共同創業者がCEO",
+      "プロダクト開発職で70件以上の募集"
+    ]
+  }
+}

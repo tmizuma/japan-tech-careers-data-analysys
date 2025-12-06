@@ -1,0 +1,151 @@
+{
+  "company_name_ja": "ABEJA",
+  "company_name_en": "ABEJA",
+  "description": "2012年設立のAI・DXプラットフォーム企業。ミッションクリティカル業務へのAI導入を支援する「ABEJA Platform」を開発・運用し300社以上のDXを支援。製造業・インフラ・物流・小売など幅広い業界に対応し生成AIをはじめとする最先端技術を活用可能なデジタル版EMSとして事業展開。2024年にはNEDOの競争力ある生成AI基盤モデル（GENIAC）事業に採択されミッションクリティカル業務向けLLMとAIエージェントを開発。三菱商事・ヒューリック・SOMPOホールディングスと資本業務提携を締結。",
+  "description_en": "AI/DX platform company founded in 2012. Develops and operates \"ABEJA Platform\" to support AI adoption in mission-critical operations, assisting DX for over 300 companies. Serves diverse industries including manufacturing, infrastructure, logistics, and retail as a digital EMS leveraging cutting-edge technologies including generative AI. Selected for NEDO's competitive generative AI foundation model (GENIAC) project in 2024, developing LLMs and AI agents for mission-critical operations. Established capital and business alliances with Mitsubishi Corporation, Hulic, and SOMPO Holdings.",
+  "hiring_url": "https://careers.abejainc.com/",
+  "num_of_employees": "100+",
+  "sales": "3000000000",
+  "foreign_engineers": "FALSE",
+  "logo_url": "https://logo.clearbit.com/abejainc.com",
+  "company_url": "https://abejainc.com/",
+  "positions": [
+    {
+      "title": "トランスフォーメーション領域：ソフトウェアエンジニア",
+      "url": "https://hrmos.co/pages/abeja/jobs/dev-se41-sol11",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "AWS", "GCP", "Docker", "DevOps", "MLOps", "IoT"],
+      "experience_required": "経験者（3年以上）"
+    },
+    {
+      "title": "トランスフォーメーション領域：ソフトウェアエンジニア（リードクラス）",
+      "url": "https://hrmos.co/pages/abeja/jobs/dev-se21-sol11",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "AWS", "GCP", "Docker", "DevOps", "MLOps"],
+      "experience_required": "リードエンジニア経験"
+    },
+    {
+      "title": "トランスフォーメーション領域：データエンジニア",
+      "url": "https://hrmos.co/pages/abeja/jobs/dev-de41-sol11",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "SQL", "データパイプライン", "AWS", "GCP"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "トランスフォーメーション領域：データサイエンティスト",
+      "url": "https://hrmos.co/pages/abeja/jobs/dev-ds41-sol11",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "深層学習", "データ分析"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "トランスフォーメーション領域：データサイエンティスト（ミドル）",
+      "url": "https://hrmos.co/pages/abeja/jobs/dev-ds31-41-sol11",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "深層学習", "データ分析"],
+      "experience_required": "ミドルクラス経験"
+    },
+    {
+      "title": "トランスフォーメーション領域：データサイエンティスト（シニア）",
+      "url": "https://hrmos.co/pages/abeja/jobs/dev-dse-41-sol11",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "深層学習", "データ分析", "LLM"],
+      "experience_required": "シニアエンジニア経験"
+    },
+    {
+      "title": "プラットフォーム領域：ソフトウェアエンジニア",
+      "url": "https://hrmos.co/pages/abeja/jobs/dev-se0161-prd11",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "AWS", "GCP", "Kubernetes", "Docker", "CI/CD"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "CEO室（PdM）",
+      "url": "https://hrmos.co/pages/abeja/jobs/dev-en41_-ceo11",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["プロダクトマネジメント", "AI", "DX"],
+      "experience_required": "PdM経験"
+    },
+    {
+      "title": "情報システム・セキュリティ担当者",
+      "url": "https://hrmos.co/pages/abeja/jobs/2054751761130872850",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["情報セキュリティ", "IT管理", "ネットワーク"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "【27新卒】データサイエンティスト",
+      "url": "https://hrmos.co/pages/abeja/jobs/2159623191797485570",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "データサイエンス"],
+      "experience_required": "新卒"
+    },
+    {
+      "title": "【27新卒】ソフトウェアエンジニア（プラットフォーム領域）",
+      "url": "https://hrmos.co/pages/abeja/jobs/2159623191797485572",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "AWS", "GCP", "Docker"],
+      "experience_required": "新卒"
+    },
+    {
+      "title": "【27新卒】ソフトウェアエンジニア（トランスフォーメーション領域）",
+      "url": "https://hrmos.co/pages/abeja/jobs/2159623191797485571",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "AWS", "GCP", "Docker"],
+      "experience_required": "新卒"
+    },
+    {
+      "title": "【26新卒】データサイエンティスト",
+      "url": "https://hrmos.co/pages/abeja/jobs/2054751761130872833",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "機械学習", "データサイエンス"],
+      "experience_required": "新卒"
+    },
+    {
+      "title": "【26新卒】ソフトウェアエンジニア（トランスフォーメーション領域）",
+      "url": "https://hrmos.co/pages/abeja/jobs/2054751761130872834",
+      "location": "東京（リモート可）",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "AWS", "GCP", "Docker"],
+      "experience_required": "新卒"
+    },
+    {
+      "title": "【インターン】データサイエンティスト",
+      "url": "https://hrmos.co/pages/abeja/jobs/1778334258199916582",
+      "location": "東京（リモート可）",
+      "employment_type": "インターン",
+      "tech_stack": ["Python", "機械学習", "データサイエンス"],
+      "experience_required": "学生"
+    },
+    {
+      "title": "【インターン】ソフトウェアエンジニア（プラットフォーム領域）",
+      "url": "https://hrmos.co/pages/abeja/jobs/1778334258199916583",
+      "location": "東京（リモート可）",
+      "employment_type": "インターン",
+      "tech_stack": ["Python", "AWS", "GCP", "Docker"],
+      "experience_required": "学生"
+    },
+    {
+      "title": "【インターン】ソフトウェアエンジニア（トランスフォーメーション領域）",
+      "url": "https://hrmos.co/pages/abeja/jobs/2054751761130872845",
+      "location": "東京（リモート可）",
+      "employment_type": "インターン",
+      "tech_stack": ["Python", "AWS", "GCP", "Docker"],
+      "experience_required": "学生"
+    }
+  ],
+  "collected_at": "2025-12-07"
+}

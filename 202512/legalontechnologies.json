@@ -1,0 +1,239 @@
+{
+  "company_name_ja": "LegalOn Technologies",
+  "company_name_en": "LegalOn Technologies",
+  "description": "AI法務プラットフォーム「LegalOn Cloud」を開発・運営し2025年3月末時点でグローバル有償導入7000社超・ARR100億円を突破した日本最大のリーガルテックユニコーン企業。契約審査・締結後の契約管理・法務相談案件管理・法令リサーチまで法務業務全般をAIで支援。2025年夏には法務担当者に代わり初期対応を行う「マターマネジメントエージェント」を提供開始。累計資金調達額約286億円でゴールドマン・サックス等が出資。米国・英国展開でグローバル売上は前年比4倍を達成。",
+  "description_en": "Develops and operates AI legal platform \"LegalOn Cloud,\" Japan's largest legal tech unicorn with over 7,000 global paid implementations and ARR exceeding 10 billion yen as of end of March 2025. Supports entire legal operations with AI from contract review to post-signing contract management, legal consultation case management, and regulatory research. Launching \"Matter Management Agent\" in summer 2025 to handle initial responses on behalf of legal staff. Cumulative funding of approximately 28.6 billion yen with Goldman Sachs among investors. Achieved 4x YoY global revenue through US and UK expansion.",
+  "hiring_url": "https://herp.careers/v1/legalforce",
+  "num_of_employees": "500+",
+  "sales": "-1",
+  "foreign_engineers": "TRUE",
+  "logo_url": "https://logo.clearbit.com/legalforce.co.jp",
+  "company_url": "https://legalforce.co.jp/",
+  "positions": [
+    {
+      "title": "Software Engineer, Backend - LegalOn",
+      "url": "https://herp.careers/v1/legalforce/MHoRz9F-Lcsf",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "TypeScript", "React", "Next.js", "AWS", "GCP", "PostgreSQL", "MongoDB", "Terraform", "Docker", "Kubernetes", "OpenAI"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Software Engineer, Backend - New Product",
+      "url": "https://herp.careers/v1/legalforce/KIK9kjM-0W2o",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "TypeScript", "React", "Next.js", "AWS", "GCP", "PostgreSQL", "Terraform", "Docker", "Kubernetes"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Software Engineer, Backend - Knowledge Platform",
+      "url": "https://herp.careers/v1/legalforce/kt1tOYSWX44Y",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "TypeScript", "AWS", "GCP", "PostgreSQL", "Terraform", "Docker", "CI/CD"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Software Engineer, Backend - DealOn",
+      "url": "https://herp.careers/v1/legalforce/KovMw_Lqo1pg",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "TypeScript", "React", "AWS", "GCP", "PostgreSQL", "AI Agent", "LLM"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Software Engineer, Backend - Product Foundation",
+      "url": "https://herp.careers/v1/legalforce/-aC5y2aE8boQ",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "TypeScript", "AWS", "GCP", "PostgreSQL", "認証認可", "Terraform"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "SRE / Site Reliability Engineer",
+      "url": "https://herp.careers/v1/legalforce/3vMaOuULOPJm",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "AWS", "GCP", "Kubernetes", "Terraform", "Docker", "Datadog", "監視・運用自動化"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "SRE / Site Reliability Engineer - New Product",
+      "url": "https://herp.careers/v1/legalforce/8pnzlseqpA9T",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "AWS", "GCP", "Kubernetes", "Terraform", "Docker", "SLI/SLO", "Observability"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Platform Engineer - Product Foundation",
+      "url": "https://herp.careers/v1/legalforce/dx8D6KG2htyw",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "AWS", "GCP", "Kubernetes", "Terraform", "Docker", "CI/CD", "開発者体験"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Software Engineer, Frontend - LegalOn",
+      "url": "https://herp.careers/v1/legalforce/0rOt-erueYrM",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "React", "Next.js", "AWS", "GCP", "AI/LLM"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Senior Software Engineer, Frontend Lead - New Product",
+      "url": "https://herp.careers/v1/legalforce/ZZO9RCzRO_8k",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "React", "Next.js", "AWS", "GCP", "Observability"],
+      "experience_required": "リード経験"
+    },
+    {
+      "title": "Product Designer - オープンポジション",
+      "url": "https://herp.careers/v1/legalforce/TaE1qHVH822Q",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "Notion", "Jira", "Miro", "Adobe Creative Cloud", "Cursor", "Gemini", "ChatGPT Enterprise"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Senior Product Designer - オープンポジション",
+      "url": "https://herp.careers/v1/legalforce/qj0cSQ0BD9kj",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "Notion", "Jira", "Miro", "Adobe Creative Cloud", "Cursor", "Gemini", "ChatGPT Enterprise"],
+      "experience_required": "リード経験"
+    },
+    {
+      "title": "Product Designer - New Product",
+      "url": "https://herp.careers/v1/legalforce/xBvLcDowseiF",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "Notion", "Jira", "Miro", "Adobe Creative Cloud", "Cursor", "Gemini", "ChatGPT Enterprise"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Lead Accessibility Specialist - Design System",
+      "url": "https://herp.careers/v1/legalforce/a1BytFndqIiX",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "Notion", "Jira", "WCAG 2.2", "アクセシビリティ", "PC-Talker Neo Plus"],
+      "experience_required": "アクセシビリティ経験"
+    },
+    {
+      "title": "Engineering Manager - LegalOn",
+      "url": "https://herp.careers/v1/legalforce/QuD4K7tUqBRQ",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "TypeScript", "React", "AWS", "GCP", "プロジェクトマネジメント"],
+      "experience_required": "マネジメント経験"
+    },
+    {
+      "title": "Engineering Manager - New Product",
+      "url": "https://herp.careers/v1/legalforce/tCugJyAJSraQ",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "TypeScript", "React", "AWS", "GCP", "プロジェクトマネジメント"],
+      "experience_required": "マネジメント経験"
+    },
+    {
+      "title": "Engineering Manager - DealOn",
+      "url": "https://herp.careers/v1/legalforce/DRIf4z5mklqy",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Python", "TypeScript", "React", "AWS", "GCP", "AI Agent", "プロジェクトマネジメント"],
+      "experience_required": "マネジメント経験"
+    },
+    {
+      "title": "Global Product Manager - LegalOn",
+      "url": "https://herp.careers/v1/legalforce/xibhiobTy-79",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "Notion", "Jira", "プロダクトマネジメント"],
+      "experience_required": "PM経験・英語力"
+    },
+    {
+      "title": "Senior Product Manager - New Product",
+      "url": "https://herp.careers/v1/legalforce/LSdRvLRMBXTr",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Figma", "Notion", "Jira", "プロダクトマネジメント"],
+      "experience_required": "シニアPM経験"
+    },
+    {
+      "title": "Product Marketing Manager - LegalOn",
+      "url": "https://herp.careers/v1/legalforce/ESbmWwnL5t9Y",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Notion", "Jira", "プロダクトマーケティング"],
+      "experience_required": "PMM経験"
+    },
+    {
+      "title": "Solution Consultant - LegalOn",
+      "url": "https://herp.careers/v1/legalforce/bhSwqtxTtV9H",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Notion", "Jira", "ソリューション提案", "デモンストレーション"],
+      "experience_required": "技術コンサルタント経験"
+    },
+    {
+      "title": "ユーザーサポート・オペレーション - LegalOn",
+      "url": "https://herp.careers/v1/legalforce/Kp9zsO1zde65",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Intercom", "Slack", "Google Meet", "Notion", "Jira", "Looker"],
+      "experience_required": "サポート経験"
+    },
+    {
+      "title": "AI Productivity Engineer - CTO Office",
+      "url": "https://herp.careers/v1/legalforce/VyMu07K8tGxu",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "Go", "TypeScript", "AI/LLM", "開発生産性", "DevOps"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Analytics Engineer",
+      "url": "https://herp.careers/v1/legalforce/JlDohH8MV6Cb",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["SQL", "Python", "dbt", "BigQuery", "Looker", "データモデリング"],
+      "experience_required": "データエンジニアリング経験"
+    },
+    {
+      "title": "セキュリティエンジニア（グローバル）",
+      "url": "https://herp.careers/v1/legalforce/z3L-F9o5XQPr",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["SIEM", "Google Security Operations", "Security Command Center", "CSIRT", "PSIRT", "脆弱性管理"],
+      "experience_required": "セキュリティ経験"
+    },
+    {
+      "title": "ITガバナンス（グローバル）",
+      "url": "https://herp.careers/v1/legalforce/8egEJTsR2Ist",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["ISMS", "SOC2", "J-SOX", "IT統制", "セキュリティガバナンス"],
+      "experience_required": "ITガバナンス経験"
+    },
+    {
+      "title": "Senior Software Engineer - Search, AI",
+      "url": "https://herp.careers/v1/legalforce/fWskKTtTwQlm",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Python", "Go", "検索エンジン", "推薦システム", "LLM", "AI Agent", "Elasticsearch"],
+      "experience_required": "シニアエンジニア"
+    },
+    {
+      "title": "AI Engineering Internship",
+      "url": "https://herp.careers/v1/legalforce/m7-u0hev0wv9",
+      "location": "東京",
+      "employment_type": "インターン",
+      "tech_stack": ["Python", "自然言語処理", "機械学習", "NLP", "DevOps", "MLOps"],
+      "experience_required": "学生・CS知識"
+    }
+  ],
+  "collected_at": "2025-12-07"
+}

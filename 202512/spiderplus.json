@@ -1,0 +1,72 @@
+{
+  "company_name_ja": "スパイダープラス",
+  "company_name_en": "SpiderPlus",
+  "positions": [
+    {
+      "name": "プラットフォーム開発部長",
+      "description": "事業の変革期をリードするエンジニアを求めています。横断的機能の開発や技術課題解決に関する責任者ポジション。プラットフォーム開発部はモバイルエンジニアとWebエンジニアで構成されており、開発の標準化／技術的負債返却に関する企画を立案し、各チームと共に推進する。",
+      "techstack": ["PHP", "TypeScript", "JavaScript", "Ruby", "Swift", "Objective-C", "React", "Vue.js", "Next.js", "Nuxt.js", "Laravel", "Rails", "PostgreSQL", "DynamoDB", "Redis", "AWS", "Firebase", "GitHub Copilot", "Claude Code"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/0000002"
+    },
+    {
+      "name": "データアナリスト（リーダー候補）",
+      "description": "社内のデータを収集し、蓄積し、分析を通じて、業務の効率化や事業の成長、経営の意思決定をサポート。データドリブンな組織文化を醸成し、事業の変革をリードする役割。BIツールの導入やデータ分析プロセスの標準化を通じて、属人化された業務を体系化する仕組みを構築。",
+      "techstack": ["SQL", "Python", "Looker Studio", "Tableau"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/0000026"
+    },
+    {
+      "name": "QAチーム部長候補",
+      "description": "今後の事業拡大を見据えて、重要となるプロダクトの品質責任者のポジション。プロダクト品質部では、開発組織全体の品質管理プロセスの設計と受け入れテストを行う組織で構成されており、開発部門と連動して、上流からの品質観点でのレビューや、受け入れテストなどの取り組み、品質向上を行う。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/0000049"
+    },
+    {
+      "name": "開発マネージャー候補（WEB系出身者）",
+      "description": "建設現場向け施工管理アプリ「SPIDERPLUS」の開発マネジメント及び組織マネジメント。プロジェクトマネジメント、ピープルマネジメント、組織課題解決を担当。",
+      "techstack": ["PHP", "Ruby", "Objective-C", "Swift", "Laravel", "Rails", "HTML", "CSS", "JavaScript", "jQuery", "Vue.js", "PostgreSQL", "Apache", "Debian", "GitHub"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/0000052"
+    },
+    {
+      "name": "iOSアプリケーションエンジニア(PL候補)",
+      "description": "既存システムに対する機能追加・リファクタリングの実装にあたっての要件定義・設計・実装・テスト設計。他サブシステムを含むプロダクトに関するコードレビュー、ジュニアエンジニアへのフォローアップ、開発に関する課題解決。",
+      "techstack": ["Objective-C", "Swift", "SwiftUI"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/0000053"
+    },
+    {
+      "name": "プラットフォーム開発部Webエンジニア",
+      "description": "SPIDERPLUSを横断する機能開発を担うエンジニア。開発プロセスの標準化と改善、品質の醸成と仕組み化、組織横断での技術支援と能力向上、技術基盤の設計と開発、AI技術の戦略的活用と導入推進。",
+      "techstack": ["PHP", "TypeScript", "Laravel", "React", "Vue.js", "Next.js", "Nuxt.js", "PostgreSQL", "AWS", "GitHub Copilot"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/0000054"
+    },
+    {
+      "name": "プリンシパルエンジニア",
+      "description": "7万人のユーザーが利用するSPIDERPLUSを次世代のアーキテクチャで進化させるテクニカルリーダー。技術戦略の策定から実装まで主導。技術アーキテクチャのリーダーシップを発揮し、プロダクト全般の技術選定とアーキテクチャ戦略の策定を担当。",
+      "techstack": ["PHP", "Ruby", "AWS", "GCP", "Azure", "Docker", "Kubernetes"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/212904448299715016"
+    },
+    {
+      "name": "SREチームリーダー（EM候補）",
+      "description": "サービス基盤全体のアーキテクチャ設計から実装、そして組織的な開発文化の醸成までを主導。SREチームを牽引するリーダーとして、技術戦略を推進すると同時に、開発や運用など関連部門と広く連携し、DevOps文化を組織レベルで確立・浸透させる。",
+      "techstack": ["Debian", "Amazon Linux", "Ubuntu", "Apache", "PostgreSQL", "Terraform", "Ansible", "AWS", "EC2", "S3", "ECS", "CloudWatch", "ElastiCache", "RDS", "ALB", "Route53", "Lambda", "API Gateway", "WAF", "GitHub"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/212904448299715018"
+    },
+    {
+      "name": "Mobile Software Engineer（プラットフォーム開発部）",
+      "description": "開発プロセスの標準化と改善、品質の醸成と仕組み化、組織横断での技術支援と能力向上、技術基盤の設計と開発、AI技術の戦略的活用と導入推進。全社のMobileエンジニアが最高のパフォーマンスを発揮できる開発環境と共通基盤を提供する。",
+      "techstack": ["Swift", "SwiftUI", "UIKit", "Flutter", "Fastlane", "GitHub Copilot"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/212904448299715019"
+    },
+    {
+      "name": "Software Engineer（AI活用開発）",
+      "description": "AIを開発の中心に据えた「次世代型開発組織」への転換を進めるポジション。自社プロダクトの開発を通じてAIを活用した新しい開発スキームの構築・推進に加え、複数のプロダクトを横断的に支援・牽引。",
+      "techstack": ["PHP", "Ruby", "JavaScript", "TypeScript", "AWS", "GitHub Copilot", "Claude Code"],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/212904448299715020"
+    },
+    {
+      "name": "開発本部長候補",
+      "description": "7万人のユーザーが利用し、60兆円規模の建設業界のDXを牽引するSaaS「SPIDERPLUS」のプロダクト開発を牽引。今後の事業成長を担う新プロダクト開発や既存機能の強化を技術的にリードすると同時に、全社の戦略と連携したエンジニア組織の目標設定や生産性向上まで、組織全体のマネジメントを担当。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/spiderplus/jobs/212904448299715022"
+    }
+  ]
+}

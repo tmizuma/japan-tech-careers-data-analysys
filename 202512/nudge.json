@@ -1,0 +1,15 @@
+{
+  "company_name_ja": "ナッジ",
+  "company_name_en": "Nudge",
+  "logo_url": "",
+  "company_url": "https://nudge.works/",
+  "hiring_url": "https://nudge.works/talents",
+  "positions": [
+    {
+      "name": "SRE/インフラエンジニア",
+      "description": "次世代クレジットカードNudgeのインフラ運用・構築、チャレンジャーバンクを支えるSRE",
+      "techstack": ["SRE", "Infrastructure"],
+      "link": "https://nudgeworks.notion.site/SRE-167bf7cc24788109b787d46b1bb59b03"
+    }
+  ]
+}

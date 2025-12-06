@@ -1,0 +1,132 @@
+{
+  "company_name_ja": "弁護士ドットコム",
+  "company_name_en": "Bengoshi.com",
+  "description": "「専門家をもっと身近に」をミッションに、弁護士ドットコム、税理士ドットコム、クラウドサイン、BUSINESS LAWYERSなどのリーガルテックサービスを展開。クラウドサインは導入社数250万社超の日本最大級の電子契約プラットフォーム。東証グロース上場。フルリモート可、裁量労働制を採用。",
+  "description_en": "With the mission to 'make experts more accessible', operates legal tech services including Bengoshi.com, Zeiri4.com, CloudSign, and BUSINESS LAWYERS. CloudSign is Japan's largest electronic contract platform with over 2.5 million companies. Listed on TSE Growth. Full remote work available with discretionary work system.",
+  "hiring_url": "https://hrmos.co/pages/bengo4/jobs",
+  "num_of_employees": "500+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/bengo4.com",
+  "company_url": "https://www.bengo4.com/corporate/",
+  "positions": [
+    {
+      "name": "シニアバックエンドエンジニア（クラウドサイン）",
+      "description": "クラウドサインにおけるバックエンド開発。電子契約に関わる機能開発、アーキテクチャ改善、セキュリティ向上。スクラム開発。",
+      "techstack": ["Go", "Revel", "gorilla", "gorm", "Vue.js", "Nuxt.js", "TypeScript", "AWS", "ECS", "Aurora", "Lambda", "Redis", "GitLab CI"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006501"
+    },
+    {
+      "name": "シニアバックエンドエンジニア / 締結領域（クラウドサイン）",
+      "description": "契約締結業務の機能開発に携わるバックエンドエンジニア。新プロダクト開発・機能改修をリード。Cursor/ClaudeCode/GithubCopilot等のAIツールも活用。",
+      "techstack": ["Go", "Revel", "gorilla", "gorm", "Vue.js", "Nuxt.js", "TypeScript", "AWS", "ECS", "Aurora", "GitHub Actions", "Cursor", "Claude Code"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006525"
+    },
+    {
+      "name": "シニアバックエンドエンジニア / 管理領域（クラウドサイン）",
+      "description": "クラウドサインの契約管理領域の機能開発。AI契約書管理機能やAPIの開発。",
+      "techstack": ["Go", "Vue.js", "TypeScript", "AWS", "Aurora", "GitHub Actions"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006523"
+    },
+    {
+      "name": "シニアフロントエンドエンジニア（クラウドサイン）",
+      "description": "クラウドサインのフロントエンド開発。Vue.js/Nuxt.jsを用いたUI開発、UX改善。",
+      "techstack": ["Vue.js", "Nuxt.js", "TypeScript", "JavaScript", "Sass", "jQuery"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006520"
+    },
+    {
+      "name": "バックエンドエンジニア（クラウドサイン）",
+      "description": "クラウドサインのバックエンド開発。Go言語を用いたサーバサイド開発。",
+      "techstack": ["Go", "Revel", "gorilla", "gorm", "AWS", "Aurora", "GitLab CI"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006522"
+    },
+    {
+      "name": "フロントエンドエンジニア（クラウドサイン）",
+      "description": "クラウドサインのフロントエンド開発。Vue.js/Nuxt.jsを用いたUI実装。",
+      "techstack": ["Vue.js", "Nuxt.js", "TypeScript", "JavaScript", "Sass"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006524"
+    },
+    {
+      "name": "Webアプリケーションエンジニア（弁護士ドットコム）",
+      "description": "弁護士ドットコムのWebアプリケーション開発。PHP/Laravelを用いたサーバサイド開発。",
+      "techstack": ["PHP", "Laravel", "JavaScript", "Vue.js", "MySQL", "AWS"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001518"
+    },
+    {
+      "name": "Webアプリケーションエンジニア（税理士ドットコム）",
+      "description": "税理士ドットコムのWebアプリケーション開発。PHP/Laravelを用いたサーバサイド開発。",
+      "techstack": ["PHP", "Laravel", "JavaScript", "Vue.js", "MySQL", "AWS"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001517"
+    },
+    {
+      "name": "リードエンジニア（弁護士ドットコム）",
+      "description": "弁護士ドットコムの開発チームをリード。技術的な意思決定とアーキテクチャ設計。",
+      "techstack": ["PHP", "Laravel", "JavaScript", "Vue.js", "MySQL", "AWS"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001502"
+    },
+    {
+      "name": "リードエンジニア（税理士ドットコム）",
+      "description": "税理士ドットコムの開発チームをリード。技術的な意思決定とアーキテクチャ設計。",
+      "techstack": ["PHP", "Laravel", "JavaScript", "Vue.js", "MySQL", "AWS"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001504"
+    },
+    {
+      "name": "SREエンジニア",
+      "description": "サービスの信頼性向上。インフラ構築・運用、SLO策定、監視・アラート設計。",
+      "techstack": ["AWS", "Terraform", "Docker", "Kubernetes", "Prometheus", "Grafana", "CI/CD"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001516"
+    },
+    {
+      "name": "データエンジニア",
+      "description": "データ基盤の構築・運用。ETLパイプライン開発、データウェアハウス設計。",
+      "techstack": ["Python", "SQL", "BigQuery", "AWS", "Airflow", "dbt"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001527"
+    },
+    {
+      "name": "データサイエンティスト",
+      "description": "機械学習モデルの開発・運用。自然言語処理、レコメンデーションシステムの構築。",
+      "techstack": ["Python", "Machine Learning", "NLP", "TensorFlow", "PyTorch", "SQL"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001528"
+    },
+    {
+      "name": "AIエンジニア（リーガルブレイン）",
+      "description": "リーガルブレインの開発。生成AIを活用したリーガルテックサービスの開発。",
+      "techstack": ["Python", "LLM", "NLP", "Machine Learning", "AWS", "GCP"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001521"
+    },
+    {
+      "name": "iOSエンジニア",
+      "description": "クラウドサイン等のiOSアプリ開発。ネイティブアプリの設計・実装。",
+      "techstack": ["Swift", "iOS", "Xcode", "UIKit", "SwiftUI"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001526"
+    },
+    {
+      "name": "Androidエンジニア",
+      "description": "クラウドサイン等のAndroidアプリ開発。ネイティブアプリの設計・実装。",
+      "techstack": ["Kotlin", "Android", "Android Studio", "Jetpack Compose"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001523"
+    },
+    {
+      "name": "QAエンジニア",
+      "description": "サービスの品質保証。テスト計画・設計・実行、テスト自動化推進。",
+      "techstack": ["Selenium", "Playwright", "Test Automation", "CI/CD"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001524"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "description": "サービスのセキュリティ向上。脆弱性診断、セキュリティ設計レビュー。ISMAP対応。",
+      "techstack": ["Security", "OWASP", "Penetration Testing", "AWS Security"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001525"
+    },
+    {
+      "name": "エンジニアリングマネージャー",
+      "description": "開発チームのマネジメント。技術的な意思決定、メンバー育成、組織設計。",
+      "techstack": ["Engineering Management", "Agile", "Scrum"],
+      "link": "https://hrmos.co/pages/bengo4/jobs/0007517"
+    }
+  ],
+  "_metadata": {
+    "collected_at": "2025-12-07",
+    "total_positions": 19
+  }
+}

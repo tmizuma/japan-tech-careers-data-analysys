@@ -1,0 +1,216 @@
+{
+  "company_name_ja": "ラクス",
+  "company_name_en": "Rakus",
+  "description": "楽楽精算、楽楽明細、楽楽販売、配配メールなど業務改善SaaSを20年以上開発・提供。80,000社以上の顧客に利用される。7年連続「ベストカンパニー」選出。東京・大阪に開発拠点を持ち、ベトナムでのオフショア開発も実施。顧客志向を最重視した開発を推進。",
+  "description_en": "Develops and provides business improvement SaaS for over 20 years including Rakuraku Seisan, Rakuraku Meisai, Rakuraku Hanbai, and Haihaimail. Used by over 80,000 customers. Selected as 'Best Company' for 7 consecutive years. Has development bases in Tokyo and Osaka, with offshore development in Vietnam. Prioritizes customer-oriented development.",
+  "hiring_url": "https://career-recruit.rakus.co.jp/career_engineer/",
+  "num_of_employees": "1000+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/rakus.co.jp",
+  "company_url": "https://www.rakus.co.jp/",
+  "positions": [
+    {
+      "name": "開発部長",
+      "description": "開発組織全体を統括する部長職。組織戦略の立案・実行、技術戦略の策定をリード。",
+      "techstack": ["Java", "PHP", "Organization Management"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/de_85_hp"
+    },
+    {
+      "name": "エンジニアリングマネージャー（東京）",
+      "description": "開発チームのエンジニアリングマネジメント。技術的な意思決定とメンバー育成を担当。",
+      "techstack": ["Java", "PHP", "Team Management"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineeringmanager_tokyo"
+    },
+    {
+      "name": "サーバサイドエンジニア／Java（東京）",
+      "description": "楽楽シリーズのサーバサイド開発。Javaを用いたWebアプリケーション開発。",
+      "techstack": ["Java", "Spring", "MySQL", "AWS"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineer-java_tokyo"
+    },
+    {
+      "name": "サーバサイドエンジニア／Java（ラクスライトクラウド）",
+      "description": "ラクスライトクラウド事業のサーバサイド開発。Javaベースのシステム開発。",
+      "techstack": ["Java", "Spring", "MySQL", "AWS"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineer-java-tokyo-rlc"
+    },
+    {
+      "name": "リードエンジニア／PHP（東京）",
+      "description": "PHPを用いたWebアプリケーション開発のリードエンジニア。設計・実装のリードを担当。",
+      "techstack": ["PHP", "Laravel", "MySQL", "AWS"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineer-php_tokyo"
+    },
+    {
+      "name": "エンジニアリングマネージャー／フロントエンド",
+      "description": "フロントエンドチームのマネジメント。技術的な意思決定とチーム育成を担当。",
+      "techstack": ["React", "TypeScript", "JavaScript", "Team Management"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/frontend-manager_tokyo"
+    },
+    {
+      "name": "プロジェクトマネージャー／フロントエンド",
+      "description": "フロントエンド開発プロジェクトのマネジメント。進行管理と品質管理を担当。",
+      "techstack": ["React", "TypeScript", "Project Management"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/pjm-frontend_tokyo"
+    },
+    {
+      "name": "リードエンジニア／フロントエンド（東京）",
+      "description": "フロントエンド開発のリードエンジニア。React/TypeScriptを用いた開発をリード。",
+      "techstack": ["React", "TypeScript", "JavaScript", "Design System"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/leadengineer-frontend_tokyo"
+    },
+    {
+      "name": "フロントエンドエンジニア（東京）",
+      "description": "楽楽シリーズのフロントエンド開発。React/TypeScriptを用いたUI開発。",
+      "techstack": ["React", "TypeScript", "JavaScript", "HTML", "CSS"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/frontend_tokyo"
+    },
+    {
+      "name": "モバイルエンジニア",
+      "description": "楽楽シリーズのモバイルアプリ開発。iOS/Androidアプリの開発を担当。",
+      "techstack": ["iOS", "Android", "Swift", "Kotlin", "Flutter"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/mobile_engineer"
+    },
+    {
+      "name": "ブリッジSE／ベトナム",
+      "description": "ベトナム開発拠点との連携を担当するブリッジSE。オフショア開発の品質・進行管理。",
+      "techstack": ["Java", "PHP", "Bridge Engineering", "Vietnamese"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/bse_tokyo"
+    },
+    {
+      "name": "AIエンジニア",
+      "description": "楽楽シリーズへのAI導入を推進。機械学習・自然言語処理を活用した機能開発。",
+      "techstack": ["Python", "Machine Learning", "NLP", "LLM", "AI"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/ai_engineer_tokyo"
+    },
+    {
+      "name": "QAエンジニア/リーダー候補",
+      "description": "楽楽シリーズの品質保証。テスト計画・設計・実行、品質改善をリード。",
+      "techstack": ["Test Automation", "QA", "Selenium", "CI/CD"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/qa_leader"
+    },
+    {
+      "name": "プロダクトマネージャー",
+      "description": "楽楽シリーズのプロダクトマネジメント。顧客課題の特定からロードマップ策定まで担当。",
+      "techstack": ["Product Management", "Agile", "User Research"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/pdm_tokyo"
+    },
+    {
+      "name": "プロジェクトマネージャー（東京）",
+      "description": "開発プロジェクトの進行管理。品質・コスト・納期の管理を担当。",
+      "techstack": ["Project Management", "Agile", "Scrum"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/pjm_tokyo"
+    },
+    {
+      "name": "技術広報／リーダー",
+      "description": "エンジニア採用ブランディング、テックブログ運営、イベント企画を担当。",
+      "techstack": ["Tech PR", "Content Marketing", "DevRel"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/tech-pr"
+    },
+    {
+      "name": "エンジニアリングマネージャー（大阪）",
+      "description": "大阪開発拠点でのエンジニアリングマネジメント。",
+      "techstack": ["Java", "PHP", "Team Management"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/em_osaka"
+    },
+    {
+      "name": "エンジニアリングマネージャー／新規プロダクト（大阪）",
+      "description": "新規プロダクト開発チームのエンジニアリングマネジメント。",
+      "techstack": ["Kotlin", "TypeScript", "Team Management"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/em_osaka_2"
+    },
+    {
+      "name": "テックリード／Java・PHP（大阪）",
+      "description": "Java/PHPを用いた開発のテクニカルリード。設計・アーキテクチャをリード。",
+      "techstack": ["Java", "PHP", "Spring", "Laravel"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/techlead-php-java-osaka"
+    },
+    {
+      "name": "テックリード／Kotlin, TypeScript（大阪）",
+      "description": "Kotlin/TypeScriptを用いた新規開発のテクニカルリード。",
+      "techstack": ["Kotlin", "TypeScript", "React", "Spring Boot"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/techlead-kotlin-typescript-osaka"
+    },
+    {
+      "name": "リードエンジニア／PHP（大阪）",
+      "description": "大阪拠点でのPHP開発リードエンジニア。",
+      "techstack": ["PHP", "Laravel", "MySQL"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/leadengineer-php_osaka"
+    },
+    {
+      "name": "Webエンジニア／Kotlin, TypeScript（大阪）",
+      "description": "Kotlin/TypeScriptを用いたWebアプリケーション開発。",
+      "techstack": ["Kotlin", "TypeScript", "React", "Spring Boot"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/webengineer-java_osaka"
+    },
+    {
+      "name": "Webエンジニア／Java, PHP（大阪）",
+      "description": "Java/PHPを用いたWebアプリケーション開発。",
+      "techstack": ["Java", "PHP", "Spring", "Laravel"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/webengineer-php_osaka"
+    },
+    {
+      "name": "Webエンジニア／PHP（大阪）",
+      "description": "PHPを用いたWebアプリケーション開発。",
+      "techstack": ["PHP", "Laravel", "MySQL"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/webengineer-php_osaka-2"
+    },
+    {
+      "name": "Webエンジニア／AI導入（大阪）",
+      "description": "AI機能を活用したWebアプリケーション開発。",
+      "techstack": ["Python", "AI", "Machine Learning", "PHP", "Java"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/webengineer-ai_osaka"
+    },
+    {
+      "name": "サーバサイドエンジニア／PHP（大阪）",
+      "description": "大阪拠点でのPHPサーバサイド開発。",
+      "techstack": ["PHP", "Laravel", "MySQL"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineer-php_osaka"
+    },
+    {
+      "name": "エンジニアリングマネージャー／インフラ",
+      "description": "インフラチームのエンジニアリングマネジメント。クラウド/オンプレ基盤の戦略策定。",
+      "techstack": ["AWS", "Linux", "Kubernetes", "Team Management"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/infra-manager_tokyo"
+    },
+    {
+      "name": "インフラエンジニア／リーダー",
+      "description": "インフラチームのリーダー。基盤設計・構築・運用をリード。",
+      "techstack": ["AWS", "Linux", "Kubernetes", "Terraform", "Ansible"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/infra-engineer_leader"
+    },
+    {
+      "name": "インフラエンジニア",
+      "description": "楽楽シリーズのインフラ基盤の設計・構築・運用。",
+      "techstack": ["AWS", "Linux", "Docker", "Kubernetes", "Terraform"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/infra-engineer_tokyo"
+    },
+    {
+      "name": "SREエンジニア",
+      "description": "サービスの信頼性向上。SLO策定、監視・アラート設計、障害対応自動化。",
+      "techstack": ["AWS", "Kubernetes", "Terraform", "Prometheus", "Grafana", "CI/CD"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/sreengineer"
+    },
+    {
+      "name": "デザインマネージャー／プロダクト",
+      "description": "プロダクトデザインチームのマネジメント。デザイン戦略・組織運営を担当。",
+      "techstack": ["Figma", "Design System", "UX Design", "Team Management"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/design-manager_tokyo"
+    },
+    {
+      "name": "UIデザイナー／アシスタントマネージャー",
+      "description": "UIデザインとチームマネジメントを担当。デザインシステムの構築・運用。",
+      "techstack": ["Figma", "UI Design", "Design System"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/design-assistantmanager_tokyo"
+    },
+    {
+      "name": "UIデザイナー",
+      "description": "楽楽シリーズのUIデザイン。プロダクトのUI/UX改善を担当。",
+      "techstack": ["Figma", "UI Design", "Prototyping"],
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/uidesigner_tokyo"
+    }
+  ],
+  "_metadata": {
+    "collected_at": "2025-12-07",
+    "total_positions": 33
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "company_name_ja": "Medley",
+  "company_name_en": "Medley",
+  "description": "医療プラットフォーム事業と人材プラットフォーム事業を展開する医療ヘルスケアDXリーダー。オンライン診療システム「CLINICSオンライン診療」を中核に電子カルテ「MALL」・歯科向け「Dentis」・かかりつけ薬局支援「Pharms」を提供。2025年に「MEDLEY AI CLOUD」へブランドリニューアルしAIアシスト機能でカルテ作成工数を11%以上削減。医療介護求人「ジョブメドレー」は国内最大規模。2029年に売上高1000億円・社員4000人規模を目指す中期経営計画を発表。",
+  "description_en": "Healthcare DX leader operating medical platform and talent platform businesses. Provides online medical consultation system \"CLINICS Online Medical Care\" as core, along with electronic medical records \"MALL,\" dental \"Dentis,\" and family pharmacy support \"Pharms.\" Rebranded to \"MEDLEY AI CLOUD\" in 2025, reducing medical record creation workload by over 11% with AI assist features. Healthcare job site \"Job Medley\" is Japan's largest scale. Announced medium-term plan targeting 100 billion yen revenue and 4,000 employees by 2029.",
+  "hiring_url": "https://www.medley.jp/recruit/",
+  "num_of_employees": "1000+",
+  "sales": "20000000000",
+  "foreign_engineers": "FALSE",
+  "logo_url": "https://logo.clearbit.com/medley.jp",
+  "company_url": "https://www.medley.jp/",
+  "positions": [
+    {
+      "title": "エンジニア オープンポジション",
+      "url": "https://hrmos.co/pages/medley/jobs/1000001",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "TypeScript", "React", "Next.js", "MySQL", "PostgreSQL", "MongoDB", "AWS", "GCP", "Azure", "GitHub"],
+      "experience_required": "3年以上"
+    },
+    {
+      "title": "テックリード候補 バックエンド／CLINICS",
+      "url": "https://hrmos.co/pages/medley/jobs/1000003",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "TypeScript", "React", "AWS", "Aurora MySQL", "OpenSearch", "ElastiCache", "MongoDB Atlas", "Terraform", "Datadog", "Sentry", "CircleCI", "GitHub Actions", "GitHub Copilot", "Cursor", "Claude Code"],
+      "experience_required": "5年以上"
+    },
+    {
+      "title": "エンジニア／2027年新卒",
+      "url": "https://hrmos.co/pages/medley/jobs/1000005",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["HTML", "CSS", "JavaScript", "Python", "Ruby", "PHP", "AWS", "GCP", "Git", "GitHub Actions", "Jenkins", "CircleCI"],
+      "experience_required": "新卒"
+    },
+    {
+      "title": "エンジニア／松江オフィス",
+      "url": "https://hrmos.co/pages/medley/jobs/1000008",
+      "location": "島根（松江）",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby", "Ruby on Rails", "MySQL", "PostgreSQL", "AWS", "GCP", "Azure", "GitHub"],
+      "experience_required": "3年以上"
+    },
+    {
+      "title": "Webエンジニア／患者統合基盤",
+      "url": "https://hrmos.co/pages/medley/jobs/1000017",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Go", "Java", "TypeScript", "gRPC", "AWS", "GCP", "MySQL", "NoSQL", "Docker", "Kubernetes", "GitHub"],
+      "experience_required": "3年以上"
+    },
+    {
+      "title": "QAエンジニア／人材プラットフォーム本部",
+      "url": "https://hrmos.co/pages/medley/jobs/1000030",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["自動テスト", "CI/CD"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Webアプリケーションエンジニア／melmo（総合医療アプリ）",
+      "url": "https://hrmos.co/pages/medley/jobs/1000032",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "Next.js", "Panda CSS", "Storybook", "OpenAPI Generator", "GitHub Copilot", "Cursor", "Claude Code", "Devin", "GitHub", "BigQuery", "Looker Studio"],
+      "experience_required": "3年以上"
+    },
+    {
+      "title": "エンジニアリングマネージャー候補／melmo（総合医療アプリ）",
+      "url": "https://hrmos.co/pages/medley/jobs/1000033",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["iOS", "Android", "Flutter", "Kotlin Multiplatform", "AWS", "GCP", "Azure"],
+      "experience_required": "マネジメント経験"
+    },
+    {
+      "title": "QAエンジニア／医療プラットフォーム本部 東京",
+      "url": "https://hrmos.co/pages/medley/jobs/1000034",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["MagicPod", "Playwright", "自動テスト", "CI/CD"],
+      "experience_required": "2年以上"
+    },
+    {
+      "title": "SREエンジニア／医療プラットフォーム本部",
+      "url": "https://hrmos.co/pages/medley/jobs/1000036",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "React", "TypeScript", "AWS ECS", "Aurora MySQL", "OpenSearch", "ElastiCache", "MongoDB Atlas", "Terraform", "Datadog", "Sentry", "PagerDuty", "Docker", "CircleCI", "GitHub Actions"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "Androidアプリケーションエンジニア／melmo（総合医療アプリ）",
+      "url": "https://hrmos.co/pages/medley/jobs/1000039",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Kotlin", "Android View", "Jetpack Compose", "OpenAPI Generator", "GitHub Copilot", "Cursor", "Claude Code", "Devin", "GitHub", "BigQuery", "Looker Studio"],
+      "experience_required": "3年以上"
+    },
+    {
+      "title": "iOSアプリケーションエンジニア／melmo（総合医療アプリ）",
+      "url": "https://hrmos.co/pages/medley/jobs/1000047",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Swift", "SwiftUI", "UIKit", "OpenAPI Generator", "GitHub Copilot", "Cursor", "Claude Code", "Devin", "GitHub", "BigQuery", "Looker Studio"],
+      "experience_required": "2年以上"
+    },
+    {
+      "title": "データエンジニア／医療プラットフォーム本部",
+      "url": "https://hrmos.co/pages/medley/jobs/1000060",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["BigQuery", "trocco", "Airflow", "embulk", "dbt", "Looker Studio", "MySQL", "MongoDB", "PostgreSQL"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "開発エンジニア・マネージャー候補／MALL 東京",
+      "url": "https://hrmos.co/pages/medley/jobs/1000061",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["C#", ".NET Framework", "Windows Forms", "SQL Server", "Windows Server", "Azure", "Visual Studio", "Team Foundation Server", "GitHub", "GitHub Copilot", "Cursor"],
+      "experience_required": "5年以上"
+    },
+    {
+      "title": "開発エンジニア・マネージャー候補／MALL 大阪",
+      "url": "https://hrmos.co/pages/medley/jobs/1000073",
+      "location": "大阪",
+      "employment_type": "正社員",
+      "tech_stack": ["C#", ".NET Framework", "Windows Forms", "SQL Server", "Windows Server", "Azure", "Visual Studio", "Team Foundation Server", "GitHub", "GitHub Copilot", "Cursor"],
+      "experience_required": "5年以上"
+    },
+    {
+      "title": "開発エンジニア・業務エキスパート／MALL 東京",
+      "url": "https://hrmos.co/pages/medley/jobs/1000074",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["C#", ".NET Framework", "Windows Forms", "SQL Server", "Windows Server", "Azure", "Visual Studio", "Team Foundation Server", "GitHub"],
+      "experience_required": "5年以上"
+    },
+    {
+      "title": "開発エンジニア・テックリード／MALL 東京",
+      "url": "https://hrmos.co/pages/medley/jobs/1000075",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["C#", ".NET Framework", "Windows Forms", "SQL Server", "Windows Server", "Azure", "Visual Studio", "Team Foundation Server", "GitHub", "GitHub Copilot", "Cursor"],
+      "experience_required": "5年以上"
+    },
+    {
+      "title": "Webアプリケーション開発エンジニア／MEDIXS 薬歴",
+      "url": "https://hrmos.co/pages/medley/jobs/1000079",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["PHP", "TypeScript", "JavaScript", "Laravel", "React", "Vue.js", "MySQL", "Mackerel", "Sentry", "GitHub", "GitHub Actions"],
+      "experience_required": "5年以上"
+    },
+    {
+      "title": "Webアプリケーション開発エンジニア／MEDIXS レセコン",
+      "url": "https://hrmos.co/pages/medley/jobs/1000080",
+      "location": "福岡",
+      "employment_type": "正社員",
+      "tech_stack": ["TypeScript", "Go", "PHP", "C#", "Electron", "React", "Laravel", "MySQL", "Redis", "Mackerel", "Sentry", "GitHub", "GitHub Actions"],
+      "experience_required": "5年以上"
+    },
+    {
+      "title": "Flutterエンジニア／人材プラットフォーム本部",
+      "url": "https://hrmos.co/pages/medley/jobs/1000096",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Flutter", "ReactNative", "Swift", "Kotlin", "Ruby on Rails", "GraphQL", "Protocol Buffers", "React", "TypeScript", "Next.js", "MySQL", "OpenSearch", "Redis", "BigQuery", "AWS", "Terraform", "Azure", "OpenAI"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "エンジニア／人材プラットフォーム本部",
+      "url": "https://hrmos.co/pages/medley/jobs/1000098",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["Ruby on Rails", "TypeScript", "React", "Next.js", "MySQL", "PostgreSQL", "AWS", "GCP", "Azure", "GitHub"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "データアナリスト／人材プラットフォーム本部",
+      "url": "https://hrmos.co/pages/medley/jobs/1000100",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["SQL", "R", "Python", "BigQuery", "dbt", "Dataform", "trocco", "Looker Studio", "Redash", "Metabase", "MySQL", "PostgreSQL"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "データエンジニア／人材プラットフォーム本部",
+      "url": "https://hrmos.co/pages/medley/jobs/1000101",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["BigQuery", "dbt", "Dataform", "Trocco", "Embulk", "Datastream", "Looker Studio", "Redash", "Metabase", "MySQL", "PostgreSQL", "Cursor", "Claude Code", "Devin"],
+      "experience_required": "経験者"
+    },
+    {
+      "title": "新規事業（ジョブメドレースポット）プロダクトエンジニア／人材プラットフォーム本部",
+      "url": "https://hrmos.co/pages/medley/jobs/1000104",
+      "location": "東京",
+      "employment_type": "正社員",
+      "tech_stack": ["React", "Next.js", "Remix", "TypeScript", "TailwindCSS", "Jotai", "TanStack Query", "Flutter", "Riverpod", "GraphQL", "Apollo Client", "Ruby on Rails", "AWS", "GCP", "GitHub Actions", "Cursor", "Copilot", "Devin"],
+      "experience_required": "3年以上"
+    }
+  ],
+  "collected_at": "2025-12-07"
+}

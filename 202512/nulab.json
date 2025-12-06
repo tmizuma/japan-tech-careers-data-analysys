@@ -1,0 +1,67 @@
+{
+  "company_name_ja": "ヌーラボ",
+  "company_name_en": "Nulab",
+  "description": "「To make creating simple and enjoyable（創造を易しく 楽しくする）」をミッションに、Backlog、Cacoo、Nulab Passなどのコラボレーションツールを開発・提供。福岡発のグローバル企業で、ニューヨーク、シンガポール、アムステルダムにも拠点を持つ。フルリモート・フルフレックス制度を導入し、フラットな組織文化が特徴。180名規模。",
+  "description_en": "With the mission 'To make creating simple and enjoyable', develops and provides collaboration tools including Backlog, Cacoo, and Nulab Pass. A global company originating from Fukuoka with offices in New York, Singapore, and Amsterdam. Features full remote work, full flex system, and flat organizational culture. Around 180 employees.",
+  "hiring_url": "https://careers.nulab.com/entry/",
+  "num_of_employees": "180",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/nulab.com",
+  "company_url": "https://nulab.com/ja/",
+  "positions": [
+    {
+      "name": "ソフトウェアエンジニア（Backlog）",
+      "description": "プロジェクト管理ツールBacklogの開発。フロントエンド・バックエンドの両方に携わる。スクラム、ペアプログラミング、モブプログラミングを採用。",
+      "techstack": ["React", "TypeScript", "Haxe", "jQuery", "Scala", "Play Framework", "Go", "Perl", "AWS", "Git", "Jenkins"],
+      "link": "https://careers.nulab.com/entry/"
+    },
+    {
+      "name": "ソフトウェアエンジニア（Cacoo）",
+      "description": "オンライン作図ツールCacooの開発。SVGベースのリアルタイムコラボレーション機能の実装。",
+      "techstack": ["SVG", "TypeScript", "Riot.js", "Go", "Java", "Node.js", "AWS", "Kubernetes", "Jenkins", "ArgoCD"],
+      "link": "https://careers.nulab.com/entry/"
+    },
+    {
+      "name": "ソフトウェアエンジニア（Apps/Nulab Pass）",
+      "description": "Nulab Passなどのアプリケーション開発。認証基盤やセキュリティ関連機能の開発。",
+      "techstack": ["React", "TypeScript", "Sass", "Kotlin", "Java", "Spring Framework", "AWS", "Kubernetes", "Jenkins", "ArgoCD"],
+      "link": "https://careers.nulab.com/entry/"
+    },
+    {
+      "name": "SRE / プラットフォームエンジニア",
+      "description": "Reliability Engineering部でのSRE業務。サービスの信頼性向上、クラウドガバナンス、セキュリティ対応。プロダクト間で共通する課題を解決する仕組みを設計。",
+      "techstack": ["Scala", "Kotlin", "Go", "Ruby", "Python", "AWS", "Kubernetes", "Terraform"],
+      "link": "https://careers.nulab.com/entry/"
+    },
+    {
+      "name": "モバイルエンジニア（iOS）",
+      "description": "Backlog、Cacoo等のiOSアプリ開発。ネイティブアプリの設計・実装。",
+      "techstack": ["Swift", "iOS", "Xcode"],
+      "link": "https://careers.nulab.com/entry/"
+    },
+    {
+      "name": "モバイルエンジニア（Android）",
+      "description": "Backlog、Cacoo等のAndroidアプリ開発。ネイティブアプリの設計・実装。",
+      "techstack": ["Kotlin", "Android", "Android Studio"],
+      "link": "https://careers.nulab.com/entry/"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "description": "自社プロダクトのフロントエンド開発。UI/UX改善、パフォーマンス最適化。",
+      "techstack": ["React", "TypeScript", "JavaScript", "Sass", "SVG"],
+      "link": "https://careers.nulab.com/entry/"
+    },
+    {
+      "name": "バックエンドエンジニア",
+      "description": "自社プロダクトのバックエンド開発。API設計・実装、データベース設計。",
+      "techstack": ["Scala", "Go", "Kotlin", "Java", "Node.js", "Play Framework", "Spring Framework"],
+      "link": "https://careers.nulab.com/entry/"
+    }
+  ],
+  "_metadata": {
+    "collected_at": "2025-12-07",
+    "total_positions": 8,
+    "note": "具体的な求人ポジション一覧は公開されておらず、カジュアル面談形式での採用を実施。技術スタック情報から推定したポジションを記載。"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "company_name_ja": "フォトラクション",
+  "company_name_en": "Photoruction",
+  "positions": [
+    {
+      "name": "シニアPdM",
+      "description": "建設BPaaS「Photoruction」のグロースを担うPdMとして、プロダクトの成長とお客様価値の最大化を推進。40万件を超えるプロジェクトで利用されるプロダクトの中核を担い、開発チームとお客様の両側に立ちながら、課題発見から仕様設計・リリースまでを一貫してリード。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-01"
+    },
+    {
+      "name": "PdM（未経験歓迎）",
+      "description": "複雑性の高い建設業界において「シンプルで使いやすいプロダクト」を実現し、本質的な課題解決を通じて産業を限りなくスマートにすることがミッション。サービス設計から顧客ヒアリング、開発ディレクションまで幅広く担当。",
+      "techstack": [],
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-01-02"
+    },
+    {
+      "name": "iOSエンジニア（プレイングマネージャー）",
+      "description": "モバイルチームの中核として開発の最前線に立ちながら、技術と組織の両面からプロダクトのグロースをリード。スクラムを本格的に再構築し、チームを盤石な状態へと導く。アーキテクチャ設計、新機能開発、機能改善を主導。",
+      "techstack": ["Swift", "Realm", "Firebase", "Crashlytics", "Google Analytics", "Git", "Bitrise", "GitHub Actions"],
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-03-1"
+    },
+    {
+      "name": "UI/UXデザイナー",
+      "description": "プロダクトの価値を最大化するためのUIUXデザインを担当。ビジネスメンバーやPdM、エンジニアをはじめとする各チームメンバーやステークホルダーと協業しながら、プロダクトに関わる課題を特定/解決し、ユーザーにとって使いやすく魅力的な体験を提供。",
+      "techstack": ["Figma"],
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-06-01"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "description": "「Photoruction」の新機能設計・開発・機能改善を担当。Next.jsを活用したリアーキテクトの推進、仕様検討や技術選定などの開発方針の策定、コード品質の向上や、開発フロー改善によるモダンな開発環境の整備。",
+      "techstack": ["HTML", "CSS", "JavaScript", "TypeScript", "Next.js", "Vue.js", "Nuxt.js", "Backbone.js", "GraphQL", "D3.js", "leaflet.js", "PHP", "Python", "Go", "Laravel", "MySQL", "Aurora", "Firebase", "GitHub Actions", "AWS"],
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-10"
+    },
+    {
+      "name": "WEBアプリケーションエンジニア",
+      "description": "会社全体のWEBアプリ開発をどう進めるべきかを考え、「Photoruction」の新機能設計・開発・機能改善、Next.jsを活用したフロントエンドリアーキテクトの推進、仕様検討や技術選定などの開発方針の策定を担当。",
+      "techstack": ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Python", "Go", "Next.js", "Vue.js", "Nuxt.js", "Backbone.js", "GraphQL", "D3.js", "leaflet.js", "Laravel", "MySQL", "Aurora", "Firebase", "GitHub Actions", "AWS"],
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-10-01"
+    },
+    {
+      "name": "WEBエンジニア（沖縄オフィス）",
+      "description": "既存サービスの運用改善とMSP（Managed Service Provider）サービスの開発を担当。システムの安定性と信頼性を確保するための技術支援、顧客からの技術的な問い合わせや問題のトラブルシューティング、AI開発支援ツール（Cursor/Devinなど）を活用した効率的な開発。",
+      "techstack": ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Vue.js", "Nuxt.js", "Backbone.js", "GraphQL", "D3.js", "leaflet.js", "Laravel", "MySQL", "Aurora", "Firebase", "GitHub Actions", "AWS", "Cursor", "Devin"],
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-11-01"
+    }
+  ]
+}
