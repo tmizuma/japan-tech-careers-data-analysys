@@ -47,7 +47,7 @@ def check_url(company: str, url_type: str, url: str, timeout: int = 10) -> LinkR
 
 
 def main():
-    csv_file = "company_list"
+    csv_file = "company_list.csv"
     url_columns = ["logo_url", "company_url", "hiring_url"]
 
     # CSVを読み込み
