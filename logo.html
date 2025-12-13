@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logo Candidates</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 20px;
+            background: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            background: white;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+            font-size: 12px;
+            max-width: 200px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        th {
+            background: #4a90d9;
+            color: white;
+            position: sticky;
+            top: 0;
+        }
+        tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+        tr:hover {
+            background: #e8f4ff;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .preview {
+            width: 60px;
+            height: 30px;
+            object-fit: contain;
+            background: #eee;
+            border: 1px solid #ccc;
+        }
+        .empty {
+            color: #999;
+        }
+        .cell-with-preview {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Logo Candidates (115 companies)</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Company ID</th>
+                <th>Company URL</th>
+                <th>/logo.svg</th>
+                <th>/logo.png</th>
+                <th>/assets/logo.svg</th>
+                <th>/assets/logo.png</th>
+                <th>/images/logo.svg</th>
+                <th>/images/logo.png</th>
+                <th>header_img</th>
+                <th>header_img_alt</th>
+                <th>og_image</th>
+            </tr>
+        </thead>
+        <tbody id="table-body">
+        </tbody>
+    </table>
+
+    <script>
+        const csvData = `company_id,company_url,logo_svg,logo_png,assets_logo_svg,assets_logo_png,images_logo_svg,images_logo_png,header_img,header_img_alt,og_image
+10x,https://10x.co.jp/,,,,,,,https://10x.co.jp/images/common/header_logo.png,,https://10x.co.jp/ogp.jpg
+abeja,https://abejainc.com/,,,,,,,,,"https://static.wixstatic.com/media/323fb0_409d095ab916486cb4b24624c3f7388a%7Emv2.jpeg/v1/fit/w_2500,h_1330,al_c/323fb0_409d095ab916486cb4b24624c3f7388a%7Emv2.jpeg"
+akatsuki,https://aktsk.jp/,,,,,,,https://aktsk.jp/wp-content/themes/2018renewal/imgs/header/logo.svg,,https://storage.googleapis.com/aktsk-jp-production.appspot.com/1/2025/11/ogp.png
+amazon-web-services-japan,https://aws.amazon.com/jp/,,,,,,,https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/homepage/reinvent/2025/images/reinvent-2025-logo-hero-meta-white-recap.17f115c02234c37d32fc4af2720b39144d86ec75.png,Logo,
+andpad,https://andpad.co.jp/,,,,,,,https://andpad.co.jp/wp-content/themes/andpad-corp-theme/assets/dist/images/logo-white.svg,,https://andpad.co.jp/wp-content/themes/andpad-corp-theme/assets/dist/images/ogp.png
+anycolor,https://www.anycolor.co.jp/,,,,,,,,,https://www.anycolor.co.jp/og_image.png
+astroscale,https://astroscale.com/,,,,,,,,,https://images.ctfassets.net/k5fy2axdrsqr/5oHl6KeniPNklKbJz2GPmy/f7925d7d2561d8e656e4b4c8f04820a6/site-image.jpg
+autify,https://autify.com/,,,,,,,https://cdn.prod.website-files.com/673cbf81b71ad81b6e7aef6c/673cbf81b71ad81b6e7af080_Autify%20Logo.svg,Autify Main Logo Image,https://cdn.prod.website-files.com/67220b7ba7c82c886f24b01d/672ca7458bb407b3e0757d2d_Autify%20Open%20Graph%20(1200x630).png
+bekind-labs,https://bekindlabs.com/jp/,,,,,,,https://bekindlabs.com/img/logo_KIND.svg,Bekind Labs Logo,
+bengoshi.com,https://www.bengo4.com/corporate/,,,,,,,https://www.bengo4.com/corporate/assets/images/common/logo/main.svg,,https://www.bengo4.com/corporate/assets/images/ogp.png
+bitflyer,https://blockchain.bitflyer.com/,,,,,,,https://blockchain.bitflyer.com/images/logo-1.png,,https://blockchain.bitflyer.com/images/og-img-2.jpg
+caddi,https://caddi.com/,,,,,,,https://caddi.com/img/common/logo_primary.svg,,https://caddi.com/img/common/caddi_ogp.png
+cinnamon-ai,https://cinnamon.ai/,,https://cinnamon.ai/logo.png,,,,,https://cinnamon.ai/wp-content/themes/indig_base_theme/img/logo.webp,,https://cinnamon.ai/wp-content/uploads/2023/11/cinnamon_logo.png
+classmethod,https://classmethod.jp/,,,,,,,https://classmethod.jp/wp-content/themes/cmn/assets/images/common/logo_classmethod.svg,,https://classmethod.jp/wp-content/themes/classmethod/img/common/ogp.png
+cluster,https://corp.cluster.mu/,,,,,,,,,https://storage.googleapis.com/production-os-assets/assets/31d40b50-6c69-41e1-82cb-e029289a5f28
+cocone-corporation,https://cocone.co.jp/,,,,,,,https://cocone.co.jp/wp-content/themes/cocone-corporate_v333/assets/img/common/logo_red.svg,,https://cocone.co.jp/wp-content/uploads/2023/05/ogp.png
+coincheck,https://coincheck.com/,,,,,,,https://coincheck.com/images/logos/logo.svg,Coincheck Logo,https://coincheck.com/images/ogp/coincheck_ogp_large.png
+colopl,https://colopl.co.jp/,,,,,,,https://colopl.co.jp/assets_v2/img/common/logo_colopl_blue.svg,,https://colopl.co.jp/ogp.jpg
+cover,https://cover-corp.com/,,,,,,,https://cover-corp.com/common/logo.svg,,https://cover-corp.com/OGP.png
+cureapp,https://cureapp.co.jp/,,,,,,,https://cureapp.co.jp/img/logo_cureapp.svg,,https://cureapp.co.jp/img/ogp.png
+cyberagent,https://www.cyberagent.co.jp/,,,,,,,,,https://www.cyberagent.co.jp/files/user/img/common/ogp/ogimage.png
+cybozu,https://cybozu.co.jp/,,,,,,,https://cybozu.co.jp/assets/img/logo.svg,,https://cybozu.co.jp/assets/img/og.png
+cygames,https://www.cygames.co.jp/,,,,,,,https://www.cygames.co.jp/assets/images/common/logo_idbky.png,,https://www.cygames.co.jp/assets/images/ogp.png
+dena,https://dena.com/,,,,,,,,,https://dena.com/images/common/ogp.png
+double-jump,https://www.doublejump.tokyo/,,,,,,,,,https://storage.googleapis.com/production-os-assets/assets/dca527b6-6333-439c-b0e8-1eb4f4989a78
+estie,https://www.estie.jp/,,,,,,,,,https://www.estie.jp/og/og-image.png
+exawizards,https://exawizards.com/,,,,,,,,,https://exawizards.com/wp/wp-content/uploads/2022/11/ogp.png
+feedforce,https://www.feedforce.jp/,,,,,,,,,https://www.feedforce.jp/wp-content/themes/feedforce2015/images/og_image.png
+finatext,https://finatext.com/,,,,,,,,,https://storage.googleapis.com/production-os-assets/assets/a4e4f0fa-0c3b-4e52-91f6-1fa31b1e5ee6
+fintertech,https://fintertech.jp/,,,,,,,https://fintertech.jp/media/images/common/head_logo.png,,https://fintertech.jp/media/images/home/home_kv_logo.png
+freee,https://corp.freee.co.jp/,,,,,,,https://corp.freee.co.jp/img/common/img-site-logo_202107.gif,,https://corp.freee.co.jp/img/ogp-freee.png
+fusic,https://fusic.co.jp/,,,,,,,https://fusic.co.jp/img/logo01.png,,https://fusic.co.jp/img/OGP.png
+gaudiy,https://gaudiy.com/,,,,,,,,,https://storage.googleapis.com/production-os-assets/assets/5adcf267-0592-4d26-a98b-ab98791f5aad
+gitai,https://gitai.tech/,,,,,,,,,
+gmo-fg,https://gmo-fg.com/,,,,,,,https://gmo-fg.com/images/common/logo.png,,https://gmo-fg.com/ogp.jpg
+gmo-internet,https://group.gmo/,,,,,,,https://group.gmo/assets/images/common/logo.svg,,https://cache.img.gmo.jp/images/gmo_og.jpg
+go,https://goinc.jp/,,,,,,,https://goinc.jp/assets/img/common/logo_goinc_horizontal.png,,
+goodpatch,https://goodpatch.com/,,,,,,,,,https://goodpatch.com/assets/ogp.png
+google-japan,https://www.google.com/about/careers/applications/locations/tokyo,,,,,,,,,https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png
+groove-x,https://groove-x.com/,,,,,,,https://groove-x.com/common/images/logo.svg,,
+hacobu,https://hacobu.jp/,,,,,,,,,https://hacobu.jp/wp-content/uploads/2023/04/ogp.jpg
+hacomono,https://www.hacomono.jp/,,,,,,,,,https://www.hacomono.jp/ogp.jpg
+hashport,https://hashport.io/,https://hashport.io/logo.svg,https://hashport.io/logo.png,https://hashport.io/assets/logo.svg,https://hashport.io/assets/logo.png,https://hashport.io/images/logo.svg,https://hashport.io/images/logo.png,,,https://hashport.io/img/ogp.png
+hatena,https://hatenacorp.jp/,,,,,,,https://hatenacorp.jp/_next/static/media/Hatena-logo.db9f27d8.svg,,https://hatena.co.jp/hatenacorp-ogimage.png
+hennge,https://hennge.com/,https://hennge.com/logo.svg,https://hennge.com/logo.png,https://hennge.com/assets/logo.svg,https://hennge.com/assets/logo.png,https://hennge.com/images/logo.svg,https://hennge.com/images/logo.png,https://hennge.com/jp/wp-content/plugins/my-snow-monkey/assets/images/common/logo.svg,,https://hennge.com/jp/wp-content/uploads/hennge/ogp_2025.png
+heroz,https://heroz.co.jp/,,,,,,,,,https://heroz.co.jp/cms/wp-content/themes/heroz/assets/img/ogp.png
+hikky,https://www.hikky.co.jp/,,,,,,,,,https://hikky.co.jp/images/ogp.png
+hybe-japan,https://hybecorp.com/eng/main,,,,,,,,,http://hybecorp.com/images/common/logo-b.svg
+ispace,https://ispace-inc.com/,,,,,,,https://ispace-inc.com/wp-content/themes/ispace2022/assets/img/common/logo_ispace.svg,,https://ispace-inc.com/wp-content/uploads/2025/01/ogp.png
+kaizen-platform,https://kaizenplatform.com/,,,,,,,https://kaizenplatform.com/hubfs/raw_assets/public/Kaizen/kaize-update-sep21/img/logos/kaizen_logo-white.svg,,https://kaizenplatform.com/assets/img/ogp.jpg
+kakehashi,https://kakehashi.life/,,,,,,,,,https://cdn.prod.website-files.com/612f503d75b76e04fe50e50f/616d4a035d06384224097c37_kakehashi-ogp.png
+kaminashi,https://kaminashi.jp/,,,,,,,,,https://storage.googleapis.com/production-os-assets/assets/132450d6-2b17-4d66-9083-438c2b4df690
+kanmu,https://kanmu.co.jp/,,,,,,,https://kanmu.co.jp/img/logo/kanmu.svg,,https://kanmu.co.jp/img/ogp.png
+komoju,https://ja.komoju.com/company/,,,,,,,https://ja.komoju.com/wp-content/uploads/2022/10/Toss-logo-prime.png,Toss-logo,https://ja.komoju.com/wp-content/uploads/2023/08/h1_company_bg@2x-scaled-1-1024x341.jpg
+kubell-(chatwork),https://kubell.com/,https://kubell.com/logo.svg,https://kubell.com/logo.png,https://kubell.com/assets/logo.svg,https://kubell.com/assets/logo.png,https://kubell.com/images/logo.svg,https://kubell.com/images/logo.png,,,https://www.kubell.com/image/common/ogp.png
+kyash,https://www.kyash.co/,,,,,,,https://cdn.prod.website-files.com/5db15c3bca3871afff172c17/5f363d33f39a32a1a48e2f0a_common-logo.svg,,https://cdn.prod.website-files.com/5db15c3bca3871afff172c17/5fc44f4c1c29733404f9d3b4_ogimage-blue.jpg
+layerx,https://layerx.co.jp/,,,,,,,https://layerx.co.jp/wp-content/themes/layerx/assets/images/logo.svg,,https://layerx.co.jp/wp-content/uploads/2023/10/ogp.png
+legalon-technologies,https://legalforce.co.jp/,,,,,,,,,https://legalontech.jp/wp-content/uploads/2025/11/LegalOn_Corporate_OGP.jpg
+liquid,https://liquidinc.asia/,,,,,,,https://liquidinc.asia/wp-content/uploads/2016/12/logo_L-1.png,,https://liquidinc.asia/wp-content/uploads/2025/11/home-OGP.png
+luup,https://luup.sc/,,,,,,,,,https://s3.ap-northeast-1.amazonaws.com/sc.luup/wp-content/uploads/2023/06/ogp_luup.png
+ly-corporation,https://www.lycorp.co.jp/,,,,,,,https://www.lycorp.co.jp/assets/images/header_logo_en.png,,https://www.lycorp.co.jp/assets/images/ogp_ly_en_bk_1200_628.png
+m3,https://corporate.m3.com/,,,,,,,,,https://corporate.m3.com/images/og_image.jpg
+magicpod,https://magicpod.com/,,,,,,,https://magicpod.com/themes/magic-pod/img/logo.svg,,https://magicpod.com/themes/magic-pod/images/OGP-ja.png
+medley,https://www.medley.jp/,,,,,,https://www.medley.jp/images/logo.png,https://www.medley.jp/img/medley-logo-white.svg,,https://www.medley.jp/img/ogimage.png
+mercari,https://about.mercari.com/,,,,,,,https://about.mercari.com/sample/mercari_logo.svg,,https://about.mercari.com/ogimage.png
+micin,https://micin.jp/,,,,,,,https://micin.jp/wp-content/themes/micin/assets/img/common/logo.png,,https://micin.jp/wp-content/themes/micin/assets/img/common/ogp.png
+microsoft-japan,https://www.microsoft.com/ja-jp,,,,,,,,,
+mirrativ,https://www.mirrativ.com/,,,,,,,,,https://cdn.mirrativ.com/mirrativ-prod-assets/img/img_cover_share.png?t=1765626600
+mixi,https://mixi.co.jp/,,,,,,,https://mixi.co.jp/app/themes/mixi/assets/img/logo-main.svg,,https://mixi.co.jp/app/uploads/2022/03/30144041/ogp.png
+money-forward,https://corp.moneyforward.com/,,,,,,,https://corp.moneyforward.com/assets/common/img/logo.png,,https://corp.moneyforward.com/assets/common/img/ogp_img.jpg
+mujin,https://www.mujin.co.jp/,,,,,,,https://www.mujin.co.jp/wp-content/themes/mujin/assets/jp/img/logo.svg,Mujin logo,
+note,https://note.com/,https://note.com/logo.svg,,,,,,,,https://assets.st-note.com/poc-image/manual/production/default_top_ogp_202212.png
+nudge,https://nudge.works/,https://nudge.works/logo.svg,https://nudge.works/logo.png,https://nudge.works/assets/logo.svg,https://nudge.works/assets/logo.png,https://nudge.works/images/logo.svg,https://nudge.works/images/logo.png,,,https://storage.googleapis.com/production-os-assets/assets/e122efbf-9c6c-4576-8a2c-abb2b8d3e09a
+nulab,https://nulab.com/,,,,,,,,,https://nulab.com/images/OG-nulab-image.png
+opn,https://www.opn.ooo/,https://www.opn.ooo/logo.svg,https://www.opn.ooo/logo.png,https://www.opn.ooo/assets/logo.svg,https://www.opn.ooo/assets/logo.png,https://www.opn.ooo/images/logo.svg,https://www.opn.ooo/images/logo.png,,,https://cdn.prod.website-files.com/67481ca1f2e8301c5e5e3895/67d7992fd01eb8fd6ac0c2a1_IMG_4731.png
+paidy,https://paidy.com/,,https://paidy.com/logo.png,,,,,"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMTI4IDMyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTAuMDY5NiAxNC4wMTQ3QzkuOTY4MzQgMTMuODg0NiA4LjkzMTY0IDEyLjYwNDUgOC45MzE2NCAxMi42MDQ1VjIwLjcxNjRDOC45MzE2NCAyMS4zNzkzIDkuNDY5MjggMjEuOTE2OSAxMC4xMzcxIDIxLjkxNjlDMTAuODA0OSAyMS45MTY5IDExLjM0MjYgMjEuMzc5MyAxMS4zNDI2IDIwLjcxNjRMMTEuMzI1NyAxNS4zNjk1QzEwLjk1NDQgMTUuMDM2OSAxMC42MDI0IDE0LjY2NTYgMTAuMDY5NiAxNC4wMTQ3WiIgZmlsbD0idXJsKCNwYWludDBfbGluZWFyXzE2MzYxXzI0NjApIi8+CjxwYXRoIGQ9Ik0yMS4wNjA4IDE4Ljc5NTJDMjAuNjQ2MSAxOC43OTUyIDIwLjI1NTUgMTguNzA2IDE5LjkwMzQgMTguNTQyMUMxOS44NzY5IDE4Ljc5NTIgMTkuOTgwNiAxOS42MDA0IDE4LjcwNzUgMjAuNTMwOUMxOC42MTM1IDIwLjU5NiAxMy41MTY1IDIzLjgyNjMgMTIuNDQ4NCAyNC4zNjM4QzExLjA2OTMgMjUuMDYyOSA5LjUyODU4IDI0Ljg0ODQgOC42MjIwMSAyNC4zODMxQzguMjY5OTkgMjQuMjM2MSAzLjc5OTg2IDIxLjU3OTUgMy42MTkwMyAyMS40NDkzQzMuMjg2MyAyMS4yMTMxIDIuNzM4OTggMjAuNzU1MSAyLjU2NTM5IDIwLjE2NDVDMi40MDYyNSAxOS42NTM0IDIuNDEzNDkgMTguODU1NSAyLjQxMzQ5IDE4Ljg1NTVWMTIuMTA1NkMyLjQxMzQ5IDExLjA2MTggMi43MjIxMSA5LjE4ODY4IDQuNjI0NDUgOC4zNTQ1OUM2LjY2OTA0IDcuNjAwMDUgNy43ODA1NCA4Ljc4MzY5IDguODQzODMgMTAuMDgwNkM4LjkyNTgxIDEwLjE4MTkgMTAuOTk5MyAxMi45MjA0IDExLjkxMzEgMTMuNzMyOEMxMy4wOTIxIDE0Ljc4MzggMTQuMjgzMiAxNS4zMjE0IDE1LjcxNzggMTUuMzIxNEMxOS41Nzc5IDE1LjMyMTQgMjEuMDQ2MyAxMi4yNjk1IDIxLjA0NjMgMTAuMDE3OUMyMS4wNDM5IDcuMDk2MjIgMTguNjUyMSA0LjcyNDEyIDE1LjcxNTQgNC43MjQxMkMxMy44OTI2IDQuNzI0MTIgMTIuMjE2OSA1LjY0NzQxIDExLjI0NzcgNy4xNTQwN0MxMS40MjYxIDcuMzU4OTggMTEuODgxOCA3LjkyMDY3IDExLjk1MTcgOC4wMDI2M0MxMS45NzEgOC4wMjE5MiAxMi43Mzc3IDkuMDEyNyAxMi43Nzg3IDkuMDcwNTZDMTIuOTExMyA4LjkwOTA0IDE0LjAxMzIgNy4xNTY0OSAxNS43MTMgNy4xNTY0OUMxNy40NTM4IDcuMTU2NDkgMTguNTg0NiA4LjUxMTI4IDE4LjU4NDYgMTAuMDE3OUMxOC41ODQ2IDExLjU5MjEgMTcuMzA0MyAxMi44NjQ5IDE1Ljc2MTIgMTIuODY0OUMxNC44NDc0IDEyLjg2NDkgMTQuMjU2NyAxMi41Mzk1IDEzLjUzMSAxMS44OTFDMTIuODA1MiAxMS4yNDI2IDEwLjk4NzMgOC44MzE5IDEwLjk4NzMgOC44MzE5QzEwLjgyODEgOC42MTk3NiA5LjU3MTk3IDcuMTAxMDQgOC42NzI2NCA2LjUwMzE5QzcuNTQ5MDggNS43NDYyNCA1Ljk2OTgzIDUuMjkzMDQgMy44NjQ5NiA1Ljk5Njk1QzEuNzYwMDkgNi43MDA4NyAwIDguOTc0MTMgMCAxMi4xMDU2TDAuMDA5NjQ0MzEgMTguODU1NUMwLjAwOTY0NDMxIDE5LjExMzQgLTAuMDA5NjQ0MyAxOS45NTQ3IDAuMjAwMTE5IDIwLjc0NzhDMC41NDI0OTIgMjIuMDU0NCAxLjE2Njk2IDIyLjc5MjEgMi40NjE3MSAyMy41OTcyQzMuMDc4OTUgMjMuOTQ0NCA2LjYzNTI4IDI2LjA3MyA3LjE4NTAxIDI2LjM2NzFDOC4yMjkgMjYuOTIxNiA5LjI2NTc3IDI3LjIwMTIgMTAuNjU3IDI3LjIwMzZDMTEuNzI5OSAyNy4yMDYgMTIuNzczOSAyNi45NDMzIDEzLjY1ODggMjYuNDgyOEMxNS4wODM3IDI1Ljc1NzIgMTkuNzEzIDIyLjc5MjEgMjAuMDA0NyAyMi42MDg5QzIxLjM2MjEgMjEuNjkyOCAyMi40Njg4IDIwLjI0ODggMjIuMzU1NSAxOC40NzdDMjEuOTY5NyAxOC42NzcxIDIxLjUyODUgMTguNzk1MiAyMS4wNjA4IDE4Ljc5NTJaIiBmaWxsPSJ1cmwoI3BhaW50MV9saW5lYXJfMTYzNjFfMjQ2MCkiLz4KPC9zdmc+",,https://paidy.com/paidy_ogp_tcvm_052025.jpg
+paypay,https://about.paypay.ne.jp/,,,,,,,https://about.paypay.ne.jp/images/parts/ico_logo_paypay.svg,,https://about.paypay.ne.jp/uploads/2022/04/corporate_ogp.png
+pfn,https://www.preferred.jp/,https://www.preferred.jp/logo.svg,https://www.preferred.jp/logo.png,,,,,https://www.preferred.jp/images/common/logo.svg,,https://www.preferred.jp/images/ogp.png
+photoruction,https://photoruction.com/,,,,,,,,,
+pksha-technology,https://www.pkshatech.com/,,,,,,,,,https://www.pkshatech.com/assets/img/ogp.jpg
+plaid,https://plaid.co.jp/,,,,,,,https://plaid.co.jp/assets/images/site-wide/plaid-logo_red.svg,,https://plaid.co.jp/assets/images/site-wide/ogp.jpg
+playco,https://www.play.co/,,,,,,,,,https://cdn.prod.website-files.com/5ef5b52561b705cdd979275e/5f6bf7aa03bbe535e0b56505_Open%20Graph%20Image.png
+raksul,https://corp.raksul.com/,,,,,,,,,
+rakus,https://www.rakus.co.jp/,,,,,,,,,https://www.rakus.co.jp/images/common/ogp.png
+rakuten-group,https://corp.rakuten.co.jp/,,,,,,,https://corp.rakuten.co.jp/assets/img/common/logo.svg,,https://corp.rakuten.co.jp/assets/img/common/og_image_logo.png
+rapidus,https://www.rapidus.inc/,,,,,,,https://www.rapidus.inc/wp/wp-content/themes/rapidus2/assets/image/icon_logo_Z2vg7Er.svg,,https://www.rapidus.inc/wp/wp-content/uploads/2024/12/og.png
+reality,https://reality.inc/,,,,,,,https://reality.inc/assets/images/common/logo.png,,https://reality.inc/ogp_img.jpg
+recruit,https://www.recruit.co.jp/,,,,,,,https://www.recruit.co.jp/_app/assets/others/recruit-brand-logo.svg,,https://www.recruit.co.jp/ogp.png
+repro,https://repro.io/,,,,,,,https://repro.io/hubfs/logo-Aug-25-2021-05-47-28-60-AM.svg,,https://repro.io/hubfs/repro-io/images/common/main-ogp.png
+safie,https://safie.link/,,,,,,,https://bucket.safie.link/assets/images/logo-safie.svg,,https://safie.link/nuxt-static/images/image-og-default-v2.png
+sakana-ai,https://sakana.ai/,,,,,,,,,https://sakana.ai/assets/home/sakana_rect.png
+sakura-internet,https://www.sakura.ad.jp/,,,,,,,,,https://www.sakura.ad.jp/assets/images/ogp.png
+sansan,https://jp.corp-sansan.com/,,,,,,,,,https://jp.corp-sansan.com/img/og.png
+smarthr,https://smarthr.co.jp/,,,,,,,,,https://smarthr.co.jp/assets/images/ogp/ogp.png
+smartnews,https://about.smartnews.com/,,,,,,,,,https://about.smartnews.com/OGP.png
+soda-inc.,https://soda-inc.jp/,https://soda-inc.jp/logo.svg,https://soda-inc.jp/logo.png,https://soda-inc.jp/assets/logo.svg,https://soda-inc.jp/assets/logo.png,https://soda-inc.jp/images/logo.svg,https://soda-inc.jp/images/logo.png,,,https://storage.googleapis.com/production-os-assets/assets/5de9911a-8ab6-45bb-abfe-3eb2ed2f67bf
+soracom,https://soracom.com/,,,,,,,,,https://storage.googleapis.com/production-os-assets/assets/7afe08b6-fd4e-4a06-9648-52a598a490a2
+spiber,https://spiber.inc/,,,,,,,https://spiber.inc/_next/static/media/logo.cf3eaa3b.svg,Logo,https://spiber.inc/ja/opengraph-image.jpeg
+spiderplus,https://spiderplus.co.jp/,,,,,,,https://spiderplus.co.jp/wp/wp-content/themes/2305spiderplus/assets/images/common/footer_img.png,,https://spiderplus.co.jp/wp/wp-content/uploads/2022/10/spiderplus_ogp.jpg
+stockmark,https://stockmark.co.jp/,,,,,,,https://stockmark.co.jp/wp-content/themes/stockmark/assets/images/logo_aconnect_0701.png,,https://stockmark.co.jp/wp-content/uploads/2025/09/ogp.png
+studist,https://studist.jp/,,,,,,,,,https://storage.googleapis.com/production-os-assets/assets/74aecf49-f348-40d6-8c91-48865fcdda6b
+sun,https://sun-asterisk.com/,,,,,,,,,https://sun-asterisk.com/wp-content/uploads/2020/06/sun-ogp.png
+synspective,https://synspective.com/,https://synspective.com/logo.svg,https://synspective.com/logo.png,https://synspective.com/assets/logo.svg,https://synspective.com/assets/logo.png,https://synspective.com/images/logo.svg,https://synspective.com/images/logo.png,,,https://synspective.com/wp-content/uploads/2024/10/image-37.png
+tbm,https://tb-m.com/,,,,,,,https://tb-m.com/app/themes/tbm/assets/img/logo/logo_tbm-white.png,,https://tb-m.com/wp-content/uploads/2023/06/ogp_tbm_top.jpg
+teamspirit,https://www.teamspirit.com/,,,,,,,https://www.teamspirit.com/elements/logo.svg,,https://www.teamspirit.com/elements/ogp.png
+telexistence,https://tx-inc.com/,,,,,,,https://tx-inc.com/wp-content/uploads/2019/01/logo-icon_画板-1-300x77.png,,
+tier-iv,https://tier4.jp/,,,,,,,https://tier4.jp/assets/img/common/logo.svg,,https://tier4.jp/assets/img/common/meta/ogp.jpg
+timee,https://timee.co.jp/,,,,,,,https://timee.co.jp/_assets/reHeader-logo.DCBMN3ti.svg,,https://timee.co.jp/_assets/ogp.D2zkELIe.png
+ubie,https://ubie.life/,,,,,,,,,https://storage.googleapis.com/production-os-assets/assets/af374e6f-4175-4a4d-817f-f8e38932d28b
+uzabase,https://www.uzabase.com/,,,,,,,,,https://www.uzabase.com/images/og.png
+visional,https://www.visional.inc/,,,,,,,https://www.visional.inc/resources/sw_img/top/logo.png,,https://www.visional.inc/resources/ogp-image.png
+wed,https://wed.company/,https://wed.company/logo.svg,https://wed.company/logo.png,https://wed.company/assets/logo.svg,https://wed.company/assets/logo.png,https://wed.company/images/logo.svg,https://wed.company/images/logo.png,,,https://storage.googleapis.com/production-os-assets/assets/46346398-2188-404d-9012-aab993b116df
+yamap,https://yamap.com/,,,,,,,https://yamap.com/__v2__/images/logo_yamap.svg,,https://assets.yamap.com/images/ogp_new.png
+yappli,https://yappli.co.jp/,,,,,,,,,https://yappli.co.jp/assets/img/ogp.png?20191126
+zozo,https://corp.zozo.com/,,,,,,,https://corp.zozo.com/assets/svg/logo-zozo.svg,,https://corp.zozo.com/assets/images/sns-zozo.png`;
+
+        function parseCSV(csv) {
+            const lines = csv.trim().split('\n');
+            const headers = parseCSVLine(lines[0]);
+            const rows = [];
+            for (let i = 1; i < lines.length; i++) {
+                if (lines[i].trim()) {
+                    rows.push(parseCSVLine(lines[i]));
+                }
+            }
+            return { headers, rows };
+        }
+
+        function parseCSVLine(line) {
+            const result = [];
+            let current = '';
+            let inQuotes = false;
+            for (let i = 0; i < line.length; i++) {
+                const char = line[i];
+                if (char === '"') {
+                    inQuotes = !inQuotes;
+                } else if (char === ',' && !inQuotes) {
+                    result.push(current);
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            result.push(current);
+            return result;
+        }
+
+        function createCell(value, isUrl = false) {
+            if (!value || value.trim() === '') {
+                return '<span class="empty">-</span>';
+            }
+            if (isUrl && value.startsWith('http')) {
+                const shortUrl = value.length > 40 ? value.substring(0, 40) + '...' : value;
+                return `<a href="${value}" target="_blank" title="${value}">${shortUrl}</a>`;
+            }
+            return value;
+        }
+
+        function createImageCell(value) {
+            if (!value || value.trim() === '' || value.startsWith('data:')) {
+                if (value && value.startsWith('data:')) {
+                    return '<span class="empty">(base64)</span>';
+                }
+                return '<span class="empty">-</span>';
+            }
+            const shortUrl = value.length > 30 ? value.substring(0, 30) + '...' : value;
+            return `<div class="cell-with-preview"><img class="preview" src="${value}" onerror="this.style.display='none'" /><a href="${value}" target="_blank" title="${value}">${shortUrl}</a></div>`;
+        }
+
+        const { headers, rows } = parseCSV(csvData);
+        const tbody = document.getElementById('table-body');
+
+        rows.forEach((row, index) => {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+                <td>${index + 1}</td>
+                <td><strong>${row[0]}</strong></td>
+                <td>${createCell(row[1], true)}</td>
+                <td>${createImageCell(row[2])}</td>
+                <td>${createImageCell(row[3])}</td>
+                <td>${createImageCell(row[4])}</td>
+                <td>${createImageCell(row[5])}</td>
+                <td>${createImageCell(row[6])}</td>
+                <td>${createImageCell(row[7])}</td>
+                <td>${createImageCell(row[8])}</td>
+                <td>${row[9] || '<span class="empty">-</span>'}</td>
+                <td>${createImageCell(row[10])}</td>
+            `;
+            tbody.appendChild(tr);
+        });
+    </script>
+</body>
+</html>
