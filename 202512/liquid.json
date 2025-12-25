@@ -1,0 +1,42 @@
+{
+  "company_name_ja": "ELEMENTS（旧Liquid）",
+  "company_name_en": "ELEMENTS (formerly Liquid)",
+  "description": "オンライン本人確認サービス「LIQUID eKYC」を提供するeKYC市場6年連続シェアNo.1企業。生体認証と画像認識をコア技術とし、累計本人確認件数1.5億件超、契約数600社超の実績。SMBCグループのポラリファイを連結子会社化し、サイバー犯罪・金融犯罪対策を強化。AIによる給油許可サービス「AiQ PERMISSION」などの新規事業も展開。",
+  "description_en": "Leading eKYC market company with 6 consecutive years of #1 market share, providing online identity verification service 'LIQUID eKYC'. Core technologies include biometric authentication and image recognition, with 150M+ identity verifications and 600+ corporate clients. Acquired SMBC Group's Polarify as consolidated subsidiary, strengthening cybercrime and financial crime countermeasures. Also expanding into new businesses like AI-powered fuel dispensing approval service 'AiQ PERMISSION'.",
+  "hiring_url": "https://herp.careers/v1/liquid",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/liquid.png",
+  "company_url": "https://elementsinc.jp/",
+  "positions": [
+    {
+      "name": "LIQUID eKYC エンジニアリングマネージャー（バックエンド開発チーム）",
+      "link": "https://herp.careers/v1/liquid/6x_UrGf7epy7"
+    },
+    {
+      "name": "コーポレートエンジニア",
+      "link": "https://herp.careers/v1/liquid/ddHzEqBxy9dT"
+    },
+    {
+      "name": "シニアエンジニア（X PLACE）",
+      "link": "https://herp.careers/v1/liquid/zzR1znOt1uxj"
+    },
+    {
+      "name": "バックエンドエンジニア",
+      "link": "https://herp.careers/v1/liquid/25h9DJTGSmwh"
+    },
+    {
+      "name": "バックエンドエンジニア（Auth）",
+      "link": "https://herp.careers/v1/liquid/W4Fnx-9Fi2Yu"
+    },
+    {
+      "name": "バックエンドエンジニア（sol開発）",
+      "link": "https://herp.careers/v1/liquid/4PGSb8jTV-au"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "link": "https://herp.careers/v1/liquid/Aukjsbg9m8A0"
+    }
+  ]
+}

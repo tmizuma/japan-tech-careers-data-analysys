@@ -1,0 +1,142 @@
+{
+  "company_name_ja": "ラクス",
+  "company_name_en": "Rakus",
+  "description": "経費精算システム「楽楽精算」を中心に楽楽明細・楽楽勤怠・楽楽販売などバックオフィスSaaSを提供。楽楽精算は累計導入18000社超で経費精算クラウド市場シェアNo.1。2024年度売上高384億円（YoY+40%）と高成長を継続しSaaS企業として日本最大級の時価総額3300億円規模。2029年までにAI活用で経費精算作業時間60%削減を目指す開発ロードマップを発表。",
+  "description_en": "Provides back-office SaaS centered on expense management system \"Rakurak Seisan\" along with Rakurak Meisai, Rakurak Kintai, and Rakurak Hanbai. Rakurak Seisan leads expense management cloud market with over 18,000 cumulative implementations. Sustained high growth with FY2024 revenue of 38.4 billion yen (YoY +40%), one of Japan's largest SaaS companies by market cap at 330 billion yen. Announced development roadmap targeting 60% reduction in expense processing time through AI by 2029.",
+  "hiring_url": "https://www.rakus.co.jp/recruit/",
+  "num_of_employees": "2000+",
+  "sales": 30000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/rakus.png",
+  "company_url": "https://www.rakus.co.jp/",
+  "positions": [
+    {
+      "name": "エンジニアリングマネージャー（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineeringmanager_tokyo/"
+    },
+    {
+      "name": "サーバサイドエンジニア／Java（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineer-java_tokyo"
+    },
+    {
+      "name": "プロジェクトマネージャー／フロントエンド（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/pjm-frontend_tokyo"
+    },
+    {
+      "name": "リードエンジニア／フロントエンド（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/leadengineer-frontend_tokyo"
+    },
+    {
+      "name": "フロントエンドエンジニア（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/frontend_tokyo"
+    },
+    {
+      "name": "ブリッジSE／ベトナム（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/bse_tokyo"
+    },
+    {
+      "name": "ブリッジSE／インドネシア（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/bse_indonesia_tokyo"
+    },
+    {
+      "name": "QAリーダー（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/qa_leader"
+    },
+    {
+      "name": "プロダクトマネージャー（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/pdm_tokyo/"
+    },
+    {
+      "name": "プロジェクトマネージャー（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/pjm_tokyo/"
+    },
+    {
+      "name": "プロダクトセキュリティエンジニア（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/product_security"
+    },
+    {
+      "name": "研究開発／R＆Dエンジニア（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/rd_tokyo"
+    },
+    {
+      "name": "現地開発拠点長（ベトナム子会社駐在）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/dev-expatriate-vn"
+    },
+    {
+      "name": "開発戦略企画（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/development-strategist"
+    },
+    {
+      "name": "技術広報リーダー（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/tech-pr"
+    },
+    {
+      "name": "エンジニアリングマネージャー／インフラ（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/infra-manager_tokyo"
+    },
+    {
+      "name": "インフラエンジニア（東京）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/infra-engineer_tokyo"
+    },
+    {
+      "name": "エンジニアリングマネージャー（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/em_osaka"
+    },
+    {
+      "name": "エンジニアリングマネージャー／新規プロダクト（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/em_osaka_2"
+    },
+    {
+      "name": "テックリード／Kotlin, TypeScript（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/techlead-kotlin-typescript-osaka"
+    },
+    {
+      "name": "テックリード／Java・PHP（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/techlead-php-java-osaka"
+    },
+    {
+      "name": "リードエンジニア／PHP（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/leadengineer-php_osaka"
+    },
+    {
+      "name": "Webエンジニア／Kotlin, TypeScript（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/webengineer-java_osaka"
+    },
+    {
+      "name": "Webエンジニア／PHP, Java（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/webengineer-php_osaka"
+    },
+    {
+      "name": "Webエンジニア／PHP（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/webengineer-php_osaka-2"
+    },
+    {
+      "name": "Webエンジニア／AI導入（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/webengineer-ai_osaka"
+    },
+    {
+      "name": "サーバサイドエンジニア／PHP（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineer-php_osaka"
+    },
+    {
+      "name": "サーバサイドエンジニア／Java（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/engineer-java_osaka"
+    },
+    {
+      "name": "ブリッジSE／ベトナム（大阪）",
+      "link": "https://career-recruit.rakus.co.jp/engineer_jobs/bse_osaka"
+    },
+    {
+      "name": "システム企画・導入 ※マネージャー候補（社内SE/大阪）",
+      "link": "https://hrmos.co/pages/rakus/jobs/GJ202"
+    },
+    {
+      "name": "セキュリティ企画・運用※マネージャー候補（社内SE/大阪）",
+      "link": "https://hrmos.co/pages/rakus/jobs/its-secure-2368"
+    },
+    {
+      "name": "社内SE（クラウド担当）（大阪）",
+      "link": "https://hrmos.co/pages/rakus/jobs/its-secure-2371"
+    }
+  ]
+}

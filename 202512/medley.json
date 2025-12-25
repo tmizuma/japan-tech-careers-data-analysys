@@ -1,0 +1,126 @@
+{
+  "company_name_ja": "Medley",
+  "company_name_en": "Medley",
+  "description": "医療プラットフォーム事業と人材プラットフォーム事業を展開する医療ヘルスケアDXリーダー。オンライン診療システム「CLINICSオンライン診療」を中核に電子カルテ「MALL」・歯科向け「Dentis」・かかりつけ薬局支援「Pharms」を提供。2025年に「MEDLEY AI CLOUD」へブランドリニューアルしAIアシスト機能でカルテ作成工数を11%以上削減。医療介護求人「ジョブメドレー」は国内最大規模。2029年に売上高1000億円・社員4000人規模を目指す中期経営計画を発表。",
+  "description_en": "Healthcare DX leader operating medical platform and talent platform businesses. Provides online medical consultation system \"CLINICS Online Medical Care\" as core, along with electronic medical records \"MALL,\" dental \"Dentis,\" and family pharmacy support \"Pharms.\" Rebranded to \"MEDLEY AI CLOUD\" in 2025, reducing medical record creation workload by over 11% with AI assist features. Healthcare job site \"Job Medley\" is Japan's largest scale. Announced medium-term plan targeting 100 billion yen revenue and 4,000 employees by 2029.",
+  "hiring_url": "https://www.medley.jp/recruit/",
+  "num_of_employees": "1000+",
+  "sales": 20000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/medley.png",
+  "company_url": "https://www.medley.jp/",
+  "positions": [
+    {
+      "name": "エンジニア オープンポジション",
+      "link": "https://hrmos.co/pages/medley/jobs/1000001"
+    },
+    {
+      "name": "テックリード候補 バックエンド／CLINICS",
+      "link": "https://hrmos.co/pages/medley/jobs/1000003"
+    },
+    {
+      "name": "Webエンジニア／患者統合基盤",
+      "link": "https://hrmos.co/pages/medley/jobs/1000017"
+    },
+    {
+      "name": "QAエンジニア／人材プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000030"
+    },
+    {
+      "name": "Webアプリケーションエンジニア／melmo（総合医療アプリ）",
+      "link": "https://hrmos.co/pages/medley/jobs/1000032"
+    },
+    {
+      "name": "エンジニアリングマネージャー候補／melmo（総合医療アプリ）",
+      "link": "https://hrmos.co/pages/medley/jobs/1000033"
+    },
+    {
+      "name": "QAエンジニア／医療プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000034"
+    },
+    {
+      "name": "SREエンジニア／医療プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000036"
+    },
+    {
+      "name": "Androidアプリケーションエンジニア／melmo",
+      "link": "https://hrmos.co/pages/medley/jobs/1000039"
+    },
+    {
+      "name": "QAエンジニア／MALL",
+      "link": "https://hrmos.co/pages/medley/jobs/1000046"
+    },
+    {
+      "name": "iOSアプリケーションエンジニア／melmo",
+      "link": "https://hrmos.co/pages/medley/jobs/1000047"
+    },
+    {
+      "name": "データエンジニア／医療プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000060"
+    },
+    {
+      "name": "開発エンジニア・マネージャー候補／MALL",
+      "link": "https://hrmos.co/pages/medley/jobs/1000061"
+    },
+    {
+      "name": "開発エンジニア・テックリード／MALL",
+      "link": "https://hrmos.co/pages/medley/jobs/1000075"
+    },
+    {
+      "name": "Webアプリケーション開発エンジニア／MEDIXS 薬歴",
+      "link": "https://hrmos.co/pages/medley/jobs/1000079"
+    },
+    {
+      "name": "Webアプリケーション開発エンジニア／MEDIXS レセコン",
+      "link": "https://hrmos.co/pages/medley/jobs/1000080"
+    },
+    {
+      "name": "Flutterエンジニア／人材プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000096"
+    },
+    {
+      "name": "エンジニア／人材プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000098"
+    },
+    {
+      "name": "データエンジニア／人材プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000101"
+    },
+    {
+      "name": "新規事業プロダクトエンジニア／人材プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000105"
+    },
+    {
+      "name": "インフラエンジニア／@link",
+      "link": "https://hrmos.co/pages/medley/jobs/1000108"
+    },
+    {
+      "name": "バックエンドエンジニア／@link",
+      "link": "https://hrmos.co/pages/medley/jobs/1000118"
+    },
+    {
+      "name": "テックリード・シニアエンジニア／人材プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000119"
+    },
+    {
+      "name": "リードエンジニア／@link",
+      "link": "https://hrmos.co/pages/medley/jobs/1000120"
+    },
+    {
+      "name": "インフラエンジニア／MEDIXS",
+      "link": "https://hrmos.co/pages/medley/jobs/1000149"
+    },
+    {
+      "name": "AIシニアエンジニア／医療プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000156"
+    },
+    {
+      "name": "AIエンジニア／医療プラットフォーム本部",
+      "link": "https://hrmos.co/pages/medley/jobs/1000157"
+    },
+    {
+      "name": "テックリード候補 フロントエンド／CLINICS",
+      "link": "https://hrmos.co/pages/medley/jobs/1000202"
+    }
+  ]
+}

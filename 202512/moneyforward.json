@@ -1,0 +1,170 @@
+{
+  "company_name_ja": "マネーフォワード",
+  "company_name_en": "Money Forward",
+  "description": "2300以上の金融サービスと連携するクラウド会計・経費精算・給与計算・勤怠管理など12のバックオフィスSaaSを提供。個人向け家計簿アプリ「マネーフォワード ME」も運営。AIによる自動仕訳機能を搭載し全国44000超の士業事務所が利用。Go言語やグローバル開発体制で技術力も高くFintech領域にも積極展開。2024年には複数のM&Aで事業領域を拡大。",
+  "description_en": "Provides 12 back-office SaaS products including cloud accounting, expense management, payroll, and attendance management, connecting with over 2,300 financial services. Also operates personal budgeting app \"Money Forward ME.\" Features AI-powered automatic journal entry used by over 44,000 professional firms nationwide. Strong technical capabilities with Go language and global development structure, actively expanding in Fintech. Expanded business domains through multiple M&As in 2024.",
+  "hiring_url": "https://corp.moneyforward.com/recruit/",
+  "num_of_employees": "2000+",
+  "sales": 30000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/money-forward.png",
+  "company_url": "https://corp.moneyforward.com/",
+  "positions": [
+    {
+      "name": "【エンジニア】オープンポジション（東京・大阪・京都・名古屋・福岡）",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/0004175"
+    },
+    {
+      "name": "【バックエンドエンジニア】マネーフォワード 掛け払い_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/003go02"
+    },
+    {
+      "name": "【スクラムマスター】マネーフォワードクラウド_福岡",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1705418982829588543"
+    },
+    {
+      "name": "【エンジニアオープンポジション】QAエンジニア・SDET",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1705418982829588559"
+    },
+    {
+      "name": "【シニアエンジニアリングマネージャー】アカウントアグリゲーション本部_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1705418982829588571"
+    },
+    {
+      "name": "【SDET】CQO室_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1865576336199700482"
+    },
+    {
+      "name": "【AIソリューションエンジニア】プロダクトAIソリューション部_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1877612029521268813"
+    },
+    {
+      "name": "【エンジニアリングマネージャー（部長候補）】マネーフォワードME_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1877612029521268929"
+    },
+    {
+      "name": "【シニアソフトウェアエンジニア】マネーフォワードクラウド_福岡",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1960606981176266782"
+    },
+    {
+      "name": "SDET_CQO Office_Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1960606981176266807"
+    },
+    {
+      "name": "【フロントエンドエンジニア】Moneyforward Pay for Business_福岡",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/1960606981176266918"
+    },
+    {
+      "name": "Senior Software Engineer, Money Forward Cloud, Fukuoka",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2047160677453344919"
+    },
+    {
+      "name": "【バックエンドエンジニア】デジタルバンク_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2116343163783999497"
+    },
+    {
+      "name": "【QAエンジニア】デジタルバンク_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2116343163783999499"
+    },
+    {
+      "name": "Backend Engineer_Digital bank_Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2116343163783999506"
+    },
+    {
+      "name": "【QAマネージャー】デジタルバンク_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2121455132004343816"
+    },
+    {
+      "name": "QA Engineer_Digital Bank_Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2136738224822931461"
+    },
+    {
+      "name": "QA Manager_Digital Bank_Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2136738224822931464"
+    },
+    {
+      "name": "【セキュリティ責任者】デジタルバンク_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2139652574670553092"
+    },
+    {
+      "name": "【セキュリティスペシャリスト - ガバナンス担当】デジタルバンク_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2139652574670553099"
+    },
+    {
+      "name": "【AIソリューションエンジニア】MFBS AIプロダクト開発本部_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2145776216565051395"
+    },
+    {
+      "name": "【AIソリューションエンジニア】AI推進室_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2145776216565051397"
+    },
+    {
+      "name": "【AIソリューションエンジニア】AI推進室（CS PJ）_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2145776216565051398"
+    },
+    {
+      "name": "【SRE】デジタルバンク_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2145776216565051402"
+    },
+    {
+      "name": "SRE, Digital Bank, Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2145776216565051405"
+    },
+    {
+      "name": "【セキュリティスペシャリスト - プロダクトセキュリティ】デジタルバンク_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2145776216565051409"
+    },
+    {
+      "name": "Backend Engineer_Money Forward Kakebarai_Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2145776216565051410"
+    },
+    {
+      "name": "Backend Engineer, Money Forward Pay for Business_Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2145776216565051415"
+    },
+    {
+      "name": "Engineering Manager, Money Forward HOME, Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2149422232150540301"
+    },
+    {
+      "name": "Staff Engineer / Technical Architect, ERP Cross-Functional Engineering Division, Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2149422232150540308"
+    },
+    {
+      "name": "【シニアフロントエンドエンジニア】AIプロダクト開発本部_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2149422232150540314"
+    },
+    {
+      "name": "【インフラエンジニア】アカウントアグリゲーション本部_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2149422232150540327"
+    },
+    {
+      "name": "Infrastructure Engineer, Aggregation Department, Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2149422232150540329"
+    },
+    {
+      "name": "Lead Backend Engineer_Digital bank_Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2149422232150540348"
+    },
+    {
+      "name": "【データ/AIガバナンス責任者候補】データ・アナリティクスガバナンス部_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2171465866329452544"
+    },
+    {
+      "name": "【DataOps】Dataソリューション部_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2171465866329452550"
+    },
+    {
+      "name": "【シニアバックエンドエンジニア】マネーフォワードクラウド_ID基盤グループ_東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2174353643180318721"
+    },
+    {
+      "name": "【マネーフォワード ME_AIプロダクトマネージャー】東京",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2174353643180318729"
+    },
+    {
+      "name": "Security Specialist - Product Security, Digital Bank, Tokyo",
+      "link": "https://hrmos.co/pages/moneyforward/jobs/2174353643180318733"
+    }
+  ]
+}

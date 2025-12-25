@@ -1,0 +1,13 @@
+{
+  "company_name_ja": "CureApp",
+  "company_name_en": "CureApp",
+  "description": "「アプリで治療する未来を創造する」をビジョンに掲げる治療アプリ開発企業。医学的エビデンスに基づく医療機器プログラム『治療アプリ』の研究開発・製造販売を手がける。2020年にニコチン依存症治療アプリで世界初の薬事承認・保険適用、2022年に高血圧治療補助アプリで世界初の薬事承認・保険適用、2025年に減酒治療補助アプリの薬事承認を取得。TypeScriptでフルスタック開発を実践しDDDを採用。累計調達額134億円。",
+  "description_en": "Digital therapeutics company with vision to 'Pioneer the field of digital therapeutics.' Develops and manufactures medical device software 'treatment apps' based on medical evidence. Achieved world's first regulatory approval and insurance coverage for nicotine addiction treatment app in 2020, hypertension treatment app in 2022, and alcohol reduction treatment app approval in 2025. Practices full-stack development with TypeScript and adopts DDD. Cumulative funding of 13.4 billion yen.",
+  "hiring_url": "https://cureapp.co.jp/recruit.html",
+  "num_of_employees": "200+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/cureapp.png",
+  "company_url": "https://cureapp.co.jp/",
+  "positions": []
+}

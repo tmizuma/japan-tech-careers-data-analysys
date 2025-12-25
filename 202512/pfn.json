@@ -1,0 +1,162 @@
+{
+  "company_name_ja": "Preferred Networks",
+  "company_name_en": "Preferred Networks",
+  "description": "AI半導体、計算基盤、生成AI基盤モデル、ソリューション・製品までAI技術のバリューチェーンを垂直統合する日本発AIスタートアップ。独自開発のAIアクセラレータMN-Coreを搭載したスパコンMN-3でGreen500世界1位を3度獲得。国産LLM「PLaMo」、汎用原子レベルシミュレータ「Matlantis」等を展開。トヨタ・NTT・三菱商事など大手企業が出資。",
+  "description_en": "Japan-based AI startup vertically integrating AI value chain from semiconductors, computing infrastructure, foundation models to solutions. Achieved Green500 world #1 three times with supercomputer MN-3 equipped with proprietary AI accelerator MN-Core. Develops domestic LLM 'PLaMo' and universal atomic-level simulator 'Matlantis'. Backed by major companies including Toyota, NTT, and Mitsubishi Corporation.",
+  "hiring_url": "https://open.talentio.com/r/1/c/preferred/homes/4618",
+  "num_of_employees": "400",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/pfn.png",
+  "company_url": "https://www.preferred.jp/",
+  "positions": [
+    {
+      "name": "Engineer・Researcher / エンジニア・リサーチャー",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/96858"
+    },
+    {
+      "name": "Product and Service Development Engineer / プロダクト・サービス開発エンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/96860"
+    },
+    {
+      "name": "Engineer・Researcher - Early career professinal / エンジニア・リサーチャー（第二新卒）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/98077"
+    },
+    {
+      "name": "Product and Service Development Engineer - Early career professinal/ プロダクト・サービス開発エンジニア（第二新卒）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/98078"
+    },
+    {
+      "name": "Machine Learning・Optimization・Data Science Engineer/機械学習・最適化・データサイエンスエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43975"
+    },
+    {
+      "name": "Computer vision engineer/コンピュータビジョンエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43977"
+    },
+    {
+      "name": "Machine Learning Engineer in Quantitative Finance Project/金融プロジェクト機械学習エンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43980"
+    },
+    {
+      "name": "Healthcare and Wellness Project Development Engineer・Researcher/ヘルスケア・ウェルネスプロジェクト 開発エンジニア・リサーチャー",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43987"
+    },
+    {
+      "name": "Matlantis Core Development Engineer / Matlantis コア技術開発エンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/94717"
+    },
+    {
+      "name": "Matlantis Software Engineer（Web アプリケーション）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/75024"
+    },
+    {
+      "name": "Matlantis Software Engineer（サービス基盤）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/75039"
+    },
+    {
+      "name": "LLM Service Development Engineer/基盤モデルサービス開発エンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/75034"
+    },
+    {
+      "name": "Backend engineer for enterprise/エンタープライズ向けバックエンドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/94716"
+    },
+    {
+      "name": "Frontend engineer for enterprise/エンタープライズ向けフロントエンドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/94715"
+    },
+    {
+      "name": "Software Engineer - LLM Alignment (Instruction Tuning) / 大規模言語モデル アラインメント(指示学習)エンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/75038"
+    },
+    {
+      "name": "AI Chip (MN-Core) Compiler Engineer/ AI半導体 (MN-Core) コンパイラエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43990"
+    },
+    {
+      "name": "AI Chip (MN-Core) ASIC Front End Design Engineer / AI半導体 (MN-Core) ASICフロントエンド設計エンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/91116"
+    },
+    {
+      "name": "AI Chip (MN-Core) HPC software engineer / AI半導体 (MN-Core) HPC ソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43991"
+    },
+    {
+      "name": "AI Chip (MN-Core) Runtime Software Engineer / AI半導体 (MN-Core) ランタイムソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43993"
+    },
+    {
+      "name": "AI Chip (MN-Core) Senior Software Project Manager (PM) / AI半導体 (MN-Core) シニアソフトウェアプロジェクトマネージャー（PM）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/91117"
+    },
+    {
+      "name": "Engineer, Storage / ストレージエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43994"
+    },
+    {
+      "name": "Machine Learning Platform Engineer/機械学習プラットフォームエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43997"
+    },
+    {
+      "name": "Large-Scale Computing Infrastructure Engineer / 大規模計算基盤エンジニア (Infrastructure)",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/43999"
+    },
+    {
+      "name": "Large-Scale Computing Infrastructure Researcher / 大規模計算基盤リサーチャー (Infrastructure)",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/72687"
+    },
+    {
+      "name": "Machine Learning Platform Engineer (Performance)/機械学習プラットフォームエンジニア（パフォーマンス）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/72689"
+    },
+    {
+      "name": "Machine Learning Platform Engineer (Service Development)/機械学習プラットフォームエンジニア（サービス開発）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/72690"
+    },
+    {
+      "name": "Machine Learning Platform Engineer (Networking)/機械学習プラットフォームエンジニア（ネットワーキング）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/72691"
+    },
+    {
+      "name": "Drug Discovery Researcher / リサーチャー(創薬)",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/44001"
+    },
+    {
+      "name": "Information System (Corporate IT Security) / 情報システム（コーポレート IT セキュリティ）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/44013"
+    },
+    {
+      "name": "Information system (Corporate IT) / 情報システム（コーポレート IT）",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/44014"
+    },
+    {
+      "name": "Security Administrator/セキュリティアドミニストレータ",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/44016"
+    },
+    {
+      "name": "Security Engineer/セキュリティエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/44017"
+    },
+    {
+      "name": "2026 New Graduates -MN-Core Software Engineer / MN-Coreソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/91118"
+    },
+    {
+      "name": "2026 New Graduates - Engineer・Researcher / 2026 新卒 エンジニア・リサーチャー",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/89638"
+    },
+    {
+      "name": "2027 New Graduates - Engineer・Researcher / 2027新卒 新卒エンジニア・リサーチャー",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/98075"
+    },
+    {
+      "name": "Education Project Engineer / 教育プロジェクト エンジニア",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/44019"
+    },
+    {
+      "name": "Open-Source Developer (CuPy)",
+      "link": "https://open.talentio.com/r/1/c/preferred/pages/44020"
+    }
+  ]
+}

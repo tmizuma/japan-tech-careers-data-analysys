@@ -1,0 +1,110 @@
+{
+  "company_name_ja": "KAKEHASHI",
+  "company_name_en": "KAKEHASHI",
+  "description": "「医療をつなぎ医療を照らす」をミッションに調剤薬局向けSaaS「Musubi」を提供。電子薬歴・在庫管理・患者支援を一元化する薬局体験アシスタントとして全国14000店舗超（日本の薬局の20%超）に導入。ウエルシア薬局・イオン薬局など大手チェーンも採用。2025年シリーズDで140億円を調達しゴールドマン・サックスがリード投資。生成AIによる薬歴作成支援やWeb問診機能を順次リリース。ドメイン駆動設計（DDD）を実践し複雑な医療ドメインをモデル化。",
+  "description_en": "Provides pharmacy SaaS \"Musubi\" for dispensing pharmacies with mission \"Connecting and illuminating healthcare.\" Deployed as pharmacy experience assistant unifying electronic medication records, inventory management, and patient support in over 14,000 stores nationwide (over 20% of Japanese pharmacies). Adopted by major chains including Welcia and AEON Pharmacy. Raised 14 billion yen in Series D 2025 with Goldman Sachs as lead investor. Sequentially releasing generative AI medication record support and web interview features. Practices Domain-Driven Design (DDD) to model complex healthcare domains.",
+  "hiring_url": "https://hrmos.co/pages/kakehashi/jobs",
+  "num_of_employees": "300+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/kakehashi.png",
+  "company_url": "https://kakehashi.life/",
+  "positions": [
+    {
+      "name": "【Musubi】バックエンドエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1830241021403398144"
+    },
+    {
+      "name": "【Musubi AI在庫管理】シニアバックエンドエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1830241039136915456"
+    },
+    {
+      "name": "【Musubi】フロントエンドエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523692"
+    },
+    {
+      "name": "【新規事業】機械学習エンジニアリングマネージャー",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523697"
+    },
+    {
+      "name": "【Pocket Musubi】バックエンドエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523715"
+    },
+    {
+      "name": "【生成AI】機械学習エンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523727"
+    },
+    {
+      "name": "【新規事業】Patient Engagement事業_プロダクトエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523729"
+    },
+    {
+      "name": "【新規事業】アナリティクスエンジニア (マネージャー候補)",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523749"
+    },
+    {
+      "name": "【プロダクト共通】事業成長を牽引するエンジニアリングマネージャー",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523751"
+    },
+    {
+      "name": "【プラットフォームドメイン】エンジニアリングマネージャー",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523752"
+    },
+    {
+      "name": "【SRE】エンジニアリングマネージャー",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523753"
+    },
+    {
+      "name": "【プラットフォームドメイン】Head of Engineering 候補",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523755"
+    },
+    {
+      "name": "【Engagementドメイン】Head of Engineering 候補",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523756"
+    },
+    {
+      "name": "【情報システム部門】コーポレートエンジニア（セキュリティ・コーポレートガバナンス担当）",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523759"
+    },
+    {
+      "name": "社内システムエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523761"
+    },
+    {
+      "name": "【データ基盤チーム】データプラットフォームエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523762"
+    },
+    {
+      "name": "フロントエンドエンジニア｜全社共通",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523764"
+    },
+    {
+      "name": "バックエンドエンジニア｜全社共通",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523765"
+    },
+    {
+      "name": "フルスタックエンジニア｜全社共通",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523766"
+    },
+    {
+      "name": "Embedded SRE｜全社共通",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523767"
+    },
+    {
+      "name": "【PEHub】患者向けコンテンツ配信基盤エンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523784"
+    },
+    {
+      "name": "【生成AI研究開発】シニアフロントエンドエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523788"
+    },
+    {
+      "name": "【情報システム部門】コーポレートITアーキテクト／コーポレートエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523800"
+    },
+    {
+      "name": "【Musubi Insight】データエンジニア",
+      "link": "https://hrmos.co/pages/kakehashi/jobs/1911355054714523801"
+    }
+  ]
+}

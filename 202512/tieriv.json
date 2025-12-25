@@ -1,0 +1,138 @@
+{
+  "company_name_ja": "ティアフォー",
+  "company_name_en": "Tier IV",
+  "description": "オープンソース自動運転OS「Autoware」を開発するディープテックスタートアップ。自動運転の民主化を掲げ、レベル4自動運転の社会実装を推進。2024年に名古屋大学発ベンチャーとして過去最大規模の資金調達を実施。",
+  "description_en": "Deep tech startup developing open source autonomous driving OS 'Autoware.' Promotes democratization of autonomous driving and implementation of Level 4 autonomous driving in society. Achieved largest-ever fundraising round in 2024 as a Nagoya University spin-off.",
+  "hiring_url": "https://herp.careers/v1/tier4",
+  "num_of_employees": "500+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/tieriv.png",
+  "company_url": "https://tier4.jp/",
+  "positions": [
+    {
+      "name": "2027卒新卒 エンジニア職 / Class of 2027 New graduate Engineer",
+      "link": "https://herp.careers/v1/tier4/I0A1j0bbif7x"
+    },
+    {
+      "name": "Software Engineer (Open Position)",
+      "link": "https://herp.careers/v1/tier4/RqZCzHcwzk1g"
+    },
+    {
+      "name": "Sensing Engineer (Autonomous Driving)",
+      "link": "https://herp.careers/v1/tier4/A5SBmIAMBGyo"
+    },
+    {
+      "name": "Perception Engineer (Autonomous Driving)",
+      "link": "https://herp.careers/v1/tier4/czP-r7Y5GaJV"
+    },
+    {
+      "name": "Planning and Control Engineer (Autonomous Driving)",
+      "link": "https://herp.careers/v1/tier4/-rS-RUS6ieW8"
+    },
+    {
+      "name": "Localization Engineer (Autonomous Driving)",
+      "link": "https://herp.careers/v1/tier4/X0F3k4H6zEym"
+    },
+    {
+      "name": "Autonomous Driving - Software Engineer (Software Performance)",
+      "link": "https://herp.careers/v1/tier4/uIPlL3o4CiTt"
+    },
+    {
+      "name": "HD Mapping Engineer (Autonomous Driving)",
+      "link": "https://herp.careers/v1/tier4/MPTC9qMfrrGD"
+    },
+    {
+      "name": "Autonomous Driving Sensing Team Manager",
+      "link": "https://herp.careers/v1/tier4/gRae0PDXyvd5"
+    },
+    {
+      "name": "Perception Team Manager",
+      "link": "https://herp.careers/v1/tier4/QH7aqzXg4Dmr"
+    },
+    {
+      "name": "Machine Learning Senior Engineer (自動運転End to Endモデル)",
+      "link": "https://herp.careers/v1/tier4/sEcpAbZicCO_"
+    },
+    {
+      "name": "Software Release Engineer (Autonomous Driving)",
+      "link": "https://herp.careers/v1/tier4/fbgXmzSj0QQO"
+    },
+    {
+      "name": "Data Scientist (Autonomous Driving)",
+      "link": "https://herp.careers/v1/tier4/03wr0AQnLIFr"
+    },
+    {
+      "name": "Autonomous Driving - Software Engineer (Quality Improvement)",
+      "link": "https://herp.careers/v1/tier4/f0LwgIwWJ4m8"
+    },
+    {
+      "name": "Backend Engineer (Open Position)",
+      "link": "https://herp.careers/v1/tier4/mObldy-ij9zm"
+    },
+    {
+      "name": "Frontend Engineer (Open Position)",
+      "link": "https://herp.careers/v1/tier4/FXY34iSz2WBp"
+    },
+    {
+      "name": "SRE",
+      "link": "https://herp.careers/v1/tier4/fH-6iH5v0Lnn"
+    },
+    {
+      "name": "ソフトウェアエンジニア(QA)",
+      "link": "https://herp.careers/v1/tier4/ynVo-2nCOd-b"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "link": "https://herp.careers/v1/tier4/7uXBaPrG5EqN"
+    },
+    {
+      "name": "MLOps Engineer",
+      "link": "https://herp.careers/v1/tier4/N3d3X9UzlU5s"
+    },
+    {
+      "name": "Backend Engineer (ストリーミングプラットフォーム)",
+      "link": "https://herp.careers/v1/tier4/uedR_gEaYMeR"
+    },
+    {
+      "name": "Backend Engineer (遠隔監視・操縦)",
+      "link": "https://herp.careers/v1/tier4/4bCDhHH4oBzB"
+    },
+    {
+      "name": "Backend Engineer (運行管理/Fleet Management System)",
+      "link": "https://herp.careers/v1/tier4/OWq8fDPF4xaB"
+    },
+    {
+      "name": "Backend Engineer (シミュレーター)",
+      "link": "https://herp.careers/v1/tier4/cJk2i5Tkg1VX"
+    },
+    {
+      "name": "Backend Engineer (データ基盤)",
+      "link": "https://herp.careers/v1/tier4/Lqvgqp8mKvNz"
+    },
+    {
+      "name": "自動運転ソフトウェア統合エンジニア",
+      "link": "https://herp.careers/v1/tier4/1jHo2cuxblmE"
+    },
+    {
+      "name": "System Engineer (Design & Test)",
+      "link": "https://herp.careers/v1/tier4/Yvp-X28ddxxL"
+    },
+    {
+      "name": "Safety Systems Engineer",
+      "link": "https://herp.careers/v1/tier4/UCSThXgDRmeJ"
+    },
+    {
+      "name": "メカトロニクスエンジニア",
+      "link": "https://herp.careers/v1/tier4/b7ZZZKnivfhW"
+    },
+    {
+      "name": "Field Integration - Team Leader Candidate for Validation Team",
+      "link": "https://herp.careers/v1/tier4/KUx1A_61gq4P"
+    },
+    {
+      "name": "Field Application Engineer (自動運転開発キット領域)",
+      "link": "https://herp.careers/v1/tier4/4Jnyii6oG_a6"
+    }
+  ]
+}

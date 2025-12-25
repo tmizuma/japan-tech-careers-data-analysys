@@ -1,0 +1,78 @@
+{
+  "company_name_ja": "freee",
+  "company_name_en": "freee",
+  "description": "「スモールビジネスを世界の主役に。」をミッションに掲げ会計・人事労務・販売・申告など統合型経営プラットフォームを提供。ヒト・モノ・カネを網羅しあらゆる業務とデータを繋げて自動化と可視化を実現。2024年にはメニューバーデザイン共通化や事業計画機能を追加。アクセシビリティへのこだわりとUX/UIデザインに定評があり従業員1700名超の組織に成長。",
+  "description_en": "Mission: \"Empower small businesses to become the heroes of the world.\" Provides integrated business management platform covering accounting, HR, sales, and tax filing. Connects all operations and data across people, goods, and money to enable automation and visualization. Added unified menu bar design and business planning features in 2024. Renowned for commitment to accessibility and UX/UI design, grown to over 1,700 employees.",
+  "hiring_url": "https://hire.wantedly.com/careers/freee/career_page_all_jobs?includeCasualVisits=false&jobFunctionId=116/",
+  "num_of_employees": "1200+",
+  "sales": 20000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/freee.png",
+  "company_url": "https://corp.freee.co.jp/",
+  "positions": [
+    {
+      "name": "freee 会計 開発エンジニア(経費精算)",
+      "link": "https://www.wantedly.com/projects/1905448"
+    },
+    {
+      "name": "自社サービス開発シニアテックリード（freeeカードUnlimited）",
+      "link": "https://www.wantedly.com/projects/1911333"
+    },
+    {
+      "name": "Webアプリケーションエンジニア",
+      "link": "https://www.wantedly.com/projects/1723484"
+    },
+    {
+      "name": "テックリード（freee申告）",
+      "link": "https://www.wantedly.com/projects/1919439"
+    },
+    {
+      "name": "シニア アナリティクスエンジニア",
+      "link": "https://www.wantedly.com/projects/1953185"
+    },
+    {
+      "name": "プロダクト横断基盤開発ソフトウェアエンジニア",
+      "link": "https://www.wantedly.com/projects/1905986"
+    },
+    {
+      "name": "自社プロダクト開発プロジェクトリーダー(freee業務委託管理)",
+      "link": "https://www.wantedly.com/projects/2012694"
+    },
+    {
+      "name": "freee人事労務 統合基盤 開発エンジニア",
+      "link": "https://www.wantedly.com/projects/2008164"
+    },
+    {
+      "name": "BPaaSサービス開発エンジニア",
+      "link": "https://www.wantedly.com/projects/2106257"
+    },
+    {
+      "name": "Androidリードエンジニア",
+      "link": "https://www.wantedly.com/projects/1249934"
+    },
+    {
+      "name": "アソシエイトアナリティクスエンジニア",
+      "link": "https://www.wantedly.com/projects/1953047"
+    },
+    {
+      "name": "課金基盤開発エンジニアリングマネージャー",
+      "link": "https://www.wantedly.com/projects/480204"
+    },
+    {
+      "name": "freee会計エンジニア（債権請求書開発）",
+      "link": "https://www.wantedly.com/projects/1945820"
+    },
+    {
+      "name": "freee販売 開発エンジニア（関西拠点）",
+      "link": "https://www.wantedly.com/projects/602096"
+    },
+    {
+      "name": "freee販売 開発エンジニア（沖縄拠点）",
+      "link": "https://www.wantedly.com/projects/2007552"
+    },
+    {
+      "name": "freee販売 開発エンジニア(札幌拠点)",
+      "link": "https://www.wantedly.com/projects/2007537"
+    }
+  ]
+}

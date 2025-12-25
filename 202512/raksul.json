@@ -1,0 +1,66 @@
+{
+  "company_name_ja": "ラクスル",
+  "company_name_en": "Raksul",
+  "description": "「仕組みを変えれば世界はもっと良くなる」をビジョンに印刷・物流・広告のシェアリングプラットフォームを展開。印刷機や運送会社の遊休資産を活用し低価格を実現。印刷・集客支援「ラクスル」・マーケティング「ノバセル」・物流「ハコベル」の3事業を運営。2024年売上高511億円で法人向け「ラクスル エンタープライズ」導入3000社超。「ダンボールワン」は7年連続国内シェアNo.1。",
+  "description_en": "Operates sharing platforms for printing, logistics, and advertising with vision \"Changing systems makes the world better.\" Achieves low prices by utilizing idle assets of printing presses and logistics companies. Runs three businesses: printing/customer acquisition \"Raksul,\" marketing \"Novasell,\" and logistics \"Hacobell.\" FY2024 revenue of 51.1 billion yen with \"Raksul Enterprise\" adopted by over 3,000 companies. \"Danball One\" holds #1 domestic share for 7 consecutive years.",
+  "hiring_url": "https://recruit.raksul.com/",
+  "num_of_employees": "500+",
+  "sales": 40000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/raksul.png",
+  "company_url": "https://corp.raksul.com/",
+  "positions": [
+    {
+      "name": "【コーポレート】コーポレートエンジニア",
+      "link": "https://hrmos.co/pages/raksul/jobs/26-CTC-016"
+    },
+    {
+      "name": "【コーポレート】ITヘルプデスク マネージャー候補",
+      "link": "https://hrmos.co/pages/raksul/jobs/26-CTC-017"
+    },
+    {
+      "name": "【ラクスルバンク】フロントエンドエンジニア",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1043q"
+    },
+    {
+      "name": "【ラクスルバンク】サーバーサイドエンジニア",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1044q"
+    },
+    {
+      "name": "【ラクスル事業】エンジニアリングマネージャー（ダンボールワン）",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1054q"
+    },
+    {
+      "name": "【ラクスルバンク】フルスタックエンジニア",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1128q-1"
+    },
+    {
+      "name": "【ノバセル事業】テックリード",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1154q"
+    },
+    {
+      "name": "【ラクスル事業 / プラットフォーム】QAエンジニア",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1162q"
+    },
+    {
+      "name": "【コーポレート】インフラエンジニア（Global Lead）",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1233q"
+    },
+    {
+      "name": "【ラクスル事業】シニアエンジニア(CTO室)",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1273q"
+    },
+    {
+      "name": "【新規事業準備室】エンジニアリングマネージャー",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1275q"
+    },
+    {
+      "name": "【プラットフォーム】フロントエンドエンジニア",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1291q-1"
+    },
+    {
+      "name": "【プラットフォーム】サーバーサイドエンジニア（決済基盤）",
+      "link": "https://hrmos.co/pages/raksul/jobs/rksl1292q"
+    }
+  ]
+}

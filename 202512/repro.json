@@ -1,0 +1,26 @@
+{
+  "company_name_ja": "Repro",
+  "company_name_en": "Repro",
+  "description": "「世界で最も価値のあるマーケティングソリューションを実現する」をビジョンにWeb/アプリ向けカスタマーエンゲージメントプラットフォームを展開。世界66カ国7300サービス以上に導入。Repro Web（デジタル接客）・Repro App（プッシュ通知・アプリ内メッセージ）・Repro Booster（サイト表示速度改善）等を提供。SDKの実装のみで高度なセグメンテーション配信が可能。",
+  "description_en": "Offers customer engagement platform for web/apps with vision \"Delivering the world's most valuable marketing solution.\" Deployed in over 7,300 services across 66 countries. Provides Repro Web (digital customer service), Repro App (push notifications and in-app messaging), Repro Booster (site speed improvement), and more. Enables advanced segmented delivery with SDK implementation alone.",
+  "hiring_url": "https://company.repro.io/recruit/",
+  "num_of_employees": "200+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/repro.png",
+  "company_url": "https://repro.io/",
+  "positions": [
+    {
+      "name": "Application Engineer",
+      "link": "https://herp.careers/v1/repro/to7NkGn1SE1L"
+    },
+    {
+      "name": "Site Reliability Engineer",
+      "link": "https://herp.careers/v1/repro/BZBdLPURM6Wz"
+    },
+    {
+      "name": "Customer Success Engineer, CS",
+      "link": "https://herp.careers/v1/repro/-35CYjzeng_t"
+    }
+  ]
+}

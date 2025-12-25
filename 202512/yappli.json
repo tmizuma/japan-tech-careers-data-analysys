@@ -1,0 +1,58 @@
+{
+  "company_name_ja": "Yappli",
+  "company_name_en": "Yappli",
+  "description": "「デジタルを簡単に社会を便利に」をミッションにノーコードでアプリ開発・運用・分析を提供するプラットフォーム。850超のアプリ開発実績と累計2億ダウンロードを突破。導入企業700社超でアパレル・飲食・美術館・学校・自治体など幅広い業界で活用。完全ノーコード型で国内シェア37.1%と3年連続No.1。2024年度に営業黒字化を達成しCRM機能も拡充中。",
+  "description_en": "Platform providing no-code app development, operation, and analytics with mission \"Making digital easy, making society convenient.\" Over 850 app development projects with cumulative 200 million downloads. Used by over 700 companies across diverse industries including apparel, food service, museums, schools, and municipalities. Fully no-code with 37.1% domestic market share, #1 for 3 consecutive years. Achieved operating profitability in FY2024 while expanding CRM features.",
+  "hiring_url": "https://yappli.co.jp/recruit/",
+  "num_of_employees": "200+",
+  "sales": 5000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/yappli.png",
+  "company_url": "https://yappli.co.jp/",
+  "positions": [
+    {
+      "name": "Androidエンジニア",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/48784"
+    },
+    {
+      "name": "iOSエンジニア",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/48785"
+    },
+    {
+      "name": "サーバーサイドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/48787"
+    },
+    {
+      "name": "サーバーサイドエンジニア（リードエンジニア）",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/96595"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/48788"
+    },
+    {
+      "name": "フロントエンドエンジニア（リードエンジニア）",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/105157"
+    },
+    {
+      "name": "SRE",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/48786"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/48798"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/48793"
+    },
+    {
+      "name": "データサイエンティスト",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/48791"
+    },
+    {
+      "name": "【新規事業】エンジニア",
+      "link": "https://open.talentio.com/r/1/c/yappli/pages/112579"
+    }
+  ]
+}

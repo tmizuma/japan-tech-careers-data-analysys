@@ -1,0 +1,42 @@
+{
+  "company_name_ja": "10X",
+  "company_name_en": "10X",
+  "description": "小売チェーン向けネットスーパープラットフォーム「Stailer」を運営。2025年に「小売DXプラットフォーム」へとブランドリニューアルし事業領域を拡大。イトーヨーカドーなど全国13社に導入され数百億円規模の流通総額に成長。GMV成長率56.7%と市場平均の約10%を大幅に上回る。AIによる商品検索タグ自動生成や発注・プライシング最適化機能を提供。モバイルアプリからサーバーサイドまでDart/Flutterのフルスタック開発体制を採用。2025年にシリーズBで21億円を調達。",
+  "description_en": "Operates online grocery platform \"Stailer\" for retail chains. Rebranded to \"Retail DX Platform\" in 2025 to expand business scope. Deployed by 13 companies nationwide including Ito-Yokado, growing to hundreds of billions of yen in GMV. GMV growth rate of 56.7% significantly exceeds market average of approximately 10%. Provides AI-powered product search tag auto-generation and order/pricing optimization features. Adopts Dart/Flutter full-stack development from mobile apps to server-side. Raised 2.1 billion yen in Series B in 2025.",
+  "hiring_url": "https://10x.co.jp/recruit/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/10x.png",
+  "company_url": "https://10x.co.jp/",
+  "positions": [
+    {
+      "name": "バックエンドエンジニア（ネットスーパー事業）",
+      "link": "https://open.talentio.com/r/1/c/10x/pages/97170"
+    },
+    {
+      "name": "ソフトウェアエンジニア（新規事業）",
+      "link": "https://open.talentio.com/r/1/c/10x/homes/3786?group_ids=7842"
+    },
+    {
+      "name": "バックエンドエンジニア（検索、推薦）",
+      "link": "https://open.talentio.com/r/1/c/10x/homes/3786?group_ids=7842"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/10x/homes/3786?group_ids=7842"
+    },
+    {
+      "name": "SRE",
+      "link": "https://open.talentio.com/r/1/c/10x/homes/3786?group_ids=7842"
+    },
+    {
+      "name": "プロダクトマネージャー",
+      "link": "https://open.talentio.com/r/1/c/10x/homes/3786?group_ids=7842"
+    },
+    {
+      "name": "プロダクトマネージャー（アソシエイト）",
+      "link": "https://open.talentio.com/r/1/c/10x/homes/3786?group_ids=7842"
+    }
+  ]
+}

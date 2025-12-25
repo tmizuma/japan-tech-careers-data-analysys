@@ -1,0 +1,54 @@
+{
+  "company_name_ja": "Photoruction",
+  "company_name_en": "Photoruction",
+  "description": "「建設の世界を限りなくスマートにする」をミッションに建設業向け生産支援クラウドを提供。写真管理・図面管理・工程管理など施工管理の業務プロセスを効率化し10倍超の生産性向上を実現。大手ゼネコンをはじめ30万超の建設プロジェクトで導入される国内最大規模のサービス。2024年9月に国交省NETISで「令和6年度活用促進技術」に選定。リソース管理クラウド「Photoruction Site」も展開。",
+  "description_en": "Provides construction productivity support cloud with mission \"Making the construction world infinitely smart.\" Streamlines construction management processes including photo, drawing, and schedule management, achieving over 10x productivity improvement. Japan's largest service deployed in over 300,000 construction projects including major general contractors. Selected as \"FY2024 Promoted Utilization Technology\" by MLIT NETIS in September 2024. Also offers resource management cloud \"Photoruction Site.\"",
+  "hiring_url": "https://corporate.photoruction.com/careers/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/photoruction.png",
+  "company_url": "https://photoruction.com/",
+  "positions": [
+    {
+      "name": "シニアPdM",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-01"
+    },
+    {
+      "name": "PdM（未経験歓迎）",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-01-02"
+    },
+    {
+      "name": "iOSエンジニア",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-03"
+    },
+    {
+      "name": "iOSエンジニア（プレイングマネージャー）",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-03-1"
+    },
+    {
+      "name": "UI/UXデザイナー",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-06-01"
+    },
+    {
+      "name": "SRE（未経験者可）",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-08-01"
+    },
+    {
+      "name": "SRE",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-08-02"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-10"
+    },
+    {
+      "name": "WEBアプリケーションエンジニア",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-10-01"
+    },
+    {
+      "name": "QAエンジニア（沖縄オフィス）",
+      "link": "https://hrmos.co/pages/photoruction/jobs/1-02-11-02"
+    }
+  ]
+}

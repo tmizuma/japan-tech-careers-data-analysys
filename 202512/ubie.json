@@ -1,0 +1,74 @@
+{
+  "company_name_ja": "Ubie",
+  "company_name_en": "Ubie",
+  "description": "AI問診「ユビーAI問診」と生活者向け症状検索エンジン「ユビー」を展開する医療DXスタートアップ。AI問診は全国47都道府県1700以上の医療機関に導入され第三回日本サービス大賞で厚生労働大臣賞を受賞。症状検索エンジンは月間1200万人が利用し世界で1300万人超のユーザーを持つ。2024年にGoogleから出資を受け米国展開を加速。ニューヨーク拠点で400万人超のユーザーを獲得しMayo Clinicとの提携で医療機関向けソリューションも開発中。累計資金調達額は1億2500万ドル超。",
+  "description_en": "Healthcare DX startup offering AI-powered medical interview \"Ubie AI Monshin\" and consumer symptom search engine \"Ubie.\" AI interview deployed in over 1,700 medical institutions across all 47 prefectures, winning Minister of Health, Labour and Welfare Award at 3rd Japan Service Awards. Symptom search engine used by 12 million monthly users with over 13 million users worldwide. Received Google investment in 2024 to accelerate US expansion. Acquired over 4 million users from New York base, developing healthcare institution solutions in partnership with Mayo Clinic. Cumulative funding exceeds $125 million.",
+  "hiring_url": "https://recruit.ubie.life/",
+  "num_of_employees": "200+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/ubie.png",
+  "company_url": "https://ubie.life/",
+  "positions": [
+    {
+      "name": "プロダクト基盤エンジニア（バックエンド）",
+      "link": "https://herp.careers/v1/ubiehr/M27_30Z-qLxQ"
+    },
+    {
+      "name": "プロダクト基盤エンジニア（Webフロントエンド）",
+      "link": "https://herp.careers/v1/ubiehr/xs2oPdoN7pXz"
+    },
+    {
+      "name": "プロダクト基盤エンジニア（認証認可基盤）",
+      "link": "https://herp.careers/v1/ubiehr/YCfO7_Vx1l58"
+    },
+    {
+      "name": "プロダクトエンジニア（フルスタック）",
+      "link": "https://herp.careers/v1/ubiehr/2PGTZ45P-x31"
+    },
+    {
+      "name": "プロダクトエンジニア（バックエンド）",
+      "link": "https://herp.careers/v1/ubiehr/Tirj5oCs5hdd"
+    },
+    {
+      "name": "コーポレートAIエンジニア",
+      "link": "https://herp.careers/v1/ubiehr/_oeH0lYReImI"
+    },
+    {
+      "name": "エンジニア向けオープンポジション",
+      "link": "https://herp.careers/v1/ubiehr/iUJoFcmv_7QC"
+    },
+    {
+      "name": "プロダクト基盤エンジニア（バックエンド）医療機関事業本部",
+      "link": "https://herp.careers/v1/ubiehr/xWEIf891FMbL"
+    },
+    {
+      "name": "Corporate Engineering Manager",
+      "link": "https://herp.careers/v1/ubiehr/i5yZXEKLgR7y"
+    },
+    {
+      "name": "エンジニアリングマネージャー（Medical Engineering）",
+      "link": "https://herp.careers/v1/ubiehr/B9TFMqgMgDUU"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://herp.careers/v1/ubiehr/bfPkWMEgZJ7X"
+    },
+    {
+      "name": "SRE（サイト・リライアビリティ・エンジニア）",
+      "link": "https://herp.careers/v1/ubiehr/_NEC__F2uvVP"
+    },
+    {
+      "name": "データアナリスト",
+      "link": "https://herp.careers/v1/ubiehr/jOXYtKIKkonz"
+    },
+    {
+      "name": "フルサイクルBIエンジニア",
+      "link": "https://herp.careers/v1/ubiehr/Bilnrfg8U7vj"
+    },
+    {
+      "name": "データエンジニア",
+      "link": "https://herp.careers/v1/ubiehr/MExdfj2UgARV"
+    }
+  ]
+}

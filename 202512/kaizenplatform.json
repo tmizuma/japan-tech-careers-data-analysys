@@ -1,0 +1,30 @@
+{
+  "company_name_ja": "Kaizen Platform",
+  "company_name_en": "Kaizen Platform",
+  "description": "800社以上の豊富なデータと知見に基づきDXプロジェクトの立ち上げから戦略立案までトータルサポート。UI/UX改善技術基盤「KAIZEN ENGINE」はタグ設置だけで高度な分析とパーソナライズを実現し次ページ遷移速度を約30%向上。2024年には生成AI活用の「KAIZEN AI-UX」をリリース。動画広告クリエイター育成講座「KAIZEN School」も運営。2020年に東証マザーズ上場。",
+  "description_en": "Provides total support from DX project launch to strategy planning based on extensive data and insights from over 800 companies. UI/UX improvement technology platform \"KAIZEN ENGINE\" enables advanced analytics and personalization with just tag installation, improving page transition speed by approximately 30%. Released generative AI-powered \"KAIZEN AI-UX\" in 2024. Also operates video ad creator training program \"KAIZEN School.\" Listed on TSE Mothers in 2020.",
+  "hiring_url": "https://recruit.kaizenplatform.co.jp/",
+  "num_of_employees": "100+",
+  "sales": 3000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/kaizen-platform.png",
+  "company_url": "https://kaizenplatform.com/",
+  "positions": [
+    {
+      "name": "エンジニアリングマネージャー",
+      "link": "https://hrmos.co/pages/kaizenplatform/jobs/2141363260662976522"
+    },
+    {
+      "name": "【AI活用EM】エンジニアリングマネージャー",
+      "link": "https://hrmos.co/pages/kaizenplatform/jobs/2141363260662976526"
+    },
+    {
+      "name": "プロジェクトマネージャー",
+      "link": "https://hrmos.co/pages/kaizenplatform/jobs/E0000042"
+    },
+    {
+      "name": "エンジニアインターン",
+      "link": "https://hrmos.co/pages/kaizenplatform/jobs/E0000044"
+    }
+  ]
+}

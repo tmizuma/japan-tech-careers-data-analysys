@@ -1,0 +1,26 @@
+{
+  "company_name_ja": "Feedforce",
+  "company_name_en": "Feedforce",
+  "description": "データフィード・構造化データ技術を駆使したマーケティング支援サービスを提供。「Shopify Partner of the Year 2024 Japan」でPlus App Developer of the Yearを受賞。データフィード管理「dfplus.io」・オムニチャネル顧客統合「Omni Hub」・受注出荷自動化「Shippinno」等のShopifyアプリを展開。デジタルマーケティングやCRM活用でEC事業成長を支援。",
+  "description_en": "Provides marketing support services leveraging data feed and structured data technology. Won Plus App Developer of the Year at \"Shopify Partner of the Year 2024 Japan.\" Offers Shopify apps including data feed management \"dfplus.io,\" omnichannel customer integration \"Omni Hub,\" and order/shipping automation \"Shippinno.\" Supports e-commerce business growth through digital marketing and CRM utilization.",
+  "hiring_url": "https://recruit.feedforce.jp/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/feedforce.png",
+  "company_url": "https://www.feedforce.jp/",
+  "positions": [
+    {
+      "name": "【Omni Hub】バックエンドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/feedforce/pages/79565"
+    },
+    {
+      "name": "【Omni Hub】フロントエンドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/feedforce/pages/79563"
+    },
+    {
+      "name": "【Omni Hub】インフラエンジニア",
+      "link": "https://open.talentio.com/r/1/c/feedforce/pages/79564"
+    }
+  ]
+}

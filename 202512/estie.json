@@ -1,0 +1,78 @@
+{
+  "company_name_ja": "Estie",
+  "company_name_en": "Estie",
+  "description": "商業用不動産テック企業。オフィス探しプラットフォーム「estie」やテナント・オーナー向けSaaS「estie マーケット調査」「estie 管理」など不動産業界のDXを推進。データとAIを活用し不動産情報の透明化を実現。2024年シリーズCで52億円調達。三井不動産・東急・野村不動産など大手デベロッパーが導入。",
+  "description_en": "Commercial real estate tech company. Promotes real estate industry DX through office search platform 'estie' and SaaS products 'estie Market Research' and 'estie Management' for tenants and owners. Achieves real estate information transparency using data and AI. Raised 5.2 billion yen in Series C in 2024. Adopted by major developers including Mitsui Fudosan, Tokyu, and Nomura Real Estate.",
+  "hiring_url": "https://www.estie.jp/careers/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/estie.png",
+  "company_url": "https://www.estie.jp/",
+  "positions": [
+    {
+      "name": "QAエンジニア・SDET",
+      "link": "https://hrmos.co/pages/estie/jobs/1758030583599882240"
+    },
+    {
+      "name": "データ基盤エンジニア",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165213"
+    },
+    {
+      "name": "フロントエンドエンジニア (React/TypeScript)",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165201"
+    },
+    {
+      "name": "Customer Reliability Engineer (CRE)",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165203"
+    },
+    {
+      "name": "アナリティクスエンジニア",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165214"
+    },
+    {
+      "name": "アルゴリズムエンジニア (不動産AI Lab)",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165206"
+    },
+    {
+      "name": "ソフトウェアエンジニア (不動産AI Lab)",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165207"
+    },
+    {
+      "name": "Webアプリケーションエンジニア",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165188"
+    },
+    {
+      "name": "シニアWebアプリケーションエンジニア",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165189"
+    },
+    {
+      "name": "シニアソフトウェアエンジニア",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165190"
+    },
+    {
+      "name": "エンジニアリングマネージャー (EM)",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165191"
+    },
+    {
+      "name": "事業部CTO候補",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165192"
+    },
+    {
+      "name": "SRE",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165195"
+    },
+    {
+      "name": "バックエンドエンジニア (データ)",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165196"
+    },
+    {
+      "name": "DXプロジェクトマネージャー",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165205"
+    },
+    {
+      "name": "テクニカルリードアーキテクト",
+      "link": "https://hrmos.co/pages/estie/jobs/1756293647827165212"
+    }
+  ]
+}

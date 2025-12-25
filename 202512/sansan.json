@@ -1,0 +1,226 @@
+{
+  "company_name_ja": "Sansan",
+  "company_name_en": "Sansan",
+  "description": "名刺管理サービス11年連続シェアNo.1の営業DXサービスと請求書受領・発行・経費精算を一元化するインボイス管理サービス「Bill One」を展開。契約件数9000社超でARR200億円を突破。2024年にはタイ法人化など東南アジア展開を加速し63カ国でサービスを提供。名刺アプリ「Eight」や契約データベース「Contract One」も国内外で展開しアナログ情報をデータ化し企業のDXを推進。",
+  "description_en": "Offers sales DX service with #1 business card management market share for 11 consecutive years, and invoice management service \"Bill One\" unifying invoice receipt, issuance, and expense settlement. Over 9,000 contracted companies with ARR exceeding 20 billion yen. Accelerated Southeast Asian expansion including Thailand incorporation in 2024, providing services in 63 countries. Also deploys business card app \"Eight\" and contract database \"Contract One\" domestically and internationally, digitizing analog information to drive corporate DX.",
+  "hiring_url": "https://jp.corp-sansan.com/recruit/",
+  "num_of_employees": "1400+",
+  "sales": 30000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/sansan.png",
+  "company_url": "https://jp.corp-sansan.com/",
+  "positions": [
+    {
+      "name": "AI・検索エンジニア［Contract One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/112831"
+    },
+    {
+      "name": "Androidエンジニア",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76400"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/97211"
+    },
+    {
+      "name": "SRE・プラットフォームエンジニア",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/77237"
+    },
+    {
+      "name": "SRE［Bill One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76443"
+    },
+    {
+      "name": "SRE［Eight］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76594"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［Bill One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76481"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［Contract One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76540"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［Eight］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/84005"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［Sansan Data Hub/Salesforce・AppExchange］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/77288"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［Sansan］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76408"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［データ化］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/74958"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［データ戦略 Sansan］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76521"
+    },
+    {
+      "name": "Webアプリ開発エンジニア［名刺メーカー］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/87455"
+    },
+    {
+      "name": "iOSエンジニア",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76610"
+    },
+    {
+      "name": "インフラエンジニア［Sansan］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/78400"
+    },
+    {
+      "name": "インフラエンジニア［データ化システム］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76592"
+    },
+    {
+      "name": "エンジニアリングマネジャー［Bill One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76495"
+    },
+    {
+      "name": "エンジニアリングマネジャー［Contract One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/112841"
+    },
+    {
+      "name": "コーポレートエンジニア［DevOps］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76556"
+    },
+    {
+      "name": "コーポレートエンジニア［インフラ担当］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/80070"
+    },
+    {
+      "name": "コーポレートエンジニア［オフィスネットワーク］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76558"
+    },
+    {
+      "name": "コーポレートエンジニア［ソフトウェア］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/71159"
+    },
+    {
+      "name": "シニアQAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/97412"
+    },
+    {
+      "name": "シニアプロダクトマネジャー・マネジャー候補 ［Eight］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/98926"
+    },
+    {
+      "name": "シニアプロダクトマネジャー［Bill One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/91559"
+    },
+    {
+      "name": "シニアプロダクトマネジャー［Sansan/Contract One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76433"
+    },
+    {
+      "name": "セキュリティエンジニア（情報セキュリティマネジメント領域）",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76588"
+    },
+    {
+      "name": "セキュリティエンジニア（情報セキュリティマネジメント領域）リーダー・マネジャー候補",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/85042"
+    },
+    {
+      "name": "セキュリティエンジニア［SOC］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76586"
+    },
+    {
+      "name": "テクニカルリード アーキテクト［Bill One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76425"
+    },
+    {
+      "name": "テクニカルリード アーキテクト［Contract One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/77204"
+    },
+    {
+      "name": "テクニカルリード アーキテクト［Eight］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76596"
+    },
+    {
+      "name": "テクニカルリード アーキテクト［Sansan Data Hub］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/90188"
+    },
+    {
+      "name": "テクニカルリード アーキテクト［Sansan］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76544"
+    },
+    {
+      "name": "テクニカルリード アーキテクト［データ化］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76501"
+    },
+    {
+      "name": "テクニカルリード インフラエンジニア［Sansan］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76602"
+    },
+    {
+      "name": "テクニカルリード［Android］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76632"
+    },
+    {
+      "name": "テクニカルリード［iOS］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76640"
+    },
+    {
+      "name": "データエンジニア［データ戦略］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/98203"
+    },
+    {
+      "name": "データエンジニア［全社横断データ基盤］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76397"
+    },
+    {
+      "name": "データサイエンティスト［データ戦略］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/98211"
+    },
+    {
+      "name": "データ戦略部門 CRE［Sansan］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/105283"
+    },
+    {
+      "name": "ハイクラスエンジニア職［オープンポジション］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/111290"
+    },
+    {
+      "name": "フロントエンドエンジニア［ブランディング部門］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76944"
+    },
+    {
+      "name": "フロントエンドスペシャリスト［Bill One］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/107310"
+    },
+    {
+      "name": "プロダクトマネジャー［AI機能 Sansan］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/116559"
+    },
+    {
+      "name": "共通認証基盤エンジニア",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/80298"
+    },
+    {
+      "name": "品質PMO",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/115777"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76600"
+    },
+    {
+      "name": "研究開発部 Sansan Labs アーキテクト",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/106890"
+    },
+    {
+      "name": "研究開発部門 MLOps・Platformエンジニア",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/89966"
+    },
+    {
+      "name": "研究開発部門 アナリティクスエンジニア［全社横断データ分析基盤］",
+      "link": "https://open.talentio.com/r/1/c/sansan/pages/76398"
+    }
+  ]
+}
