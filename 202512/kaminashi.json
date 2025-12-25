@@ -1,0 +1,46 @@
+{
+  "company_name_ja": "Kaminashi",
+  "company_name_en": "Kaminashi",
+  "description": "「ノンデスクワーカーの才能を解き放つ」をミッションに現場DXプラットフォーム「カミナシ」を提供。工場・店舗など約3900万人のノンデスクワーカーの業務をノーコードでアプリ化しペーパーレス化・業務効率化を実現。導入現場7000拠点超で月間100万枚以上の紙帳票をデジタル化。2024年度には14言語対応の「カミナシ従業員」をリリースし外国人労働者とのコミュニケーション課題を解決。シリーズBで累計44億円を資金調達。製造・食品・ホテル・飲食・交通など30以上の業種で導入。",
+  "description_en": "Provides frontline DX platform \"Kaminashi\" with mission \"Unleashing the talent of non-desk workers.\" Converts operations for approximately 39 million non-desk workers in factories and stores into no-code apps, achieving paperless operations and efficiency. Digitizes over 1 million paper forms monthly across 7,000+ deployed locations. Released 14-language \"Kaminashi Employee\" in FY2024 to solve communication challenges with foreign workers. Raised cumulative 4.4 billion yen in Series B. Deployed across 30+ industries including manufacturing, food, hotels, restaurants, and transportation.",
+  "hiring_url": "https://careers.kaminashi.jp/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/kaminashi.png",
+  "company_url": "https://kaminashi.jp/",
+  "positions": [
+    {
+      "name": "ENG-1025. シニアソフトウェアエンジニア (現場帳票システム「カミナシ レポート」)",
+      "link": "https://herp.careers/v1/kaminashi/79g62GYmdO4G"
+    },
+    {
+      "name": "ENG-1102.シニアソフトウェアエンジニア (設備保全システム「カミナシ 設備保全」 - フロントエンド)",
+      "link": "https://herp.careers/v1/kaminashi/OAt5kRvGAi2J"
+    },
+    {
+      "name": "ENG-1901. エンジニアリングマネージャー",
+      "link": "https://herp.careers/v1/kaminashi/ec4XkpoPMmf-"
+    },
+    {
+      "name": "ENG-4003. シニアソフトウェアエンジニア (Product Development - Identity and Access Management)",
+      "link": "https://herp.careers/v1/kaminashi/OO-qhaSiCZrA"
+    },
+    {
+      "name": "ENG-4005. シニアソフトウェアエンジニア (「カミナシ ID管理」 - フロントエンド)",
+      "link": "https://herp.careers/v1/kaminashi/_rg-Lg5Qk1_6"
+    },
+    {
+      "name": "ENG-5102. シニアソフトウェアエンジニア (「カミナシ 教育」- バックエンド)",
+      "link": "https://herp.careers/v1/kaminashi/uRECad6yC7Sg"
+    },
+    {
+      "name": "ENG-5103. シニアソフトウェアエンジニア (「カミナシ 教育」 - フロントエンド)",
+      "link": "https://herp.careers/v1/kaminashi/B4zSHYUA9YNY"
+    },
+    {
+      "name": "ENG-9003. シニアデータエンジニア",
+      "link": "https://herp.careers/v1/kaminashi/CGQRqkp6WkW1"
+    }
+  ]
+}

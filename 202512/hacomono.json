@@ -1,0 +1,102 @@
+{
+  "company_name_ja": "hacomono",
+  "company_name_en": "hacomono",
+  "description": "「ウェルネス産業を新次元へ。」をミッションに会員管理・予約・決済・POSシステムをオールインワンで提供するウェルネス特化型基幹業務統合プラットフォーム。フィットネスクラブ・公共運動施設・運動スクールなど8000店舗超・累計920万ユーザーが導入し業界最大規模。2024年にリリースした「hacomono決済」はGMV160億円に到達しNRR136%を記録。シリーズDで46億円を調達し累計資金調達額120億円。ARRはT2D3超の成長を継続しチャーンレート0.4%未満の低水準を維持。",
+  "description_en": "Wellness-specialized integrated business platform providing all-in-one member management, reservations, payments, and POS systems with mission \"Taking the wellness industry to new dimensions.\" Industry's largest scale with over 8,000 stores and cumulative 9.2 million users including fitness clubs, public sports facilities, and sports schools. \"hacomono Payment\" released in 2024 reached 16 billion yen GMV with 136% NRR. Raised 4.6 billion yen in Series D with cumulative funding of 12 billion yen. Maintains beyond T2D3 ARR growth with churn rate under 0.4%.",
+  "hiring_url": "https://www.hacomono.co.jp/recruit/",
+  "num_of_employees": "200+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/hacomono.png",
+  "company_url": "https://www.hacomono.jp/",
+  "positions": [
+    {
+      "name": "プロダクトエンジニア",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/89130"
+    },
+    {
+      "name": "プロダクトリードエンジニア（スペシャリスト）",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/111668"
+    },
+    {
+      "name": "プロダクトエンジニア(モバイルアプリ / テックリード)",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/112884"
+    },
+    {
+      "name": "FitFits開発部_ソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/97028"
+    },
+    {
+      "name": "FitFits開発部_Flutterエンジニア",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/111854"
+    },
+    {
+      "name": "AIソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/103609"
+    },
+    {
+      "name": "VP of Engineering",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/77948"
+    },
+    {
+      "name": "プラットフォーム アーキテクト",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/104999"
+    },
+    {
+      "name": "サービス基盤エンジニア",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/113518"
+    },
+    {
+      "name": "プラットフォームエンジニア_スクラムマスター / EM",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/111852"
+    },
+    {
+      "name": "フロントエンド基盤エンジニア(スペシャリスト)",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/100161"
+    },
+    {
+      "name": "データ基盤エンジニア(テックリード)",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/87094"
+    },
+    {
+      "name": "セキュリティマネージャー",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/97222"
+    },
+    {
+      "name": "コーポレートIT",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/109035"
+    },
+    {
+      "name": "QAマネージャー(候補)",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/104533"
+    },
+    {
+      "name": "QAスペシャリスト",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/90113"
+    },
+    {
+      "name": "QA エンジニア",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/104529"
+    },
+    {
+      "name": "エンタープライズCREマネージャー",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/103833"
+    },
+    {
+      "name": "組込みエンジニア(IoTプロダクト)",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/112836"
+    },
+    {
+      "name": "運用保守エンジニア(リーダー候補)",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/112837"
+    },
+    {
+      "name": "【エンジニア】オープンポジション",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/111450"
+    },
+    {
+      "name": "コーポレートAIエンジニア",
+      "link": "https://open.talentio.com/r/1/c/hacomono/pages/116154"
+    }
+  ]
+}

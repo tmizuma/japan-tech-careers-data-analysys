@@ -1,0 +1,102 @@
+{
+  "company_name_ja": "LegalOn Technologies",
+  "company_name_en": "LegalOn Technologies",
+  "description": "AI法務プラットフォーム「LegalOn Cloud」を開発・運営し2025年3月末時点でグローバル有償導入7000社超・ARR100億円を突破した日本最大のリーガルテックユニコーン企業。契約審査・締結後の契約管理・法務相談案件管理・法令リサーチまで法務業務全般をAIで支援。2025年夏には法務担当者に代わり初期対応を行う「マターマネジメントエージェント」を提供開始。累計資金調達額約286億円でゴールドマン・サックス等が出資。米国・英国展開でグローバル売上は前年比4倍を達成。",
+  "description_en": "Develops and operates AI legal platform \"LegalOn Cloud,\" Japan's largest legal tech unicorn with over 7,000 global paid implementations and ARR exceeding 10 billion yen as of end of March 2025. Supports entire legal operations with AI from contract review to post-signing contract management, legal consultation case management, and regulatory research. Launching \"Matter Management Agent\" in summer 2025 to handle initial responses on behalf of legal staff. Cumulative funding of approximately 28.6 billion yen with Goldman Sachs among investors. Achieved 4x YoY global revenue through US and UK expansion.",
+  "hiring_url": "https://legalontech.jp/recruit/",
+  "num_of_employees": "500+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/legalon-technologies.png",
+  "company_url": "https://legalforce.co.jp/",
+  "positions": [
+    {
+      "name": "TECH-101- Software Engineer, Backend - LegalOn",
+      "link": "https://herp.careers/v1/legalforce/MHoRz9F-Lcsf"
+    },
+    {
+      "name": "TECH-106- Software Engineer, Backend - New Product",
+      "link": "https://herp.careers/v1/legalforce/KIK9kjM-0W2o"
+    },
+    {
+      "name": "TECH-108- Software Engineer, Backend - Knowledge Platform",
+      "link": "https://herp.careers/v1/legalforce/kt1tOYSWX44Y"
+    },
+    {
+      "name": "TECH-109- Software Engineer, Backend - DealOn",
+      "link": "https://herp.careers/v1/legalforce/KovMw_Lqo1pg"
+    },
+    {
+      "name": "TECH-111- Software Engineer, Backend - Product Foundation",
+      "link": "https://herp.careers/v1/legalforce/-aC5y2aE8boQ"
+    },
+    {
+      "name": "TECH-190- Product Engineer - New Product",
+      "link": "https://herp.careers/v1/legalforce/3J9hAo4GgGyP"
+    },
+    {
+      "name": "TECH-201- SRE / Site Reliability Engineer",
+      "link": "https://herp.careers/v1/legalforce/3vMaOuULOPJm"
+    },
+    {
+      "name": "TECH-202- SRE / Site Reliability Engineer - New Product",
+      "link": "https://herp.careers/v1/legalforce/8pnzlseqpA9T"
+    },
+    {
+      "name": "TECH-203- Platform Engineer - Product Foundation",
+      "link": "https://herp.careers/v1/legalforce/dx8D6KG2htyw"
+    },
+    {
+      "name": "TECH-301- Software Engineer, Frontend - LegalOn",
+      "link": "https://herp.careers/v1/legalforce/0rOt-erueYrM"
+    },
+    {
+      "name": "TECH-302- Senior Software Engineer, Frontend Lead - New Product",
+      "link": "https://herp.careers/v1/legalforce/ZZO9RCzRO_8k"
+    },
+    {
+      "name": "TECH-501- Engineering Manager - LegalOn",
+      "link": "https://herp.careers/v1/legalforce/QuD4K7tUqBRQ"
+    },
+    {
+      "name": "TECH-503- Engineering Manager - New Product",
+      "link": "https://herp.careers/v1/legalforce/tCugJyAJSraQ"
+    },
+    {
+      "name": "TECH-504- Engineering Manager - Knowledge Platform",
+      "link": "https://herp.careers/v1/legalforce/RaFF1pJ4m-nC"
+    },
+    {
+      "name": "TECH-504/EN- Engineering Manager - Knowledge Platform",
+      "link": "https://herp.careers/v1/legalforce/BISLfoQDkkYr"
+    },
+    {
+      "name": "TECH-506- Engineering Manager - DealOn",
+      "link": "https://herp.careers/v1/legalforce/DRIf4z5mklqy"
+    },
+    {
+      "name": "TECH-901- AI Productivity Engineer - CTO Office",
+      "link": "https://herp.careers/v1/legalforce/VyMu07K8tGxu"
+    },
+    {
+      "name": "TECH-D-101- Analytics Engineer",
+      "link": "https://herp.careers/v1/legalforce/JlDohH8MV6Cb"
+    },
+    {
+      "name": "TECH-IT-101 セキュリティエンジニア（グローバル）",
+      "link": "https://herp.careers/v1/legalforce/z3L-F9o5XQPr"
+    },
+    {
+      "name": "TECH-S-101- Senior Software Engineer - Search, AI",
+      "link": "https://herp.careers/v1/legalforce/fWskKTtTwQlm"
+    },
+    {
+      "name": "TECH-S-101/EN- Senior Software Engineer - Search, AI",
+      "link": "https://herp.careers/v1/legalforce/LdHBNIhaNQwF"
+    },
+    {
+      "name": "ZST-01- AI Engineering Internship",
+      "link": "https://herp.careers/v1/legalforce/m7-u0hev0wv9"
+    }
+  ]
+}

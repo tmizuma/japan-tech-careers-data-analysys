@@ -57,9 +57,9 @@
 47. [ ] medley (Medley) - https://www.medley.jp/recruit/ (未開始)
 48. [ ] cureapp (CureApp) - https://cureapp.co.jp/recruit.html (未開始)
 49. [ ] micin (Micin) - https://recruit.micin.jp/ (未開始)
-50. [ ] legalontechnologies (LegalOn Technologies) - https://legalontech.jp/recruit/ (未開始)
-51. [ ] kaminashi (Kaminashi) - https://careers.kaminashi.jp/ (未開始)
-52. [ ] hacomono (hacomono) - https://www.hacomono.co.jp/recruit/ (未開始)
+50. [x] legalontechnologies (LegalOn Technologies) - https://legalontech.jp/recruit/
+51. [x] kaminashi (Kaminashi) - https://careers.kaminashi.jp/
+52. [x] hacomono (hacomono) - https://www.hacomono.co.jp/recruit/
 53. [ ] timee (Timee) - https://corp.timee.co.jp/recruit/ (未開始)
 54. [ ] safie (Safie) - https://safie.co.jp/recruit/ (未開始)
 55. [ ] pkshatechnology (PKSHA Technology) - https://www.pkshatech.com/recruitment/ (未開始)
