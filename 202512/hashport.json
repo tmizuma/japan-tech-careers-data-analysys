@@ -1,0 +1,54 @@
+{
+  "company_name_ja": "HashPort",
+  "company_name_en": "HashPort",
+  "description": "「まだ見ぬ価値を暮らしの中へ」をミッションに2025年大阪・関西万博公式デジタルウォレット「EXPO2025デジタルウォレット」を開発・運営。レイヤー1ブロックチェーンAptos基盤で万博開始30日で79万件超のSBT（譲渡不可NFT）を発行。2024年11月に国外提供開始しJNTOとNFT活用の初海外プロモーション実施。万博終了後は約100万人が利用した「HashPort Wallet」にリニューアル予定でEXPOトークン・SBT・NFTを引継ぎ可能。ブロックチェーンコンサル・ウォレット・NFT事業を展開。",
+  "description_en": "Develops and operates \"EXPO2025 Digital Wallet,\" official digital wallet for 2025 Osaka-Kansai Expo with mission \"Bringing unseen value into daily life.\" Issued over 790,000 SBTs (non-transferable NFTs) within 30 days of expo start on Layer 1 blockchain Aptos. Began overseas provision in November 2024, conducting first overseas promotion utilizing NFTs with JNTO. After expo ends, plans to renew to \"HashPort Wallet\" used by approximately 1 million people, enabling transfer of EXPO tokens, SBTs, and NFTs. Operates blockchain consulting, wallet, and NFT businesses.",
+  "hiring_url": "https://hashport.io/recruit/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/hashport.png",
+  "company_url": "https://hashport.io/",
+  "positions": [
+    {
+      "name": "シニアバックエンドエンジニア（業務委託）",
+      "link": "https://herp.careers/v1/hashport/e5tmk-4BbEWs"
+    },
+    {
+      "name": "ミドルバックエンドエンジニア（業務委託）",
+      "link": "https://herp.careers/v1/hashport/S2Wm7VRenQgt"
+    },
+    {
+      "name": "ジュニアウォレットエンジニア",
+      "link": "https://herp.careers/v1/hashport/F34etHkvh5e2"
+    },
+    {
+      "name": "ジュニアバックエンドエンジニア",
+      "link": "https://herp.careers/v1/hashport/6W5h1v64mGAi"
+    },
+    {
+      "name": "シニアバックエンドエンジニア",
+      "link": "https://herp.careers/v1/hashport/K92eRj5JAlCx"
+    },
+    {
+      "name": "ミドルバックエンドエンジニア",
+      "link": "https://herp.careers/v1/hashport/LMvOGPXp7y8M"
+    },
+    {
+      "name": "シニアSRE",
+      "link": "https://herp.careers/v1/hashport/ZrScosNRKsqb"
+    },
+    {
+      "name": "ミドルSRE",
+      "link": "https://herp.careers/v1/hashport/tBqoKaK0NF-l"
+    },
+    {
+      "name": "ジュニアSRE",
+      "link": "https://herp.careers/v1/hashport/Ly3umll-i2Vq"
+    },
+    {
+      "name": "エンジニアインターン",
+      "link": "https://herp.careers/v1/hashport/VbWiQWFfMQ_s"
+    }
+  ]
+}

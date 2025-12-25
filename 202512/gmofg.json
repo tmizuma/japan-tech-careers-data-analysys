@@ -1,0 +1,54 @@
+{
+  "company_name_ja": "GMO Financial Gate",
+  "company_name_en": "GMO FG",
+  "description": "1999年創業で対面キャッシュレス決済代行26年の実績を持ちクレジット・電子マネー・QRコードに対応。2025年12月にアミューズメント市場向け新端末「F3」を提供開始し低価格・小型設計でゲーム機への後付け設置が容易。2024年3月には世界初のPCI MPoC認定を受けた端末レス決済アプリ「stera tap」の提供支援を開始しスマホのみでタッチ決済が可能に。飲料自販機・券売機・駐車場精算機等の組込型決済も展開し日常生活領域加盟店を拡大中。",
+  "description_en": "Founded in 1999 with 26 years of in-person cashless payment processing experience, supporting credit cards, e-money, and QR codes. Launched new terminal \"F3\" for amusement market in December 2025 with low-cost, compact design for easy retrofit installation on game machines. Began supporting world's first PCI MPoC certified terminal-less payment app \"stera tap\" in March 2024, enabling contactless payments with smartphone only. Also expands embedded payments in beverage vending machines, ticket machines, parking meters, etc. to grow daily-life merchant base.",
+  "hiring_url": "https://gmo-fg.com/recruit/",
+  "num_of_employees": "100+",
+  "sales": 18000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/gmo-fg.png",
+  "company_url": "https://gmo-fg.com/",
+  "positions": [
+    {
+      "name": "アプリケーションエンジニア (リーダークラス)",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1710577000032026647"
+    },
+    {
+      "name": "アプリケーションエンジニア",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1710577000032026648"
+    },
+    {
+      "name": "サイトリライアビリティエンジニア",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1710577000032026649"
+    },
+    {
+      "name": "ネットワークエンジニア",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1710577000032026650"
+    },
+    {
+      "name": "サイトリライアビリティエンジニア（リーダークラス）",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1827166141792948273"
+    },
+    {
+      "name": "決済サポート部門のDX推進",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1827166141792948301"
+    },
+    {
+      "name": "決済端末開発 PMO",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1827166141792948302"
+    },
+    {
+      "name": "決済端末アプリケーションソフト開発メンバー",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/1827166141792948304"
+    },
+    {
+      "name": "DX推進・社内ITセキュリティ・運用高度化担当メンバー",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/2130559325370748949"
+    },
+    {
+      "name": "無人決済（IoT）端末のプロダクトマネージャー",
+      "link": "https://hrmos.co/pages/gmo-fg/jobs/2130559325370748933"
+    }
+  ]
+}

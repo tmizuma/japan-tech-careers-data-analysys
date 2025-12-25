@@ -1,0 +1,86 @@
+{
+  "company_name_ja": "Sun",
+  "company_name_en": "Sun",
+  "description": "エンジニア・デザイナー・戦略コンサルなど総勢1500名が集結するデジタル・クリエイティブスタジオ。ベトナムに1400人のエンジニアを擁しプロダクト開発・DX支援・スタートアップインキュベーションを展開。創業より600社以上の支援実績と850を超えるサービス・プロダクトを開発。ベトナムのハノイ工科大学等と産学連携で2800人以上の学生に日本語とIT教育を実施。2020年に東証マザーズ上場。",
+  "description_en": "A digital creative studio with a total of 1,500 members including engineers, designers, and strategy consultants. With 1,400 engineers in Vietnam, the company engages in product development, DX support, and startup incubation. Since its founding, it has supported over 600 companies and developed more than 850 services and products. Through industry-academia collaboration with Hanoi University of Science and Technology and others in Vietnam, it has provided Japanese language and IT education to over 2,800 students. Listed on the TSE Mothers Market in 2020.",
+  "hiring_url": "https://sun-asterisk.com/recruitment/mid-career",
+  "num_of_employees": "2000+",
+  "sales": 13000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/sun.png",
+  "company_url": "https://sun-asterisk.com/",
+  "positions": [
+    {
+      "name": "データエンジニア",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/751bdef8-b338-47a9-a7f4-9d55a735b957"
+    },
+    {
+      "name": "プロダクトエンジニア",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/7d2b7115-c073-4f50-9f07-46ffb6835ea9"
+    },
+    {
+      "name": "ソリューションアーキテクト",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/1f65025d-0fd6-403f-a2bb-7468ce608f75"
+    },
+    {
+      "name": "Backend Engineer",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/86262e21-ed8d-4c89-884e-9e93b66f17da"
+    },
+    {
+      "name": "Data Business Architect (Data/AI)",
+      "link": "https://open.talentio.com/r/1/c/sun-asterisk_career/pages/89410"
+    },
+    {
+      "name": "Data Software Engineer (Data/AI)",
+      "link": "https://open.talentio.com/r/1/c/sun-asterisk_career/pages/89415"
+    },
+    {
+      "name": "AIソリューションアーキテクト (Data/AI)",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/341bb4f6-6530-4292-8578-f6d1e9a08076"
+    },
+    {
+      "name": "System Architect",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/6eb25dc4-0797-43f3-852a-6ec73cb57aea"
+    },
+    {
+      "name": "Cloud Architect (Infrastructure Engineer)",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/ce26016a-0436-477b-a767-b3dcc0e5af12"
+    },
+    {
+      "name": "Engineer オープンポジション",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/f4be585b-8666-416a-a6a5-97a4df3d7de6"
+    },
+    {
+      "name": "モバイルアプリエンジニア",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/735dd277-54f4-4ed8-97eb-a3738683df6b"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/edeff12a-a63d-4342-957e-2aa36f6adad9"
+    },
+    {
+      "name": "プロジェクトマネージャーを目指すシステムエンジニア",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/0c76ef46-00a1-4f67-9dcf-3eb51dd80f58"
+    },
+    {
+      "name": "プロジェクトマネージャー(リーディングプレイヤー)",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/db7d0968-3cf7-48dc-892a-37f75dc70b84"
+    },
+    {
+      "name": "プロジェクトマネージャー(プロフェッショナル)",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/6e0fbcd3-1b00-48da-a2d6-4468f37971c8"
+    },
+    {
+      "name": "プロジェクトマネージャー(エグゼクティブ)",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/3435ebb2-dadb-42d2-a406-7eb2187121bf"
+    },
+    {
+      "name": "UI/UX specialist",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/c46945b8-b3dc-4890-adc5-4e63af4be28f"
+    },
+    {
+      "name": "UX Designer",
+      "link": "https://job.persona-ats.com/ja/sun-asterisk/jobs/207052bf-32d2-49ef-9f52-fe5efcae98bc"
+    }
+  ]
+}

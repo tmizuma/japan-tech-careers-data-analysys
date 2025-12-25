@@ -1,0 +1,42 @@
+{
+  "company_name_ja": "Cocone Corporation",
+  "company_name_en": "Cocone Corporation",
+  "description": "全世界1億4千万人以上のユーザーを持つアバターアプリNo.1企業。『ポケコロ』『リヴリーアイランド』『ディズニー マイリトルドール』などスマートフォン向けアバター着せ替え・ソーシャルネットワークサービスを展開。累計166億個以上のデジタルアイテム販売実績を持つ。2023年に持株会社体制へ移行し、東京・福岡・ソウル・シンガポール・アメリカ・エストニアなど7ヵ国8都市でグローバル展開。全社員の約3割が外国籍でビザサポートも提供。オンラインゲームポータル『ハンゲ』や幼児教育事業も運営。",
+  "description_en": "Japan's #1 avatar app company with over 140 million users worldwide. Operates smartphone avatar dress-up and social networking services including 'Pokecolo,' 'Livly Island,' and 'Disney My Little Doll.' Has sold over 16.6 billion digital items cumulatively. Transitioned to a holding company structure in 2023, with global presence across 7 countries and 8 cities including Tokyo, Fukuoka, Seoul, Singapore, USA, and Estonia. Approximately 30% of employees are foreign nationals with visa support provided. Also operates online game portal 'Hangame' and early childhood education business.",
+  "hiring_url": "https://cocone.engineering/joinus",
+  "num_of_employees": "1000+",
+  "sales": 74,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/cocone-corporation.png",
+  "company_url": "https://cocone.co.jp/",
+  "positions": [
+    {
+      "name": "サーバーサイドエンジニア（東京）",
+      "link": "https://hrmos.co/pages/cocone-recruit/jobs/E-01"
+    },
+    {
+      "name": "クライアントエンジニア（東京）",
+      "link": "https://hrmos.co/pages/cocone-recruit/jobs/2057990745701535752"
+    },
+    {
+      "name": "クライアントエンジニア（福岡）",
+      "link": "https://hrmos.co/pages/cocone-recruit/jobs/2085903305797210122"
+    },
+    {
+      "name": "ビリングエンジニア（東京）",
+      "link": "https://hrmos.co/pages/cocone-recruit/jobs/E-0008"
+    },
+    {
+      "name": "フロントエンドエンジニア（東京）",
+      "link": "https://hrmos.co/pages/cocone-recruit/jobs/1745339700607180945"
+    },
+    {
+      "name": "インフラエンジニア（東京）",
+      "link": "https://hrmos.co/pages/cocone-recruit/jobs/09"
+    },
+    {
+      "name": "セキュリティエンジニア（東京）",
+      "link": "https://hrmos.co/pages/cocone-recruit/jobs/1745339700607180845"
+    }
+  ]
+}

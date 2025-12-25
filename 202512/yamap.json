@@ -1,0 +1,22 @@
+{
+  "company_name_ja": "YAMAP",
+  "company_name_en": "YAMAP",
+  "description": "福岡発の登山・アウトドアプラットフォーム。スマートフォンのGPSで電波の届かない山中でも現在地と登山ルートがわかるアプリを提供。累計530万ダウンロードで国内登山人口の約6割が利用する日本最大級の登山アプリ。「YAMAP STORE」「YAMAPアウトドア保険」「YAMAP MAGAZINE」「YAMAPふるさと納税」も展開。2025年にはGoogle Play ベスト オブ 2025 ウェアラブル部門で大賞を受賞。",
+  "description_en": "A hiking and outdoor platform originating from Fukuoka. Provides an app that shows your current location and hiking routes using smartphone GPS even in mountains without cell signal. With 5.3 million cumulative downloads, it is Japan's largest hiking app used by approximately 60% of domestic hikers. Also operates \"YAMAP STORE,\" \"YAMAP Outdoor Insurance,\" \"YAMAP MAGAZINE,\" and \"YAMAP Furusato Nozei.\" Won the Grand Prize in the Wearable category at Google Play Best of 2025.",
+  "hiring_url": "https://www.wantedly.com/companies/yamap/projects",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/yamap.png",
+  "company_url": "https://yamap.com/",
+  "positions": [
+    {
+      "name": "モバイルエンジニア",
+      "link": "https://www.wantedly.com/projects/2288939"
+    },
+    {
+      "name": "iOSエンジニア",
+      "link": "https://www.wantedly.com/projects/2288850"
+    }
+  ]
+}

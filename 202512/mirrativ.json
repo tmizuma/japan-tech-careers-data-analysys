@@ -1,0 +1,62 @@
+{
+  "company_name_ja": "Mirrativ",
+  "company_name_en": "Mirrativ",
+  "description": "スマホひとつでゲーム実況ができる日本最大のスマホゲーム配信プラットフォーム「Mirrativ」を運営。累計2500万DL、配信者数700万人超。アバター機能「エモモ」で配信者のプライバシーを守りながらゲーム実況を可能に。常時接続技術・低遅延配信技術に強み。ライブゲーム「エモモバトルドロップ」などアバター×ゲームの新体験を提供。ゲーム会社との協業も多数。",
+  "description_en": "Operates Japan's largest smartphone game streaming platform 'Mirrativ' enabling game streaming with just a smartphone. Over 25 million cumulative downloads and 7 million+ streamers. Avatar feature 'Emomo' enables game streaming while protecting streamer privacy. Strong in persistent connection and low-latency streaming technology. Provides new avatar × game experiences like live game 'Emomo Battle Drop'. Multiple collaborations with game companies.",
+  "hiring_url": "https://www.mirrativ.co.jp/recruit/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/mirrativ.png",
+  "company_url": "https://www.mirrativ.com/",
+  "positions": [
+    {
+      "name": "【Mirrativアプリ】ソフトウェアエンジニア（Android）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0000_engineer"
+    },
+    {
+      "name": "【Mirrativアプリ】ソフトウェアエンジニア（iOS）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0001_engineer"
+    },
+    {
+      "name": "【Mirrativアプリ】ソフトウェアエンジニア（バックエンド）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0002_engineer"
+    },
+    {
+      "name": "【Mirrativアプリ】ソフトウェアエンジニア（バックエンド基盤）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0003_engineer"
+    },
+    {
+      "name": "【Mirrativアプリ】ソフトウェアエンジニア（ライブ配信基盤）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0004_engineer"
+    },
+    {
+      "name": "エンジニアリングマネージャー（TLM〜CTO/VPoE候補）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0005_engineer"
+    },
+    {
+      "name": "【Mirrativアプリ】ソフトウェアエンジニア（インフラ）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0010_engineer"
+    },
+    {
+      "name": "テックコミュニティマネージャー（技術広報）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0012_engineer"
+    },
+    {
+      "name": "【Mirrativアプリ】スクラムマスター",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0013_engineer"
+    },
+    {
+      "name": "【Mirrativアプリ】QAエンジニア",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0014_engineer"
+    },
+    {
+      "name": "【ライブゲーム】ソフトウェアエンジニア（バックエンド）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0015_engineer"
+    },
+    {
+      "name": "ソフトウェアエンジニア（オープンポジション）",
+      "link": "https://hrmos.co/pages/mirrativ/jobs/0099_engineer"
+    }
+  ]
+}

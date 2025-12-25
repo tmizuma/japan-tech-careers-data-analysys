@@ -1,0 +1,54 @@
+{
+  "company_name_ja": "楽天グループ",
+  "company_name_en": "Rakuten Group",
+  "description": "楽天市場を中核に楽天カード・楽天銀行・楽天モバイルなど70以上のサービスを展開する日本最大級のインターネットエコシステム。国内1億超の楽天会員を基盤に「楽天経済圏」を構築。社内公用語英語化の先駆者で100カ国以上出身の従業員がグローバル拠点で勤務。楽天モバイルは800万回線突破。完全仮想化ネットワーク技術で通信業界に革新をもたらす。",
+  "description_en": "Japan's largest internet ecosystem with over 70 services centered on Rakuten Ichiba, including Rakuten Card, Rakuten Bank, and Rakuten Mobile. Built the \"Rakuten Ecosystem\" based on over 100 million domestic Rakuten members. Pioneer in adopting English as official corporate language with employees from over 100 countries working at global offices. Rakuten Mobile surpassed 8 million subscriptions, bringing innovation to the telecom industry with fully virtualized network technology.",
+  "hiring_url": "https://corp.rakuten.co.jp/careers/",
+  "num_of_employees": "30000+",
+  "sales": 2000000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/rakuten-group.png",
+  "company_url": "https://corp.rakuten.co.jp/",
+  "positions": [
+    {
+      "name": "オペレーションエンジニア（楽天ペイ）",
+      "link": "https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Operation-Engineer--Rakuten-Pay--Rakuten-Pay-System-Department---Rakuten-Payment--Inc_1025931-93"
+    },
+    {
+      "name": "運用保守エンジニア（楽天キャッシュ/楽天Edy）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=%E9%81%8B%E7%94%A8%E4%BF%9D%E5%AE%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2"
+    },
+    {
+      "name": "Webアプリケーションエンジニア（ECファーストパーティー開発部）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2"
+    },
+    {
+      "name": "シニアエンジニアリングマネージャー（トラベル開発部）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=%E3%82%B7%E3%83%8B%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC"
+    },
+    {
+      "name": "シニアネットワークエンジニア（インフラストラクチャーサービス部）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2"
+    },
+    {
+      "name": "フルスタックエンジニア（テックリード候補）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2"
+    },
+    {
+      "name": "ソフトウェアエンジニア（ビジネスサポート開発部）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2"
+    },
+    {
+      "name": "データサイエンティスト（Global Ad Technology統括部）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88"
+    },
+    {
+      "name": "リードクラウドエンジニア（楽天ペイメント）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2"
+    },
+    {
+      "name": "データ配信チームリーダー（データプラットフォーム部）",
+      "link": "https://japan-job-jp.rakuten.careers/search-jobs?q=%E3%83%87%E3%83%BC%E3%82%BF%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0"
+    }
+  ]
+}

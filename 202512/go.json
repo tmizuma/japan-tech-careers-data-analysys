@@ -1,0 +1,50 @@
+{
+  "company_name_ja": "GO",
+  "company_name_en": "GO",
+  "description": "累計3000万ダウンロード超のNo.1タクシーアプリ「GO」を運営。約10万台のタクシーネットワークと高度な配車ロジックで「早く乗れる」体験を提供。法人向け「GO BUSINESS」は12000社以上が導入。2022年にMM総研大賞MaaS分野で最優秀賞を受賞。2024年には湾岸エリアで相乗りサービスを開始。ゴールドマン・サックス等から資金調達を実施しMaaS領域でのリーダーシップを強化。",
+  "description_en": "Operates \"GO,\" Japan's No.1 taxi app with over 30 million cumulative downloads. Delivers a \"quick ride\" experience through a network of approximately 100,000 taxis and advanced dispatch logic. \"GO BUSINESS\" for corporate clients has been adopted by over 12,000 companies. Won the Grand Prize in the MaaS category at the MM Research Institute Awards in 2022. Launched ride-sharing services in the Tokyo Bay area in 2024. Raised funding from Goldman Sachs and others to strengthen leadership in the MaaS sector.",
+  "hiring_url": "https://hrmos.co/pages/goinc/jobs",
+  "num_of_employees": "500+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/go.png",
+  "company_url": "https://goinc.jp/",
+  "positions": [
+    {
+      "name": "フルスタックスペシャリスト",
+      "link": "https://hrmos.co/pages/goinc/jobs/0100001"
+    },
+    {
+      "name": "サーバーサイドエンジニア",
+      "link": "https://hrmos.co/pages/goinc/jobs/2000000"
+    },
+    {
+      "name": "Webプロダクトエンジニア【GO BUSINESS】",
+      "link": "https://hrmos.co/pages/goinc/jobs/20000012"
+    },
+    {
+      "name": "シニアエンジニア（オープンポジション）",
+      "link": "https://hrmos.co/pages/goinc/jobs/2000007"
+    },
+    {
+      "name": "SRE",
+      "link": "https://hrmos.co/pages/goinc/jobs/2050000"
+    },
+    {
+      "name": "プラットフォームセキュリティエンジニア",
+      "link": "https://hrmos.co/pages/goinc/jobs/2050001"
+    },
+    {
+      "name": "Androidエンジニア（車載向けアプリ）",
+      "link": "https://hrmos.co/pages/goinc/jobs/2100000"
+    },
+    {
+      "name": "iOSエンジニア（ユーザーアプリ）",
+      "link": "https://hrmos.co/pages/goinc/jobs/2100002"
+    },
+    {
+      "name": "DBRE",
+      "link": "https://hrmos.co/pages/goinc/jobs/9903622"
+    }
+  ]
+}

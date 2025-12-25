@@ -1,0 +1,26 @@
+{
+  "company_name_ja": "Paidy",
+  "company_name_en": "Paidy",
+  "description": "2021年にPayPalが3000億円で買収した後払い決済（BNPL）サービス。クレジットカード不要でメールアドレスと携帯番号のみで翌月27日までにコンビニ・銀行振込で支払い可能。Amazon・Qoo10等で利用でき決済時に独自スコアリングで与信審査を実施しクレジットカードを持ちづらい若年層にも対応。PayPal傘下でグローバル体制を構築。BNPL市場は2026年度に国内2兆円規模に拡大見込み。",
+  "description_en": "Buy Now Pay Later (BNPL) service acquired by PayPal for 300 billion yen in 2021. No credit card required, pay by 27th of following month via convenience store or bank transfer using only email address and mobile number. Available on Amazon, Qoo10, etc. with proprietary scoring for credit assessment at checkout, accommodating younger users who have difficulty obtaining credit cards. Building global structure under PayPal umbrella. BNPL market expected to expand to 2 trillion yen domestic scale by FY2026.",
+  "hiring_url": "https://corp.paidy.com/recruit/",
+  "num_of_employees": "200+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/paidy.png",
+  "company_url": "https://paidy.com/",
+  "positions": [
+    {
+      "name": "Software Engineering Team Lead",
+      "link": "https://corp.paidy.com/media_center/work_life/recruitment/job/7465955003"
+    },
+    {
+      "name": "Product Engineer",
+      "link": "https://corp.paidy.com/media_center/work_life/recruitment/job/6628038003"
+    },
+    {
+      "name": "Senior Risk Business Intelligence Engineer",
+      "link": "https://corp.paidy.com/media_center/work_life/recruitment/job/7519766003"
+    }
+  ]
+}

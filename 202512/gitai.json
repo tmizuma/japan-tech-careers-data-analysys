@@ -1,0 +1,18 @@
+{
+  "company_name_ja": "GITAI",
+  "company_name_en": "Gitai",
+  "description": "宇宙作業用ロボット開発のディープテック企業。「宇宙運用コストを100倍削減」を目標に軌道上サービス用ロボット衛星・月面ロボットローバー・インチワーム型ロボットアームなど最先端技術を開発。2024年3月にはISS船外でのデュアルロボットアームシステム技術実証に成功しNASAの技術成熟度レベル7を達成。2024年12月にSpaceXのFalcon 9で自社開発衛星SC1を打ち上げ「完全成功」を達成。2024年11月にシリーズBエクステンションで総額6050万ドルを調達。JAXAからNASAアルテミス計画の一環として月面ローバー用ロボットアームのコンセプト研究契約を受注。",
+  "description_en": "Deep tech company developing space operation robots. Aiming to \"reduce space operation costs by 100x,\" develops cutting-edge technologies including robot satellites for on-orbit services, lunar robot rovers, and inchworm-type robot arms. Successfully demonstrated dual robot arm system outside ISS in March 2024, achieving NASA Technology Readiness Level 7. Launched self-developed satellite SC1 via SpaceX Falcon 9 in December 2024 with \"complete success.\" Raised total $60.5 million in Series B Extension in November 2024. Received concept research contract from JAXA for lunar rover robot arm as part of NASA Artemis program.",
+  "hiring_url": "https://gitai.tech/careers/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/gitai.png",
+  "company_url": "https://gitai.tech/",
+  "positions": [
+    {
+      "name": "Unlock Your New Adventure (Open Position)",
+      "link": "https://job-boards.greenhouse.io/gitai/jobs/4020338008"
+    }
+  ]
+}

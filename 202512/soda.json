@@ -1,0 +1,54 @@
+{
+  "company_name_ja": "SODA Inc.",
+  "company_name_en": "SODA inc.",
+  "description": "月間600万人以上が利用する国内最大級のスニーカー&トレカフリマアプリ『SNKRDUNK（スニーカーダンク）』を運営。全取引商品に専門鑑定士による真贋鑑定を実施し偽造品を排除する安心安全なマーケットプレイスを提供。2021年にSoftBank Vision Fund 2等から累計87億円超を調達し企業評価額約380億円に到達。シンガポールに海外拠点を設立しAPACエリアへのグローバル展開を推進。リアル店舗「SNKRDUNK STORE」やファッション・コレクティブストア「HYPE DROP」も展開。Google Play ベストオブ 2019で2部門受賞。",
+  "description_en": "Operates Japan's largest sneaker and trading card marketplace app 'SNKRDUNK' with over 6 million monthly users. Provides a safe marketplace with professional authentication on all transactions to eliminate counterfeit products. Raised over 8.7 billion yen cumulatively from SoftBank Vision Fund 2 and others in 2021, reaching approximately 38 billion yen valuation. Established Singapore office to drive global expansion across APAC region. Also operates physical stores 'SNKRDUNK STORE' and fashion collective store 'HYPE DROP.' Won two categories at Google Play Best of 2019.",
+  "hiring_url": "https://recruit.soda-inc.jp/",
+  "num_of_employees": "500+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/soda-inc..png",
+  "company_url": "https://soda-inc.jp/",
+  "positions": [
+    {
+      "name": "エンジニアリングマネージャー",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115257"
+    },
+    {
+      "name": "モバイルアプリエンジニア",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/108487"
+    },
+    {
+      "name": "Webフロントエンドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115247"
+    },
+    {
+      "name": "SREs",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/108489"
+    },
+    {
+      "name": "Webバックエンドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115243"
+    },
+    {
+      "name": "クオリティエンジニア",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115253"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/115255"
+    },
+    {
+      "name": "プロダクトセキュリティエンジニア",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/99755"
+    },
+    {
+      "name": "コーポレートセキュリティリーダー",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/100740"
+    },
+    {
+      "name": "データアナリスト",
+      "link": "https://open.talentio.com/r/1/c/soda-inc.jp/pages/113165"
+    }
+  ]
+}

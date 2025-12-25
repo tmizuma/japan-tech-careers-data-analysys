@@ -1,0 +1,78 @@
+{
+  "company_name_ja": "Groove X",
+  "company_name_en": "Groove X",
+  "description": "「ロボティクスで人間のちからを引き出す」をミッションに家族型ロボット「LOVOT」を開発。2024年5月に2年ぶりの新世代モデル「LOVOT 3.0」を発表し演算能力の向上・高感度カメラの追加・タッチセンサーのポイント増加により豊かなふるまいに進化。目のディスプレイを有機ELにアップグレードしカラーバリエーションは既存4種に加え新たに5種を追加。藤原ヒロシ監修のオールホワイト限定モデル「FRAGMENT EDITION」も同時発表。2024年12月にはアミューズメントプライズに初登場。人間とロボットの信頼関係を築き生活を潤いと安心で満たす存在をつくる。",
+  "description_en": "Develops family robot \"LOVOT\" with mission \"Unleashing human potential through robotics.\" Announced new generation model \"LOVOT 3.0\" after 2 years in May 2024, evolving to richer behaviors with improved computing power, added high-sensitivity cameras, and increased touch sensor points. Eye display upgraded to OLED with 5 new color variations added to existing 4. Also announced all-white limited \"FRAGMENT EDITION\" supervised by Hiroshi Fujiwara. Debuted in amusement prizes in December 2024. Creating a presence that builds trust between humans and robots, filling life with enrichment and peace of mind.",
+  "hiring_url": "https://groove-x.com/recruit/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/groove-x.png",
+  "company_url": "https://groove-x.com/",
+  "positions": [
+    {
+      "name": "バックエンド開発エンジニア（EC・ビジネスシステム開発）",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1361789"
+    },
+    {
+      "name": "WEBサイトのフロントエンド開発エンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1361794"
+    },
+    {
+      "name": "Salesforce開発エンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1821210"
+    },
+    {
+      "name": "機械学習(画像)エンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1464666"
+    },
+    {
+      "name": "人の声を認知するLOVOTの音声認識エンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1506860"
+    },
+    {
+      "name": "ファームウェアエンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1506865"
+    },
+    {
+      "name": "家庭用ロボット LOVOTの組み込みLinuxエンジニア（Jetson）",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1506848"
+    },
+    {
+      "name": "クラウドエンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/877126"
+    },
+    {
+      "name": "ソフトウェア領域のプロダクトオーナー（PO）",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/2180251"
+    },
+    {
+      "name": "機械学習テックリードエンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/2163788"
+    },
+    {
+      "name": "スクラムマスター",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/275351"
+    },
+    {
+      "name": "LOVOTのミドルウェア開発エンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1800827"
+    },
+    {
+      "name": "電気設計（エレキエンジニア）",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1300009"
+    },
+    {
+      "name": "メカニカルエンジニア（LOVOTの機構設計）",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/1096858"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/2181095"
+    },
+    {
+      "name": "LOVOTの故障解析エンジニア/リペアツール改善担当",
+      "link": "https://recruit.jobcan.jp/groovex/job_offers/2150463"
+    }
+  ]
+}

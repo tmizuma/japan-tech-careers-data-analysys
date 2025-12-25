@@ -1,0 +1,86 @@
+{
+  "company_name_ja": "テレイグジスタンス",
+  "company_name_en": "Telexistence",
+  "description": "2017年創業の遠隔操作・自律制御ロボット企業。東京大学名誉教授の舘暲教授によるテレイグジスタンス研究を基盤にハードウェア・ソフトウェア・AI・遠隔操作技術を一貫して自社開発。遠隔制御ロボット「TX SCARA」は独自AIシステム「GORDON」により24時間自動制御で稼働し1日最大1000本の飲料を補充可能。ファミリーマート主要都市圏を中心に300店舗へ導入しAI認識精度は98%に到達。2025年には米国Physical Intelligence（PI）とパートナーシップを締結し汎用ロボット基盤モデルを活用した高次元自動化技術の開発に着手。",
+  "description_en": "Remote operation and autonomous control robot company founded in 2017. Based on telexistence research by Professor Susumu Tachi, University of Tokyo Professor Emeritus, develops hardware, software, AI, and remote operation technologies entirely in-house. Remote control robot \"TX SCARA\" operates 24-hour automatic control via proprietary AI system \"GORDON,\" capable of restocking up to 1,000 beverages daily. Deployed in 300 FamilyMart stores primarily in major metropolitan areas with 98% AI recognition accuracy. Partnered with US Physical Intelligence (PI) in 2025 to develop high-dimensional automation technology utilizing general-purpose robot foundation models.",
+  "hiring_url": "https://tx-inc.com/en/career/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/telexistence.png",
+  "company_url": "https://tx-inc.com/",
+  "positions": [
+    {
+      "name": "Lead Foundation Model Engineer",
+      "link": "https://jobs.lever.co/tx-inc.com/b9e7e696-a6be-4bc1-9d02-7cef28cd5f5b"
+    },
+    {
+      "name": "Firmware Engineer - Retail Robotics",
+      "link": "https://jobs.lever.co/tx-inc.com/9c7e5a60-716f-4e34-b5b9-c7df291d1115"
+    },
+    {
+      "name": "Manufacturing Software & Documentation Engineer",
+      "link": "https://jobs.lever.co/tx-inc.com/bd957eb8-d6fd-4277-b570-e4c05a6ee328"
+    },
+    {
+      "name": "Robotics Automation Perception Engineer",
+      "link": "https://jobs.lever.co/tx-inc.com/e78acbb5-9c53-41cf-b942-9c425635ed5e"
+    },
+    {
+      "name": "Robotics Software Engineer - Motion Planning",
+      "link": "https://jobs.lever.co/tx-inc.com/71a2007a-da5b-4429-a8ce-ff91916bdc73"
+    },
+    {
+      "name": "Head of Hardware Engineering, Humanoid Team",
+      "link": "https://jobs.lever.co/tx-inc.com/4ad6bd7a-f422-4a2e-90f4-597df67e53f6"
+    },
+    {
+      "name": "Head of Robotics System Engineering, Humanoid Team",
+      "link": "https://jobs.lever.co/tx-inc.com/ab280654-8bca-4335-9744-aa2ef4e66d66"
+    },
+    {
+      "name": "Logistics Robotics Hardware Engineer - Next Gen Products",
+      "link": "https://jobs.lever.co/tx-inc.com/728a0ead-f423-4c3d-9b7f-2c679e8368c8"
+    },
+    {
+      "name": "Robotics Software Engineer (AGV)",
+      "link": "https://jobs.lever.co/tx-inc.com/75948864-a82b-4652-b6d7-9eaa36912c42"
+    },
+    {
+      "name": "System Integration Engineer - Low Level Software Development",
+      "link": "https://jobs.lever.co/tx-inc.com/417792a1-3c30-4e28-a39c-a583f567f14f"
+    },
+    {
+      "name": "Forward Deployed Lead Engineer – Robotics Operation System",
+      "link": "https://jobs.lever.co/tx-inc.com/3b95aa3f-06fc-4c6d-b80b-47fdef995496"
+    },
+    {
+      "name": "Lead Backend Engineer",
+      "link": "https://jobs.lever.co/tx-inc.com/9e38d851-9c8f-4cbe-9b40-b240abb82810"
+    },
+    {
+      "name": "Lead Frontend Product Engineer",
+      "link": "https://jobs.lever.co/tx-inc.com/d8f0a36d-6a9b-4fd9-9480-e61b7e6afef0"
+    },
+    {
+      "name": "Technical Product Manager/テクニカルプロダクトマネージャー",
+      "link": "https://jobs.lever.co/tx-inc.com/df2ecbbf-66aa-4b96-9256-f04b4e53b248"
+    },
+    {
+      "name": "QA/QC Engineer（量産準備向け品質保証・品質管理）",
+      "link": "https://jobs.lever.co/tx-inc.com/6ddc439c-828c-4387-b7f9-98f4a9731cdd"
+    },
+    {
+      "name": "生産技術エンジニア（量産向け）",
+      "link": "https://jobs.lever.co/tx-inc.com/c6b8c9b4-5938-42b7-bca1-1b8854e0fb34"
+    },
+    {
+      "name": "ロボット組立エンジニア / Assembly Engineer",
+      "link": "https://jobs.lever.co/tx-inc.com/a64fef90-2915-445e-9774-d45a57d1155a"
+    },
+    {
+      "name": "Master's and PhD Short-Term / Long-Term Interns (Part-time)",
+      "link": "https://jobs.lever.co/tx-inc.com/92941140-e4bc-4fcf-8eda-60f13bbef78d"
+    }
+  ]
+}

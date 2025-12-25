@@ -60,66 +60,66 @@
 50. [x] legalontechnologies (LegalOn Technologies) - https://legalontech.jp/recruit/
 51. [x] kaminashi (Kaminashi) - https://careers.kaminashi.jp/
 52. [x] hacomono (hacomono) - https://www.hacomono.co.jp/recruit/
-53. [ ] timee (Timee) - https://corp.timee.co.jp/recruit/ (未開始)
-54. [ ] safie (Safie) - https://safie.co.jp/recruit/ (未開始)
-55. [ ] pkshatechnology (PKSHA Technology) - https://www.pkshatech.com/recruitment/ (未開始)
-56. [ ] abeja (ABEJA) - https://careers.abejainc.com/ (未開始)
-57. [ ] exawizards (ExaWizards) - https://exawizards.com/recruit/ (未開始)
-58. [ ] cinnamonai (Cinnamon AI) - https://cinnamon.ai/recruit/ (未開始)
-59. [ ] heroz (HEROZ) - https://heroz.co.jp/recruit/ (未開始)
-60. [ ] stockmark (Stockmark) - https://stockmark.co.jp/recruit/ (未開始)
-61. [ ] gitai (Gitai) - https://gitai.tech/careers/ (未開始)
-62. [ ] telexistence (Telexistence) - https://tx-inc.com/en/career/ (未開始)
-63. [ ] ispace (ispace) - https://ispace-inc.com/jpn/careers/ (未開始)
-64. [ ] synspective (Synspective) - https://synspective.com/recruit/ (未開始)
-65. [ ] rapidus (Rapidus) - https://www.rapidus.inc/recruit/ (未開始)
-66. [ ] groovex (Groove X) - https://groove-x.com/recruit/ (未開始)
-67. [ ] mujin (Mujin) - https://www.mujin.co.jp/recruit/ (未開始)
-68. [ ] paypay (PayPay) - https://about.paypay.ne.jp/career/ (未開始)
-69. [ ] kyash (Kyash) - https://www.kyash.co/recruit (未開始)
-70. [ ] paidy (Paidy) - https://corp.paidy.com/recruit/ (未開始)
-71. [ ] finatext (Finatext) - https://finatext.com/recruit/ (未開始)
-72. [ ] fintertech (Fintertech) - https://fintertech.notion.site/Fintertech-6ff76224ae9b432fb3e7ab7a84140a2c (未開始)
-73. [ ] gmofg (GMO FG) - https://gmo-fg.com/recruit/ (未開始)
-74. [ ] komoju (KOMOJU) - https://ja.komoju.com/company/careers/ (未開始)
-75. [ ] wed (WED) - https://wed.company/recruit/ (未開始)
-76. [ ] nudge (Nudge) - https://nudge.works/recruit/ (未開始)
-77. [ ] kanmu (Kanmu) - https://team.kanmu.co.jp (未開始)
-78. [ ] coincheck (Coincheck) - https://corporate.coincheck.com/recruit/ (未開始)
-79. [ ] bitflyer (bitFlyer) - https://www.wantedly.com/companies/company_7215089 (未開始)
-80. [ ] hashport (HashPort) - https://hashport.io/recruit/ (未開始)
-81. [ ] gaudiy (Gaudiy) - https://gaudiy.com/recruit/casualtalk (未開始)
-82. [ ] doublejump (double jump) - https://www.doublejump.tokyo/about (未開始)
-83. [ ] cover (Cover) - https://cover-corp.com/recruit/ (未開始)
-84. [ ] anycolor (Anycolor) - https://www.anycolor.co.jp/recruit/ (未開始)
-85. [ ] cluster (Cluster) - https://herp.careers/v1/clustervr (未開始)
-86. [ ] reality (Reality) - https://reality.inc/jobs/ (未開始)
-87. [ ] hikky (HIKKY) - https://www.hikky.co.jp/recruit/ (未開始)
-88. [ ] cygames (Cygames) - https://www.cygames.co.jp/recruit/ (未開始)
-89. [ ] akatsuki (Akatsuki) - https://games.aktsk.jp/recruit/ (未開始)
-90. [ ] colopl (Colopl) - https://colopl.co.jp/recruit/ (未開始)
-91. [ ] mirrativ (Mirrativ) - https://www.mirrativ.co.jp/recruit/ (未開始)
-92. [ ] note (Note) - https://note.jp/n/nc0fe1a230633 (未開始)
-93. [ ] soracom (SORACOM) - https://soracom.com/ja-jp/hr (未開始)
-94. [ ] magicpod (MagicPod) - https://magicpod.com/corporate/recruit/ (未開始)
-95. [ ] autify (Autify) - https://autify.com/ja/careers/ (未開始)
-96. [ ] sakurainternet (Sakura Internet) - https://www.sakura.ad.jp/corporate/recruit/ (未開始)
-97. [ ] classmethod (Classmethod) - https://classmethod.jp/recruit/ (未開始)
-98. [ ] fusic (Fusic) - https://fusic.co.jp/recruit/ (未開始)
-99. [ ] hennge (HENNGE) - https://hennge.com/jp/recruit/ (未開始)
-100. [ ] hatena (Hatena) - https://hatenacorp.jp/recruit/ (未開始)
-101. [ ] studist (Studist) - https://recruit.studist.jp/ (未開始)
-102. [ ] sun (Sun) - https://sun-asterisk.com/recruit/ (未開始)
-103. [ ] luup (Luup) - https://luup.sc/recruit/ (未開始)
-104. [ ] yamap (YAMAP) - https://corporate.yamap.co.jp/recruit/ (未開始)
-105. [ ] go (GO) - https://goinc.jp/career/ (未開始)
-106. [ ] visional (Visional) - https://www.visional.inc/ja/careers.html (未開始)
-107. [ ] goodpatch (Goodpatch) - https://goodpatch.com/careers/ (未開始)
-108. [ ] bekindlabs (Bekind Labs) - https://elfin-grin-868.notion.site/Careers-at-Bekind-Labs-257d463d15ed8093925bfb78e5d19964?pvs=143 (未開始)
-109. [ ] cocone (Cocone Corporation) - https://cocone.co.jp/recruit/ (未開始)
-110. [ ] soda (SODA inc.) - https://recruit.soda-inc.jp/ (未開始)
-111. [ ] hybejapan (HYBE JAPAN) - https://careers.hybecorp.com/?locale=en_US (未開始)
-112. [ ] aws (Amazon Web Services Japan) - https://aws.amazon.com/jp/careers/ (未開始)
-113. [ ] google (Google Japan) - https://careers.google.com/intl/ja_jp/ (未開始)
-114. [ ] microsoft (Microsoft Japan) - https://careers.microsoft.com/ (未開始)
-115. [ ] rakuten (Rakuten Group) - https://corp.rakuten.co.jp/careers/ (未開始)
+53. [x] timee (Timee) - https://corp.timee.co.jp/recruit/ (未開始)
+54. [x] safie (Safie) - https://safie.co.jp/recruit/ (未開始)
+55. [x] pkshatechnology (PKSHA Technology) - https://www.pkshatech.com/recruitment/
+56. [x] abeja (ABEJA) - https://careers.abejainc.com/
+57. [x] exawizards (ExaWizards) - https://exawizards.com/recruit/
+58. [x] cinnamonai (Cinnamon AI) - https://cinnamon.ai/recruit/
+59. [x] heroz (HEROZ) - https://heroz.co.jp/recruit/
+60. [x] stockmark (Stockmark) - https://stockmark.co.jp/recruit/
+61. [x] gitai (Gitai) - https://gitai.tech/careers/
+62. [x] telexistence (Telexistence) - https://tx-inc.com/en/career/
+63. [x] ispace (ispace) - https://ispace-inc.com/jpn/careers/
+64. [x] synspective (Synspective) - https://synspective.com/recruit/
+65. [x] rapidus (Rapidus) - https://www.rapidus.inc/recruit/
+66. [x] groovex (Groove X) - https://groove-x.com/recruit/
+67. [x] mujin (Mujin) - https://www.mujin.co.jp/recruit/
+68. [x] paypay (PayPay) - https://about.paypay.ne.jp/career/
+69. [x] kyash (Kyash) - https://www.kyash.co/recruit
+70. [x] paidy (Paidy) - https://corp.paidy.com/recruit/
+71. [x] finatext (Finatext) - https://finatext.com/recruit/
+72. [x] fintertech (Fintertech) - https://fintertech.notion.site/Fintertech-6ff76224ae9b432fb3e7ab7a84140a2c (求人なし)
+73. [x] gmofg (GMO FG) - https://gmo-fg.com/recruit/
+74. [x] komoju (KOMOJU) - https://ja.komoju.com/company/careers/
+75. [x] wed (WED) - https://wed.company/recruit/
+76. [x] nudge (Nudge) - https://nudge.works/recruit/
+77. [x] kanmu (Kanmu) - https://team.kanmu.co.jp
+78. [x] coincheck (Coincheck) - https://corporate.coincheck.com/recruit/
+79. [x] bitflyer (bitFlyer) - https://www.wantedly.com/companies/company_7215089
+80. [x] hashport (HashPort) - https://hashport.io/recruit/
+81. [x] gaudiy (Gaudiy) - https://gaudiy.com/recruit/casualtalk
+82. [x] doublejump (double jump) - https://www.doublejump.tokyo/about (求人なし)
+83. [x] cover (Cover) - https://cover-corp.com/recruit/
+84. [x] anycolor (Anycolor) - https://www.anycolor.co.jp/recruit/
+85. [x] cluster (Cluster) - https://herp.careers/v1/clustervr
+86. [x] reality (Reality) - https://reality.inc/jobs/
+87. [x] hikky (HIKKY) - https://www.hikky.co.jp/recruit/ (求人なし)
+88. [x] cygames (Cygames) - https://www.cygames.co.jp/recruit/
+89. [x] akatsuki (Akatsuki) - https://games.aktsk.jp/recruit/ (求人なし)
+90. [x] colopl (Colopl) - https://colopl.co.jp/recruit/ (求人なし)
+91. [x] mirrativ (Mirrativ) - https://www.mirrativ.co.jp/recruit/
+92. [x] note (Note) - https://note.jp/n/nc0fe1a230633
+93. [x] soracom (SORACOM) - https://soracom.com/ja-jp/hr
+94. [x] magicpod (MagicPod) - https://magicpod.com/corporate/recruit/
+95. [x] autify (Autify) - https://autify.com/ja/careers/
+96. [x] sakurainternet (Sakura Internet) - https://www.sakura.ad.jp/recruit/
+97. [x] classmethod (Classmethod) - https://careers.classmethod.jp/requirements/
+98. [x] fusic (Fusic) - https://fusic.co.jp/recruit/positions
+99. [x] hennge (HENNGE) - https://recruit.hennge.com/mid-career/
+100. [x] hatena (Hatena) - https://hatena.co.jp/recruit/career
+101. [x] studist (Studist) - https://recruit.studist.jp/recruit
+102. [x] sun (Sun) - https://sun-asterisk.com/recruitment/mid-career
+103. [x] luup (Luup) - https://recruit.luup.sc/
+104. [x] yamap (YAMAP) - https://www.wantedly.com/companies/yamap/projects
+105. [x] go (GO) - https://hrmos.co/pages/goinc/jobs
+106. [x] visional (Visional) - https://www.visional.inc/ja/careers/engineering.html
+107. [x] goodpatch (Goodpatch) - https://hrmos.co/pages/goodpatchhr/jobs
+108. [x] bekindlabs (Bekind Labs) - https://elfin-grin-868.notion.site/Careers-at-Bekind-Labs-257d463d15ed8093925bfb78e5d19964
+109. [x] cocone (Cocone Corporation) - https://cocone.engineering/joinus
+110. [x] soda (SODA inc.) - https://recruit.soda-inc.jp/
+111. [x] hybejapan (HYBE JAPAN) - https://herp.careers/v1/hybejapan (求人なし)
+112. [x] aws (Amazon Web Services Japan) - https://aws.amazon.com/jp/careers/
+113. [x] google (Google Japan) - https://careers.google.com/intl/ja_jp/
+114. [x] microsoft (Microsoft Japan) - https://careers.microsoft.com/
+115. [x] rakuten (Rakuten Group) - https://corp.rakuten.co.jp/careers/

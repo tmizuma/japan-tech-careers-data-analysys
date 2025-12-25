@@ -1,0 +1,62 @@
+{
+  "company_name_ja": "Cover",
+  "company_name_en": "Cover",
+  "description": "VTuber事務所「ホロライブプロダクション」を運営し日本発バーチャルタレントIPで世界を熱狂させる企業。所属タレント100名超・YouTubeチャンネル登録者延べ1億人超。2024年3月に東証グロース上場。売上高350億円超・営業利益85億円超で過去最高を更新。自社開発メタバース「Holoearth」でバーチャルライブやファン交流空間を構築。ライブ・グッズ・ゲームなど多角的なIP展開でグローバルファンベースを拡大中。",
+  "description_en": "Operates VTuber agency \"hololive production,\" captivating the world with Japan-born virtual talent IP. Over 100 affiliated talents with cumulative YouTube channel subscribers exceeding 100 million. Listed on TSE Growth in March 2024. Achieved record highs with over 35 billion yen revenue and over 8.5 billion yen operating profit. Building virtual live concerts and fan interaction spaces through self-developed metaverse \"Holoearth.\" Expanding global fanbase through diversified IP development including live events, merchandise, and games.",
+  "hiring_url": "https://cover-corp.com/recruit/",
+  "num_of_employees": "500+",
+  "sales": 30000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/cover.png",
+  "company_url": "https://cover-corp.com/",
+  "positions": [
+    {
+      "name": "エンジニアリングマネージャー（プラットフォーム事業）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/2202390070375591939"
+    },
+    {
+      "name": "開発プロジェクトマネージャー",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000298"
+    },
+    {
+      "name": "Unityエンジニア（配信システム/ライブ開発）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000328"
+    },
+    {
+      "name": "QAリーダー候補（ホロプラス）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000594"
+    },
+    {
+      "name": "【業務委託】システム導入プロジェクト",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000558"
+    },
+    {
+      "name": "QAリーダー（VTuber配信事業）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000296"
+    },
+    {
+      "name": "クラウドインフラエンジニア（CCoE）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000572"
+    },
+    {
+      "name": "エキスパートUnityエンジニア（配信システム）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000565"
+    },
+    {
+      "name": "テクニカルプロジェクトマネージャー（プラットフォーム事業）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000543"
+    },
+    {
+      "name": "バックエンドエンジニア（テックリード）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000531"
+    },
+    {
+      "name": "バックエンドエンジニア（ホロライブアカウント開発）",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000457"
+    },
+    {
+      "name": "バックエンドエンジニア【ホロプラス/アプリ】",
+      "link": "https://hrmos.co/pages/cover-corp/jobs/0000171"
+    }
+  ]
+}

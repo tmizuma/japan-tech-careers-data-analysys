@@ -1,0 +1,78 @@
+{
+  "company_name_ja": "Fusic",
+  "company_name_en": "Fusic",
+  "description": "福岡を拠点にWebシステム開発・AI・IoT・クラウドインフラ(AWS)を手がける技術者集団。2003年設立で2023年に東証グロース・福証Q-Boardに上場。AWSアドバンストティアサービスパートナーとして2009年からAWSを活用。2024年にはAPN ALL AWS Certifications Engineers 6名・APN AWS Top Engineers 2名を選出。衛星データを活用した農作物生産量予測など宇宙ビジネスにも進出。",
+  "description_en": "A technology group based in Fukuoka specializing in web system development, AI, IoT, and cloud infrastructure (AWS). Founded in 2003 and listed on the TSE Growth Market and Fukuoka Q-Board in 2023. As an AWS Advanced Tier Services Partner, the company has leveraged AWS since 2009. In 2024, six engineers were selected as APN ALL AWS Certifications Engineers and two as APN AWS Top Engineers. The company has also expanded into the space business, including crop yield prediction using satellite data.",
+  "hiring_url": "https://fusic.co.jp/recruit/positions",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/fusic.png",
+  "company_url": "https://fusic.co.jp/",
+  "positions": [
+    {
+      "name": "【特別選考】コーディングテストで本当の実力を試しませんか？Webエンジニア",
+      "link": "https://fusic.co.jp/recruit/positions/50"
+    },
+    {
+      "name": "Webエンジニア(エンジニア経験者）",
+      "link": "https://fusic.co.jp/recruit/positions/4"
+    },
+    {
+      "name": "Webエンジニア（TypeScript/React経験者）",
+      "link": "https://fusic.co.jp/recruit/positions/35"
+    },
+    {
+      "name": "Webエンジニア(業務未経験）",
+      "link": "https://fusic.co.jp/recruit/positions/6"
+    },
+    {
+      "name": "アナリティクスエンジニア",
+      "link": "https://fusic.co.jp/recruit/positions/57"
+    },
+    {
+      "name": "IoTクラウドエンジニア",
+      "link": "https://fusic.co.jp/recruit/positions/26"
+    },
+    {
+      "name": "クラウドエンジニア",
+      "link": "https://fusic.co.jp/recruit/positions/7"
+    },
+    {
+      "name": "テストエンジニア(テスト実行担当）",
+      "link": "https://fusic.co.jp/recruit/positions/8"
+    },
+    {
+      "name": "テストエンジニア(プロジェクトマネジメント担当）",
+      "link": "https://fusic.co.jp/recruit/positions/34"
+    },
+    {
+      "name": "シニアプロジェクトマネージャー",
+      "link": "https://fusic.co.jp/recruit/positions/47"
+    },
+    {
+      "name": "プロジェクトマネージャー",
+      "link": "https://fusic.co.jp/recruit/positions/46"
+    },
+    {
+      "name": "【特別選考】プロダクトエンジニア（sigfy 学校連絡サービス）",
+      "link": "https://fusic.co.jp/recruit/positions/51"
+    },
+    {
+      "name": "プロダクトエンジニア360（さんろくまる）（360度フィードバックツール）",
+      "link": "https://fusic.co.jp/recruit/positions/59"
+    },
+    {
+      "name": "プロダクトエンジニアsigfy（学校連絡サービス）",
+      "link": "https://fusic.co.jp/recruit/positions/52"
+    },
+    {
+      "name": "宇宙クラウドエンジニア（宇宙業界経験者）",
+      "link": "https://fusic.co.jp/recruit/positions/55"
+    },
+    {
+      "name": "宇宙クラウドエンジニア（宇宙業界未経験者）",
+      "link": "https://fusic.co.jp/recruit/positions/56"
+    }
+  ]
+}

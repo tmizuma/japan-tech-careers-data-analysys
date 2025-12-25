@@ -1,0 +1,74 @@
+{
+  "company_name_ja": "bitFlyer Blockchain",
+  "company_name_en": "bitFlyer",
+  "description": "独自ブロックチェーン「Miyabi」を開発・提供しプライベート型でファイナリティとデータ整合性を確保しながら秒間4000トランザクション以上の高速処理を実現。独自コンセンサスアルゴリズム「BFK2」と実行エンジン「理（ことわり）」でスマートコントラクトのバグ時もアセット保護機能で被害拡大を防止。2016年運用開始以降金融・不動産・保険・エンタメ等で住友商事・三井住友海上・Microsoft・デロイトトーマツ等が活用。2020年よりBaaS（クラウド）提供開始。2022年ブランドリニューアルとMiyabi Explorerを公開。",
+  "description_en": "Develops and provides proprietary blockchain \"Miyabi,\" achieving high-speed processing of over 4,000 transactions per second while ensuring finality and data integrity as a private blockchain. Proprietary consensus algorithm \"BFK2\" and execution engine \"Kotowari\" prevent damage spread through asset protection even during smart contract bugs. Used by Sumitomo Corporation, Mitsui Sumitomo Insurance, Microsoft, Deloitte Tohmatsu, and others in finance, real estate, insurance, and entertainment since 2016 launch. Began BaaS (cloud) offering in 2020. Brand renewal and Miyabi Explorer released in 2022.",
+  "hiring_url": "https://www.wantedly.com/companies/company_7215089",
+  "num_of_employees": "50+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/bitflyer.png",
+  "company_url": "https://blockchain.bitflyer.com/",
+  "positions": [
+    {
+      "name": "サーバーサイドエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/60"
+    },
+    {
+      "name": "Webフロントエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/93"
+    },
+    {
+      "name": "iOSアプリエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/64"
+    },
+    {
+      "name": "Androidアプリエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/65"
+    },
+    {
+      "name": "クラウドエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/16"
+    },
+    {
+      "name": "SRE（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/38"
+    },
+    {
+      "name": "脆弱性診断士（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/40"
+    },
+    {
+      "name": "セキュリティエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/100"
+    },
+    {
+      "name": "Software Engineer in Test（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/20"
+    },
+    {
+      "name": "QAエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/66"
+    },
+    {
+      "name": "Backend Engineer（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/58"
+    },
+    {
+      "name": "DevOps Engineer（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/59"
+    },
+    {
+      "name": "エンジニアリングマネージャー（マネージャー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/91"
+    },
+    {
+      "name": "データエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/94"
+    },
+    {
+      "name": "ネットワークエンジニア（マネージャー／メンバー）",
+      "link": "https://bitflyer.com/ja-jp/recruit/offers/97"
+    }
+  ]
+}

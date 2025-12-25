@@ -1,0 +1,98 @@
+{
+  "company_name_ja": "セーフィー",
+  "company_name_en": "Safie",
+  "description": "クラウド録画サービス国内シェア55.3%でNo.1の映像プラットフォーム「Safie」を開発・運営。従来の防犯カメラと比べ1/10以下のコストを実現しパソコン・スマートフォンでいつでもどこでもインターネット経由で映像確認が可能。2024年通期売上高150億円（前期比27.4%増）・ARR119億円・課金カメラ台数29.3万台に到達。2025年売上高予想184億円で調整後営業利益黒字化を見込む。2024年には360度全方位撮影の屋外向け「Safie GO 360」を発表。AIと映像データを組み合わせ産業の現場DXを推進。",
+  "description_en": "Develops and operates video platform \"Safie\" with #1 domestic cloud recording service market share at 55.3%. Achieves less than 1/10 the cost of traditional security cameras with video access anytime, anywhere via PC or smartphone over internet. FY2024 full-year revenue of 15 billion yen (YoY +27.4%), ARR of 11.9 billion yen, and 293,000 paid cameras. FY2025 revenue forecast of 18.4 billion yen with adjusted operating profit profitability expected. Announced outdoor 360-degree \"Safie GO 360\" in 2024. Promotes industrial frontline DX combining AI and video data.",
+  "hiring_url": "https://safie.co.jp/recruit/",
+  "num_of_employees": "400+",
+  "sales": 12000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/safie.png",
+  "company_url": "https://safie.link/",
+  "positions": [
+    {
+      "name": "オープンポジション（プロダクト開発系）",
+      "link": ""
+    },
+    {
+      "name": "サーバーサイドエンジニア / AIプラットフォーム (メンバー〜リーダー候補)",
+      "link": "https://open.talentio.com/r/1/c/safie/pages/106896"
+    },
+    {
+      "name": "サーバーサイドエンジニア / プロダクト (メンバー〜リーダー候補)",
+      "link": ""
+    },
+    {
+      "name": "サーバーサイドエンジニア / 配信基盤 (シニア〜リーダー候補)",
+      "link": ""
+    },
+    {
+      "name": "インフラ・SREエンジニア（シニア〜リーダー候補）",
+      "link": ""
+    },
+    {
+      "name": "モバイルエンジニア（iOS）",
+      "link": ""
+    },
+    {
+      "name": "モバイルエンジニア（Android）",
+      "link": ""
+    },
+    {
+      "name": "デバイスエンジニア（シニア）",
+      "link": ""
+    },
+    {
+      "name": "デバイスエンジニア",
+      "link": ""
+    },
+    {
+      "name": "基幹システム開発エンジニア【契約・請求・債権周辺領域担当】",
+      "link": ""
+    },
+    {
+      "name": "エンジニアリングオフィス",
+      "link": ""
+    },
+    {
+      "name": "基幹システム企画・プロジェクトマネージャー（CRM導入経験者歓迎）",
+      "link": ""
+    },
+    {
+      "name": "データエンジニア / アナリティクスエンジニア",
+      "link": ""
+    },
+    {
+      "name": "シニアフロントエンドエンジニア（フルスタック）",
+      "link": ""
+    },
+    {
+      "name": "データアナリスト / データ分析コンサルタント",
+      "link": ""
+    },
+    {
+      "name": "プロダクトマネージャー（オープンポジション）",
+      "link": ""
+    },
+    {
+      "name": "プロダクトマネージャー（新規事業企画）",
+      "link": ""
+    },
+    {
+      "name": "プロダクトマネージャー（IoTデバイス）",
+      "link": ""
+    },
+    {
+      "name": "プロダクトオペレーションマネージャー（プロダクトOps）",
+      "link": ""
+    },
+    {
+      "name": "プロダクトマネージャー（AIソリューションプラットフォーム）",
+      "link": ""
+    },
+    {
+      "name": "UI/UXデザイナー",
+      "link": ""
+    }
+  ]
+}

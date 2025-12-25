@@ -1,0 +1,50 @@
+{
+  "company_name_ja": "Anycolor",
+  "company_name_en": "Anycolor",
+  "description": "VTuber事務所「にじさんじ」を運営し日本・英語圏・韓国・中国で500名超のライバーが活動。2022年に東証グロース上場。2024年度売上高310億円・営業利益74億円。リアルタイム配信技術とIP多角化（ライブ・グッズ・ゲーム・楽曲）で収益化。YouTubeチャンネル登録者延べ2億人超でホロライブと並ぶVTuber業界の二大勢力。グローバル展開とファンエンゲージメント技術で成長継続。",
+  "description_en": "Operates VTuber agency \"NIJISANJI\" with over 500 livers active in Japan, English-speaking regions, Korea, and China. Listed on TSE Growth in 2022. FY2024 revenue of 31 billion yen and operating profit of 7.4 billion yen. Monetizes through real-time streaming technology and IP diversification (live events, merchandise, games, music). Cumulative YouTube channel subscribers exceeding 200 million, one of the two major forces in VTuber industry alongside hololive. Continuing growth through global expansion and fan engagement technology.",
+  "hiring_url": "https://www.anycolor.co.jp/recruit/",
+  "num_of_employees": "400+",
+  "sales": 30000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/anycolor.png",
+  "company_url": "https://www.anycolor.co.jp/",
+  "positions": [
+    {
+      "name": "3D配信アプリ開発 - Unityエンジニア",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754920054"
+    },
+    {
+      "name": "にじ3Dアプリ開発 - Unityエンジニア",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754920053"
+    },
+    {
+      "name": "にじさんじアプリ開発 - Unityエンジニア",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754920052"
+    },
+    {
+      "name": "映像用サウンドエンジニア（MA）",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754920059"
+    },
+    {
+      "name": "ECストア開発エンジニア",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754920051"
+    },
+    {
+      "name": "データエンジニア",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754920030"
+    },
+    {
+      "name": "モバイルエンジニア",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754919969"
+    },
+    {
+      "name": "業務支援システム開発エンジニア",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754919943"
+    },
+    {
+      "name": "データアナリスト",
+      "link": "https://hrmos.co/pages/anycolor/jobs/2019616903754920031"
+    }
+  ]
+}

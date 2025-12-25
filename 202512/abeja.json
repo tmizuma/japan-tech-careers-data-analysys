@@ -1,0 +1,62 @@
+{
+  "company_name_ja": "ABEJA",
+  "company_name_en": "ABEJA",
+  "description": "2012年設立のAI・DXプラットフォーム企業。ミッションクリティカル業務へのAI導入を支援する「ABEJA Platform」を開発・運用し300社以上のDXを支援。製造業・インフラ・物流・小売など幅広い業界に対応し生成AIをはじめとする最先端技術を活用可能なデジタル版EMSとして事業展開。2024年にはNEDOの競争力ある生成AI基盤モデル（GENIAC）事業に採択されミッションクリティカル業務向けLLMとAIエージェントを開発。三菱商事・ヒューリック・SOMPOホールディングスと資本業務提携を締結。",
+  "description_en": "AI/DX platform company founded in 2012. Develops and operates \"ABEJA Platform\" to support AI adoption in mission-critical operations, assisting DX for over 300 companies. Serves diverse industries including manufacturing, infrastructure, logistics, and retail as a digital EMS leveraging cutting-edge technologies including generative AI. Selected for NEDO's competitive generative AI foundation model (GENIAC) project in 2024, developing LLMs and AI agents for mission-critical operations. Established capital and business alliances with Mitsubishi Corporation, Hulic, and SOMPO Holdings.",
+  "hiring_url": "https://careers.abejainc.com/",
+  "num_of_employees": "100+",
+  "sales": 3000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/abeja.png",
+  "company_url": "https://abejainc.com/",
+  "positions": [
+    {
+      "name": "【27新卒】データサイエンティスト（インターンシップ）",
+      "link": "https://hrmos.co/pages/abeja/jobs/1778334258199916582"
+    },
+    {
+      "name": "【27新卒】ソフトウェアエンジニア（プラットフォーム領域）（インターンシップ）",
+      "link": "https://hrmos.co/pages/abeja/jobs/1778334258199916583"
+    },
+    {
+      "name": "【27新卒】ソフトウェアエンジニア（トランスフォーメーション領域）（インターンシップ）",
+      "link": "https://hrmos.co/pages/abeja/jobs/2054751761130872845"
+    },
+    {
+      "name": "CEO室（PdM）",
+      "link": "https://hrmos.co/pages/abeja/jobs/dev-en41_-ceo11"
+    },
+    {
+      "name": "トランスフォーメーション領域：ソフトウェアエンジニア",
+      "link": "https://hrmos.co/pages/abeja/jobs/dev-se41-sol11"
+    },
+    {
+      "name": "トランスフォーメーション領域：ソフトウェアエンジニア（リードクラス）",
+      "link": "https://hrmos.co/pages/abeja/jobs/dev-se21-sol11"
+    },
+    {
+      "name": "トランスフォーメーション領域：データエンジニア",
+      "link": "https://hrmos.co/pages/abeja/jobs/dev-de41-sol11"
+    },
+    {
+      "name": "トランスフォーメーション領域：データサイエンティスト",
+      "link": "https://hrmos.co/pages/abeja/jobs/dev-ds41-sol11"
+    },
+    {
+      "name": "トランスフォーメーション領域：データサイエンティスト（ミドル）",
+      "link": "https://hrmos.co/pages/abeja/jobs/dev-ds31-41-sol11"
+    },
+    {
+      "name": "トランスフォーメーション領域：データサイエンティスト（シニア）",
+      "link": "https://hrmos.co/pages/abeja/jobs/dev-dse-41-sol11"
+    },
+    {
+      "name": "プラットフォーム領域：ソフトウェアエンジニア",
+      "link": "https://hrmos.co/pages/abeja/jobs/dev-se0161-prd11"
+    },
+    {
+      "name": "情報システム・セキュリティ担当者",
+      "link": "https://hrmos.co/pages/abeja/jobs/2054751761130872850"
+    }
+  ]
+}

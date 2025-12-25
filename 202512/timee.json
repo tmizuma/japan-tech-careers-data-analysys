@@ -1,0 +1,102 @@
+{
+  "company_name_ja": "Timee",
+  "company_name_en": "Timee",
+  "description": "スキマバイト・スポットワーク市場のリーディングカンパニー。累計登録ワーカー1000万人・登録事業所33.5万拠点で国内No.1のスキマバイトプラットフォームを運営。履歴書・面接不要で即日勤務可能・勤務終了後すぐ報酬受取可能な仕組みで人手不足解消と柔軟な働き方を両立。2024年のスポットワーク市場規模は1216億円で2年前から3倍超に拡大。2024年7月に東証グロース上場し時価総額1569億円の大型上場を達成。第3四半期累計売上高248億円（前年比30.5%増）と大幅増収増益を継続。",
+  "description_en": "Leading company in gig work and spot work market. Operates Japan's #1 gig work platform with 10 million cumulative registered workers and 335,000 registered business locations. Enables same-day work without resume or interview and immediate payment after shift completion, addressing labor shortages while enabling flexible work styles. 2024 spot work market size reached 121.6 billion yen, tripling from two years prior. Listed on TSE Growth in July 2024 with major IPO achieving 156.9 billion yen market cap. Q3 cumulative revenue of 24.8 billion yen (YoY +30.5%) with continued significant revenue and profit growth.",
+  "hiring_url": "https://corp.timee.co.jp/recruit/",
+  "num_of_employees": "1000+",
+  "sales": 16000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/timee.png",
+  "company_url": "https://timee.co.jp/",
+  "positions": [
+    {
+      "name": "Senior Product Security Engineer",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191786"
+    },
+    {
+      "name": "シニアプロダクトデザイナー",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191764"
+    },
+    {
+      "name": "プロダクトマネージャー/PdM",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191768"
+    },
+    {
+      "name": "インフラアーキテクト（データ基盤）",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191763"
+    },
+    {
+      "name": "データプログラムマネージャー",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191762"
+    },
+    {
+      "name": "シニアコーポレートIT/Senior CorporateIT",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191759"
+    },
+    {
+      "name": "PdM（共通基盤）/プロダクトマネージャー（共通基盤）",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191757"
+    },
+    {
+      "name": "MLOpsエンジニア",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191755"
+    },
+    {
+      "name": "データサイエンティスト",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191752"
+    },
+    {
+      "name": "シニアデータサイエンティスト",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191753"
+    },
+    {
+      "name": "シニアMLOpsエンジニア",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191756"
+    },
+    {
+      "name": "DoP(Director of Product)候補",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191811"
+    },
+    {
+      "name": "PdM（Growth）/プロダクトマネージャー（グロース領域）",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191703"
+    },
+    {
+      "name": "テクニカルプログラムマネージャー/Technical Program Manager",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191810"
+    },
+    {
+      "name": "Product Strategist",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191808"
+    },
+    {
+      "name": "認証基盤開発エンジニア",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191807"
+    },
+    {
+      "name": "Engineering Manager",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191809"
+    },
+    {
+      "name": "Software Engineer, Platform",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191812"
+    },
+    {
+      "name": "Senior Software Engineer, Backend",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191806"
+    },
+    {
+      "name": "Software Engineer, Android",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191801"
+    },
+    {
+      "name": "Software Engineer, iOS",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191800"
+    },
+    {
+      "name": "Software Engineer, Backend",
+      "link": "https://hrmos.co/pages/timee/jobs/16822514041183191805"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "company_name_ja": "ispace",
+  "company_name_en": "ispace",
+  "description": "民間月探査プログラム「HAKUTO-R」を主導する宇宙開発ベンチャー。2022年12月にミッション1として月着陸船を打ち上げ2023年4月に月面着陸に挑戦。2025年1月にはミッション2として月着陸船「RESILIENCE」をSpaceXのFalcon 9で打ち上げ民間企業として史上初の月のスイングバイに成功。2026年には米国法人主導のミッション3を計画し新型ランダー「APEX1.0」は最大ペイロード300kg（従来の10倍）で本格的な商用開始を目指す。2027年には日本開発のシリーズ3ランダーを用いたミッション4を予定。月面輸送サービスの商業化を推進。",
+  "description_en": "Space development venture leading private lunar exploration program \"HAKUTO-R.\" Launched lunar lander as Mission 1 in December 2022, attempting moon landing in April 2023. Launched lunar lander \"RESILIENCE\" as Mission 2 via SpaceX Falcon 9 in January 2025, achieving first-ever lunar swing-by by a private company. Planning US subsidiary-led Mission 3 in 2026 with new lander \"APEX1.0\" carrying maximum 300kg payload (10x previous) for full commercial launch. Mission 4 using Japan-developed Series 3 lander planned for 2027. Promoting commercialization of lunar transportation services.",
+  "hiring_url": "https://ispace-inc.com/jpn/careers/",
+  "num_of_employees": "200+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/ispace.png",
+  "company_url": "https://ispace-inc.com/",
+  "positions": [
+    {
+      "name": "Lead Solutions Architect",
+      "link": "https://jobs.lever.co/ispace-inc/96c2ce4a-d130-4427-91ae-360368702a6f"
+    },
+    {
+      "name": "RF / Communications Systems Engineer",
+      "link": "https://jobs.lever.co/ispace-inc/c9521745-f5e5-4b64-b84f-c0ba5315c63a"
+    },
+    {
+      "name": "Rocket Propulsion Engineer",
+      "link": "https://jobs.lever.co/ispace-inc/8180e2ec-57ad-439d-8fc0-46af1de7fa35"
+    },
+    {
+      "name": "Systems Engineer for Spacecraft Payloads ペイロードシステムエンジニア",
+      "link": "https://jobs.lever.co/ispace-inc/24df6b29-2666-41f8-9373-2deea9168396"
+    },
+    {
+      "name": "IT and Operation Support Intern (part-time)",
+      "link": "https://jobs.lever.co/ispace-inc/526e4f3c-7f15-4e00-9ef6-4008a2e55746"
+    }
+  ]
+}

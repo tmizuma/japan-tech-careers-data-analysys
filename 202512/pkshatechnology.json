@@ -1,0 +1,142 @@
+{
+  "company_name_ja": "PKSHA Technology",
+  "company_name_en": "PKSHA Technology",
+  "description": "東京大学発AIスタートアップで2017年9月東証マザーズ上場（現プライム）。自然言語処理・画像認識・機械学習/深層学習技術を活用しAI SaaS・アルゴリズムソリューションを提供。主力製品「PKSHA ChatAgent」は深層学習と日本語固有NLP技術で5000万人超の会話ログを分析し高精度な意図理解を実現しAIチャットボット市場シェアNo.1。3000社以上に導入。2024年にはマイクロソフトと共同で世界初のRetentive Network活用日英LLMを開発。2025年6月期売上高154億円（前年比125.1%）と高成長を継続。",
+  "description_en": "AI startup spun out from University of Tokyo, listed on TSE Mothers in September 2017 (now Prime). Provides AI SaaS and algorithm solutions utilizing NLP, image recognition, and machine/deep learning technologies. Flagship product \"PKSHA ChatAgent\" analyzes over 50 million conversation logs with deep learning and Japanese-specific NLP technology to achieve high-precision intent understanding, holding #1 AI chatbot market share. Deployed in over 3,000 companies. Developed world's first Japanese-English LLM utilizing Retentive Network jointly with Microsoft in 2024. FY2025 June revenue of 15.4 billion yen (YoY +125.1%) with continued high growth.",
+  "hiring_url": "https://www.pkshatech.com/recruitment/",
+  "num_of_employees": "300+",
+  "sales": 14000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/pksha-technology.png",
+  "company_url": "https://www.pkshatech.com/",
+  "positions": [
+    {
+      "name": "アルゴリズムエンジニア (機械学習エンジニア/データサイエンティスト)【AI Solution】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/000eng_001"
+    },
+    {
+      "name": "ソフトウエアエンジニア【AI Research&Solution】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/000eng_008"
+    },
+    {
+      "name": "ソフトウエアエンジニア【MaaS】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/000eng_010"
+    },
+    {
+      "name": "アルゴリズムエンジニア (機械学習エンジニア/データサイエンティスト)【AI SaaS】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/000eng_012"
+    },
+    {
+      "name": "QAエンジニア【AI SaaS】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/000eng_020"
+    },
+    {
+      "name": "【26年新卒】AIの社会実装に特化した上場ベンチャーでアルゴリズムエンジニア募集（PKSHAグループ）",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/003new_2605"
+    },
+    {
+      "name": "【26年新卒】AIの社会実装に特化した上場ベンチャーでソフトウエアエンジニア募集（PKSHAグループ）",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/003new_2606"
+    },
+    {
+      "name": "ソフトウエアエンジニア【新規事業/AI HR開発推進室】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349003"
+    },
+    {
+      "name": "ソフトウエアエンジニア(フロントエンド)【PKSHA Speech Insight】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349034"
+    },
+    {
+      "name": "\"事業の「ど真ん中」で価値創出を担う\" CEO室 アルゴリズムエンジニア（ 事業価値最大化担当 ）",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349035"
+    },
+    {
+      "name": "\"事業の「ど真ん中」で価値創出を担う\" CEO室 ソフトウェアエンジニア（ 事業価値最大化担当 ）",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349036"
+    },
+    {
+      "name": "27新卒以降_本選考・インターン",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349046"
+    },
+    {
+      "name": "ソフトウエアエンジニア【AI SaaS_FAQ】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349047"
+    },
+    {
+      "name": "ソフトウエアエンジニア【AI SaaS_ChatAgent】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349048"
+    },
+    {
+      "name": "ソフトウエアエンジニア【AI SaaS_AI ヘルプデスク】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349049"
+    },
+    {
+      "name": "ソフトウエアエンジニア【AI SaaS_PKSHA Speech Insight】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349050"
+    },
+    {
+      "name": "ソフトウエアエンジニア【AI SaaS_VoiceAgent】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349051"
+    },
+    {
+      "name": "ソフトウエアエンジニア【AI SaaS_AI技術本部】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349052"
+    },
+    {
+      "name": "SRE【AI SaaS_ChatAgent】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349054"
+    },
+    {
+      "name": "SRE【AI SaaS_AI ヘルプデスク】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349055"
+    },
+    {
+      "name": "SRE【AI SaaS_PKSHA Speech Insight】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349056"
+    },
+    {
+      "name": "SRE【AI SaaS_VoiceAgent】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349057"
+    },
+    {
+      "name": "プロダクトマネージャー【新規事業/AI HR開発推進室】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349064"
+    },
+    {
+      "name": "QAエンジニア(マネージャー候補)【AI SaaS】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349065"
+    },
+    {
+      "name": "シニアテックリード【CEO室】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349076"
+    },
+    {
+      "name": "プロダクトマネージャー【AI SaaS】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/000eng_011"
+    },
+    {
+      "name": "AI SaaSプロジェクトマネージャー【AI SaaS/AI Voice】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/001biz_011"
+    },
+    {
+      "name": "シニアプロダクトマネージャー【CEO室】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349072"
+    },
+    {
+      "name": "シニアプロダクトマネージャー【AI Powered Worker事業】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349073"
+    },
+    {
+      "name": "プロジェクトマネージャー【CEO室】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349074"
+    },
+    {
+      "name": "プロジェクトマネージャー【AI Powered Worker事業】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349075"
+    },
+    {
+      "name": "事業開発×新規プロダクト推進【CEO室/新規事業】",
+      "link": "https://hrmos.co/pages/pkshatech/jobs/2086035709595349078"
+    }
+  ]
+}

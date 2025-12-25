@@ -1,0 +1,42 @@
+{
+  "company_name_ja": "Hatena",
+  "company_name_en": "Hatena",
+  "description": "2001年創業の京都発テック企業。約1247万人が利用する「はてなブックマーク」「はてなブログ」等のコンテンツプラットフォームを運営。SaaS型サーバー監視サービス「Mackerel」は日本企業初のAWS ISVワークロード移行プログラムパートナー認定を取得。2024年にOpenTelemetry対応機能をリリースし2025年にはAPM機能を正式提供開始。オブザーバビリティプラットフォームへの進化を推進。",
+  "description_en": "A Kyoto-based tech company founded in 2001. Operates content platforms including \"Hatena Bookmark\" and \"Hatena Blog\" with approximately 12.47 million users. Its SaaS server monitoring service \"Mackerel\" became the first Japanese company to receive AWS ISV Workload Migration Program Partner certification. Released OpenTelemetry support in 2024 and officially launched APM features in 2025. Driving evolution toward an observability platform.",
+  "hiring_url": "https://hatena.co.jp/recruit/career",
+  "num_of_employees": "200+",
+  "sales": 3000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/hatena.png",
+  "company_url": "https://hatenacorp.jp/",
+  "positions": [
+    {
+      "name": "Webアプリケーションエンジニア",
+      "link": "https://hatena.co.jp/recruit/career/application-engineer"
+    },
+    {
+      "name": "iOS、Androidアプリエンジニア",
+      "link": "https://hatena.co.jp/recruit/career/sp-application-engineer"
+    },
+    {
+      "name": "SRE",
+      "link": "https://hatena.co.jp/recruit/career/sre"
+    },
+    {
+      "name": "CRE",
+      "link": "https://hatena.co.jp/recruit/career/cre"
+    },
+    {
+      "name": "エンジニアリングマネージャー",
+      "link": "https://hatena.co.jp/recruit/career/engineering-manager"
+    },
+    {
+      "name": "情報システムエンジニア",
+      "link": "https://hatena.co.jp/recruit/career/information-system"
+    },
+    {
+      "name": "デザイナー",
+      "link": "https://hatena.co.jp/recruit/career/designer"
+    }
+  ]
+}

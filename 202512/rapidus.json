@@ -1,0 +1,86 @@
+{
+  "company_name_ja": "Rapidus",
+  "company_name_en": "Rapidus",
+  "description": "2022年8月設立の次世代半導体国産化プロジェクトを担う国家戦略企業。トヨタ・NTT・ソニーなど国内主要企業が出資し米国IBM社と連携して線幅2ナノメートル以下の最高水準半導体の技術開発・量産製造の事業化を目指す。2023年2月に北海道千歳市に工場立地決定。2025年4月に次世代半導体製造拠点「IIM」で2nm世代先端半導体向け試作ラインの稼働を正式開始。2025年7月には2nm GAAトランジスタの初の動作成功を達成。投資総額5兆円規模で道内過去最大。北海道の豊富な水資源・再生可能エネルギーを活用し2027年の量産開始を目指す。",
+  "description_en": "National strategic company leading next-generation semiconductor domestic production project, established August 2022. Major Japanese companies including Toyota, NTT, and Sony invested, partnering with US IBM to develop and commercialize mass production of cutting-edge semiconductors with 2nm or smaller line width. Factory location decided in Chitose, Hokkaido in February 2023. Officially started pilot line operation for 2nm-generation advanced semiconductors at next-generation semiconductor manufacturing base \"IIM\" in April 2025. Achieved first successful operation of 2nm GAA transistor in July 2025. Total investment of 5 trillion yen scale, largest in Hokkaido history. Targeting mass production start in 2027 utilizing Hokkaido's abundant water resources and renewable energy.",
+  "hiring_url": "https://www.rapidus.inc/recruit/",
+  "num_of_employees": "300+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/rapidus.png",
+  "company_url": "https://www.rapidus.inc/",
+  "positions": [
+    {
+      "name": "(EA推進部)社内購買システム開発・保守担当（社員〜主任クラス）",
+      "link": "https://rapidus.link/recruit/experienced/ea%e6%8e%a8%e9%80%b2%e9%83%a8%e7%a4%be%e5%86%85%e8%b3%bc%e8%b2%b7%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e9%96%8b%e7%99%ba%e3%83%bb%e4%bf%9d%e5%ae%88%e6%8b%85%e5%bd%93%ef%bc%88%e7%a4%be%e5%93%a1/"
+    },
+    {
+      "name": "（EA推進部）顧客向けWEBサービスサイト企画開発・保守要員（社員～主任クラス）",
+      "link": "https://rapidus.link/recruit/experienced/ea%e6%8e%a8%e9%80%b2%e9%83%a8%e9%a1%a7%e5%ae%a2%e5%90%91%e3%81%91web%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%82%b5%e3%82%a4%e3%83%88%e4%bc%81%e7%94%bb%e9%96%8b%e7%99%ba%e3%83%bb%e4%bf%9d%e5%ae%88/"
+    },
+    {
+      "name": "(EA推進部)社内人事情報システム開発・保守担当（社員～主任クラス）",
+      "link": "https://rapidus.link/recruit/experienced/ea%e6%8e%a8%e9%80%b2%e9%83%a8%e7%a4%be%e5%86%85%e4%ba%ba%e4%ba%8b%e6%83%85%e5%a0%b1%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e9%96%8b%e7%99%ba%e3%83%bb%e4%bf%9d%e5%ae%88%e6%8b%85%e5%bd%93%ef%bc%88/"
+    },
+    {
+      "name": "(EA推進部)社内情報システム運用・保守（社員～主任クラス）",
+      "link": "https://rapidus.link/recruit/experienced/ea%e6%8e%a8%e9%80%b2%e9%83%a8%e7%a4%be%e5%86%85%e6%83%85%e5%a0%b1%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e9%81%8b%e7%94%a8%e3%83%bb%e4%bf%9d%e5%ae%88%ef%bc%88%e7%a4%be%e5%93%a1%ef%bd%9e%e4%b8%bb/"
+    },
+    {
+      "name": "（ITセキュリティ部）ITインフラエンジニア（リーダー、メンバー）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89it%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%aa%e3%83%bc/"
+    },
+    {
+      "name": "（ITセキュリティ部）情報セキュリティ企画推進担当（リーダー、メンバー）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89%e6%83%85%e5%a0%b1%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e4%bc%81%e7%94%bb%e6%8e%a8%e9%80%b2%e6%8b%85/"
+    },
+    {
+      "name": "（ITセキュリティ部）インフラネットワーク運用業務",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89%e3%82%a4%e3%83%b3%e3%83%95%e3%83%a9%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e9%81%8b%e7%94%a8%e6%a5%ad/"
+    },
+    {
+      "name": "（ITセキュリティ部）設計開発系ITエンジニア（リーダー、メンバー）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89%e8%a8%ad%e8%a8%88%e9%96%8b%e7%99%ba%e7%b3%bbit%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%aa/"
+    },
+    {
+      "name": "（ITセキュリティ部）ネットワークエンジニア（リーダー、メンバー）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%aa/"
+    },
+    {
+      "name": "（ITセキュリティ部）サーバーエンジニア（リーダー、メンバー）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2%ef%bc%88%e3%83%aa%e3%83%bc%e3%83%80/"
+    },
+    {
+      "name": "（ITセキュリティ部）半導体工場 IT・ネットワーク基盤の監視・運用・保守業務",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89%e5%8d%8a%e5%b0%8e%e4%bd%93%e5%b7%a5%e5%a0%b4%e3%80%80it%e3%83%bb%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc/"
+    },
+    {
+      "name": "（ITセキュリティ部）ネットワークセキュリティエンジニア（リーダー、メンバー）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a8/"
+    },
+    {
+      "name": "（ITセキュリティ部）クラウドセキュリティエンジニア（リーダー、メンバー）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89%e3%82%af%e3%83%a9%e3%82%a6%e3%83%89%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%82%a8%e3%83%b3%e3%82%b8/"
+    },
+    {
+      "name": "（ITセキュリティ部）SOCアナリスト（セキュリティエンジニア）（リーダー、メンバー）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88it%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e9%83%a8%ef%bc%89soc%e3%82%a2%e3%83%8a%e3%83%aa%e3%82%b9%e3%83%88%ef%bc%88%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3/"
+    },
+    {
+      "name": "（EA推進部）社内情報システムの開発・運用基準作成、監査（主任～マネージャクラス）",
+      "link": "https://rapidus.link/recruit/experienced/%ef%bc%88ea%e6%8e%a8%e9%80%b2%e9%83%a8%ef%bc%89%e7%a4%be%e5%86%85%e6%83%85%e5%a0%b1%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%81%ae%e9%96%8b%e7%99%ba%e3%83%bb%e9%81%8b%e7%94%a8%e5%9f%ba%e6%ba%96%e4%bd%9c/"
+    },
+    {
+      "name": "(EA推進部)社内情報システム用データ基盤構築要員（社員～主任クラス）",
+      "link": "https://rapidus.link/recruit/experienced/ea%e6%8e%a8%e9%80%b2%e9%83%a8%e7%a4%be%e5%86%85%e6%83%85%e5%a0%b1%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e7%94%a8%e3%83%87%e3%83%bc%e3%82%bf%e5%9f%ba%e7%9b%a4%e6%a7%8b%e7%af%89%e8%a6%81%e5%93%a1/"
+    },
+    {
+      "name": "(EA推進部)社内需給・販売・計画系システム開発保守要員（社員～主任クラス）",
+      "link": "https://rapidus.link/recruit/experienced/ea%e6%8e%a8%e9%80%b2%e9%83%a8%e7%a4%be%e5%86%85%e9%9c%80%e7%b5%a6%e3%83%bb%e8%b2%a9%e5%a3%b2%e3%83%bb%e8%a8%88%e7%94%bb%e7%b3%bb%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e9%96%8b%e7%99%ba%e4%bf%9d/"
+    },
+    {
+      "name": "OPEN POSITION",
+      "link": "https://rapidus.link/recruit/experienced/open-position/"
+    }
+  ]
+}

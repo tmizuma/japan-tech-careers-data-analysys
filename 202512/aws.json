@@ -1,0 +1,54 @@
+{
+  "company_name_ja": "アマゾンウェブサービスジャパン",
+  "company_name_en": "Amazon Web Services Japan",
+  "description": "世界最大のクラウドサービスプロバイダー。200以上のクラウドサービスを世界190カ国以上で展開し業界トップシェアを維持。AI・機械学習、データ分析、コンピューティング、データベース、セキュリティなど包括的なサービスを提供。2024年のグローバル売上高は1076億ドル（約16兆円）で営業利益率は約37%。東京・大阪にリージョンを持ち日本企業のDX推進を支援。「毎日がDay 1」の精神で常に挑戦し続ける文化が特徴。",
+  "description_en": "World's largest cloud service provider. Operates over 200 cloud services in more than 190 countries, maintaining industry-leading market share. Offers comprehensive services including AI/ML, data analytics, computing, databases, and security. 2024 global revenue reached $107.6 billion (approximately 16 trillion yen) with operating margin of about 37%. Has regions in Tokyo and Osaka, supporting Japanese enterprises' digital transformation. Characterized by 'Every day is Day 1' culture of continuous innovation.",
+  "hiring_url": "https://aws.amazon.com/jp/careers/",
+  "num_of_employees": "2000+",
+  "sales": 16000000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/amazon-web-services-japan.png",
+  "company_url": "https://aws.amazon.com/jp/",
+  "positions": [
+    {
+      "name": "Machine Learning Engineer",
+      "link": "https://www.amazon.jobs/jp/jobs/3097864/machine-learning-engineer-aws"
+    },
+    {
+      "name": "Solutions Architect, Retail & CPG",
+      "link": "https://www.amazon.jobs/jp/jobs/3130176/solutions-architect-retail-cpg-aws"
+    },
+    {
+      "name": "CMMS Engineer, AWS DC Central Operations",
+      "link": "https://www.amazon.jobs/jp/jobs/3137092/cmms-engineer-aws-dc-central-operations"
+    },
+    {
+      "name": "Server Engineer, Data Center Operations",
+      "link": "https://www.amazon.jobs/jp/jobs/3148792/server-engineer-data-center-operations-dco"
+    },
+    {
+      "name": "ファシリティエンジニア - DCEO（データセンターエンジニアリング・オペレーションズ）",
+      "link": "https://www.amazon.jobs/jp/jobs/3061621/dceo-nrt78-dceo"
+    },
+    {
+      "name": "IT Support Engineer, IT Supply Chain",
+      "link": "https://www.amazon.jobs/jp/jobs/3118232/it-support-engineer-it-supply-chain"
+    },
+    {
+      "name": "Support Engineer, Data Center Central Operations",
+      "link": "https://www.amazon.jobs/jp/jobs/3127194/support-engineer-data-center-central-operations"
+    },
+    {
+      "name": "Controls Systems Engineer, APAC",
+      "link": "https://www.amazon.jobs/jp/jobs/3095030/controls-systems-engineer-apac-controls-deployment-and-service-team"
+    },
+    {
+      "name": "Sr. Delivery Consultant, Customer Experience",
+      "link": "https://www.amazon.jobs/jp/jobs/3130370/sr-delivery-consultant-customer-experience-aws"
+    },
+    {
+      "name": "Senior Water Resources Manager, AWS Water Team",
+      "link": "https://www.amazon.jobs/jp/jobs/3148175/senior-water-resources-manager-aws-water-team-dcc-communities"
+    }
+  ]
+}

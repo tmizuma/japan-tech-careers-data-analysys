@@ -1,0 +1,38 @@
+{
+  "company_name_ja": "Kyash",
+  "company_name_en": "Kyash",
+  "description": "1分で作れるVisaプリペイドカードを提供するデジタルウォレットアプリで累計1300万ダウンロード超。2022年に三菱UFJ銀行と資本業務提携しMUFGグループに参画。前払式支払手段発行者・資金移動業者として登録され決済処理基盤を自社開発。2024年には国際セキュリティ基準PCI DSS v4.0に準拠しポイントモール「バンドルカード ボーナスタウン」やセブン銀行ATMでの返済機能を提供。支払い履歴の自動カテゴリ振り分けで支出管理を省力化。",
+  "description_en": "Digital wallet app providing Visa prepaid cards creatable in 1 minute with over 13 million cumulative downloads. Established capital and business alliance with MUFG Bank in 2022, joining MUFG Group. Registered as prepaid payment instrument issuer and fund transfer service provider, developing payment processing infrastructure in-house. Compliant with international security standard PCI DSS v4.0 in 2024, providing points mall \"Bundle Card Bonus Town\" and Seven Bank ATM repayment function. Streamlines expense management with automatic category sorting of payment history.",
+  "hiring_url": "https://www.kyash.co/recruit",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/kyash.png",
+  "company_url": "https://www.kyash.co/",
+  "positions": [
+    {
+      "name": "【業務委託】サーバーサイドエンジニア / Serverside Engineer",
+      "link": "https://herp.careers/v1/kyash/lq9ZPUSE4U6s"
+    },
+    {
+      "name": "【正社員】iOSエンジニア / iOS Engineer",
+      "link": "https://herp.careers/v1/kyash/P6zjeNH5sFg8"
+    },
+    {
+      "name": "【正社員】SRE / Site Reliability Engineer",
+      "link": "https://herp.careers/v1/kyash/UGgDtbzCGPkE"
+    },
+    {
+      "name": "【正社員】サーバーサイドエンジニア / Serverside Engineer",
+      "link": "https://herp.careers/v1/kyash/dqa01JLlIgu_"
+    },
+    {
+      "name": "【正社員】サーバーサイドエンジニア（法人送金） / Serverside Engineer",
+      "link": "https://herp.careers/v1/kyash/Zjvd6Kfo-h-i"
+    },
+    {
+      "name": "【正社員】データアナリスト / Data analyst",
+      "link": "https://herp.careers/v1/kyash/_RAyH_W-q1Y1"
+    }
+  ]
+}
