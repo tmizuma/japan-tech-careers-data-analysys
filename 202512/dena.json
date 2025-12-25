@@ -1,0 +1,102 @@
+{
+  "company_name_ja": "DeNA",
+  "company_name_en": "DeNA",
+  "description": "モバイルゲーム・スポーツ・ヘルスケア・オートモーティブなど多角的に事業展開するインターネット企業。Mobage、横浜DeNAベイスターズ、タクシー配車アプリGOなどを運営。AI/ML技術やデータ活用に強みを持ち、エンターテインメントから社会課題解決まで幅広い領域でサービスを提供。",
+  "description_en": "A diversified internet company operating across mobile games, sports, healthcare, and automotive sectors. Operates Mobage, Yokohama DeNA BayStars baseball team, and taxi dispatch app GO. Strong expertise in AI/ML technology and data utilization, providing services ranging from entertainment to social problem-solving.",
+  "hiring_url": "https://dena.com/jp/recruit/",
+  "num_of_employees": "2000+",
+  "sales": 130000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/dena.png",
+  "company_url": "https://dena.com/jp/",
+  "positions": [
+    {
+      "name": "【AI】オープンポジション",
+      "link": "https://herp.careers/v1/denacareer/PdXzn9uVr1Bv"
+    },
+    {
+      "name": "【HR】データエンジニア（HRデータ基盤運用 & HRIS/AI開発）",
+      "link": "https://herp.careers/v1/denacareer/z3fi_q60B4GN"
+    },
+    {
+      "name": "【ゲーム】クライアントエンジニア／ネイティブアプリゲーム開発",
+      "link": "https://herp.careers/v1/denacareer/iFmGzUcLqYxT"
+    },
+    {
+      "name": "【ゲーム】サーバーエンジニア／オンラインゲーム開発",
+      "link": "https://herp.careers/v1/denacareer/8-Xx4vk4Xmio"
+    },
+    {
+      "name": "【ゲーム】ゲームエンジニア／横浜スタジオ",
+      "link": "https://herp.careers/v1/denacareer/MawpHE0lbwZu"
+    },
+    {
+      "name": "【ゲーム】テックリード/新規ゲーム開発 ※フルリモート可",
+      "link": "https://herp.careers/v1/denacareer/uS_3FQ_F05Wd"
+    },
+    {
+      "name": "【スポーツ】システムエンジニア（ベイスターズ）",
+      "link": "https://herp.careers/v1/denacareer/xZGfMKkQC4xU"
+    },
+    {
+      "name": "【ヘルスケア】Androidエンジニア（kencom）",
+      "link": "https://herp.careers/v1/denacareer/QnPkPdz8i_-f"
+    },
+    {
+      "name": "【ヘルスケア】QAエンジニア（kencom）",
+      "link": "https://herp.careers/v1/denacareer/pPbsYkk09-xo"
+    },
+    {
+      "name": "【ヘルスケア】iOSエンジニア（kencom）",
+      "link": "https://herp.careers/v1/denacareer/mOp9lKLr5taq"
+    },
+    {
+      "name": "【ヘルスケア】サーバーサイドエンジニア（kencom）",
+      "link": "https://herp.careers/v1/denacareer/7VVvZr5jHPOU"
+    },
+    {
+      "name": "【ライブストリーミング】サーバーサイドエンジニア（Pococha）",
+      "link": "https://herp.careers/v1/denacareer/fFhCsBEMDBXp"
+    },
+    {
+      "name": "【ライブストリーミング】Androidエンジニア（Pococha）",
+      "link": "https://herp.careers/v1/denacareer/P59EJl5VYO04"
+    },
+    {
+      "name": "【ライブストリーミング】iOSエンジニア（Pococha）",
+      "link": "https://herp.careers/v1/denacareer/_D8HCLZSPOla"
+    },
+    {
+      "name": "【ライブストリーミング】MLエンジニア（Pococha）",
+      "link": "https://herp.careers/v1/denacareer/H4Sl-2gclm1T"
+    },
+    {
+      "name": "【ライブストリーミング】データエンジニア（Pococha）",
+      "link": "https://herp.careers/v1/denacareer/i32KHPjm-vC1"
+    },
+    {
+      "name": "【新規事業】Webフロントエンドエンジニア（Voice Pococha）",
+      "link": "https://herp.careers/v1/denacareer/KQXvdfCr6l81"
+    },
+    {
+      "name": "【新規事業】サーバーサイドエンジニア（Voice Pococha）",
+      "link": "https://herp.careers/v1/denacareer/H5hH6NfSx44Q"
+    },
+    {
+      "name": "【技術基盤】CSIRT",
+      "link": "https://herp.careers/v1/denacareer/cIFOYmTt1mfl"
+    },
+    {
+      "name": "【技術基盤】セキュリティエンジニア",
+      "link": "https://herp.careers/v1/denacareer/gVgJEO4LsGxL"
+    },
+    {
+      "name": "【技術基盤】社内IT／コーポレートエンジニア",
+      "link": "https://herp.careers/v1/denacareer/S4p8gLTjQfBU"
+    },
+    {
+      "name": "【技術基盤】IT戦略部オープンポジション",
+      "link": "https://herp.careers/v1/denacareer/bCj_2FWVLrWb"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "company_name_ja": "エムスリー",
+  "company_name_en": "M3",
+  "description": "日本の医師の90%以上が登録する医療従事者専用サイト「m3.com」を運営する医療ITのリーディングカンパニー。製薬企業向けマーケティング支援、電子カルテ「エムスリーデジカル」、医療Q&Aサービス「AskDoctors」など多角的に医療DXを推進。東証プライム上場、時価総額1兆円超。",
+  "description_en": "Leading medical IT company operating m3.com, where over 90% of Japanese doctors are registered. Provides pharmaceutical marketing support, cloud EMR 'M3 Digicle', medical Q&A service 'AskDoctors', and drives medical DX across multiple verticals. Listed on TSE Prime with market cap exceeding 1 trillion yen.",
+  "hiring_url": "https://jobs.m3.com/",
+  "num_of_employees": "500+",
+  "sales": 230000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/m3.png",
+  "company_url": "https://corporate.m3.com/",
+  "positions": [
+    {
+      "name": "ソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "ネイティブアプリエンジニア（iOS）",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "SRE",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "SET (Software Engineer in Test)",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "データエンジニア",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "ネイティブアプリエンジニア（Android）",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "Webフロントエンドエンジニア",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "プロダクトマネージャー（エンジニア組織付）",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "プロダクトマネージャー（グループ会社担当）",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "プロダクトマネージャー（AIプロダクト担当）",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "ソフトウェアエンジニア ※関西採用",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    },
+    {
+      "name": "ソフトウェアエンジニア ※福岡採用",
+      "link": "https://open.talentio.com/r/1/c/m3-inc/homes/3730"
+    }
+  ]
+}
