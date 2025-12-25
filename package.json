@@ -1,0 +1,18 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "日本のソフトウェア企業に関する情報を管理・分析するためのツール群です。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "zod": "^4.2.1"
+  }
+}

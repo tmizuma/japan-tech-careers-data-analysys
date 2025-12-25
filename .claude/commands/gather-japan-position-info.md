@@ -1,10 +1,10 @@
 ---
 description: 企業情報CSVから日本のソフトウェアエンジニア求人情報を収集するコマンド
-allowed-tools: Bash(*), Read(*.md), Read(*.txt), Read(*.json), Read(*.csv), Write(*.md), Write(*.json), mcp__playwright__*
+allowed-tools: Bash(*), Read(*.md), Read(*.txt), Read(*.json), Read(*.csv), Read(*.ts), Write(*.md), Write(*.json), mcp__playwright__*
 tools: Read, Write, Bash, mcp__playwright__*
 ---
 
-# 日本のエンジニア求人情報収集
+# 目的: 日本のエンジニア求人情報収集の統計情報を取得する。
 
 企業情報 CSV から各企業の求人一覧を取得して JSON 形式で出力します。
 
@@ -21,45 +21,21 @@ tools: Read, Write, Bash, mcp__playwright__*
 
 例:
 
-- `/gather-japan-position-info company_list.csv 202412` - 全件処理、202412 フォルダに出力
+- `/gather-japan-position-info company_list.csv 202412` - 全件処理
 - `/gather-japan-position-info company_list.csv 202412 --from 1 --to 10` - 1〜10 番目を処理
-- `/gather-japan-position-info company_list.csv 202501 --from 11 --to 20` - 11〜20 番目を処理
-
-## CSV 形式
-
-必須カラム: `company_name_en`, `hiring_url`
-
-データ型:
-
-- `sales`: 整数（非公開は-1）
-- `foreign_engineers`: boolean
-- その他: 文字列
 
 ## 実行手順
 
 ### 1. 引数バリデーション
 
 - CSV ファイルの存在確認
-- 必須カラムの確認
-- `yyyymm` が指定されているか確認（必須）
 - `yyyymm` フォルダが存在しない場合は作成
 - `--from` は 1 以上、`--to` は `--from` 以上
-- `--to` のみ指定は不可
 
-### 2. CSV 読み込み
+### 2. gathering-todo.md 作成
 
-yyyymm/ ディレクトリ配下に gathering-todo.md が既に存在する場合は、company_list.csv を読み込まないでください。
-
-yyyymm/ ディレクトリ配下に gathering-todo.md が存在しない場合は、このファイルを作成するために、company_list.csv を全行を読み込み、`company_name_en` と `hiring_url` カラムを読み込みます。
-この二つのカラムは gathering-todo.md 作成のために用います。
-
-### 3. gathering-todo.md 作成
-
-yyyymm/ ディレクトリ配下に gathering-todo.md を作成してください。
-
-**【重要】CSV の全企業を必ず記載してください（処理範囲に関わらず）**
-
-形式:
+yyyymm/ ディレクトリ配下に gathering-todo.md が存在しない場合のみ作成。
+CSV の全企業を記載（処理範囲に関わらず）。
 
 ```markdown
 # 求人情報収集 TODO
@@ -72,149 +48,105 @@ yyyymm/ ディレクトリ配下に gathering-todo.md を作成してくださ�
 
 ## 企業リスト
 
-1. [ ] mercari (Mercari) - https://careers.mercari.com/ (未開始)
-2. [ ] cyberagent (CyberAgent) - https://... (未開始)
+1. [ ] mercari (Mercari) - https://careers.mercari.com/
+2. [ ] cyberagent (CyberAgent) - https://...
        ...
-       {N}. [ ] lastcompany (Last Company) - https://... (未開始)
 ```
 
-ステータス:
+ステータス: `[ ]` 未処理、`[x]` 成功
 
-- `N. [ ]` - 未処理
-- `N. [x]` - 成功
-- `N. [/]` - 部分失敗
-- `N. [!]` - 失敗
-
-既存ファイルがある場合は読み込み、指定範囲内の未完了企業のみを処理対象とします。
-
-### 4. Playwright MCP 確認
-
-利用不可の場合はエラーを返して終了。
-
-### 5. 求人情報収集（1 社ずつ順次処理）
-
-処理フロー:
+### 3. 求人情報収集（1 社ずつ順次処理）
 
 ```
-for インデックス in 処理範囲開始 から 処理範囲終了:
-    企業データ = 全企業リスト[インデックス]
+for 企業 in 処理範囲:
+    if 完了済み: continue
 
-    if gathering-todo.md で完了済み:
-        continue
+    求人情報を収集
+    JSON保存 → バリデーション実行
 
-    # 求人収集
-    結果 = 企業の求人情報を収集(企業データ)
-
-    # TODO更新
-    gathering-todo.md を更新
-
-    # 中間保存
-    japan-positions-partial.json を更新
+    if バリデーション成功:
+        gathering-todo.md を [x] に更新
+    else:
+        JSON削除、error.log に記録、[ ] のまま
 ```
 
-#### 企業キー正規化
+#### 求人収集の取得手順
 
-`company_name_en` を正規化（小文字、記号削除、接尾辞削除）:
-
-- "Mercari" → `mercari`
-- "Rakuten Group" → `rakuten`
-
-#### 求人収集の詳細
-
-**ページ取得:**
+1. ページ取得
 
 - `hiring_url` にアクセス
-- タイムアウト: 30 秒
-- 接続エラー時は 1 回リトライ
+- タイムアウト: 30 秒、エラー時は 1 回リトライ
 
-**エンジニア求人フィルタリング:**
+2. エンジニア求人フィルタリング
 
-含むキーワード: Engineer, Developer, Programmer, SRE, DevOps, Infrastructure, QA, Data Scientist, ML, AI, Security, Platform, Frontend, Backend, Full-stack, Mobile, iOS, Android, Web, Software, エンジニア, 開発, Tech Lead, Architect
+多くのサイトでは、求人一覧ページ(詳細ページの URL リンク付き)が表示されます。
+必ず以下のフィルタリングを行い、エンジニアに関連する求人情報のみ取得するようにしてください。
 
-除外キーワード: Sales, Marketing, HR, Finance, Legal, Admin, 営業, マーケティング, 人事, 経理, 法務, 総務
+含む: Engineer, Developer, SRE, DevOps, QA, Data Scientist, ML, AI, エンジニア, 開発, EM, エンジニアリングマネージャー 等
+除外: Sales, Marketing, HR, 営業, 人事 等
 
-**収集データ（一覧ページのみ、詳細ページへの遷移不要）:**
+もし、アクセス先に求人のフィルタリング機能や検索機能がある場合は、うまくフィルタリングや検索を活用してください。
+ページネーションがある場合必ずフィルタリングを行ったのちに最後のページまで遷移してください。
 
-```javascript
-{
-  "name": "求人タイトル",
-  "description": "一覧ページの説明文（最大500文字）",
-  "techstack": ["Go", "Kubernetes"], // 空配列可
-  "link": "求人ページURL"
-}
-```
+3. 求人情報の取得
 
-技術名の標準化: `javascript` → `JavaScript`, `k8s` → `Kubernetes`, `postgres` → `PostgreSQL`
+求人リンクから以下を取得してください
 
-**【重要】全件取得ルール:**
+- 求人名: positions[].name として保存
+- 求人詳細ページの URL: positions[].link として保存
 
-1. **ページング**: 「次へ」「Next」等を検出して最終ページまで処理
-2. **カテゴリ**: 複数のエンジニア関連カテゴリがある場合、全カテゴリを順番に処理（重複除去）
-3. **省略禁止**: 「代表的」「一部」の選択は禁止、必ず全件収集
-4. **スナップショット切り詰め**: 追加スナップショット取得で継続収集
+調査に時間がかかるため、詳細 ページには絶対にアクセスしないでください。
+万が一、link が取得できない場合は空文字列としてください。
 
-処理中は 1〜3 秒の遅延を入れてください。
+※ 必ず全件取得ルール
 
-### 6. 結果保存
+- ページング: 最終ページまで処理
+- 省略禁止: 必ず全件収集
 
-**gathering-todo.md 更新:**
+処理中は 1〜3 秒の遅延を入れる。
 
-- 成功: `N. [x] {key} ({company_name_en}) - {url} (成功: M件取得)`
-- 失敗: `N. [!] {key} ({company_name_en}) - {url} (失敗: {理由})`
+### 4. 結果保存
 
-**japan-positions-partial.json:**
-
-CSV の全カラム情報 + positions 配列を保存:
+**JSON 形式（CSV の全フィールド + positions）:**
 
 ```json
 {
-  "mercari": {
-    "company_name_ja": "メルカリ",
-    "company_name_en": "Mercari",
-    "logo_url": "https://logo.clearbit.com/mercari.com",
-    "company_url": "https://about.mercari.com/",
-    "hiring_url": "https://careers.mercari.com/",
-    "description": "フリマアプリ「メルカリ」を運営",
-    "description_en": "Operates flea market app Mercari",
-    "num_of_employees": "2000+",
-    "sales": 1700,
-    "foreign_engineers": true,
-    "positions": [...]
-  },
-  "_metadata": {
-    "last_updated": "2025-12-07T10:00:00Z",
-    "completed_count": 10,
-    "total_count": 100
-  }
+  "company_name_ja": "メルカリ",
+  "company_name_en": "Mercari",
+  "description": "フリマアプリ「メルカリ」を運営",
+  "description_en": "Operates flea market app Mercari",
+  "hiring_url": "https://careers.mercari.com/",
+  "num_of_employees": "2000+",
+  "sales": 170000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://logo.clearbit.com/mercari.com",
+  "company_url": "https://about.mercari.com/",
+  "positions": [
+    {
+      "name": "Backend Engineer", // 求人リンクから取得した求人タイトル
+      "link": "https://careers.mercari.com/jobs/123" // 求人リンクから取得した詳細ページへのリンク
+    }
+  ]
 }
 ```
 
-**【重要】CSVの全フィールドを必ず含めること:**
-- `company_name_ja`, `company_name_en`, `description`, `description_en`
-- `hiring_url`, `num_of_employees`, `sales`, `foreign_engineers`
-- `logo_url`, `company_url`
+**JSON 出力後、必ずバリデーションを実行:**
 
-データ型保持: `sales`は整数、`foreign_engineers`は boolean
-
-### 7. 完了サマリー
-
-範囲指定時:
-
-```
-⏸️ 求人情報収集を一時停止（範囲指定実行）
-
-処理サマリー:
-- 処理範囲: {from}番目 〜 {to}番目
-- 今回処理: {N}社
-- 成功: {成功数}社
-- 失敗: {失敗数}社
-- 今回取得ポジション数: {件数}件
-
-出力先: {yyyymm}/ フォルダ
-全体進捗: {完了数}/{総数}社完了
+```bash
+npx ts-node scripts/validate-company.ts {yyyymm}/{企業キー}.json
 ```
 
-全件完了時:
+このスクリプトは `schemas/company-position.ts` の Zod スキーマで型チェックを行う。
+失敗時は JSON を削除し、error.log に記録する。
+
+**エラー時: {yyyymm}/error.log に追記**
+
+```
+[2024-12-25 10:30:00] astroscale: CONNECTION_ERROR - Failed to connect
+[2024-12-25 10:31:00] somecompany: VALIDATION_ERROR - sales must be number
+```
+
+### 5. 完了サマリー
 
 ```
 ✅ 求人情報収集完了
@@ -222,66 +154,27 @@ CSV の全カラム情報 + positions 配列を保存:
 処理サマリー:
 - 処理企業数: {N}社
 - 成功: {成功数}社
-- 失敗: {失敗数}社
+- 失敗: {失敗数}社（error.log 参照）
 - 取得ポジション総数: {件数}件
-
-出力先: {yyyymm}/ フォルダ（{成功数}個のJSONファイル）
 ```
 
-## エラーハンドリング
+## 禁止事項
 
-**接続エラー時の個別 JSON ファイル:**
+以下のような行為は禁止します。もし、禁止事項を破らなければならない事情が発生した場合は、即座に作業を中断し、ユーザに判断を仰いでください
+特に、統計情報に狂いが生じる可能性のある操作は絶対にやめてください。
 
-`{yyyymm}/{企業キー}.json`:
-
-```json
-{
-  "company_name_ja": "...",
-  "company_name_en": "...",
-  "logo_url": "https://logo.clearbit.com/...",
-  "company_url": "https://...",
-  "hiring_url": "https://...",
-  "description": "...",
-  "description_en": "...",
-  "num_of_employees": "...",
-  "sales": 1700,
-  "foreign_engineers": true,
-  "positions": [],
-  "error": "CONNECTION_ERROR",
-  "error_message": "Failed to connect"
-}
-```
-
-**パースエラー時の個別 JSON ファイル:**
-
-`{yyyymm}/{企業キー}.json`:
-
-```json
-{
-  "company_name_ja": "...",
-  "company_name_en": "...",
-  "logo_url": "https://logo.clearbit.com/...",
-  "company_url": "https://...",
-  "hiring_url": "https://...",
-  "description": "...",
-  "description_en": "...",
-  "num_of_employees": "...",
-  "sales": 1700,
-  "foreign_engineers": true,
-  "positions": [],
-  "error": "PARSE_ERROR",
-  "error_message": "Failed to parse listings"
-}
-```
-
-**タイムアウト:**
-取得済みの情報のみ返し、`"_warning": "PARTIAL_RESULT"` を追加
+1. 全ての求人情報を取得しない
+   → 今回の調査で最も大事なのは求人の網羅性(数)です。数が多いから途中で調査をやめたり、詳細ページのリンクが取得できないからといってその求人をスキップする用なことは絶対に避けてください。あなたが 1 件でもこのような操作を行うことで統計データに狂いが生じ、会社の信頼を損なうことになります
+2. ユーザの判断を仰がない
+   → 判断に迷う場面に遭遇したにも関わらず、ユーザに判断を仰がないで誤魔化すことは絶対にやめてください
+3. 指示した以外の方法で求人を取得する
+4. バリデーション処理をスキップする
+   → これは絶対にやめてください。統計情報に狂いが生じます
 
 ## 重要事項
 
-1. **gathering-todo.md には必ず CSV 全企業を記載**（処理範囲に関わらず）
-2. **1 社ずつ順次処理**（並行実行禁止）
-3. **全件収集**（省略・サンプリング禁止）
-4. **データ型保持**: sales（整数）、foreign_engineers（boolean）
-5. **詳細ページへの遷移不要**（一覧ページのみ）
-6. **コミット不要**
+1. **1 社ずつ順次処理**（並行実行禁止）
+2. **全件収集**（省略禁止）
+3. **バリデーション必須**: JSON 出力後に `scripts/validate-company.ts` を実行
+4. **エラー時は JSON を作成しない**: error.log に記録、TODO は未完了のまま
+5. **コミット不要**
