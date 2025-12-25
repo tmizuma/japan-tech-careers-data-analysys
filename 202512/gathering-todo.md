@@ -8,8 +8,8 @@
 
 ## 企業リスト
 
-1. [ ] mercari (Mercari) - https://careers.mercari.com/ (完了)
-2. [ ] cyberagent (CyberAgent) - https://hrmos.co/pages/cyberagent-group (未開始)
+1. [x] mercari (Mercari) - https://careers.mercari.com/
+2. [x] cyberagent (CyberAgent) - https://hrmos.co/pages/cyberagent-group
 3. [ ] ly (LY Corporation) - https://www.lycorp.co.jp/ja/recruit/ (未開始)
 4. [ ] dena (DeNA) - https://dena.com/jp/recruit/ (未開始)
 5. [ ] recruit (Recruit) - https://www.recruit.co.jp/employment/ (未開始)
