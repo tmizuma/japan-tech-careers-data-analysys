@@ -1,0 +1,102 @@
+{
+  "company_name_ja": "ANDPAD",
+  "company_name_en": "ANDPAD",
+  "description": "「幸せを築く人を幸せに。」をミッションに掲げる建設DXプラットフォーム。利用社数20万社・累計ユーザー47.5万人で施工管理アプリ業界シェアNo.1。現場の効率化から経営改善まで一元管理するクラウド型サービスでNETIS登録済。2024年には「日本スタートアップ大賞2023」国土交通大臣賞を受賞。ベトナムにも子会社を設立し東南アジア展開も視野に入れる。2024年問題対策として業界をリード。",
+  "description_en": "Construction DX platform with mission \"Making those who build happiness, happy.\" #1 construction management app market share with 200,000 companies and 475,000 cumulative users. NETIS-registered cloud service for unified management from site efficiency to business improvement. Won Minister of Land, Infrastructure, Transport and Tourism Award at \"Japan Startup Grand Prix 2023\" in 2024. Established Vietnam subsidiary with Southeast Asian expansion in view. Leading industry in addressing 2024 logistics problem.",
+  "hiring_url": "https://andpad.co.jp/recruit/",
+  "num_of_employees": "600+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/andpad.png",
+  "company_url": "https://andpad.co.jp/",
+  "positions": [
+    {
+      "name": "シニアソフトウェアエンジニア",
+      "link": "https://hrmos.co/pages/andpad/jobs/8"
+    },
+    {
+      "name": "Product Engineer / Engineer of new business（React/Next.jsメイン）",
+      "link": "https://hrmos.co/pages/andpad/jobs/7"
+    },
+    {
+      "name": "Product Engineer / Engineer of new business（Vue.js/Nuxt.jsメイン）",
+      "link": "https://hrmos.co/pages/andpad/jobs/6"
+    },
+    {
+      "name": "Product Engineer / Engineer of new business（Kotlinメイン）",
+      "link": "https://hrmos.co/pages/andpad/jobs/5"
+    },
+    {
+      "name": "Product Engineer / Engineer of new business（Swiftメイン）",
+      "link": "https://hrmos.co/pages/andpad/jobs/4"
+    },
+    {
+      "name": "Product Engineer / Engineer of new business（Goメイン）",
+      "link": "https://hrmos.co/pages/andpad/jobs/2"
+    },
+    {
+      "name": "AIリードエンジニア",
+      "link": "https://hrmos.co/pages/andpad/jobs/1872511393101377622"
+    },
+    {
+      "name": "Forward Deployed Engineer（FDE）",
+      "link": "https://hrmos.co/pages/andpad/jobs/1872511393101377621"
+    },
+    {
+      "name": "27新卒採用－AIエンジニア（インターン）",
+      "link": "https://hrmos.co/pages/andpad/jobs/1872511393101377603"
+    },
+    {
+      "name": "AIエンジニア（AIアーキテクト）",
+      "link": "https://hrmos.co/pages/andpad/jobs/1872511393101377591"
+    },
+    {
+      "name": "27新卒採用－エンジニア（インターン）",
+      "link": "https://hrmos.co/pages/andpad/jobs/1872511393101377587"
+    },
+    {
+      "name": "Product Engineer / Engineer of new business（Railsメイン）",
+      "link": "https://hrmos.co/pages/andpad/jobs/1"
+    },
+    {
+      "name": "MLOpsエンジニア",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000224"
+    },
+    {
+      "name": "データアナリスト",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000223"
+    },
+    {
+      "name": "機械学習エンジニア（LLM）",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000195"
+    },
+    {
+      "name": "機械学習エンジニア（画像）",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000193"
+    },
+    {
+      "name": "データエンジニア",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000192"
+    },
+    {
+      "name": "新規事業担当エンジニア",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000141"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "link": "https://hrmos.co/pages/andpad/jobs/140"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000145"
+    },
+    {
+      "name": "SRE",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000128"
+    },
+    {
+      "name": "DBRE",
+      "link": "https://hrmos.co/pages/andpad/jobs/0000129"
+    }
+  ]
+}

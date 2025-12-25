@@ -1,0 +1,218 @@
+{
+  "company_name_ja": "LayerX",
+  "company_name_en": "LayerX",
+  "description": "「すべての経済活動をデジタル化する。」をミッションに支出管理SaaS「バクラク」を提供。経費精算・稟議申請・請求書受取・法人カードなど経理業務を一本化。2024年には勤怠管理にも進出。生成AIプラットフォーム「Ai Workforce」でLLM活用を推進。三井物産との合弁でデジタルアセットマネジメント事業も展開。シリーズA累計102億円を調達し急成長中。ブロックチェーンからピボットした経緯を持つ。",
+  "description_en": "Provides spend management SaaS \"Bakuraku\" with mission \"Digitizing all economic activities.\" Unifies accounting operations including expense management, approval workflows, invoice receipt, and corporate cards. Expanded into attendance management in 2024. Promotes LLM utilization through generative AI platform \"AI Workforce.\" Also operates digital asset management business as joint venture with Mitsui. Raised cumulative 10.2 billion yen in Series A with rapid growth. Has history of pivoting from blockchain.",
+  "hiring_url": "https://jobs.layerx.co.jp/",
+  "num_of_employees": "300+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/layerx.png",
+  "company_url": "https://layerx.co.jp/",
+  "positions": [
+    {
+      "name": "【バクラク】シニアプロダクトエンジニア_フルスタック",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52735"
+    },
+    {
+      "name": "【バクラク】プロダクト開発職（新卒採用）/ 26卒・27卒",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52734"
+    },
+    {
+      "name": "【バクラク】機械学習エンジニア（新卒採用）",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/90035"
+    },
+    {
+      "name": "【Ai Workforce】AIワークフローエンジニア（実務インターン）",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/83317"
+    },
+    {
+      "name": "【Ai Workforce】Forward Deployed Engineer",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/110968"
+    },
+    {
+      "name": "【Ai Workforce】シニアソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/106136"
+    },
+    {
+      "name": "【CEO室】新規プロダクト開発ソフトウェアエンジニア兼プロダクトマネージャー",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/100928"
+    },
+    {
+      "name": "【バクラク】CRE（Customer Reliability Engineer）",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/92538"
+    },
+    {
+      "name": "【バクラク】MLOpsエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/71190"
+    },
+    {
+      "name": "【バクラク】QAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52742"
+    },
+    {
+      "name": "【バクラク】QAエンジニア_ポテンシャル枠",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/115230"
+    },
+    {
+      "name": "【バクラク】SRE (Site Reliability Engineer)",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52741"
+    },
+    {
+      "name": "【バクラク】エンジニアリングマネージャー",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52743"
+    },
+    {
+      "name": "【バクラク】エンジニアリングマネージャー_AI・機械学習領域",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112746"
+    },
+    {
+      "name": "【バクラク】シニアQAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/67677"
+    },
+    {
+      "name": "【バクラク】シニアソフトウェアエンジニア_Platform_Enabling",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/113198"
+    },
+    {
+      "name": "【バクラク】シニアプロダクトエンジニア_バックエンド",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52737"
+    },
+    {
+      "name": "【バクラク】シニアプロダクトエンジニア_フロントエンド",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52739"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア_AI-UX",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/93439"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア_APIプラットフォーム",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/106042"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア_BizOps",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/108414"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア_セールスイネーブルメント",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/93990"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア_フルスタック_決済事業",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/61168"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア_モバイル",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52740"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア_ユーザー管理基盤",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/93721"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア_新規プロダクト",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/96435"
+    },
+    {
+      "name": "【バクラク】ソフトウェアエンジニア(開発基盤)_実務インターン",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/107536"
+    },
+    {
+      "name": "【バクラク】データエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/61470"
+    },
+    {
+      "name": "【バクラク】ビジネスオペレーションエンジニア_決済事業",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/110029"
+    },
+    {
+      "name": "【バクラク】プロダクトセキュリティエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/81246"
+    },
+    {
+      "name": "【バクラク】機械学習エンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/63504"
+    },
+    {
+      "name": "【バクラク】機械学習エンジニア_実務インターン",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/106997"
+    },
+    {
+      "name": "【Ai Workforce】AI/LLM Division Research Engineer (R&D)",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112891"
+    },
+    {
+      "name": "【Ai Workforce】AI/LLMリサーチエンジニア_R&D",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/110834"
+    },
+    {
+      "name": "【Ai Workforce】AIソリューションエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/108272"
+    },
+    {
+      "name": "【Ai Workforce】AI検索エンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/107758"
+    },
+    {
+      "name": "【Ai Workforce】LLMエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112640"
+    },
+    {
+      "name": "【Ai Workforce】MLOps / 機械学習基盤エンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112898"
+    },
+    {
+      "name": "【Ai Workforce】QAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/102067"
+    },
+    {
+      "name": "【Ai Workforce】SRE",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/52751"
+    },
+    {
+      "name": "【Ai Workforce】SRE_実務インターン",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/105259"
+    },
+    {
+      "name": "【Ai Workforce】シニアデータエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/109629"
+    },
+    {
+      "name": "【Ai Workforce】ソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/78437"
+    },
+    {
+      "name": "【Ai Workforce】ソフトウェアエンジニア_実務インターン",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/116403"
+    },
+    {
+      "name": "【Ai Workforce】デザインエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/112355"
+    },
+    {
+      "name": "【Ai Workforce】プリセールスエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/114839"
+    },
+    {
+      "name": "【Fintech】DevOps",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/87524"
+    },
+    {
+      "name": "【Fintech】ソフトウェアエンジニア",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/64897"
+    },
+    {
+      "name": "【Fintech】ソフトウェアエンジニア_新卒採用",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/107450"
+    },
+    {
+      "name": "【Fintech】ソフトウェアエンジニア_生成AI活用",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/110229"
+    },
+    {
+      "name": "【CTO室】Engineering Office",
+      "link": "https://open.talentio.com/r/1/c/layerx/pages/92605"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "company_name_ja": "SmartHR",
+  "company_name_en": "SmartHR",
+  "description": "クラウド人事労務ソフト国内シェアNo.1。入退社手続き・年末調整・給与明細をペーパーレス化し従業員データを一元管理。人事評価・サーベイ・配置シミュレーション等タレントマネジメントにも拡張。NEXTユニコーン企業に2019年から継続選出。10以上のプロダクトでRuby on Railsを採用しプロダクト志向のエンジニアが活躍。",
+  "description_en": "#1 market share for cloud HR software in Japan. Digitizes onboarding/offboarding, year-end tax adjustments, and pay slips while centralizing employee data. Expanded into talent management including performance reviews, surveys, and placement simulations. Continuously selected as NEXT Unicorn since 2019. Employs Ruby on Rails across 10+ products with product-oriented engineers thriving.",
+  "hiring_url": "https://smarthr.co.jp/recruit/",
+  "num_of_employees": "1000+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/smarthr.png",
+  "company_url": "https://smarthr.co.jp/",
+  "positions": [
+    {
+      "name": "シニアウェブアプリケーションエンジニア（勤怠管理領域 バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/117842"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（タレントマネジメント領域 チーフ候補）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/117272"
+    },
+    {
+      "name": "【時短勤務可】ウェブアプリケーションエンジニア（オープンポジション バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/115913"
+    },
+    {
+      "name": "データ連携エンジニア（プラットフォーム領域）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/115618"
+    },
+    {
+      "name": "CRE（プロダクト改善）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/113448"
+    },
+    {
+      "name": "CRE（Observability）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/113443"
+    },
+    {
+      "name": "新卒プロダクトエンジニア（2027年入社）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/112855"
+    },
+    {
+      "name": "新卒採用MLエンジニア（2027年入社）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/110283"
+    },
+    {
+      "name": "バックエンドエンジニア（スマホアプリ開発チーム）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/112050"
+    },
+    {
+      "name": "【業務委託】ウェブアプリケーションエンジニア_フルスタック（プラットフォーム領域）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/111340"
+    },
+    {
+      "name": "シニアウェブアプリケーションエンジニア（情シス領域_バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/108623"
+    },
+    {
+      "name": "シニアウェブアプリケーションエンジニア（タレントマネジメント領域_バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/108608"
+    },
+    {
+      "name": "AI専任チーム・エンジニアリングマネージャー候補",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/108588"
+    },
+    {
+      "name": "品質保証エンジニア（PjM /アプリストア事業）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/106794"
+    },
+    {
+      "name": "エンジニアリングマネージャー候補",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/106604"
+    },
+    {
+      "name": "プラットフォームエンジニア（プロダクト横断基盤領域 バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/103872"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（従業員ポータル領域 バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/103874"
+    },
+    {
+      "name": "MLOpsエンジニア",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/103563"
+    },
+    {
+      "name": "プロダクトセキュリティエンジニア (PSIRTユニット)",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/101725"
+    },
+    {
+      "name": "シニアSRE",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/98449"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（チーフ候補）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/98237"
+    },
+    {
+      "name": "プロジェクトマネージャー（API連携・パートナー支援）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/96535"
+    },
+    {
+      "name": "MLエンジニア",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/75924"
+    },
+    {
+      "name": "シニアウェブアプリケーションエンジニア（労務領域_バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/83919"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（労務領域 バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/82193"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（タレントマネジメント領域 バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/82188"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア（タレントマネジメント領域 フロントエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/82220"
+    },
+    {
+      "name": "シニアプラットフォームエンジニア（プロダクト横断基盤 バックエンド）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/79794"
+    },
+    {
+      "name": "QAエンジニア（チーフ候補）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/83193"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/45053"
+    },
+    {
+      "name": "アクセシビリティスペシャリスト（シニア）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/68110"
+    },
+    {
+      "name": "アクセシビリティエンジニア（シニア）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/87404"
+    },
+    {
+      "name": "オープンポジション（エンジニア/デザイナー/PdM 等）",
+      "link": "https://open.talentio.com/r/1/c/smarthr/pages/45055"
+    }
+  ]
+}

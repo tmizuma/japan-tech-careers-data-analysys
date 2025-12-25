@@ -1,0 +1,22 @@
+{
+  "company_name_ja": "TeamSpirit",
+  "company_name_en": "TeamSpirit",
+  "description": "Salesforceプラットフォーム上で稼働する勤怠管理・工数管理・経費精算を統合したクラウドサービス。中小企業から1000名以上の大企業まで幅広い規模に対応。PC・モバイル・ICカード・QRコード・生体認証・GPS等多様な打刻方法を提供。テレワーク・シフト勤務・フレックスタイム制など多様な勤務形態に柔軟対応。AppExchange人気アプリランキング4回連続No.1。",
+  "description_en": "Cloud service running on Salesforce platform integrating attendance management, work hour tracking, and expense settlement. Supports wide range of company sizes from SMEs to enterprises with 1,000+ employees. Offers diverse clock-in methods including PC, mobile, IC card, QR code, biometric, and GPS. Flexibly accommodates various work styles including remote work, shift work, and flextime. #1 in AppExchange popular apps ranking for 4 consecutive times.",
+  "hiring_url": "https://www.teamspirit.com/recruit/",
+  "num_of_employees": "100+",
+  "sales": 4000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/teamspirit.png",
+  "company_url": "https://www.teamspirit.com/",
+  "positions": [
+    {
+      "name": "SREエンジニア",
+      "link": "https://herp.careers/v1/teamspirit/3ipdeMhlgm38"
+    },
+    {
+      "name": "WEBアプリケーションエンジニア／中小企業向けプロダクト担当",
+      "link": "https://herp.careers/v1/teamspirit/YF0RE80B17Se"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "company_name_ja": "Kubell",
+  "company_name_en": "Kubell (Chatwork)",
+  "description": "2024年7月に社名をChatworkからkubellに変更。ビジネスチャット国内利用者数No.1の「Chatwork」は43万社664万ユーザーが利用。中期経営計画でBPaaS（Business Process as a Service）戦略を掲げ人の力とテクノロジーを組み合わせた業務プロセス代行サービスを展開。チャット経由で会計・労務・総務をアウトソースできる「Chatwork アシスタント」も提供。",
+  "description_en": "Changed company name from Chatwork to kubell in July 2024. \"Chatwork,\" Japan's #1 business chat service, used by 430,000 companies and 6.64 million users. Medium-term plan promotes BPaaS (Business Process as a Service) strategy combining human power and technology for business process outsourcing services. Also offers \"Chatwork Assistant\" for outsourcing accounting, HR, and general affairs via chat.",
+  "hiring_url": "https://kubell.com/recruit/",
+  "num_of_employees": "400+",
+  "sales": 6000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/kubell-(chatwork).png",
+  "company_url": "https://kubell.com/",
+  "positions": [
+    {
+      "name": "バックエンドエンジニア（Chatwork）",
+      "link": "https://hrmos.co/pages/chatwork/jobs/1020010"
+    },
+    {
+      "name": "SRE（Chatwork）",
+      "link": "https://hrmos.co/pages/chatwork/jobs/1020019"
+    },
+    {
+      "name": "フロントエンドエンジニア（Chatwork）",
+      "link": "https://hrmos.co/pages/chatwork/jobs/1020020"
+    },
+    {
+      "name": "Androidエンジニア（Chatwork）",
+      "link": "https://hrmos.co/pages/chatwork/jobs/1020024"
+    },
+    {
+      "name": "QAエンジニア（Chatwork）",
+      "link": "https://hrmos.co/pages/chatwork/jobs/1020028"
+    },
+    {
+      "name": "iOSエンジニア（Chatwork）",
+      "link": "https://hrmos.co/pages/chatwork/jobs/1020036"
+    },
+    {
+      "name": "Androidリードエンジニア",
+      "link": "https://hrmos.co/pages/chatwork/jobs/1020040"
+    },
+    {
+      "name": "シニアバックエンドエンジニア（Chatwork）",
+      "link": "https://hrmos.co/pages/chatwork/jobs/20251215"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "company_name_ja": "CADDi",
+  "company_name_en": "CADDi",
+  "description": "「モノづくり産業のポテンシャルを解放する」をミッションに製造業AIデータプラットフォームを提供。図面データ活用クラウド「CADDi Drawer」は手書き含む図面をAIがデータベース化しGoogle検索のように図面検索が可能。2024年7月に2サービスを統合し製造業AIデータプラットフォームに転進。累計資金調達217億円で日本・米国・ベトナム・タイの4カ国に展開。Rust/TypeScript採用。",
+  "description_en": "Provides manufacturing AI data platform with mission \"Unleashing the potential of the manufacturing industry.\" Drawing data utilization cloud \"CADDi Drawer\" uses AI to database drawings including handwritten ones, enabling Google-like drawing searches. Pivoted to manufacturing AI data platform by integrating two services in July 2024. Raised 21.7 billion yen cumulatively, operating in 4 countries: Japan, US, Vietnam, and Thailand. Uses Rust/TypeScript.",
+  "hiring_url": "https://caddi.com/careers/",
+  "num_of_employees": "600+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/caddi.png",
+  "company_url": "https://caddi.com/",
+  "positions": [
+    {
+      "name": "Engineering Manager, Product Reliability - CADDi Drawer -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/117711"
+    },
+    {
+      "name": "Forward Deployed Engineer",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115403"
+    },
+    {
+      "name": "Engineer Manager, Platform Services (Fluent Japanese & English Required)",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115629"
+    },
+    {
+      "name": "Senior Software Engineer, Frontend - CADDi Quote -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115391"
+    },
+    {
+      "name": "Senior Software Engineer, Backend - Data Platform -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115315"
+    },
+    {
+      "name": "Senior Software Engineer, Backend - Control Plane -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115538"
+    },
+    {
+      "name": "Senior Software Engineer, Infrastructure",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115457"
+    },
+    {
+      "name": "SRE - Data Platform -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115591"
+    },
+    {
+      "name": "SRE - CADDi Quote -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115464"
+    },
+    {
+      "name": "SRE - CADDi Core -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/83887"
+    },
+    {
+      "name": "QA Lead Engineer - Data Platform -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115541"
+    },
+    {
+      "name": "Tech Lead - CTO Office -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115650"
+    },
+    {
+      "name": "Engineering Manager, Product Reliability - CADDi Quote -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115161"
+    },
+    {
+      "name": "Engineer Manager, Platform Services",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/115388"
+    },
+    {
+      "name": "Product Designer",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/107700"
+    },
+    {
+      "name": "Senior Design Manager",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/85282"
+    },
+    {
+      "name": "Engineering Manager, Machine Learning",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/106449"
+    },
+    {
+      "name": "Engineering Manager, AI for Application",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/106450"
+    },
+    {
+      "name": "Data Engineer",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/78362"
+    },
+    {
+      "name": "Product Security Engineer",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/77625"
+    },
+    {
+      "name": "SRE - CADDi Drawer -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/112538"
+    },
+    {
+      "name": "Senior Software Engineer in Test（SET/テスト自動化エンジニア）",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/92042"
+    },
+    {
+      "name": "MLOps Engineer",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/87198"
+    },
+    {
+      "name": "AI Engineer",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/108530"
+    },
+    {
+      "name": "Machine Learning Engineer",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/79797"
+    },
+    {
+      "name": "Senior Software Engineer, Backend - 認証認可 -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/90295"
+    },
+    {
+      "name": "Senior Software Engineer, Backend - Analysis Platform -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/100837"
+    },
+    {
+      "name": "Senior Software Engineer, Frontend - CADDi Drawer -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/112531"
+    },
+    {
+      "name": "Senior Software Engineer, Backend / Full-stack (Fluent English Required)",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/106556"
+    },
+    {
+      "name": "Senior Software Engineer, Backend - CADDi Quote -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/106118"
+    },
+    {
+      "name": "Senior Software Engineer, Backend - CADDi Drawer -",
+      "link": "https://open.talentio.com/r/1/c/caddi-jp-recruit/pages/105749"
+    }
+  ]
+}

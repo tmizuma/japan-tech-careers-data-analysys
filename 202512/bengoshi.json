@@ -1,0 +1,86 @@
+{
+  "company_name_ja": "弁護士ドットコム",
+  "company_name_en": "Bengoshi.com",
+  "description": "電子契約サービス「クラウドサイン」を核にリーガルテック市場を牽引。有料契約企業30万社超・送信件数500万件超で電子署名法上の「電子署名」に該当することを国内初認定。弁護士ドットコム・税理士ドットコム・BUSINESS LAWYERSなど専門家ポータルも運営。2024年3月期売上高113億円で過去最高益を達成。AIを活用した契約書レビュー機能「クラウドサインレビュー」も展開。",
+  "description_en": "Leading legal tech market with e-contract service \"CloudSign\" as core. Over 300,000 paid contract companies with over 5 million transmissions, first in Japan certified as \"electronic signature\" under the Electronic Signature Law. Also operates professional portals including Bengoshi.com, Zeirishi.com, and BUSINESS LAWYERS. Achieved record profits with FY2024 revenue of 11.3 billion yen. Also offers AI-powered contract review feature \"CloudSign Review.\"",
+  "hiring_url": "https://www.bengo4.com/corporate/recruit/",
+  "num_of_employees": "500+",
+  "sales": 10000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/bengoshi.com.png",
+  "company_url": "https://www.bengo4.com/corporate/",
+  "positions": [
+    {
+      "name": "シニアバックエンドエンジニア（クラウドサイン）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006501"
+    },
+    {
+      "name": "シニアバックエンドエンジニア / 締結領域（クラウドサイン）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006525"
+    },
+    {
+      "name": "フルスタックエンジニア（クラウドサイン）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006523"
+    },
+    {
+      "name": "EM候補（クラウドサイン）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006520"
+    },
+    {
+      "name": "SRE（クラウドサイン）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006522"
+    },
+    {
+      "name": "シニアQAエンジニア（クラウドサイン）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0006524"
+    },
+    {
+      "name": "バックエンドエンジニア（弁護士ドットコム）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001517"
+    },
+    {
+      "name": "シニアバックエンドエンジニア（弁護士ドットコム）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001504"
+    },
+    {
+      "name": "EM候補（弁護士ドットコム）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001516"
+    },
+    {
+      "name": "バックエンドエンジニア / AIプロダクト・基盤チーム（リーガルブレイン部）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001527"
+    },
+    {
+      "name": "シニアバックエンドエンジニア / AIプロダクト・基盤チーム（リーガルブレイン部）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001528"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001521"
+    },
+    {
+      "name": "AIエンジニア",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001526"
+    },
+    {
+      "name": "MLOpsエンジニア",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001523"
+    },
+    {
+      "name": "シニアMLOpsエンジニア",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001524"
+    },
+    {
+      "name": "バックエンドエンジニア（弁護革命）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0001525"
+    },
+    {
+      "name": "SRE（SRE室）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0007517"
+    },
+    {
+      "name": "Platform Engineer（リードクラス）",
+      "link": "https://hrmos.co/pages/bengo4/jobs/0007518"
+    }
+  ]
+}

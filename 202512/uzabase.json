@@ -1,0 +1,46 @@
+{
+  "company_name_ja": "Uzabase",
+  "company_name_en": "Uzabase",
+  "description": "AI技術を活用した経済情報プラットフォーム「SPEEDA」と日本最大級のソーシャル経済メディア「NewsPicks」を展開。2024年7月にSPEEDA・INITIAL・FORCASを「スピーダ」に統一。東京・上海・シンガポール・コロンボ・サンフランシスコ・NYに拠点を持ちグローバル展開。XP開発手法を実践するエンジニア文化で勤務時間の制約や出社義務がなく服装も自由。",
+  "description_en": "Operates AI-powered economic information platform \"SPEEDA\" and Japan's largest social economic media \"NewsPicks.\" Unified SPEEDA, INITIAL, and FORCAS into \"Speeda\" in July 2024. Global presence with offices in Tokyo, Shanghai, Singapore, Colombo, San Francisco, and NY. Engineering culture practicing XP development methodology with no restrictions on working hours, no office attendance requirements, and free dress code.",
+  "hiring_url": "https://www.uzabase.com/jp/careers/",
+  "num_of_employees": "800+",
+  "sales": 12000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/uzabase.png",
+  "company_url": "https://www.uzabase.com/",
+  "positions": [
+    {
+      "name": "Speeda - SRE (Site Reliability Engineer)",
+      "link": "https://hrmos.co/pages/uzabase/jobs/1829077236709650475"
+    },
+    {
+      "name": "Speeda - 機械学習エンジニア (ML/NLP)",
+      "link": "https://hrmos.co/pages/uzabase/jobs/1829077236709650481"
+    },
+    {
+      "name": "Speeda - ソフトウェアエンジニア(サーバー/フロント)",
+      "link": "https://hrmos.co/pages/uzabase/jobs/1829077236709650483"
+    },
+    {
+      "name": "Speeda - ソフトウェアエンジニア(サーバー/フロント/大阪勤務)",
+      "link": "https://hrmos.co/pages/uzabase/jobs/2120358509695033369"
+    },
+    {
+      "name": "Corporate - コーポレートエンジニア｜業務システム開発・推進（Salesforce中心・経験不問）",
+      "link": "https://hrmos.co/pages/uzabase/jobs/Corporate_006"
+    },
+    {
+      "name": "ソフトウェアエンジニア - NewsPicks Expertに関わるプロダクトの開発・運用",
+      "link": "https://hrmos.co/pages/uzabase/jobs/Corporate_039"
+    },
+    {
+      "name": "Corporate - PMO｜急成長SaaS企業のIT基盤を共に創造し、事業変革をリード",
+      "link": "https://hrmos.co/pages/uzabase/jobs/Corporate_055"
+    },
+    {
+      "name": "27年新卒｜【NewsPicks エンジニア職】選考直結型オンライン説明会",
+      "link": "https://hrmos.co/pages/uzabase/jobs/Newgrads27_004"
+    }
+  ]
+}

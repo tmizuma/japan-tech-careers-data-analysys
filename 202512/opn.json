@@ -1,0 +1,46 @@
+{
+  "company_name_ja": "Opn",
+  "company_name_en": "Opn",
+  "description": "東南アジアを代表するフィンテック企業。決済プラットフォーム「Omise」を提供し、タイ、日本、シンガポールなどで事業展開。35カ国以上の国籍を持つ400人以上のスタッフが在籍するグローバル企業。",
+  "description_en": "Leading fintech company in Southeast Asia. Provides payment platform 'Omise' and operates in Thailand, Japan, Singapore and more. A global company with over 400 staff from 35+ nationalities.",
+  "hiring_url": "https://omise.co/jp/careers",
+  "num_of_employees": "400+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/opn.png",
+  "company_url": "https://omise.co/jp",
+  "positions": [
+    {
+      "name": "[Intern/Contractor] Software Engineer (AI Project)",
+      "link": "https://opn.bamboohr.com/careers/328"
+    },
+    {
+      "name": "Data Analyst",
+      "link": "https://opn.bamboohr.com/careers/270"
+    },
+    {
+      "name": "Senior Software Engineer",
+      "link": "https://opn.bamboohr.com/careers/260"
+    },
+    {
+      "name": "QA Engineer (Junior to Senior Level)",
+      "link": "https://opn.bamboohr.com/careers/248"
+    },
+    {
+      "name": "Database Administrator",
+      "link": "https://opn.bamboohr.com/careers/287"
+    },
+    {
+      "name": "Software Engineer (Backend/Frontend) | 1-Year Contract",
+      "link": "https://opn.bamboohr.com/careers/326"
+    },
+    {
+      "name": "Software Engineer (Mobile) | 1-Year Contract",
+      "link": "https://opn.bamboohr.com/careers/325"
+    },
+    {
+      "name": "Software Engineer (Mirai)",
+      "link": "https://opn.bamboohr.com/careers/318"
+    }
+  ]
+}

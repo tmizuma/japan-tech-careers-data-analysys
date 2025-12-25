@@ -1,0 +1,86 @@
+{
+  "company_name_ja": "Astroscale",
+  "company_name_en": "Astroscale",
+  "description": "持続可能な宇宙環境（スペースサステナビリティ）に専業で取り組む世界初の民間企業。デブリ除去・寿命延長・故障機の観測点検など軌道上サービスを開発。2024年6月に東証グロース市場へ上場。商業デブリ除去実証衛星「ADRAS-J」は世界初のデブリ周回観測に成功。日本・英国・米国・イスラエルにグローバル拠点を持ち次世代への持続可能な軌道継承を目指す。",
+  "description_en": "World's first private company dedicated to sustainable space environment (space sustainability). Develops on-orbit services including debris removal, life extension, and defunct satellite inspection. Listed on TSE Growth Market in June 2024. Commercial debris removal demonstration satellite \"ADRAS-J\" achieved world's first debris proximity observation. Global presence in Japan, UK, US, and Israel, aiming for sustainable orbital inheritance for future generations.",
+  "hiring_url": "https://astroscale.com/careers/",
+  "num_of_employees": "500+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/astroscale.png",
+  "company_url": "https://astroscale.com/",
+  "positions": [
+    {
+      "name": "シニア電気システムエンジニア/ Senior Electrical Systems Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_002_2025"
+    },
+    {
+      "name": "シニアGNCエンジニア /Senior GNC Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_005_2025"
+    },
+    {
+      "name": "GNCエンジニア/ GNC Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_006_2025"
+    },
+    {
+      "name": "シニア衛星運用エンジニア /Senior Satellite Operation Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_007_2025"
+    },
+    {
+      "name": "サテライトシステムエンジニア /Satellite System Enginner",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_010_2025"
+    },
+    {
+      "name": "地上セグメントソフトウエアマネージャー/ Ground Segment Software Manager",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_013_2025"
+    },
+    {
+      "name": "シニアハーネスエンジニア",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_017RP_2025"
+    },
+    {
+      "name": "シニア電気エンジニア /Senior Electrical Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_018RP_2025"
+    },
+    {
+      "name": "AIVエンジニア/AIV engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_022RP_2025"
+    },
+    {
+      "name": "衛星運用エンジニア /Senior Satellite Operation Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_023RP_2025"
+    },
+    {
+      "name": "地上セグメントクラウドエンジニア/Ground Segment Cloud Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_024RP_2025"
+    },
+    {
+      "name": "コンピュータービジョンエンジニア / Computer Vision engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_026RP_2025"
+    },
+    {
+      "name": "GNCハードウェアエンジニア/ GNC Hardware Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_027RP_2025"
+    },
+    {
+      "name": "ミッションエンジニア /Mission Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ENG_029RP_2025"
+    },
+    {
+      "name": "クラウドエンジニア/Cloud Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/IT_002_2025"
+    },
+    {
+      "name": "サイバーセキュリティエンジニア /Cybersecurity Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/MD003"
+    },
+    {
+      "name": "プロダクションエンジニア / Production Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/ProD008RP"
+    },
+    {
+      "name": "品質保証エンジニア/Quality Assurance Engineer",
+      "link": "https://hrmos.co/pages/astroscale/jobs/QA_003_2025"
+    }
+  ]
+}
