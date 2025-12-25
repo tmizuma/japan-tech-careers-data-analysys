@@ -10,14 +10,14 @@
 
 1. [x] mercari (Mercari) - https://careers.mercari.com/
 2. [x] cyberagent (CyberAgent) - https://hrmos.co/pages/cyberagent-group
-3. [ ] ly (LY Corporation) - https://www.lycorp.co.jp/ja/recruit/ (未開始)
-4. [ ] dena (DeNA) - https://dena.com/jp/recruit/ (未開始)
-5. [ ] recruit (Recruit) - https://www.recruit.co.jp/employment/ (未開始)
-6. [ ] gmointernet (GMO Internet) - https://recruit.gmo.jp/ (未開始)
-7. [ ] m3 (M3) - https://jobs.m3.com/ (未開始)
-8. [ ] mixi (MIXI) - https://mixi.co.jp/recruit/ (未開始)
-9. [ ] zozo (ZOZO) - https://corp.zozo.com/recruit/ (未開始)
-10. [ ] sakanaai (Sakana AI) - https://sakana.ai/careers/ (未開始)
+3. [x] ly (LY Corporation) - https://www.lycorp.co.jp/ja/recruit/
+4. [x] dena (DeNA) - https://dena.com/jp/recruit/
+5. [x] recruit (Recruit) - https://www.recruit.co.jp/employment/
+6. [x] gmointernet (GMO Internet) - https://recruit.gmo.jp/
+7. [x] m3 (M3) - https://jobs.m3.com/
+8. [x] mixi (MIXI) - https://mixi.co.jp/recruit/
+9. [x] zozo (ZOZO) - https://corp.zozo.com/recruit/
+10. [x] sakanaai (Sakana AI) - https://sakana.ai/careers/
 11. [ ] smarthr (SmartHR) - https://smarthr.co.jp/recruit/ (未開始)
 12. [ ] spiber (Spiber) - https://spiber.inc/ja/careers (未開始)
 13. [ ] tieriv (Tier IV) - https://careers.tier4.jp/ (未開始)

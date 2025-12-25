@@ -1,0 +1,78 @@
+{
+  "company_name_ja": "GMOインターネットグループ",
+  "company_name_en": "GMO Internet Group",
+  "description": "ドメイン・レンタルサーバー・SSL証明書などのインターネットインフラ事業を中核に、決済・セキュリティ・暗号資産など幅広い領域で事業展開する総合インターネットグループ。グループ会社110社以上、従業員7000人超。東証プライム上場。AI活用にも積極的に取り組む。",
+  "description_en": "A comprehensive internet group with domain, hosting, and SSL certificate infrastructure at its core, expanding into payments, security, and cryptocurrency. Over 110 group companies and 7,000+ employees. Listed on Tokyo Stock Exchange Prime. Actively pursuing AI adoption.",
+  "hiring_url": "https://recruit.gmo.jp/",
+  "num_of_employees": "5000+",
+  "sales": 250000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/gmo-internet.png",
+  "company_url": "https://www.gmo.jp/",
+  "positions": [
+    {
+      "name": "ロボットエンジニア",
+      "link": "https://recruit.group.gmo/careers/detail/256/"
+    },
+    {
+      "name": "情報システム部門 マネージャー候補",
+      "link": "https://recruit.group.gmo/careers/detail/258/"
+    },
+    {
+      "name": "エンジニアオープン【東京】",
+      "link": "https://recruit.group.gmo/careers/detail/13/"
+    },
+    {
+      "name": "エンジニアオープン【大阪】",
+      "link": "https://recruit.group.gmo/careers/detail/52/"
+    },
+    {
+      "name": "データサイエンティスト（マネージャー候補）",
+      "link": "https://recruit.group.gmo/careers/detail/14/"
+    },
+    {
+      "name": "データサイエンティスト",
+      "link": "https://recruit.group.gmo/careers/detail/15/"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "link": "https://recruit.group.gmo/careers/detail/16/"
+    },
+    {
+      "name": "ベトナムブリッジエンジニア【大阪】",
+      "link": "https://recruit.group.gmo/careers/detail/118/"
+    },
+    {
+      "name": "ベトナムブリッジエンジニア【東京】",
+      "link": "https://recruit.group.gmo/careers/detail/119/"
+    },
+    {
+      "name": "データサイエンティスト（フィンテック）",
+      "link": "https://recruit.group.gmo/careers/detail/213/"
+    },
+    {
+      "name": "データサイエンティスト（情報系博士）",
+      "link": "https://recruit.group.gmo/careers/detail/214/"
+    },
+    {
+      "name": "データサイエンティスト（バイオインフォマティクス）【老化細胞研究/東京大学医科学研究所】",
+      "link": "https://recruit.group.gmo/careers/detail/215/"
+    },
+    {
+      "name": "エンジニアオープン（マネージャー候補）【東京】",
+      "link": "https://recruit.group.gmo/careers/detail/223/"
+    },
+    {
+      "name": "エンジニアオープン（マネージャー候補）【大阪】",
+      "link": "https://recruit.group.gmo/careers/detail/224/"
+    },
+    {
+      "name": "テックリード",
+      "link": "https://recruit.group.gmo/careers/detail/242/"
+    },
+    {
+      "name": "テックリード（ベトナム語必須）",
+      "link": "https://recruit.group.gmo/careers/detail/243/"
+    }
+  ]
+}

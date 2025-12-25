@@ -1,0 +1,22 @@
+{
+  "company_name_ja": "リクルート",
+  "company_name_en": "Recruit",
+  "description": "日本最大の人材・広告・マッチングプラットフォーム企業。リクナビ、SUUMO、じゃらん、ホットペッパーなど多数のサービスを展開。グローバルではIndeedを傘下に持ち、HR Tech領域で世界をリードする。Airレジ・Airペイなどの業務支援SaaSも成長中。売上3兆円超、従業員約5万人のメガベンチャー。",
+  "description_en": "Japan's largest HR, advertising, and matching platform company. Operates numerous services including Rikunabi, SUUMO, Jalan, and Hot Pepper. Globally leads HR Tech with Indeed under its umbrella. Growing business support SaaS including Air Regi and Air Pay. Mega-venture with over 3 trillion yen in revenue and approximately 50,000 employees.",
+  "hiring_url": "https://www.recruit.co.jp/employment/",
+  "num_of_employees": "10000+",
+  "sales": 3400000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/recruit.png",
+  "company_url": "https://www.recruit.co.jp/",
+  "positions": [
+    {
+      "name": "バックエンドエンジニア/インフラエンジニア（グローバル推進領域）",
+      "link": "https://www.recruit.co.jp/employment/mid-career/position/jobid-a02Q900000hVpwjIAC/"
+    },
+    {
+      "name": "機械学習エンジニア（グローバル推進領域）",
+      "link": "https://www.recruit.co.jp/employment/mid-career/position/jobid-a02Q900000hWHZdIAO/"
+    }
+  ]
+}

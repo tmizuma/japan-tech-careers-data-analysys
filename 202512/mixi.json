@@ -1,0 +1,50 @@
+{
+  "company_name_ja": "MIXI",
+  "company_name_en": "MIXI",
+  "description": "世界累計6200万人超が利用する「モンスターストライク」を運営。2024年で11周年を迎えるロングランタイトル。子どもの写真共有アプリ「家族アルバム みてね」やSNS「mixi」も展開。千葉ジェッツやFC東京などスポーツ事業にも進出。東洋経済「働きやすさランキング」2024年第1位。BigQuery等を活用したデータ分析基盤でゲーム運営を支える。",
+  "description_en": "Operates \"Monster Strike\" with over 62 million cumulative users worldwide. A long-running title celebrating its 11th anniversary in 2024. Also offers family photo sharing app \"Mitene\" and SNS \"mixi.\" Expanded into sports business including Chiba Jets and FC Tokyo. Ranked #1 in Toyo Keizai's \"Best Workplaces Ranking\" 2024. Supports game operations with data analytics infrastructure utilizing BigQuery and more.",
+  "hiring_url": "https://mixi.co.jp/recruit/",
+  "num_of_employees": "1400+",
+  "sales": 130000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/mixi.png",
+  "company_url": "https://mixi.co.jp/",
+  "positions": [
+    {
+      "name": "【家族アルバム みてね】QAエンジニア",
+      "link": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/career/13492/"
+    },
+    {
+      "name": "【ライブエクスペリエンス】バックエンドエンジニア",
+      "link": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/career/13449/"
+    },
+    {
+      "name": "【開発本部】開発ディレクター／PM",
+      "link": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/career/13406/"
+    },
+    {
+      "name": "【家族アルバム みてね】CRE（Customer Reliability Engineering）",
+      "link": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/career/12988/"
+    },
+    {
+      "name": "【ミニモ】エンジニアリングマネージャー",
+      "link": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/career/12979/"
+    },
+    {
+      "name": "【開発本部】シニアアーキテクト",
+      "link": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/career/12149/"
+    },
+    {
+      "name": "【開発本部】AIエンジニア",
+      "link": "https://mixigroup-recruit.mixi.co.jp/occupation/engineer/12083/"
+    },
+    {
+      "name": "【セキュリティ室】セキュリティエンジニア",
+      "link": "https://mixigroup-recruit.mixi.co.jp/recruitment-category/career/11648/"
+    },
+    {
+      "name": "【開発本部】Site Reliability Engineer（SRE）",
+      "link": "https://mixigroup-recruit.mixi.co.jp/occupation/engineer/1620/"
+    }
+  ]
+}

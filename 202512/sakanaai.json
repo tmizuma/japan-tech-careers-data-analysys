@@ -1,0 +1,34 @@
+{
+  "company_name_ja": "Sakana AI",
+  "company_name_en": "Sakana AI",
+  "description": "Transformerの共同発明者Llion Jones氏と元Google Brain東京チームトップのDavid Ha氏が2023年に設立したAIスタートアップ。複数のAIモデルを組み合わせて新モデルを生成する「進化的モデルマージ」技術を世界で初めて開発。2024年にNVIDIA等から約2億ドルを調達し評価額11億ドル（約1700億円）のユニコーンに。AIが自ら論文を書く「AIサイエンティスト」技術も公表。",
+  "description_en": "AI startup founded in 2023 by Transformer co-inventor Llion Jones and former Google Brain Tokyo team leader David Ha. First in the world to develop \"Evolutionary Model Merge\" technology that combines multiple AI models to generate new ones. Raised approximately $200 million from NVIDIA and others in 2024, reaching unicorn status with $1.1 billion valuation (approximately 170 billion yen). Also unveiled \"AI Scientist\" technology where AI writes its own papers.",
+  "hiring_url": "https://sakana.ai/careers/",
+  "num_of_employees": "50",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/sakana-ai.png",
+  "company_url": "https://sakana.ai/",
+  "positions": [
+    {
+      "name": "Member of Technical Staff",
+      "link": "https://sakana.ai/careers/#member-of-technical-staff"
+    },
+    {
+      "name": "Applied Research Engineer",
+      "link": "https://sakana.ai/careers/#applied-research-engineer"
+    },
+    {
+      "name": "Software Engineer",
+      "link": "https://sakana.ai/careers/#software-engineer"
+    },
+    {
+      "name": "Software Engineer (Research and Development)",
+      "link": "https://sakana.ai/careers/#software-engineer-research-and-development"
+    },
+    {
+      "name": "Cybersecurity Engineer",
+      "link": "https://sakana.ai/careers/#cybersecurity-engineer"
+    }
+  ]
+}

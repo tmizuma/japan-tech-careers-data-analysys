@@ -1,0 +1,222 @@
+{
+  "company_name_ja": "LY Corporation",
+  "company_name_en": "LY Corporation",
+  "description": "2023年10月にLINE・Yahoo! JAPANが統合して誕生した日本最大のインターネット企業。LINEの月間1.99億ユーザーとYahoo! JAPANの月間5430万ログインIDを擁しグループ延べ利用者数3.2億超。PayPayやZOZO等も傘下に持つ。従業員約28000人でグループ会社124社。Java/Go/PythonやKubernetes等の技術スタックで大規模サービスを支える。",
+  "description_en": "Japan's largest internet company formed by the merger of LINE and Yahoo! JAPAN in October 2023. Boasts 199 million monthly LINE users and 54.3 million Yahoo! JAPAN monthly login IDs, with total group users exceeding 320 million. Subsidiaries include PayPay and ZOZO. Approximately 28,000 employees across 124 group companies. Powers large-scale services with tech stacks including Java/Go/Python and Kubernetes.",
+  "hiring_url": "https://www.lycorp.co.jp/ja/recruit/",
+  "num_of_employees": "10000+",
+  "sales": 1800000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/ly-corporation.png",
+  "company_url": "https://www.lycorp.co.jp/",
+  "positions": [
+    {
+      "name": "iOS・Androidエンジニア / Yahoo! JAPAN",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00650/"
+    },
+    {
+      "name": "データアナリスト（事業戦略） / LINE MUSIC",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00643/"
+    },
+    {
+      "name": "データプラットフォームエンジニア / Data Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00067/"
+    },
+    {
+      "name": "機械学習エンジニア / AI領域（MLプラットフォーム）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00161/"
+    },
+    {
+      "name": "メッセージングバックエンドエンジニア（Senior・Staff） / LINE Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00640/"
+    },
+    {
+      "name": "メッセージングバックエンドエンジニア / LINE Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00127/"
+    },
+    {
+      "name": "QAエンジニア / ソーシャルコマース（LINEギフト・LINEコマース新規サービス）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00368/"
+    },
+    {
+      "name": "テックリード/ コーポレートIT",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00074/"
+    },
+    {
+      "name": "テクニカルプログラムマネージャー / コーポレートIT",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00073/"
+    },
+    {
+      "name": "バックエンドエンジニア / 大規模データプラットフォーム（BtoB領域）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00632/"
+    },
+    {
+      "name": "SDKエンジニア（iOS・Android） / Yahoo! JAPAN ID",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00113/"
+    },
+    {
+      "name": "バックエンドエンジニア（大規模メッセージ送信プラットフォーム） / LINE BOT",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00087/"
+    },
+    {
+      "name": "バックエンドエンジニア（DBaaS for OpenSearch） / プライベートクラウド",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00500/"
+    },
+    {
+      "name": "バックエンドエンジニア / Yahoo!デベロッパーネットワーク",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00625/"
+    },
+    {
+      "name": "バックエンドエンジニア / Yahoo!マップ・Yahoo!カーナビ・Yahoo!知恵袋・新規ローカルソリューションなど",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00519/"
+    },
+    {
+      "name": "iOSエンジニア / Yahoo!マップ・Yahoo!カーナビ・Yahoo!知恵袋・LINEウォレット・新サービス",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00610/"
+    },
+    {
+      "name": "Androidエンジニア / Yahoo!マップ・Yahoo!カーナビ・Yahoo!乗換案内・Yahoo!知恵袋・LINEウォレット",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00459/"
+    },
+    {
+      "name": "システム企画 / ソーシャルコマース（LINEギフト・LINEコマース新規サービス）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00606/"
+    },
+    {
+      "name": "Androidエンジニア / Yahoo!カレンダー",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00583/"
+    },
+    {
+      "name": "Androidエンジニア / LINEアプリ",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00608/"
+    },
+    {
+      "name": "DevOpsエンジニア（Monitoring Platform開発・運用） / Developer Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00489/"
+    },
+    {
+      "name": "機械学習エンジニア（AIエージェント開発） / 生成AI",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00493/"
+    },
+    {
+      "name": "バックエンドエンジニア / AI領域（MLプラットフォーム）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00159/"
+    },
+    {
+      "name": "バックエンドエンジニア / Service Monitoring Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00567/"
+    },
+    {
+      "name": "SREOpsエンジニア（サービス運用） / LINE Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00078/"
+    },
+    {
+      "name": "Customer Reliability Engineer / LINE Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00071/"
+    },
+    {
+      "name": "バックエンドエンジニア / LINE CREATORS MARKET",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00509/"
+    },
+    {
+      "name": "バックエンドエンジニア / LINE公式アカウント",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00236/"
+    },
+    {
+      "name": "ソフトウェアエンジニア / クラウドセキュリティ基盤（IAM/KMS/PKI）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00558/"
+    },
+    {
+      "name": "フロントエンドエンジニア / 大規模インフラプラットフォーム",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00485/"
+    },
+    {
+      "name": "バックエンドエンジニア / LINEバイト",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00103/"
+    },
+    {
+      "name": "テクニカルディレクター / LINE GAME Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00357/"
+    },
+    {
+      "name": "バックエンドエンジニア / Network Reliability",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00499/"
+    },
+    {
+      "name": "DevOpsエンジニア / Network Reliability",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00480/"
+    },
+    {
+      "name": "バックエンドエンジニア / LINE公式アカウント向け新規事業",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00479/"
+    },
+    {
+      "name": "DevOpsエンジニア（分散データベース） / LINE Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00077/"
+    },
+    {
+      "name": "フロントエンドエンジニア / ソーシャルコマース（LINEギフト・LINEコマース新規サービス）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00144/"
+    },
+    {
+      "name": "フロントエンドエンジニア / Yahoo!マップ・Yahoo!知恵袋",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00248/"
+    },
+    {
+      "name": "フロントエンドエンジニア / LINE公式アカウント",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00237/"
+    },
+    {
+      "name": "ソフトウェアエンジニア / LINE Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00471/"
+    },
+    {
+      "name": "バックエンドエンジニア / ソーシャルコマース（LINEギフト・LINEコマース新規サービス）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00143/"
+    },
+    {
+      "name": "バックエンドエンジニア / LINEミニアプリ",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00454/"
+    },
+    {
+      "name": "シニアバックエンドエンジニア（LINEエコシステム基盤開発） / LINE Developers Product",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00460/"
+    },
+    {
+      "name": "フロントエンドエンジニア / LINEミニアプリ",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00453/"
+    },
+    {
+      "name": "バックエンドエンジニア（分散データベース・メッセージングサービス）/ LINE Platform",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00093/"
+    },
+    {
+      "name": "ファシリティエンジニア（データセンター）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00006/"
+    },
+    {
+      "name": "バックエンドエンジニア（レコメンド領域） / Yahoo!メディアサービス",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00138/"
+    },
+    {
+      "name": "Customer Reliability Engineer / ソーシャルコマース（LINEギフト・LINEコマース新規サービス）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00367/"
+    },
+    {
+      "name": "プロジェクトマネージャー / AI領域（MLプラットフォーム）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00155/"
+    },
+    {
+      "name": "ソフトウェアエンジニア / 生成AI",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00412/"
+    },
+    {
+      "name": "Site Reliability Engineer / ソーシャルコマース（LINEギフト・LINEコマース新規サービス）",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00366/"
+    },
+    {
+      "name": "データサイエンティスト / ディスプレイ広告",
+      "link": "https://www.lycorp.co.jp/ja/recruit/career/job-categories/ly00280/"
+    }
+  ]
+}
