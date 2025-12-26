@@ -30,7 +30,7 @@
 20. [x] sansan (Sansan) - https://jp.corp-sansan.com/recruit/ (完了: 53件)
 21. [x] moneyforward (Money Forward) - https://corp.moneyforward.com/recruit/ (完了: 39件)
 22. [x] freee (freee) - https://hire.wantedly.com/careers/freee/career_page_all_jobs?includeCasualVisits=false&jobFunctionId=116/ (完了: 16件)
-23. [ ] cybozu (Cybozu) - https://cybozu.co.jp/recruit/ (未開始)
+23. [x] cybozu (Cybozu) - https://cybozu.co.jp/recruit/ (完了: 26件)
 24. [x] uzabase (Uzabase) - https://www.uzabase.com/jp/careers/ (完了: 8件)
 25. [x] rakus (Rakus) - https://www.rakus.co.jp/recruit/ (完了: 32件)
 26. [x] bengoshicom (Bengoshi.com) - https://www.bengo4.com/corporate/recruit/ (完了: 18件)

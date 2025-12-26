@@ -1,0 +1,118 @@
+{
+  "company_name_ja": "Cybozu",
+  "company_name_en": "Cybozu",
+  "description": "ノーコード業務アプリ開発基盤「kintone」を中核にグループウェア「サイボウズ Office」「Garoon」を提供。kintone導入企業は3万7000社超で東証プライム企業の3社に1社が採用。導入担当者の93%が非IT部門という市民開発を推進。2025年にはAIアシスタント機能を追加予定。働き方改革の先駆者として柔軟な人事制度を導入し多様な働き方を実現。",
+  "description_en": "Provides no-code business app development platform \"kintone\" as core product along with groupware \"Cybozu Office\" and \"Garoon.\" Over 37,000 companies use kintone, with 1 in 3 TSE Prime companies adopting it. Promotes citizen development with 93% of implementation managers being non-IT departments. Plans to add AI assistant features in 2025. Pioneer in work style reform, implementing flexible HR systems to enable diverse work arrangements.",
+  "hiring_url": "https://cybozu.co.jp/recruit/",
+  "num_of_employees": "1000+",
+  "sales": 25000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/cybozu.png",
+  "company_url": "https://cybozu.co.jp/",
+  "positions": [
+    {
+      "name": "エンジニアリングマネージャー（kintone）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/engineering-manager.html"
+    },
+    {
+      "name": "プロダクトエンジニア（kintone）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-engineer-kintone.html"
+    },
+    {
+      "name": "プロダクトエンジニア（kintone／生成AI）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-engineer-kintone-ai.html"
+    },
+    {
+      "name": "プラットフォームエンジニア (kintone)",
+      "link": "https://cybozu.co.jp/recruit/entry/career/platform-engineer-kintone.html"
+    },
+    {
+      "name": "プロダクトエンジニア（サイボウズ Office）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-engineer-cybozu-office.html"
+    },
+    {
+      "name": "シニアプロダクトエンジニア（販売管理システム）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-sales-system.html"
+    },
+    {
+      "name": "プロダクトエンジニア（kintone／フロントエンド）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-engineer-front-end-engineer-kintone.html"
+    },
+    {
+      "name": "シニアプロダクトエンジニア（kintone／フロントエンド）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-product-engineer-front-end-kintone.html"
+    },
+    {
+      "name": "iOSエンジニア",
+      "link": "https://cybozu.co.jp/recruit/entry/career/ios-engineer.html"
+    },
+    {
+      "name": "Androidエンジニア",
+      "link": "https://cybozu.co.jp/recruit/entry/career/android-engineer.html"
+    },
+    {
+      "name": "プラグイン・ソリューション開発エンジニア",
+      "link": "https://cybozu.co.jp/recruit/entry/career/plugin-engineer.html"
+    },
+    {
+      "name": "クラウド基盤エンジニア（SRE/データストア）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/datastore.html"
+    },
+    {
+      "name": "クラウド基盤エンジニア（Cloud Platform）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/Cloud-Platform.html"
+    },
+    {
+      "name": "クラウド基盤エンジニア（Platform QA）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/cloudplatform-qa-engineer.html"
+    },
+    {
+      "name": "クラウド基盤エンジニア（Network&DC）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/cloud-platform-network-dc.html"
+    },
+    {
+      "name": "Senior Software Engineer – QA Platform Development",
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-software-engineer-qa-platform-development.html"
+    },
+    {
+      "name": "Senior Backend Engineer, Microservices (Go)",
+      "link": "https://cybozu.co.jp/recruit/entry/career/senior-backend-engineer-microservices-go.html"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://cybozu.co.jp/recruit/entry/career/qa-engineer.html"
+    },
+    {
+      "name": "プロダクトデザイナー",
+      "link": "https://cybozu.co.jp/recruit/entry/career/product-designer.html"
+    },
+    {
+      "name": "テクニカルライター（グループウェア）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/productwriter-groupware.html"
+    },
+    {
+      "name": "プロダクトセキュリティエンジニア",
+      "link": "https://cybozu.co.jp/recruit/entry/career/security-engineer.html"
+    },
+    {
+      "name": "データアナリスト",
+      "link": "https://cybozu.co.jp/recruit/entry/career/data-analyst-i.html"
+    },
+    {
+      "name": "ソリューションエンジニア",
+      "link": "https://cybozu.co.jp/recruit/entry/career/sales-engineer.html"
+    },
+    {
+      "name": "ソリューションエンジニア（大企業向け）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/sales-engineer-enterprise.html"
+    },
+    {
+      "name": "カスタマーサクセスエンジニア（大企業向け）",
+      "link": "https://cybozu.co.jp/recruit/entry/career/customer-success-engineer-enterprise.html"
+    },
+    {
+      "name": "【サイボウズ・ラボ】研究開発部門",
+      "link": "https://cybozu.co.jp/recruit/entry/career/cybozu-lab.html"
+    }
+  ]
+}
