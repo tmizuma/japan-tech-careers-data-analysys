@@ -1,0 +1,18 @@
+{
+  "company_name_ja": "Nudge",
+  "company_name_en": "Nudge",
+  "description": "「推し活」ができる次世代クレジットカードでスマホ連動型Visaカードを提供。100以上のデザインから選べ同じカード番号で複数枚を年会費無料発行可能。カード利用額に応じてスポーツチームやアーティスト等の「クラブ」を応援でき体験型特典を獲得。AI独自審査で勤務先情報入力不要のため学生・フリーランスでも作成しやすく銀行振込なら決済翌日から返済可能。JCBブランドカードも発行開始し若年層の「推し活」ニーズに対応。少額包括信用購入あっせん業者で利用限度額は最大10万円。",
+  "description_en": "Next-generation credit card enabling \"oshi-katsu\" (fan support activities) with smartphone-linked Visa card. Choose from over 100 designs with multiple cards issuable under same card number at no annual fee. Support \"clubs\" like sports teams and artists based on card spending to earn experiential rewards. AI-based proprietary screening requires no employer information, making it easy for students and freelancers to apply; bank transfer repayment possible from day after transaction. Also started issuing JCB brand cards to meet young generation's \"oshi-katsu\" needs. Small-amount comprehensive credit intermediary with maximum limit of 100,000 yen.",
+  "hiring_url": "https://nudge.works/recruit/",
+  "num_of_employees": "50",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/nudge.png",
+  "company_url": "https://nudge.works/",
+  "positions": [
+    {
+      "name": "SRE/インフラエンジニア",
+      "link": "https://nudgeworks.notion.site/SRE-167bf7cc24788109b787d46b1bb59b03"
+    }
+  ]
+}

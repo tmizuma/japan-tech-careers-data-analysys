@@ -1,0 +1,42 @@
+{
+  "company_name_ja": "Reality",
+  "company_name_en": "Reality",
+  "description": "スマホ1台でアバター姿のライブ配信ができるメタバースアプリ「REALITY」を運営。世界87カ国で累計3000万DL突破し海外ユーザー比率80%超。顔認識技術でスマホのみでバーチャルアバターを動かせる手軽さが強み。GREE子会社として2018年サービス開始後グローバル展開を加速。アバター作成・ライブ配信・ゲーム・コミュニケーションを統合したバーチャルSNS。2024年に新アバターシステムをリリース。",
+  "description_en": "Operates metaverse app \"REALITY\" enabling avatar-based live streaming with just a smartphone. Surpassed 30 million cumulative downloads across 87 countries with over 80% overseas user ratio. Strength lies in ease of moving virtual avatars using only smartphone through facial recognition technology. Accelerated global expansion after launching service in 2018 as GREE subsidiary. Virtual SNS integrating avatar creation, live streaming, games, and communication. Released new avatar system in 2024.",
+  "hiring_url": "https://reality.inc/jobs/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/reality.png",
+  "company_url": "https://reality.inc/",
+  "positions": [
+    {
+      "name": "Webフロントエンドリード（運用Web管理ツール開発）",
+      "link": "https://hrmos.co/pages/1218800560317673472/jobs/900100"
+    },
+    {
+      "name": "データエンジニア",
+      "link": "https://hrmos.co/pages/1218800560317673472/jobs/900101"
+    },
+    {
+      "name": "Androidエンジニア",
+      "link": "https://hrmos.co/pages/1218800560317673472/jobs/900102"
+    },
+    {
+      "name": "iOSエンジニア",
+      "link": "https://hrmos.co/pages/1218800560317673472/jobs/900103"
+    },
+    {
+      "name": "サーバーサイドエンジニア",
+      "link": "https://hrmos.co/pages/1218800560317673472/jobs/900104"
+    },
+    {
+      "name": "Unityエンジニア",
+      "link": "https://hrmos.co/pages/1218800560317673472/jobs/900105"
+    },
+    {
+      "name": "テクニカルアーティスト（Unity）",
+      "link": "https://hrmos.co/pages/1218800560317673472/jobs/900106"
+    }
+  ]
+}

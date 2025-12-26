@@ -1,0 +1,18 @@
+{
+  "company_name_ja": "Bekind Labs",
+  "company_name_en": "Bekind Labs",
+  "description": "Pivotal Labs出身のコンサルタントを中心に2024年設立されたアジャイル開発支援企業。「優しさが真のイノベーションを促進する」を理念に掲げ、Lean Startup・Extreme Programming・Balanced Teamアプローチを活用してクライアントと統合チームを結成しプロダクト開発を支援。プロダクトマネジメントやアジャイル開発の実践力を育み、チームが自ら学び成長し続ける文化を企業内に根づかせることを目指す。東京・ソウルに拠点を持ち、日本およびアジア市場に最適化されたサービスを提供。",
+  "description_en": "Agile development consulting firm established in 2024, founded by consultants from Pivotal Labs. With the philosophy that \"kindness drives true innovation,\" they form integrated teams with clients using Lean Startup, Extreme Programming, and Balanced Team approaches to support product development. The company aims to nurture practical skills in product management and agile development, fostering a culture where teams continuously learn and grow. With offices in Tokyo and Seoul, they provide services optimized for the Japanese and Asian markets.",
+  "hiring_url": "https://elfin-grin-868.notion.site/Careers-at-Bekind-Labs-257d463d15ed8093925bfb78e5d19964",
+  "num_of_employees": "50",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/bekind-labs.png",
+  "company_url": "https://bekindlabs.com/jp/",
+  "positions": [
+    {
+      "name": "Software Engineer",
+      "link": "https://elfin-grin-868.notion.site/Software-Engineer-259d463d15ed80c69c77cd088c46ae33"
+    }
+  ]
+}

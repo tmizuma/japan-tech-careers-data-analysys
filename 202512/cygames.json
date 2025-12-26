@@ -1,0 +1,170 @@
+{
+  "company_name_ja": "Cygames",
+  "company_name_en": "Cygames",
+  "description": "「グランブルーファンタジー」「ウマ娘 プリティーダービー」「Shadowverse」等を開発するサイバーエージェントグループのゲーム会社。コンソール級のグラフィック品質とライブサービス運営に強み。2021年リリースの「ウマ娘」は社会現象となり年間売上1000億円超を記録。Nintendo Switch/PS向け大型タイトルやアニメ制作も手がける。佐賀スタジオ設立やJリーグチームスポンサーなど多角化を推進。",
+  "description_en": "CyberAgent Group game company developing \"Granblue Fantasy,\" \"Uma Musume Pretty Derby,\" \"Shadowverse,\" and more. Strong in console-grade graphics quality and live service operations. \"Uma Musume\" released in 2021 became a social phenomenon with over 100 billion yen annual revenue. Also develops major titles for Nintendo Switch/PS and anime production. Promoting diversification through Saga Studio establishment and J-League team sponsorship.",
+  "hiring_url": "https://www.cygames.co.jp/recruit/",
+  "num_of_employees": "3000+",
+  "sales": 180000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/cygames.png",
+  "company_url": "https://www.cygames.co.jp/",
+  "positions": [
+    {
+      "name": "クライアントサイドエンジニア／ゲーム／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000019"
+    },
+    {
+      "name": "サーバーサイドエンジニア／ゲーム／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000016"
+    },
+    {
+      "name": "ゲームエンジニア／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000082"
+    },
+    {
+      "name": "ゲームエンジニア／コンシューマー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000020"
+    },
+    {
+      "name": "グラフィックスエンジニア／コンシューマー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1941794969118494722"
+    },
+    {
+      "name": "ネットワークエンジニア／コンシューマー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414159"
+    },
+    {
+      "name": "ツールエンジニア／コンシューマー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414160"
+    },
+    {
+      "name": "QAエンジニア／コンシューマー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414161"
+    },
+    {
+      "name": "ビルドエンジニア／コンシューマー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414162"
+    },
+    {
+      "name": "オンラインゲーム向けインフラエンジニア／コンシューマー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414177"
+    },
+    {
+      "name": "UIエンジニア／コンシューマー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414178"
+    },
+    {
+      "name": "システムエンジニア／ゲームエンジン／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000143"
+    },
+    {
+      "name": "ツールエンジニア／ゲームエンジン／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000144"
+    },
+    {
+      "name": "ツールエンジニア／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000077"
+    },
+    {
+      "name": "ネットワークエンジニア／ゲームエンジン／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000145"
+    },
+    {
+      "name": "ネットワークエンジニア／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000080"
+    },
+    {
+      "name": "グラフィックスエンジニア／ゲームエンジン／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000146"
+    },
+    {
+      "name": "グラフィックスエンジニア／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000073"
+    },
+    {
+      "name": "エフェクトエンジニア／ゲームエンジン／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000147"
+    },
+    {
+      "name": "物理シミュレーションエンジニア／ゲームエンジン／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000148"
+    },
+    {
+      "name": "フロントエンドエンジニア／ゲーム・サービス／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000021"
+    },
+    {
+      "name": "Webアプリケーションエンジニア／ゲーム開発支援サービス／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000023"
+    },
+    {
+      "name": "iOSエンジニア／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000029"
+    },
+    {
+      "name": "Androidエンジニア／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000030"
+    },
+    {
+      "name": "プラットフォームエンジニア／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1836256501621039163"
+    },
+    {
+      "name": "セキュリティエンジニア／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000032"
+    },
+    {
+      "name": "ゲームAIエンジニア／ゲームエンジン／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000149"
+    },
+    {
+      "name": "AIエンジニア（自然言語処理）／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1836256501621039141"
+    },
+    {
+      "name": "AIエンジニア（画像生成・画像処理）／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414155"
+    },
+    {
+      "name": "強化学習エンジニア（ゲーム自動プレイ・バランス最適化）／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/2130592181566771228"
+    },
+    {
+      "name": "データエンジニア／分析基盤開発／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000093"
+    },
+    {
+      "name": "社内インフラ／サーバー／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000362"
+    },
+    {
+      "name": "社内インフラ／ネットワーク／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000361"
+    },
+    {
+      "name": "QAエンジニア／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/0000349"
+    },
+    {
+      "name": "ビルドエンジニア／ゲームエンジン／東京",
+      "link": "https://hrmos.co/pages/cygames/jobs/1793262169510682626"
+    },
+    {
+      "name": "ビルドエンジニア／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/1686933079420817421"
+    },
+    {
+      "name": "セキュリティエンジニア／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/1836256501621039137"
+    },
+    {
+      "name": "オンラインゲーム向けインフラエンジニア／コンシューマー／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414179"
+    },
+    {
+      "name": "UIエンジニア／コンシューマー／大阪",
+      "link": "https://hrmos.co/pages/cygames/jobs/1984149015409414180"
+    }
+  ]
+}

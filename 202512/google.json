@@ -1,0 +1,54 @@
+{
+  "company_name_ja": "グーグル合同会社",
+  "company_name_en": "Google Japan",
+  "description": "世界最大のテクノロジー企業の一つ。検索エンジン、広告、クラウドサービス（Google Cloud）、Android OS、YouTube等を展開。AIと機械学習分野でも世界をリードし、生成AI「Gemini」を開発。日本法人は2001年設立で東京・渋谷に拠点を置く。検索市場で国内シェア約75%を占め、Google Maps、Gmail等のサービスは日本のインターネットユーザーの大多数が利用。世界有数の高給与・福利厚生で知られ、エンジニアにとって最も人気の高い就職先の一つ。",
+  "description_en": "One of the world's largest technology companies. Operates search engine, advertising, cloud services (Google Cloud), Android OS, YouTube, and more. World leader in AI and machine learning, developing generative AI 'Gemini'. Japan subsidiary established in 2001, headquartered in Shibuya, Tokyo. Commands approximately 75% domestic search market share, with services like Google Maps and Gmail used by the majority of Japanese internet users. Known for world-class compensation and benefits, making it one of the most desirable employers for engineers.",
+  "hiring_url": "https://careers.google.com/intl/ja_jp/",
+  "num_of_employees": "2000+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/google-japan.png",
+  "company_url": "https://about.google/intl/ja/",
+  "positions": [
+    {
+      "name": "ソフトウェア エンジニア、Android コア ネットワーキング",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/135433237252973254-android"
+    },
+    {
+      "name": "シニア ソフトウェア エンジニア、Android コア ネットワーキング",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/85083610519872198-android"
+    },
+    {
+      "name": "ソフトウェア エンジニア III、モバイル（iOS）、検索",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/92693594099327686-iiiios"
+    },
+    {
+      "name": "シニア ソフトウェア エンジニア、生成 AI、Google Cloud AI",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/142144342696305350-aigoogle-cloud-ai"
+    },
+    {
+      "name": "ソリューション エンジニア、ミッション クリティカル サービス、ストレージ、Google Cloud",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/140902195204629190-google-cloud"
+    },
+    {
+      "name": "ソリューション エンジニア、ミッション クリティカル サービス、コンピューティング、Google Cloud",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/132463615260140230-google-cloud"
+    },
+    {
+      "name": "トップ カスタマー ソリューション エンジニア、データ分析、Google Cloud",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/103057341594641094-google-cloud"
+    },
+    {
+      "name": "テクニカル ソリューション エンジニア、データと AI（日本語、英語）",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/123104872395350726-ai"
+    },
+    {
+      "name": "カスタマー ソリューション エンジニア、ハイタッチ サポート、GKE、コンピューティング",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/129584502723548550-gke"
+    },
+    {
+      "name": "広告ソリューション アーキテクト、gTech プロフェッショナル サービス",
+      "link": "https://www.google.com/about/careers/applications/jobs/results/106070103849607878-gtech"
+    }
+  ]
+}

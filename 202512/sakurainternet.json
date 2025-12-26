@@ -1,0 +1,118 @@
+{
+  "company_name_ja": "Sakura Internet",
+  "company_name_en": "Sakura Internet",
+  "description": "1996年創業の国産クラウド・データセンター大手。生成AI向けGPUクラウド「高火力」を提供しNVIDIA H100を約2000基・H200を約1000基整備。2024年度から2030年度まで総額1000億円規模の投資計画を推進し経済産業省から約565億円の助成を獲得。2025年末までにガバメントクラウド正式認定を目指す。GPUとガバクラの両方を提供できる国産クラウド事業者として唯一の存在。",
+  "description_en": "A major domestic cloud and data center provider founded in 1996. Offers the 'Koukaryoku' (High Firepower) GPU cloud for generative AI, with approximately 2,000 NVIDIA H100 units and approximately 1,000 H200 units deployed. The company is pursuing a total investment plan of approximately 100 billion yen from fiscal 2024 to 2030 and has secured approximately 56.5 billion yen in subsidies from the Ministry of Economy, Trade and Industry. It aims to achieve official Government Cloud certification by the end of 2025. The company is the only domestic cloud provider capable of offering both GPU and Government Cloud services.",
+  "hiring_url": "https://www.sakura.ad.jp/corporate/recruit/",
+  "num_of_employees": "800+",
+  "sales": 20000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/sakura-internet.png",
+  "company_url": "https://www.sakura.ad.jp/",
+  "positions": [
+    {
+      "name": "ソフトウェア開発エンジニア（オープンポジション）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/349/"
+    },
+    {
+      "name": "インフラ開発エンジニア（オープンポジション）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/347/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（テクニカルオペレーション）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/614/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア(クラウドSDK)",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/563/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア(Kubernetes基盤)",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/561/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（監視プラットフォーム）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/546/"
+    },
+    {
+      "name": "認証認可/監査ログ基盤開発エンジニア (バックエンド)",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/608/"
+    },
+    {
+      "name": "リレーショナルデータベースサービス開発エンジニア（バックエンド）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/430/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（クラウドプラットフォーム基盤開発）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/624/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（ハード・ソフト境界領域）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/388/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（次世代クラウド基盤）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/384/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（次世代クラウド基盤・オーバーレイネットワーク）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/634/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（次世代クラウド基盤・セキュリティプロダクト）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/635/"
+    },
+    {
+      "name": "ソフトウェア開発エンジニア（フロントエンド）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/275/"
+    },
+    {
+      "name": "システム開発エンジニア（販売管理システム）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/104/"
+    },
+    {
+      "name": "インフラ開発エンジニア（クラウドプラットフォーム機材検証）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/607/"
+    },
+    {
+      "name": "インフラ開発エンジニア（生成AI向けクラウドサービス）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/351/"
+    },
+    {
+      "name": "インフラ開発エンジニア（ストレージスペシャリスト）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/779/"
+    },
+    {
+      "name": "サーバーエンジニア(データセンター運用)",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/793/"
+    },
+    {
+      "name": "サービスネットワークエンジニア",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/108/"
+    },
+    {
+      "name": "バックボーンネットワークエンジニア",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/109/"
+    },
+    {
+      "name": "インフラエンジニア（サービス運用）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/111/"
+    },
+    {
+      "name": "エンジニアリングマネージャ／ソフトウェア開発（クラウドプラットフォーム）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/368/"
+    },
+    {
+      "name": "エンジニアリングマネージャ／インフラ開発 (クラウドプラットフォーム）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/606/"
+    },
+    {
+      "name": "エンジニアリングマネジャー（AIプラットフォーム）",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/681/"
+    },
+    {
+      "name": "デザインエンジニア",
+      "link": "https://www.sakura.ad.jp/recruit/midcareer/113/"
+    }
+  ]
+}

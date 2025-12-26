@@ -1,0 +1,30 @@
+{
+  "company_name_ja": "Gaudiy",
+  "company_name_en": "Gaudiy",
+  "description": "「ファンと共に時代を進める。」をミッションにNFT・DID等のブロックチェーン技術を活用したWeb3時代のファンプラットフォーム「Gaudiy Fanlink」を提供。IP独自コミュニティシステムでファンの横断的活動データを記録・蓄積しファンの貢献や熱量を正しく評価・還元。2025年5月にプレシリーズCで総額100億円調達。サンリオ・集英社等の日本を代表するIP企業と連携し海外展開を推進。会員1950万人・海外利用率99%の世界最大級アニメ・マンガコミュニティ「MyAnimeList」をグループ傘下化。",
+  "description_en": "Provides Web3-era fan platform \"Gaudiy Fanlink\" utilizing blockchain technologies like NFT and DID with mission \"Advancing the era together with fans.\" Records and accumulates cross-platform fan activity data through IP-specific community system to properly evaluate and reward fan contributions and enthusiasm. Raised total 10 billion yen in Pre-Series C in May 2025. Partners with leading Japanese IP companies including Sanrio and Shueisha to promote overseas expansion. Made world's largest anime/manga community \"MyAnimeList\" with 19.5 million members and 99% overseas usage rate a group subsidiary.",
+  "hiring_url": "https://gaudiy.com/recruit/casualtalk",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/gaudiy.png",
+  "company_url": "https://gaudiy.com/",
+  "positions": [
+    {
+      "name": "Site Reliability Engineering（SRE）",
+      "link": "https://herp.careers/v1/gaudiy/JSa394VRtRQV"
+    },
+    {
+      "name": "Generative AI/LLM Agent エンジニア",
+      "link": "https://herp.careers/v1/gaudiy/CPmUjE2YQxns"
+    },
+    {
+      "name": "データサイエンティスト",
+      "link": "https://herp.careers/v1/gaudiy/zhlefGXd6B3o"
+    },
+    {
+      "name": "Corporate IT",
+      "link": "https://herp.careers/v1/gaudiy/8ndylguJbAGV"
+    }
+  ]
+}

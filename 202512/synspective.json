@@ -1,0 +1,98 @@
+{
+  "company_name_ja": "Synspective",
+  "company_name_en": "Synspective",
+  "description": "100kg級の小型SAR衛星「StriX」を開発・製造・運用する宇宙開発ベンチャー。2024年12月に東証グロース市場上場。SAR衛星は自らマイクロ波を地表面に照射し反射波を受信して画像生成するため天候や昼夜に左右されず安定したデータ取得が可能。2024年にStriX-3・StriX-4の打ち上げに成功し現在4機が軌道上で運用中。地上分解能0.46mという高解像度画像の取得に成功。2024年11月に小型SAR衛星の量産工場「ヤマトテクノロジーセンター」を本格稼働し政府の宇宙戦略基金から最大約165億円の支援を獲得。2020年代後半までに30機の衛星コンステレーション構築を目指す。",
+  "description_en": "Space development venture developing, manufacturing, and operating 100kg-class small SAR satellite \"StriX.\" Listed on TSE Growth Market in December 2024. SAR satellites emit microwaves to Earth's surface and receive reflected waves for image generation, enabling stable data acquisition regardless of weather or day/night conditions. Successfully launched StriX-3 and StriX-4 in 2024 with 4 satellites currently operational in orbit. Achieved high-resolution images with 0.46m ground resolution. Fully operationalized small SAR satellite mass production factory \"Yamato Technology Center\" in November 2024, securing up to approximately 16.5 billion yen from government's space strategy fund. Targeting 30-satellite constellation by late 2020s.",
+  "hiring_url": "https://synspective.com/recruit/",
+  "num_of_employees": "150+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/synspective.png",
+  "company_url": "https://synspective.com/",
+  "positions": [
+    {
+      "name": "カスタマーエンジニア",
+      "link": "https://careers.synspective.com/o/914nlkffuw"
+    },
+    {
+      "name": "シニアITインフラエンジニア（社内SE）",
+      "link": "https://careers.synspective.com/o/dcsd197tsp"
+    },
+    {
+      "name": "アーキテクト（地上システム横断）",
+      "link": "https://careers.synspective.com/o/3nn4hmnuso"
+    },
+    {
+      "name": "2027年度新卒エンジニア（院卒）",
+      "link": "https://careers.synspective.com/o/lr8uwsrfrh"
+    },
+    {
+      "name": "Senior Radar Engineer",
+      "link": "https://careers.synspective.com/o/senior-radar-engineer-2"
+    },
+    {
+      "name": "System Engineer/ Satellite Operation Engineer (SOP)",
+      "link": "https://careers.synspective.com/o/system-engineer-satellite-operation-engineer-sop"
+    },
+    {
+      "name": "エンジニアリーダー",
+      "link": "https://careers.synspective.com/o/bh3osda5dd"
+    },
+    {
+      "name": "Freelance SAR Data Analyst with experience in the security sector",
+      "link": "https://careers.synspective.com/o/freelance-sar-data-analyst-with-experience-in-the-security-sector"
+    },
+    {
+      "name": "システムズエンジニア／プログラムマネージャー",
+      "link": "https://careers.synspective.com/o/w41oe17g4w"
+    },
+    {
+      "name": "Embedded Software Engineer",
+      "link": "https://careers.synspective.com/o/embedded-software-engineer-3"
+    },
+    {
+      "name": "Satellite Operation Engineer",
+      "link": "https://careers.synspective.com/o/satellite-operation-engineer-1"
+    },
+    {
+      "name": "熱計装設計エンジニア（MLIなどの熱保護部品の設計）",
+      "link": "https://careers.synspective.com/o/ydt5bygep3"
+    },
+    {
+      "name": "電気試験エンジニア",
+      "link": "https://careers.synspective.com/o/usyb2rb3tp"
+    },
+    {
+      "name": "実験評価/工程整備技能者",
+      "link": "https://careers.synspective.com/o/dv5ve6lomo"
+    },
+    {
+      "name": "ハーネスエンジニア",
+      "link": "https://careers.synspective.com/o/mgda4l59vh"
+    },
+    {
+      "name": "製造技術/生産技術エンジニア",
+      "link": "https://careers.synspective.com/o/manufacturing-engineer-tsukuba-ibaraki"
+    },
+    {
+      "name": "品質管理エンジニア",
+      "link": "https://careers.synspective.com/o/783ewsg6ro"
+    },
+    {
+      "name": "調達エンジニア",
+      "link": "https://careers.synspective.com/o/3up3rrh2po"
+    },
+    {
+      "name": "人工衛星組立技能者",
+      "link": "https://careers.synspective.com/o/manufacturing-and-launch-technician"
+    },
+    {
+      "name": "Site Reliability Engineer",
+      "link": "https://careers.synspective.com/o/site-reliability-engineer-4"
+    },
+    {
+      "name": "Open position / キャリア登録",
+      "link": "https://careers.synspective.com/o/open-position"
+    }
+  ]
+}

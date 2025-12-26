@@ -1,0 +1,162 @@
+{
+  "company_name_ja": "Visional",
+  "company_name_en": "Visional",
+  "description": "「新しい可能性を、次々と。」をグループミッションに掲げる東証プライム上場企業。即戦力人材向け転職サイト「ビズリーチ」を中核にHRMOSタレントマネジメント・M&Aサクシード・脆弱性管理yamoryなど8社からなるグループを展開。グループ連結売上高661億円（2024年7月期）。HR Tech・M&A・サイバーセキュリティ・物流DXの4領域で日本の生産性向上に貢献。",
+  "description_en": "A TSE Prime-listed company with the group mission of \"Creating new possibilities, one after another.\" Operates a group of eight companies centered on \"BizReach,\" a job-change site for ready-to-work professionals, including HRMOS Talent Management, M&A Succeed, and vulnerability management service yamory. Consolidated group revenue of 66.1 billion yen (fiscal year ending July 2024). Contributes to improving Japan's productivity across four areas: HR Tech, M&A, cybersecurity, and logistics DX.",
+  "hiring_url": "https://www.visional.inc/ja/careers/engineering.html",
+  "num_of_employees": "1500+",
+  "sales": 60000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/visional.png",
+  "company_url": "https://www.visional.inc/",
+  "positions": [
+    {
+      "name": "オープンポジション（エンジニア職）",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100803"
+    },
+    {
+      "name": "検索基盤エンジニア/プロダクト本部",
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083758"
+    },
+    {
+      "name": "ウェブアプリケーションエンジニア／リクルーティングプロダクト本部",
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995973"
+    },
+    {
+      "name": "リードエンジニア／リクルーティングプロダクト本部",
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995974"
+    },
+    {
+      "name": "DBRE (Database Reliability Engineer)",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100897"
+    },
+    {
+      "name": "データエンジニア／リクルーティングプロダクト本部",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100928"
+    },
+    {
+      "name": "【AI×Management】AI検索エンジニア／社長室",
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083737"
+    },
+    {
+      "name": "新規事業セキュリティエンジニア【AI×Management】／社長直下組織",
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995989"
+    },
+    {
+      "name": "MGR候補・社内システム推進（新組織立ち上げ）",
+      "link": "https://hrmos.co/pages/visional/jobs/2070775774525681787"
+    },
+    {
+      "name": "フルスタックエンジニア／事業開発室",
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995986"
+    },
+    {
+      "name": "MLOpsエンジニア／リクルーティングプロダクト本部",
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083594"
+    },
+    {
+      "name": "DevEx改善エンジニア／リクルーティングプロダクト本部",
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083648"
+    },
+    {
+      "name": "機械学習エンジニア／リクルーティングプロダクト本部",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100101260"
+    },
+    {
+      "name": "データサイエンティスト／リクルーティングプロダクト本部",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100101261"
+    },
+    {
+      "name": "LLMアプリケーション開発エンジニア／CTO室",
+      "link": "https://hrmos.co/pages/hrmos/jobs/2168957769542995982"
+    },
+    {
+      "name": "サーバーサイドエンジニア（ビズリーチ）",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100866"
+    },
+    {
+      "name": "フロントエンドエンジニア（ビズリーチ）",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100867"
+    },
+    {
+      "name": "SRE（ビズリーチ）",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100806"
+    },
+    {
+      "name": "テックリード（HRMOS）",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100782"
+    },
+    {
+      "name": "サーバーサイドエンジニア（HRMOS）",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100763"
+    },
+    {
+      "name": "フロントエンドエンジニア（HRMOS）",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100776"
+    },
+    {
+      "name": "SRE（HRMOS）",
+      "link": "https://hrmos.co/pages/hrmos/jobs/3100100100780"
+    },
+    {
+      "name": "フロントエンドエンジニア（M&Aサクシード）",
+      "link": "https://hrmos.co/pages/succeed/jobs/0000124"
+    },
+    {
+      "name": "バックエンドエンジニア（M&Aサクシード）",
+      "link": "https://hrmos.co/pages/succeed/jobs/0000125"
+    },
+    {
+      "name": "フルスタックエンジニア（M&Aサクシード）",
+      "link": "https://hrmos.co/pages/succeed/jobs/0000152"
+    },
+    {
+      "name": "リードエンジニア（yamory）",
+      "link": "https://hrmos.co/pages/assured/jobs/10000001"
+    },
+    {
+      "name": "SRE（yamory）",
+      "link": "https://hrmos.co/pages/assured/jobs/10000002"
+    },
+    {
+      "name": "CRE（yamory）",
+      "link": "https://hrmos.co/pages/assured/jobs/10000008"
+    },
+    {
+      "name": "ソリューションアーキテクト（yamory）",
+      "link": "https://hrmos.co/pages/assured/jobs/10000025"
+    },
+    {
+      "name": "社内ネットワークエンジニア・ネットワーク企画推進",
+      "link": "https://hrmos.co/pages/visional/jobs/2070775774525681849"
+    },
+    {
+      "name": "セキュリティアナリスト",
+      "link": "https://hrmos.co/pages/visional/jobs/2070775774525681881"
+    },
+    {
+      "name": "【未経験可】セキュリティエンジニア｜脆弱性診断士",
+      "link": "https://hrmos.co/pages/visional/jobs/0000414"
+    },
+    {
+      "name": "セキュリティエンジニア｜脆弱性診断士",
+      "link": "https://hrmos.co/pages/visional/jobs/0000382"
+    },
+    {
+      "name": "R&D テックリード",
+      "link": "https://hrmos.co/pages/hrmos/jobs/1833714253672083644"
+    },
+    {
+      "name": "プロダクトエンジニア（Assured）",
+      "link": "https://hrmos.co/pages/assured/jobs/00000084"
+    },
+    {
+      "name": "QAエンジニア（Assured）",
+      "link": "https://hrmos.co/pages/assured/jobs/00000089"
+    },
+    {
+      "name": "SRE（Assured）",
+      "link": "https://hrmos.co/pages/assured/jobs/000000841"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "company_name_ja": "Finatext",
+  "company_name_en": "Finatext",
+  "description": "「金融をサービスとして再発明する」をミッションに証券・保険・貸金の金融基盤をSaaSとして提供。証券プラットフォーム「BaaS（Brokerage as a Service）」は証券取引の執行機能をAPI化しAWS・マイクロサービス（Amazon ECS）で構築。保険SaaS「Inspire」はあいおいニッセイ同和損保等14社に導入され最短2週間でデジタル保険を提供可能。2025年にはパスキー認証機能を追加しフィッシング詐欺対策を強化。AWSソフトウェアパス認定取得。",
+  "description_en": "Provides securities, insurance, and lending financial infrastructure as SaaS with mission \"Reinventing finance as a service.\" Securities platform \"BaaS (Brokerage as a Service)\" API-izes securities trade execution, built on AWS and microservices (Amazon ECS). Insurance SaaS \"Inspire\" deployed by 14 companies including Aioi Nissay Dowa Insurance, enabling digital insurance delivery in as little as 2 weeks. Added passkey authentication in 2025 to strengthen phishing fraud prevention. Obtained AWS Software Path certification.",
+  "hiring_url": "https://finatext.com/recruit/",
+  "num_of_employees": "200+",
+  "sales": 10000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/finatext.png",
+  "company_url": "https://finatext.com/",
+  "positions": [
+    {
+      "name": "データエンジニア（ジョブチェンジ歓迎）",
+      "link": "https://herp.careers/v1/finatexthd/8b5CCP9oCzpI"
+    },
+    {
+      "name": "データエンジニア",
+      "link": "https://herp.careers/v1/finatexthd/Zed_DMxiz8cY"
+    },
+    {
+      "name": "シニアデータエンジニア",
+      "link": "https://herp.careers/v1/finatexthd/KhEf95X_TKvD"
+    },
+    {
+      "name": "データエンジニア【障がい者雇用】",
+      "link": "https://herp.careers/v1/finatexthd/pQFTSKpwh9Kv"
+    },
+    {
+      "name": "データプラットフォームエンジニア｜Data Service",
+      "link": "https://herp.careers/v1/finatexthd/vq3kh6QmhGCn"
+    },
+    {
+      "name": "ジュニアデータサイエンティスト(アナリティクスエンジニア)｜Data Service",
+      "link": "https://herp.careers/v1/finatexthd/ZtY8rx9bSv77"
+    },
+    {
+      "name": "シニアデータサイエンティスト(アナリティクスエンジニア)｜Data Service",
+      "link": "https://herp.careers/v1/finatexthd/StEPLzYwSLoF"
+    },
+    {
+      "name": "LLMエンジニア（ジョブチェンジ歓迎）",
+      "link": "https://herp.careers/v1/finatexthd/P4_HikP5nXuI"
+    },
+    {
+      "name": "LLMエンジニア",
+      "link": "https://herp.careers/v1/finatexthd/8WJ5JIB97QCB"
+    },
+    {
+      "name": "クラウドインフラエンジニア（データ基盤・生成AI関連）｜Data AI Solution",
+      "link": "https://herp.careers/v1/finatexthd/Ym-0o8pzektb"
+    },
+    {
+      "name": "バックエンドエンジニア",
+      "link": "https://herp.careers/v1/finatexthd/iRI8okPMACP_"
+    },
+    {
+      "name": "バックエンドエンジニア｜InsurTech",
+      "link": "https://herp.careers/v1/finatexthd/kqBE6Npd2b39"
+    },
+    {
+      "name": "バックエンドエンジニア｜Brokerage",
+      "link": "https://herp.careers/v1/finatexthd/YL6ZDVnaecFZ"
+    },
+    {
+      "name": "バックエンドエンジニア｜Fintech SHIFT",
+      "link": "https://herp.careers/v1/finatexthd/M1863Wi21mHe"
+    },
+    {
+      "name": "バックエンドエンジニア | Credit",
+      "link": "https://herp.careers/v1/finatexthd/Aht13KCI3ZlV"
+    },
+    {
+      "name": "シニアバックエンドエンジニア｜Fintech SHIFT",
+      "link": "https://herp.careers/v1/finatexthd/3o2i16_dfiXy"
+    },
+    {
+      "name": "シニアバックエンドエンジニア｜Credit",
+      "link": "https://herp.careers/v1/finatexthd/0w4X6zj21iqb"
+    },
+    {
+      "name": "バックエンドエンジニア｜Data Service",
+      "link": "https://herp.careers/v1/finatexthd/8qcAFZre4nCV"
+    },
+    {
+      "name": "データアナリスト(データサイエンティスト)｜Data Service",
+      "link": "https://herp.careers/v1/finatexthd/IcxQgdpPdq4y"
+    },
+    {
+      "name": "フロントエンドエンジニア",
+      "link": "https://herp.careers/v1/finatexthd/msJoB5MpS5UJ"
+    },
+    {
+      "name": "フロントエンドエンジニア｜Brokerage",
+      "link": "https://herp.careers/v1/finatexthd/mOKwttLUxLfd"
+    },
+    {
+      "name": "アーキテクト｜Fintech SHIFT",
+      "link": "https://herp.careers/v1/finatexthd/oBmVDYz2BifB"
+    },
+    {
+      "name": "シニアアーキテクト｜Fintech SHIFT",
+      "link": "https://herp.careers/v1/finatexthd/aBTnUcSADaKw"
+    },
+    {
+      "name": "ブリッジエンジニア（ベトナム・日本間）",
+      "link": "https://herp.careers/v1/finatexthd/imyzb83Y2iE8"
+    },
+    {
+      "name": "マルチスタックエンジニア｜Brokerage",
+      "link": "https://herp.careers/v1/finatexthd/5-H7iRGj-GtO"
+    },
+    {
+      "name": "アカウントエンジニア | Credit",
+      "link": "https://herp.careers/v1/finatexthd/rfMHEsgmjqkd"
+    },
+    {
+      "name": "テックリード",
+      "link": "https://herp.careers/v1/finatexthd/J9NlaMTnjfrO"
+    },
+    {
+      "name": "DevOpsマネージャー｜Fintech SHIFT",
+      "link": "https://herp.careers/v1/finatexthd/6G-HQsMd7_Ru"
+    },
+    {
+      "name": "セキュリティエンジニア",
+      "link": "https://herp.careers/v1/finatexthd/LRqzY-uYsApg"
+    },
+    {
+      "name": "プラットフォームエンジニア",
+      "link": "https://herp.careers/v1/finatexthd/xLokyrCvS3nN"
+    }
+  ]
+}

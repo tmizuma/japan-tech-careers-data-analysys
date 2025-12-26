@@ -1,0 +1,54 @@
+{
+  "company_name_ja": "日本マイクロソフト",
+  "company_name_en": "Microsoft Japan",
+  "description": "Windows・Office・Azure・Teamsなど世界標準のソフトウェアとクラウドサービスを提供するグローバルテックカンパニー。1986年に日本法人を設立し品川に本社を構える。Microsoft 365やDynamics 365などのエンタープライズソリューション、Copilotに代表されるAI技術、Xbox等のゲーム事業も展開。従業員約3200名で日本法人売上高は4567億円。社員の約3割が帰国子女・海外大学出身者で国際的な環境。求人の8割以上が英語のみで掲載されるグローバルな採用基準を持つ。",
+  "description_en": "Global tech company providing world-standard software and cloud services including Windows, Office, Azure, and Teams. Established Japanese subsidiary in 1986 with headquarters in Shinagawa. Offers enterprise solutions like Microsoft 365 and Dynamics 365, AI technologies represented by Copilot, and gaming business including Xbox. Approximately 3,200 employees with Japanese subsidiary revenue of 456.7 billion yen. About 30% of employees are returnees or overseas university graduates, creating an international environment. Global hiring standards with over 80% of job postings in English only.",
+  "hiring_url": "https://careers.microsoft.com/",
+  "num_of_employees": "3000+",
+  "sales": 456700000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/microsoft-japan.png",
+  "company_url": "https://www.microsoft.com/ja-jp",
+  "positions": [
+    {
+      "name": "Senior Software Engineer",
+      "link": "https://apply.careers.microsoft.com/careers/apply?pid=1970393556642721"
+    },
+    {
+      "name": "Senior Data Scientist",
+      "link": "https://apply.careers.microsoft.com/careers/apply?pid=1970393556626812"
+    },
+    {
+      "name": "Cloud & AI Platforms, Senior Data Solution Engineer",
+      "link": "https://apply.careers.microsoft.com/careers/apply?pid=1970393556626863"
+    },
+    {
+      "name": "Technical Support Engineer - HDI/Databricks",
+      "link": "https://apply.careers.microsoft.com/careers/apply?pid=1970393556642394"
+    },
+    {
+      "name": "Technical Support Engineer - Azure Cloud",
+      "link": "https://apply.careers.microsoft.com/careers?query=Technical+Support+Engineer+Azure+Cloud&location=Japan"
+    },
+    {
+      "name": "Technical Support Engineer - Hybrid BI (Power BI / SQL BI / Microsoft Fabric)",
+      "link": "https://apply.careers.microsoft.com/careers?query=Technical+Support+Engineer+Hybrid+BI&location=Japan"
+    },
+    {
+      "name": "Support Engineer - Developer & Azure Services (DAS)",
+      "link": "https://apply.careers.microsoft.com/careers?query=Support+Engineer+Developer+Azure+Services&location=Japan"
+    },
+    {
+      "name": "Technical Program Manager II",
+      "link": "https://apply.careers.microsoft.com/careers?query=Technical+Program+Manager&location=Japan"
+    },
+    {
+      "name": "Data Solution Engineer",
+      "link": "https://apply.careers.microsoft.com/careers?query=Data+Solution+Engineer&location=Japan"
+    },
+    {
+      "name": "Cloud & AI Solution Engineer (AI Applications)",
+      "link": "https://apply.careers.microsoft.com/careers?query=Cloud+AI+Solution+Engineer&location=Japan"
+    }
+  ]
+}

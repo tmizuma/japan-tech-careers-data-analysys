@@ -1,0 +1,22 @@
+{
+  "company_name_ja": "Autify",
+  "company_name_en": "Autify",
+  "description": "「技術の力で世界中の人々の創造性を高める」をミッションにAIを活用したテスト自動化プラットフォームを提供。ノーコードツール「Autify NoCode」・生成AIテストケース自動生成「Autify Genesis」・品質保証支援「Autify Pro Service」の3サービスを展開。本社はサンフランシスコで2024年にシリーズBで累計45億円を調達。2024年にリブランディングを実施しロゴ刷新と新ソリューションを発表。",
+  "description_en": "Provides an AI-powered test automation platform with the mission 'Empower people's creativity worldwide through technology.' The company offers three services: no-code tool 'Autify NoCode,' generative AI test case automation 'Autify Genesis,' and quality assurance support 'Autify Pro Service.' Headquartered in San Francisco, the company raised a cumulative 4.5 billion yen in Series B funding in 2024. That same year, it underwent rebranding, unveiling a new logo and solutions.",
+  "hiring_url": "https://autify.com/ja/careers/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/autify.png",
+  "company_url": "https://autify.com/",
+  "positions": [
+    {
+      "name": "Senior QA Engineer",
+      "link": "https://jobs.lever.co/Autify/7af522a4-9f3f-4a25-97d2-024d3b16def4"
+    },
+    {
+      "name": "Engineering Manager, SRE",
+      "link": "https://jobs.lever.co/Autify/ab0d5b52-b365-4498-9b2c-e7be7d2d6551"
+    }
+  ]
+}

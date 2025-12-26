@@ -1,0 +1,13 @@
+{
+  "company_name_ja": "Akatsuki Games",
+  "company_name_en": "Akatsuki",
+  "description": "「ドラゴンボールZ ドッカンバトル」を世界180カ国以上で累計4.5億DL超を達成した実績を持つモバイルゲーム開発会社。「八月のシンデレラナイン」等の人気タイトルを運営。Elixir言語をゲームサーバーに採用するなど技術挑戦に積極的。2021年に持株会社体制へ移行しAkatsuki Gamesとして独立。大規模同時接続とリアルタイム通信技術に強み。エンターテインメント×テクノロジーで感動体験を創出。",
+  "description_en": "Mobile game development company with track record of \"Dragon Ball Z Dokkan Battle\" achieving over 450 million cumulative downloads across 180+ countries. Operates popular titles including \"Hachinai.\" Actively pursues technical challenges like adopting Elixir language for game servers. Transitioned to holding company structure in 2021, becoming independent as Akatsuki Games. Strong in large-scale concurrent connections and real-time communication technology. Creating moving experiences through entertainment × technology.",
+  "hiring_url": "https://games.aktsk.jp/recruit/",
+  "num_of_employees": "500+",
+  "sales": 20000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/akatsuki.png",
+  "company_url": "https://aktsk.jp/",
+  "positions": []
+}

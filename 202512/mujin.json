@@ -1,0 +1,150 @@
+{
+  "company_name_ja": "Mujin",
+  "company_name_en": "Mujin",
+  "description": "2011年創業の産業用ロボット知能化ソリューションを提供する日本発ロボティクス・メガベンチャー。世界トップクラスのモーションプランニング技術を強みに製造業や物流業界の生産性向上と効率化を実現。ロボットの動作計画をリアルタイムに行う技術を中核としティーチレスで産業用ロボットを自律制御。累計232億円を調達し2024年には国内特許ランキングでTOP20に入る。統合自動化プラットフォーム「MujinOS」はフィジカルAIによってデジタルツインを実現。医薬品卸メディセオの阪神ALCでは1日約500人体制から約250人（5割減）で運営を可能に。30カ国から多国籍人材を採用しグローバル展開を加速。",
+  "description_en": "Japan-born robotics mega-venture providing industrial robot intelligence solutions, founded in 2011. Leveraging world-class motion planning technology to improve productivity and efficiency in manufacturing and logistics. Core technology enables real-time robot motion planning for teachless autonomous control of industrial robots. Raised cumulative 23.2 billion yen, entering domestic TOP 20 patent rankings in 2024. Integrated automation platform \"MujinOS\" realizes digital twin through physical AI. Enabled Mediceo's Hanshin ALC pharmaceutical warehouse to operate with approximately 250 people (50% reduction) from 500. Accelerating global expansion with multinational talent from 30 countries.",
+  "hiring_url": "https://www.mujin.co.jp/recruit/",
+  "num_of_employees": "300+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/mujin.png",
+  "company_url": "https://www.mujin.co.jp/",
+  "positions": [
+    {
+      "name": "Senior Computer Vision Engineer (Object Detection & 3D Pose Estimation)",
+      "link": "https://jobs.lever.co/mujininc/17aed0f5-09a3-4d46-9e73-8f726f0ed28e"
+    },
+    {
+      "name": "Senior Frontend Engineer",
+      "link": "https://jobs.lever.co/mujininc/29cdc8bd-b686-49dd-8185-39d2a7f94c41"
+    },
+    {
+      "name": "Head of Documentation / Lead Documentation Engineer",
+      "link": "https://jobs.lever.co/mujininc/5ab33a5f-0699-4043-b73e-02f75008d2ab"
+    },
+    {
+      "name": "Senior Product Manager",
+      "link": "https://jobs.lever.co/mujininc/87330582-b56f-4420-9002-ed036ab1e3ee"
+    },
+    {
+      "name": "Senior Program Manager",
+      "link": "https://jobs.lever.co/mujininc/0d3f4de2-bf88-4696-a870-499baef46c34"
+    },
+    {
+      "name": "Technical Writer / Technical Editor",
+      "link": "https://jobs.lever.co/mujininc/13a08b55-8860-4a99-8819-b92469f9d6d6"
+    },
+    {
+      "name": "Robotics Algorithm Engineer (C++ / Optimization)",
+      "link": "https://jobs.lever.co/mujininc/2e942834-6b11-455c-881b-31a4d25ea7e2"
+    },
+    {
+      "name": "ロボティクスシステムエンジニア (C++ / Optimization)",
+      "link": "https://jobs.lever.co/mujininc/91d9b82b-9a96-4bd2-8b55-1eb29050c297"
+    },
+    {
+      "name": "Senior Software Engineer (WES & FM)",
+      "link": "https://jobs.lever.co/mujininc/70b4fe3c-435b-4e46-b1ad-accee549cdd4"
+    },
+    {
+      "name": "【AIロボット×施工管理】監理技術者への資格支援が可能です！",
+      "link": "https://jobs.lever.co/mujininc/7b8051eb-d983-4759-86f9-852b19513c6d"
+    },
+    {
+      "name": "【累計資金調達596億円】AIロボットで時代を創る施工管理ポジション",
+      "link": "https://jobs.lever.co/mujininc/c1903260-7852-4f8a-9661-67e95062afde"
+    },
+    {
+      "name": "Quality Assurance Manager (Embedded Systems)",
+      "link": "https://jobs.lever.co/mujininc/8288f566-efef-45b2-bdd9-5221b8599f8f"
+    },
+    {
+      "name": "Senior Electronics Design Engineer for Industrial Robot Control Unit",
+      "link": "https://jobs.lever.co/mujininc/553b65ec-56cb-4ebe-8bf1-6a111857715d"
+    },
+    {
+      "name": "Senior Embedded Software Engineer for Functional Safety",
+      "link": "https://jobs.lever.co/mujininc/b1608698-f9bc-4d29-bec4-b67d5697713e"
+    },
+    {
+      "name": "Senior Manufacturing Operations Engineer",
+      "link": "https://jobs.lever.co/mujininc/e3f96555-63d4-4c30-83a5-f7ba536567cd"
+    },
+    {
+      "name": "シニア製造オペレーションエンジニア(生産管理・品質管理)",
+      "link": "https://jobs.lever.co/mujininc/7c8425fd-34e3-4fab-9ec2-4951e80e17d6"
+    },
+    {
+      "name": "品質保証マネージャー (ロボット制御コントローラ・組み込みシステム担当)",
+      "link": "https://jobs.lever.co/mujininc/bb60394b-a6bc-416d-bb6e-c2a29497c8d3"
+    },
+    {
+      "name": "電子回路設計エンジニア（ロボット制御コントローラ担当）",
+      "link": "https://jobs.lever.co/mujininc/831a46c1-480f-4b96-afa2-d9fe063ab285"
+    },
+    {
+      "name": "知能ロボット製造エンジニア",
+      "link": "https://jobs.lever.co/mujininc/cd7489ab-bc1c-4e16-b4ed-9c7b969c478b"
+    },
+    {
+      "name": "設備立ち上げエンジニア",
+      "link": "https://jobs.lever.co/mujininc/72df953e-184e-4caa-9dbf-5bb5e9eaf539"
+    },
+    {
+      "name": "アソシエイト設計エンジニア",
+      "link": "https://jobs.lever.co/mujininc/0614dd51-d79f-4671-96ba-9201138141fa"
+    },
+    {
+      "name": "機構設計",
+      "link": "https://jobs.lever.co/mujininc/ba0a9874-efe9-48a7-ad9d-e1d71f7ed13a"
+    },
+    {
+      "name": "設備設計",
+      "link": "https://jobs.lever.co/mujininc/ea862657-7212-40b9-9121-50f90afa17be"
+    },
+    {
+      "name": "電気・制御設計",
+      "link": "https://jobs.lever.co/mujininc/5aa8dca6-991e-423e-877d-ae51b4a85010"
+    },
+    {
+      "name": "AGVテクニカルサポートエンジニア",
+      "link": "https://jobs.lever.co/mujininc/c1d0b548-a29f-4b61-b9ea-37258fb40879"
+    },
+    {
+      "name": "サービスエンジニア（ロボットシステム・設備担当）",
+      "link": "https://jobs.lever.co/mujininc/3115b60b-94fb-4ad0-bbe6-734d1b49bcbb"
+    },
+    {
+      "name": "点検から予防保全、収益化戦略まで！ 事業成長に直結するサービスを創る",
+      "link": "https://jobs.lever.co/mujininc/00441636-be2a-439a-a924-88003e4fad29"
+    },
+    {
+      "name": "物流自動化・製造DXの成長領域でのフィールドサービスエンジニア",
+      "link": "https://jobs.lever.co/mujininc/8a06799a-c649-4ac0-8ad2-5fcc56a0cea8"
+    },
+    {
+      "name": "インテグレーションエンジニア",
+      "link": "https://jobs.lever.co/mujininc/01736dfc-57d1-4407-b655-c2e0b698f745"
+    },
+    {
+      "name": "ロボット案件PM",
+      "link": "https://jobs.lever.co/mujininc/f53cebae-7373-4793-b3d6-f34aefa620eb"
+    },
+    {
+      "name": "ロボット案件プロジェクトマネージャー",
+      "link": "https://jobs.lever.co/mujininc/58eb309a-f900-436c-989d-9b855620a182"
+    },
+    {
+      "name": "倉庫作業実行システムの開発プロジェクトマネージャー",
+      "link": "https://jobs.lever.co/mujininc/202bccdc-0104-4e67-b172-92829279708f"
+    },
+    {
+      "name": "物流自動化システム開発のプロダクトマネージャー（プロジェクトマネージャー）",
+      "link": "https://jobs.lever.co/mujininc/cc6a2c34-922f-43e1-8b31-a1e29d020e89"
+    },
+    {
+      "name": "物流自動化システムエンジニア",
+      "link": "https://jobs.lever.co/mujininc/762e37a5-d988-4b2f-b35e-16c082814acc"
+    }
+  ]
+}

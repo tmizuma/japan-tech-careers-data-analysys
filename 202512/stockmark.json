@@ -1,0 +1,110 @@
+{
+  "company_name_ja": "ストックマーク",
+  "company_name_en": "Stockmark",
+  "description": "「価値創造の仕組みを再発明し人類を前進させる」をミッションに掲げるAI企業。市場及び技術情報プラットフォーム「Anews」を提供しWeb上のビジネスニュース・プレスリリースなど7年分のオープン情報を蓄積。2024年2月に経産省とNEDOの「GENIAC」に採択され産総研との共同研究でハルシネーションを大幅抑止した1000億パラメータ規模の独自LLM「Stockmark-LLM-100b」をフルスクラッチ開発しオープンソースで公開。パナソニックと協業し同社固有データを取り込んだ専用LLMを開発。",
+  "description_en": "AI company with mission \"Reinventing value creation mechanisms to advance humanity.\" Provides market and technology information platform \"Anews\" accumulating 7 years of open information including business news and press releases from the web. Selected for METI and NEDO's \"GENIAC\" in February 2024, developed proprietary 100-billion parameter LLM \"Stockmark-LLM-100b\" from scratch with significantly reduced hallucination through joint research with AIST, released as open source. Collaborating with Panasonic to develop dedicated LLM incorporating their proprietary data.",
+  "hiring_url": "https://stockmark.co.jp/recruit/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/stockmark.png",
+  "company_url": "https://stockmark.co.jp/",
+  "positions": [
+    {
+      "name": "【Dev】VPoE",
+      "link": "https://herp.careers/v1/stockmark/8adggM386dMp"
+    },
+    {
+      "name": "【Dev】テックリード（Aconnect）",
+      "link": "https://herp.careers/v1/stockmark/UbXdH9Pxri5X"
+    },
+    {
+      "name": "【Dev】自然言語処理リサーチャー（LLM）",
+      "link": "https://herp.careers/v1/stockmark/xHv1XHHL2tTl"
+    },
+    {
+      "name": "【Dev】AIプロダクトエンジニア（Aconnect AIエージェント開発）",
+      "link": "https://herp.careers/v1/stockmark/cb_mZbOR_vSa"
+    },
+    {
+      "name": "【Dev】リードエンジニア（Aconnect AIエージェント開発）",
+      "link": "https://herp.careers/v1/stockmark/geb-CWN-58R8"
+    },
+    {
+      "name": "【ProdDev】プロダクトマネージャー",
+      "link": "https://herp.careers/v1/stockmark/qpepU0yBGNEN"
+    },
+    {
+      "name": "【ProdDev】プロダクトマネージャー（AI / LLM)",
+      "link": "https://herp.careers/v1/stockmark/8YObyBv7kBFC"
+    },
+    {
+      "name": "【ProdDev】シニアプロダクトデザイナー（UI UXデザイナー）",
+      "link": "https://herp.careers/v1/stockmark/5NxVvV0hVIsI"
+    },
+    {
+      "name": "【ProdDev】デザインマネージャー（SaaS事業）",
+      "link": "https://herp.careers/v1/stockmark/pY2bAL9N2GUD"
+    },
+    {
+      "name": "【ProdDev】VPoP",
+      "link": "https://herp.careers/v1/stockmark/x8lUDEmoJ5yo"
+    },
+    {
+      "name": "【Dev】アナリティクスエンジニア（SaaS事業）",
+      "link": "https://herp.careers/v1/stockmark/zkGY6hSUuw_p"
+    },
+    {
+      "name": "【ProdDev】プロジェクトマネージャー（LLM新規事業）",
+      "link": "https://herp.careers/v1/stockmark/QkkTiKrpd2jv"
+    },
+    {
+      "name": "【Dev】自然言語処理リサーチャー（マネージャー）",
+      "link": "https://herp.careers/v1/stockmark/bJaX7o5j73tj"
+    },
+    {
+      "name": "【Dev】RAGエンジニア（LLM新規事業）",
+      "link": "https://herp.careers/v1/stockmark/oU1A1O4DRLzt"
+    },
+    {
+      "name": "【Dev】機械学習エンジニア（LLM新規事業）",
+      "link": "https://herp.careers/v1/stockmark/JvbTbV48ImaP"
+    },
+    {
+      "name": "【Dev】エンジニアオープンポジション",
+      "link": "https://herp.careers/v1/stockmark/eZcBRj3ip651"
+    },
+    {
+      "name": "【ProdDev】テクニカルプロダクトマネージャー（TPM）",
+      "link": "https://herp.careers/v1/stockmark/Ca3FmtI8gQaI"
+    },
+    {
+      "name": "【Dev】エンジニアリングマネージャー（Aconnect）",
+      "link": "https://herp.careers/v1/stockmark/0y9Ym86iNW--"
+    },
+    {
+      "name": "【Dev】プロトタイピングAIエンジニア（LLM新規事業/AIエージェント）",
+      "link": "https://herp.careers/v1/stockmark/78KZXby1-kYt"
+    },
+    {
+      "name": "【Dev】LLM推論基盤エンジニア（LLM新規事業）",
+      "link": "https://herp.careers/v1/stockmark/Xpzb8AT1WgaO"
+    },
+    {
+      "name": "【Dev】AI R&Dエンジニア（LLM新規事業）",
+      "link": "https://herp.careers/v1/stockmark/1jrQGau7gVvz"
+    },
+    {
+      "name": "【Dev】Head of Research",
+      "link": "https://herp.careers/v1/stockmark/GXf4Lv5xXnCC"
+    },
+    {
+      "name": "【Dev】Forward Deployed Engineer（生成AI/RAG開発）",
+      "link": "https://herp.careers/v1/stockmark/EUc1RY3klKU5"
+    },
+    {
+      "name": "【Dev】AIエンジニア（ドキュメント構造化 / LLM新規事業）",
+      "link": "https://herp.careers/v1/stockmark/iMgrallxKNo4"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "company_name_ja": "Classmethod",
+  "company_name_en": "Classmethod",
+  "description": "AWS総合支援で5000社以上・35000アカウント以上を支援するAWSプレミアコンサルティングパートナー。2022年にAWSグローバル最優秀SIパートナー「SI Partner of the Year - GLOBAL」を受賞。累計5万本・月間300万PVの技術メディア「DevelopersIO」を運営。2025年にはAWS生成AIイノベーションセンターのパートナーに日本企業初参画。2025年度売上950億円規模。",
+  "description_en": "An AWS Premier Consulting Partner providing comprehensive AWS support to over 5,000 companies and 35,000+ accounts. In 2022, the company won AWS Global \"SI Partner of the Year - GLOBAL.\" It operates \"DevelopersIO,\" a technical media platform with a cumulative 50,000 articles and 3 million monthly page views. In 2025, it became the first Japanese company to join the AWS Generative AI Innovation Center as a partner. The company's fiscal 2025 revenue is approximately 95 billion yen.",
+  "hiring_url": "https://careers.classmethod.jp/requirements/",
+  "num_of_employees": "800+",
+  "sales": 60000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/classmethod.png",
+  "company_url": "https://classmethod.jp/",
+  "positions": [
+    {
+      "name": "AWSエンジニア（ジュニア）",
+      "link": "https://careers.classmethod.jp/requirements/aws-solution-engineer/"
+    },
+    {
+      "name": "AWSソリューションアーキテクト",
+      "link": "https://careers.classmethod.jp/requirements/aws-solution-architect/"
+    },
+    {
+      "name": "AWSソリューションアーキテクト（ゲーム業界）",
+      "link": "https://careers.classmethod.jp/requirements/game-development/"
+    },
+    {
+      "name": "SREエンジニア(運用案件リーダー)",
+      "link": "https://careers.classmethod.jp/requirements/aws-operations-sre/"
+    },
+    {
+      "name": "AWS運用エンジニア",
+      "link": "https://careers.classmethod.jp/requirements/aws-operations-engineer/"
+    },
+    {
+      "name": "Google Cloud ソリューションアーキテクト",
+      "link": "https://careers.classmethod.jp/requirements/google-cloud-customer-engineer/"
+    },
+    {
+      "name": "データ分析基盤構築エンジニア（自社サービス）",
+      "link": "https://careers.classmethod.jp/requirements/da-cloud-infrastructure-engineer/"
+    },
+    {
+      "name": "セキュリティエンジニア（AWS自社サービス）",
+      "link": "https://careers.classmethod.jp/requirements/security-engineer-aws/"
+    },
+    {
+      "name": "マルチクラウドインフラエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/infra-engineer/"
+    },
+    {
+      "name": "クラウドエンジニア（シニア）",
+      "link": "https://careers.classmethod.jp/requirements/senior-cloud-engineer/"
+    },
+    {
+      "name": "Azureエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/azure-engineer-cmtech/"
+    },
+    {
+      "name": "リードエンジニア（AI Experience Center）",
+      "link": "https://careers.classmethod.jp/requirements/aixc-lead-engineer/"
+    },
+    {
+      "name": "BIエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/bi-engineer/"
+    },
+    {
+      "name": "データアナリスト",
+      "link": "https://careers.classmethod.jp/requirements/data-analyst/"
+    },
+    {
+      "name": "テクニカルリードエンジニア（リテールアプリ共創部エンハンスメントチーム）",
+      "link": "https://careers.classmethod.jp/requirements/enhance-technical-lead-engineer/"
+    },
+    {
+      "name": "テクニカルリードエンジニア（リテールアプリ共創部マッハチーム）",
+      "link": "https://careers.classmethod.jp/requirements/mach-technical-lead-engineer/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（クラウドネイティブ開発）",
+      "link": "https://careers.classmethod.jp/requirements/serverside-application-cloud-native/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（製造Tech領域）",
+      "link": "https://careers.classmethod.jp/requirements/cx-mbt-serverside-engineer/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（生成AI領域）",
+      "link": "https://careers.classmethod.jp/requirements/serverside-generative-ai/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（Rust / スターバックス案件）",
+      "link": "https://careers.classmethod.jp/requirements/sbj-serverside-rust/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（Scala / スターバックス案件）",
+      "link": "https://careers.classmethod.jp/requirements/sbj-serverside-scala/"
+    },
+    {
+      "name": "テクニカルリードエンジニア（製造Tech領域）",
+      "link": "https://careers.classmethod.jp/requirements/technical-lead-engineer/"
+    },
+    {
+      "name": "サーバーサイドエンジニア（リテールアプリ共創部マッハチーム）",
+      "link": "https://careers.classmethod.jp/requirements/mach-serverside-enginner/"
+    },
+    {
+      "name": "フロントエンドエンジニア（製造Tech領域）",
+      "link": "https://careers.classmethod.jp/requirements/cx-mbt-frontend-engineer/"
+    },
+    {
+      "name": "フロントエンドエンジニア（リテールアプリ共創部マッハチーム）",
+      "link": "https://careers.classmethod.jp/requirements/mach-frontend-enginner/"
+    },
+    {
+      "name": "iOS/Androidリードエンジニア候補（製造Tech領域）",
+      "link": "https://careers.classmethod.jp/requirements/mbt-mobile-lead-engineer/"
+    },
+    {
+      "name": "iOSアプリエンジニア（Swift / スターバックス案件）",
+      "link": "https://careers.classmethod.jp/requirements/sbj-nativeapp-ios/"
+    },
+    {
+      "name": "Flutterアプリ開発エンジニア（リテールアプリ共創部）",
+      "link": "https://careers.classmethod.jp/requirements/retail-app-flutter-engineer/"
+    },
+    {
+      "name": "プロトタイピングエンジニア（モダンアプリ開発）",
+      "link": "https://careers.classmethod.jp/requirements/prototyping-engineer/"
+    },
+    {
+      "name": "サービス開発エンジニア（自社サービス：AWS/CDK/セキュリティ）",
+      "link": "https://careers.classmethod.jp/requirements/service-development-engineer/"
+    },
+    {
+      "name": "サービス開発エンジニア（AWSを活用した自社サービス）",
+      "link": "https://careers.classmethod.jp/requirements/service-developer-engineer/"
+    },
+    {
+      "name": "生成AIエンジニア（Azure）",
+      "link": "https://careers.classmethod.jp/requirements/azure-generative-ai/"
+    },
+    {
+      "name": "Webアプリ開発エンジニア（生成AI関連）※大阪採用",
+      "link": "https://careers.classmethod.jp/requirements/web-engineer-generation-ai/"
+    },
+    {
+      "name": "Webアプリ開発エンジニア(生成AI関連)※福岡採用",
+      "link": "https://careers.classmethod.jp/requirements/web-engineer-generation-ai-fukuoka/"
+    },
+    {
+      "name": "【ポテンシャル枠/第二新卒歓迎】生成AIエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/generation-ai-potential/"
+    },
+    {
+      "name": "開発エンジニア（データ分析事業領域オープンポジション）",
+      "link": "https://careers.classmethod.jp/requirements/da-engineer-open-position/"
+    },
+    {
+      "name": "データ分析基盤構築エンジニア",
+      "link": "https://careers.classmethod.jp/requirements/data-analysis-engineer/"
+    },
+    {
+      "name": "ソリューションアーキテクト（データ分析分野）",
+      "link": "https://careers.classmethod.jp/requirements/data-solution-architect/"
+    },
+    {
+      "name": "インフォマティカエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/informatica-engineer/"
+    },
+    {
+      "name": "機械学習エンジニア",
+      "link": "https://careers.classmethod.jp/requirements/machine-learning-engineer/"
+    },
+    {
+      "name": "認証・認可・ユーザー管理基盤開発エンジニア",
+      "link": "https://careers.classmethod.jp/requirements/authentication-and-authorization-platform-development/"
+    },
+    {
+      "name": "ITエンジニア（バンコク）",
+      "link": "https://careers.classmethod.jp/requirements/it-engineer/"
+    },
+    {
+      "name": "【グループ採用求人】システムエンジニア(SQL / AWS活用したデータ分析基盤の保守開発）",
+      "link": "https://careers.classmethod.jp/requirements/an-aws-datebase-engineer/"
+    },
+    {
+      "name": "【ポテンシャル枠】ITエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/it-engineer-2/"
+    },
+    {
+      "name": "育成前提・若手開発エンジニア",
+      "link": "https://careers.classmethod.jp/requirements/young-development-engineers/"
+    },
+    {
+      "name": "プロダクトマネージャー（AI Experience Center）",
+      "link": "https://careers.classmethod.jp/requirements/aixc-product-manager/"
+    },
+    {
+      "name": "プロジェクトマネージャー / リーダー（データ分析ビジネス）",
+      "link": "https://careers.classmethod.jp/requirements/data-projectmanager/"
+    },
+    {
+      "name": "プロダクトマネージャー（自社サービス：AWS/CDK/セキュリティ）",
+      "link": "https://careers.classmethod.jp/requirements/product-manager-security/"
+    },
+    {
+      "name": "プロジェクトマネージャー / リーダー（エンタープライズマイグレーション）",
+      "link": "https://careers.classmethod.jp/requirements/project-manager-leader/"
+    },
+    {
+      "name": "ジュニアプロジェクトマネージャー / リーダー（データ分析ビジネス）",
+      "link": "https://careers.classmethod.jp/requirements/data-projectmanager-junior/"
+    },
+    {
+      "name": "プロジェクトマネージャー（小売ソフトウェア開発）",
+      "link": "https://careers.classmethod.jp/requirements/mach-project-manager/"
+    },
+    {
+      "name": "モバイルアプリプロジェクトマネージャー候補",
+      "link": "https://careers.classmethod.jp/requirements/retail-app-projectmanager-native-j/"
+    },
+    {
+      "name": "デジタル変革プロジェクトマネージャー",
+      "link": "https://careers.classmethod.jp/requirements/dx-project-manager/"
+    },
+    {
+      "name": "prismatixソリューションアーキテクト （自社サービス EC / CRMプラットフォーム）",
+      "link": "https://careers.classmethod.jp/requirements/prismatix-solution-architect/"
+    },
+    {
+      "name": "EC/CRM/OMS開発プロジェクトリーダー",
+      "link": "https://careers.classmethod.jp/requirements/ec-crm-oms-development-project-leader/"
+    },
+    {
+      "name": "クラウドコンサルタント",
+      "link": "https://careers.classmethod.jp/requirements/solution-architect-enterprise/"
+    },
+    {
+      "name": "AWS運用コンサルタント",
+      "link": "https://careers.classmethod.jp/requirements/customer-success-engineer/"
+    },
+    {
+      "name": "モダンデータスタックアーキテクト",
+      "link": "https://careers.classmethod.jp/requirements/modern-data-stack-architect/"
+    },
+    {
+      "name": "データ分析基盤・機械学習基盤コンサルタント",
+      "link": "https://careers.classmethod.jp/requirements/data-consulting/"
+    },
+    {
+      "name": "モダンアプリコンサルタント",
+      "link": "https://careers.classmethod.jp/requirements/aws-modern-application-consultant/"
+    },
+    {
+      "name": "プリセールスエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/pre-sales-engineer/"
+    },
+    {
+      "name": "AWS テクニカルサポートスペシャリスト",
+      "link": "https://careers.classmethod.jp/requirements/aws-technical-support-specialist/"
+    },
+    {
+      "name": "AWS サポートエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/aws-support-engineer/"
+    },
+    {
+      "name": "【グループ採用求人】AWSテクニカルサポートエンジニア",
+      "link": "https://careers.classmethod.jp/requirements/an-aws-technical-support-engineer/"
+    }
+  ]
+}

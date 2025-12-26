@@ -1,0 +1,106 @@
+{
+  "company_name_ja": "PayPay",
+  "company_name_en": "PayPay",
+  "description": "QRコード決済国内シェアNo.1で登録ユーザー数7000万人（2025年7月時点）を突破し日本の人口の2人に1人以上が利用。加盟店数410万カ所で2024年の決済取扱高は12.5兆円・決済回数78億回超。インド最大手Paytmの技術基盤を活用しマイクロサービスアーキテクチャ（Kubernetes・AWS・Kafka）で60以上のサービスを運用。多国籍開発体制で50カ国以上から人材を採用。2024年には国内キャッシュレス決済全体の5回に1回がPayPayで行われ送金機能も年間3.8億件以上を処理。",
+  "description_en": "#1 domestic market share in QR code payments with over 70 million registered users (as of July 2025), used by more than 1 in 2 Japanese people. 4.1 million merchant locations with 2024 payment volume of 12.5 trillion yen and over 7.8 billion transactions. Utilizes technology platform from India's leading Paytm, operating 60+ services on microservices architecture (Kubernetes, AWS, Kafka). Multinational development team hiring from 50+ countries. 1 in 5 domestic cashless payments made via PayPay in 2024, with remittance function processing over 380 million transfers annually.",
+  "hiring_url": "https://about.paypay.ne.jp/career/",
+  "num_of_employees": "2000+",
+  "sales": 200000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/paypay.png",
+  "company_url": "https://about.paypay.ne.jp/",
+  "positions": [
+    {
+      "name": "Backend Engineer",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5683668004"
+    },
+    {
+      "name": "Backend Engineer / バックエンドエンジニア (New Bank Project)",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5587090004"
+    },
+    {
+      "name": "Cloud Platform Engineer",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5471535004"
+    },
+    {
+      "name": "Cloud Platform Engineer (Kafka Specialist)",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5570222004"
+    },
+    {
+      "name": "Data Engineer (DaaS)",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4089265004"
+    },
+    {
+      "name": "Frontend Engineer",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4089251004"
+    },
+    {
+      "name": "Principal Software Engineer",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4888665004"
+    },
+    {
+      "name": "Product Security Engineer (Infrastructure)",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5700931004"
+    },
+    {
+      "name": "Site Reliability Engineer (Bilingual SRE)",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4089300004"
+    },
+    {
+      "name": "Product Designer / プロダクトデザイナー (UX/UI)",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4182995004"
+    },
+    {
+      "name": "Product Manager / プロダクトマネージャー (New Bank Project)",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5733829004"
+    },
+    {
+      "name": "System PMO",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5661282004"
+    },
+    {
+      "name": "Automation QA Engineer",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4090172004"
+    },
+    {
+      "name": "IT Controller/IT統制担当",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4089304004"
+    },
+    {
+      "name": "シニア機械学習エンジニア（金融事業領域）",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5149320004"
+    },
+    {
+      "name": "データサイエンティスト（証券事業）",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5585964004"
+    },
+    {
+      "name": "セキュリティアーキテクト",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5214187004"
+    },
+    {
+      "name": "セキュリティエンジニア（レッドチーム）",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5501932004"
+    },
+    {
+      "name": "CSIRTエンジニア",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5193265004"
+    },
+    {
+      "name": "システム監査（サイバーセキュリティ）担当",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4944963004"
+    },
+    {
+      "name": "システム監査担当（リーダー）",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5629477004"
+    },
+    {
+      "name": "内部統制（IT統制担当）",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/4916119004"
+    },
+    {
+      "name": "システムリスク管理担当",
+      "link": "https://job-boards.greenhouse.io/paypay/jobs/5133177004"
+    }
+  ]
+}

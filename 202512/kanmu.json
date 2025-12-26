@@ -1,0 +1,30 @@
+{
+  "company_name_ja": "Kanmu",
+  "company_name_en": "Kanmu",
+  "description": "1分で作れるVisaプリペイドカード「バンドルカード」を2016年より提供し累計1300万ダウンロード突破。2022年に三菱UFJ銀行と資本業務提携しMUFGグループに参画。前払式支払手段発行者・資金移動業者として登録され決済処理基盤を自社開発。2024年9月に三菱UFJ銀行アプリ「スマート口座開設」と連携開始。2024年10月にポイントモール「バンドルカード ボーナスタウン」提供開始。PCI DSS v4.0に準拠し法人送金サービスやフードデリバリー「menu」との連携でギグワーカーの報酬受取も支援。",
+  "description_en": "Provides Visa prepaid card \"Vandle Card\" creatable in 1 minute since 2016 with over 13 million cumulative downloads. Established capital and business alliance with MUFG Bank in 2022, joining MUFG Group. Registered as prepaid payment instrument issuer and fund transfer service provider, developing payment processing infrastructure in-house. Began integration with MUFG Bank app \"Smart Account Opening\" in September 2024. Launched points mall \"Vandle Card Bonus Town\" in October 2024. PCI DSS v4.0 compliant, supporting gig worker payment receipt through corporate remittance service and food delivery \"menu\" integration.",
+  "hiring_url": "https://team.kanmu.co.jp",
+  "num_of_employees": "100",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/kanmu.png",
+  "company_url": "https://kanmu.co.jp/",
+  "positions": [
+    {
+      "name": "QAエンジニア（リード）",
+      "link": "https://herp.careers/v1/kanmu/NTxVVcW-f4M1"
+    },
+    {
+      "name": "ソフトウェアエンジニア（フロントエンド）",
+      "link": "https://herp.careers/v1/kanmu/wLpZGU-SdHKC"
+    },
+    {
+      "name": "バックエンドエンジニア（業務委託）",
+      "link": "https://herp.careers/v1/kanmu/_ZQc_RBTMdtq"
+    },
+    {
+      "name": "フロントエンドエンジニア（業務委託）",
+      "link": "https://herp.careers/v1/kanmu/HK5cR7NGr8bS"
+    }
+  ]
+}

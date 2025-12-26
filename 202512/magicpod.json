@@ -1,0 +1,22 @@
+{
+  "company_name_ja": "MagicPod",
+  "company_name_en": "MagicPod",
+  "description": "モバイルアプリ・ブラウザ両対応のAIテスト自動化クラウドサービス。AIが画面項目を自動検出しノーコードでテストスクリプトを作成可能。UI変更時もAIが自動修正しメンテナンス工数を大幅削減。累計500社以上が導入。2025年にはシリーズBで5億円を調達しAIエージェント技術でテスト自動化を次世代へ進化。Claude・Cline・Cursor等のAIエージェント連携も推進中。",
+  "description_en": "An AI-powered test automation cloud service supporting both mobile apps and browsers. AI automatically detects screen elements and enables no-code test script creation. When UI changes occur, AI automatically corrects scripts, significantly reducing maintenance workload. Over 500 companies have adopted the service. In 2025, the company raised 500 million yen in Series B funding to advance test automation to the next generation with AI agent technology. Integration with AI agents such as Claude, Cline, and Cursor is also being promoted.",
+  "hiring_url": "https://magicpod.com/corporate/recruit/",
+  "num_of_employees": "50+",
+  "sales": -1,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/magicpod.png",
+  "company_url": "https://magicpod.com/",
+  "positions": [
+    {
+      "name": "社内SE",
+      "link": "https://www.wantedly.com/projects/2222452"
+    },
+    {
+      "name": "開発エンジニア",
+      "link": "https://www.wantedly.com/projects/2048875"
+    }
+  ]
+}

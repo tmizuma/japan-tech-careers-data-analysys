@@ -1,0 +1,70 @@
+{
+  "company_name_ja": "Coincheck",
+  "company_name_en": "Coincheck",
+  "description": "マネックスグループ傘下で顧客預かり資産1.29兆円（2025年1月末）・ビットコイン現物取引高2024年下半期国内No.1の暗号資産取引所。34種類の銘柄で現物取引が可能でスマホアプリダウンロード数600万超。IEO第3弾ブリリアンクリプトトークン（BRIL）では申込金額333億円・申込人数7.94万人を記録し13分で調達目標達成。2021年開始のNFTマーケットプレイス「Coincheck NFT」や2025年1月の国内初FPLトークンIEO等で新興クリプト分野に積極進出。マネックス傘下入り後セキュリティを飛躍的に改善。",
+  "description_en": "Cryptocurrency exchange under Monex Group with 1.29 trillion yen customer assets (end of January 2025) and #1 domestic Bitcoin spot trading volume in H2 2024. Spot trading available for 34 cryptocurrencies with over 6 million smartphone app downloads. IEO #3 Brilliant Crypto Token (BRIL) recorded 33.3 billion yen applications from 79,400 applicants, reaching funding target in 13 minutes. Actively entering emerging crypto fields with NFT marketplace \"Coincheck NFT\" started in 2021 and Japan's first FPL token IEO in January 2025. Dramatically improved security after joining Monex Group.",
+  "hiring_url": "https://corporate.coincheck.com/recruit/",
+  "num_of_employees": "200+",
+  "sales": 20000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/coincheck.png",
+  "company_url": "https://coincheck.com/",
+  "positions": [
+    {
+      "name": "【正社員】エンジニアリングマネージャー（開発・AI本部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0013"
+    },
+    {
+      "name": "【正社員】バックエンドエンジニア（開発・AI本部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0004"
+    },
+    {
+      "name": "【正社員】セキュリティ担当（セキュリティ部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/D0001"
+    },
+    {
+      "name": "【正社員】クリプトエンジニア（開発・AI本部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0006"
+    },
+    {
+      "name": "【正社員】リードエンジニア（開発・AI本部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0005"
+    },
+    {
+      "name": "【正社員】SET（Software Engineer in Test）(システムインフラストラクチャ部)",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0012"
+    },
+    {
+      "name": "【正社員】QMO（Quality Management Officer）（システムインフラストラクチャ部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0011"
+    },
+    {
+      "name": "【正社員】SRE(システムインフラストラクチャ部)",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0009"
+    },
+    {
+      "name": "【正社員】社内DXエンジニア(社内サービス部)",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0007"
+    },
+    {
+      "name": "【正社員】シニアフロントエンドエンジニア（開発・AI本部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0010"
+    },
+    {
+      "name": "【正社員】iOSエンジニア（アプリケーションプラットフォーム部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0003"
+    },
+    {
+      "name": "【正社員】Androidエンジニア（アプリケーションプラットフォーム部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0002"
+    },
+    {
+      "name": "【正社員】ブロックチェーンエンジニア（コールドウォレット G）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0001"
+    },
+    {
+      "name": "【正社員】QAエンジニア（アプリケーションプラットフォーム部）",
+      "link": "https://hrmos.co/pages/coincheck/jobs/A0008"
+    }
+  ]
+}

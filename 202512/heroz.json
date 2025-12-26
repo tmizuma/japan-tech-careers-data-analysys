@@ -1,0 +1,18 @@
+{
+  "company_name_ja": "HEROZ",
+  "company_name_en": "HEROZ",
+  "description": "2009年創業、将棋AIで名人に勝利した独自AI技術を持つAIテクノロジー企業。2018年東証マザーズ上場（現スタンダード）。将棋AIで培った世界トップクラスの機械学習・深層学習技術を金融・建設・エンタメなど多様な業界のDX支援に応用。代表プロダクトは世界最大級のオンライン将棋対戦ゲーム「将棋ウォーズ」（累計800万DL）。2023年より生成AI SaaS「HEROZ ASK」を展開し300社以上に導入。AI革命を起こし未来を創るをミッションに掲げる。",
+  "description_en": "AI technology company founded in 2009 with proprietary AI technology that defeated a professional shogi player. Listed on TSE Mothers in 2018 (now Standard). Applies world-class machine learning and deep learning technology cultivated through shogi AI to DX support across diverse industries including finance, construction, and entertainment. Flagship product is 'Shogi Wars', one of the world's largest online shogi platforms (over 8 million downloads). Launched generative AI SaaS 'HEROZ ASK' in 2023, now deployed in over 300 companies. Mission is to create the future through AI revolution.",
+  "hiring_url": "https://heroz.co.jp/recruit/",
+  "num_of_employees": "50+",
+  "sales": 1500000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/heroz.png",
+  "company_url": "https://heroz.co.jp/",
+  "positions": [
+    {
+      "name": "【副業】AIアシスタント構築・講師担当",
+      "link": "https://herp.careers/v1/heroz/phIJ5jk_BoPj"
+    }
+  ]
+}

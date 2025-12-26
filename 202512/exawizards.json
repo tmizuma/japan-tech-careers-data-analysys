@@ -1,0 +1,154 @@
+{
+  "company_name_ja": "エクサウィザーズ",
+  "company_name_en": "ExaWizards",
+  "description": "「AIを用いた社会課題解決」をミッションに掲げる総合AIソリューション企業。年間300件以上のAI・DXプロジェクトを実施しAIプラットフォーム「exaBase」を中核に多様な産業でAI活用を推進。2024年には健康・医療領域特化の新会社「ExaMD」を設立し認知症診断ソフトウェアの開発に着手。介護領域では生成AI活用の事務効率化サービス「CareWiz タクスト」を提供開始し全国約1000箇所の介護事業所が利用。「exaBase 生成AI」が法人向け生成AI導入ソリューション市場シェア1位を獲得。",
+  "description_en": "Comprehensive AI solution company with mission \"Solving social issues through AI.\" Executes over 300 AI/DX projects annually, promoting AI adoption across diverse industries with AI platform \"exaBase\" as core. Established new company \"ExaMD\" specializing in health/medical domain in 2024, beginning dementia diagnostic software development. In nursing care, launched generative AI administrative efficiency service \"CareWiz Taksto\" used by approximately 1,000 care facilities nationwide. \"exaBase Generative AI\" captured #1 market share in enterprise generative AI adoption solutions.",
+  "hiring_url": "https://exawizards.com/recruit/",
+  "num_of_employees": "400+",
+  "sales": 8000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/exawizards.png",
+  "company_url": "https://exawizards.com/",
+  "positions": [
+    {
+      "name": "【コーポレート】情報セキュリティ担当",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94648"
+    },
+    {
+      "name": "【AIプラットフォーム事業】プロジェクトマネージャー_エンタープライズ顧客向け（エンジニア、データサイエンティスト歓迎）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94670"
+    },
+    {
+      "name": "【AIプラットフォーム事業】AIソリューションアーキテクト_AWS/Azure経験者歓迎",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94674"
+    },
+    {
+      "name": "【AIプラットフォーム事業】Forward Deployed Engineer (FDE)_東京/福岡拠点",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94675"
+    },
+    {
+      "name": "【新規サービス開発部門/Sales AI Agent事業】PdM（プロダクトマネージャー）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94680"
+    },
+    {
+      "name": "【新規サービス開発部門/Sales AI Agent事業】テクニカルサポート",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94681"
+    },
+    {
+      "name": "【新規サービス開発部門/Sales AI Agent事業】Fullstack Engineer",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94682"
+    },
+    {
+      "name": "【新規サービス開発部門/Sales AI Agent事業】UX Engineer",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94683"
+    },
+    {
+      "name": "【新規サービス開発部門/Sales AI Agent事業】Fullstack Engineer（Frontend Specialist）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94684"
+    },
+    {
+      "name": "【新規サービス開発部門/Sales AI Agent事業】Fullstack Engineer（Backend Specialist）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94685"
+    },
+    {
+      "name": "【新規サービス開発部門/Sales AI Agent事業】DevOps Engineer",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94686"
+    },
+    {
+      "name": "【新規サービス開発部門/Sales AI Agent事業】デザイナー",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94687"
+    },
+    {
+      "name": "【exaBase Studio（AIサービス開発基盤）】プロダクトマネージャー",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94690"
+    },
+    {
+      "name": "【exaBase Studio（AIサービス開発基盤）】AIプロジェクトマネージャー/ソリューションアーキテクト",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94691"
+    },
+    {
+      "name": "【exaBase Studio（AIサービス開発基盤）】Senior Platform Engineer",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94692"
+    },
+    {
+      "name": "【exaBase Studio（AIサービス開発基盤）】DevOps_Lead候補",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94693"
+    },
+    {
+      "name": "【exaBase Studio（AIサービス開発基盤）】Architect（アーキテクト）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94694"
+    },
+    {
+      "name": "【exaBase Studio（AIサービス開発基盤）】テックリード（AIエージェント・AIアセット開発）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94695"
+    },
+    {
+      "name": "【HR Tech事業】データ分析×プロダクト開発（アセスメント領域）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94703"
+    },
+    {
+      "name": "【ExaMD（医療機器ソフトウェア事業）】Fullstack Engineer",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94720"
+    },
+    {
+      "name": "【ExaMD（医療機器ソフトウェア事業）】プロダクトマネージャー",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94721"
+    },
+    {
+      "name": "【ExaEnterpriseAI（生成AI事業）】PdM（プロダクトマネージャー）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94728"
+    },
+    {
+      "name": "【ExaEnterpriseAI（生成AI事業）】プロダクトデザイナー",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94732"
+    },
+    {
+      "name": "【ExaEnterpriseAI（生成AI事業）】コミュニケーションデザイナー",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94733"
+    },
+    {
+      "name": "【ExaEnterpriseAI（生成AI事業）】Senior Fullstack Engineer",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94734"
+    },
+    {
+      "name": "【ExaEnterpriseAI（生成AI事業）】Fullstack Engineer",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94735"
+    },
+    {
+      "name": "【オープン】Machine Learning Engineer（機械学習エンジニア）_NLP Engineer",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94741"
+    },
+    {
+      "name": "【オープン】Machine Learning Engineer（機械学習エンジニア）_音声AIエンジニア",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94742"
+    },
+    {
+      "name": "【オープン】デザイナー職",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94743"
+    },
+    {
+      "name": "【新卒】Machine Learning Engineer（機械学習エンジニア）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94746"
+    },
+    {
+      "name": "【新卒】Mathematical Optimization Engineer（数理最適化エンジニア）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94747"
+    },
+    {
+      "name": "【新卒】Software Engineer（ソフトウェアエンジニア）",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94748"
+    },
+    {
+      "name": "【新卒】Machine Learning Engineer（機械学習エンジニア）_27卒",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94749"
+    },
+    {
+      "name": "【新卒】Software Engineer（ソフトウェアエンジニア）_27卒",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94750"
+    },
+    {
+      "name": "【新卒】Mathematical Optimization Engineer（数理最適化エンジニア）_27卒",
+      "link": "https://open.talentio.com/r/1/c/exwzd/pages/94751"
+    }
+  ]
+}

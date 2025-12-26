@@ -1,0 +1,30 @@
+{
+  "company_name_ja": "Goodpatch",
+  "company_name_en": "Goodpatch",
+  "description": "「デザインの力を証明する」をミッションに掲げ2020年に日本のデザイン会社として初めて東証マザーズ（現グロース）に上場。企業変革支援・UI/UXデザイン・ビジネスモデルデザイン・ブランド体験デザイン・組織デザインを手がける。7つの専門分野で500名の専門家が在籍。2025年にはデザインシステム「Sparkle Design」を無償公開しAIデザインツール開発のLayermateを子会社化。",
+  "description_en": "With the mission of \"proving the power of design,\" became the first Japanese design company to list on the TSE Mothers Market (now Growth) in 2020. Specializes in corporate transformation support, UI/UX design, business model design, brand experience design, and organizational design. Employs 500 specialists across seven specialized fields. In 2025, released the design system \"Sparkle Design\" as open source and acquired Layermate, an AI design tool developer, as a subsidiary.",
+  "hiring_url": "https://hrmos.co/pages/goodpatchhr/jobs",
+  "num_of_employees": "200+",
+  "sales": 4000000000,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/goodpatch.png",
+  "company_url": "https://goodpatch.com/",
+  "positions": [
+    {
+      "name": "【HRmony AI】フルスタックエンジニア",
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/2075761214295924775"
+    },
+    {
+      "name": "【Layermate/業務委託】AIプロダクトエンジニア",
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/Layermate_ai_engineer"
+    },
+    {
+      "name": "【Layermate】フルスタックエンジニア",
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/Layermate_engineer"
+    },
+    {
+      "name": "【Design Div】リードエンジニア",
+      "link": "https://hrmos.co/pages/goodpatchhr/jobs/leadengineer"
+    }
+  ]
+}

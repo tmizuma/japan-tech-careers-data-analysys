@@ -1,0 +1,50 @@
+{
+  "company_name_ja": "Studist",
+  "company_name_en": "Studist",
+  "description": "マニュアル作成・共有サービス「Teachme Biz」を提供。製造・小売・医療・建設・物流など現場業務向けに動画・画像ベースの視覚的マニュアルをスマホ・タブレット・PCで作成可能。2000社以上が導入。2024年にはAI機能「Teachme AI」をリリースし動画の自動分割・字幕生成・多言語対応でマニュアル作成工数を80%以上削減。サービス提供開始10周年を迎え成長を継続。",
+  "description_en": "Provides \"Teachme Biz,\" a manual creation and sharing service. Enables creation of video and image-based visual manuals on smartphones, tablets, and PCs for frontline operations in manufacturing, retail, healthcare, construction, and logistics. Adopted by over 2,000 companies. In 2024, released the AI feature \"Teachme AI,\" reducing manual creation workload by over 80% through automatic video segmentation, subtitle generation, and multilingual support. Continues to grow as it celebrates its 10th anniversary of service.",
+  "hiring_url": "https://recruit.studist.jp/recruit",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/studist.png",
+  "company_url": "https://studist.jp/",
+  "positions": [
+    {
+      "name": "【Teachme Biz】Web Engineering Manager",
+      "link": "https://hrmos.co/pages/studist/jobs/0000034"
+    },
+    {
+      "name": "【Teachme Biz】Webエンジニア",
+      "link": "https://hrmos.co/pages/studist/jobs/0000098"
+    },
+    {
+      "name": "【Teachme Biz】iOSエンジニア",
+      "link": "https://hrmos.co/pages/studist/jobs/0000048"
+    },
+    {
+      "name": "【Teachme Biz】Androidエンジニア",
+      "link": "https://hrmos.co/pages/studist/jobs/0000049"
+    },
+    {
+      "name": "SRE（Site Reliability Engineer）",
+      "link": "https://hrmos.co/pages/studist/jobs/0000097"
+    },
+    {
+      "name": "UI/UXデザイナー",
+      "link": "https://hrmos.co/pages/studist/jobs/0000044"
+    },
+    {
+      "name": "プロダクトサポート",
+      "link": "https://hrmos.co/pages/studist/jobs/0000100"
+    },
+    {
+      "name": "QAエンジニア",
+      "link": "https://hrmos.co/pages/studist/jobs/0000045"
+    },
+    {
+      "name": "情報システム部（マネージャー候補）",
+      "link": "https://hrmos.co/pages/studist/jobs/0000016"
+    }
+  ]
+}

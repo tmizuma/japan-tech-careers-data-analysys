@@ -1,0 +1,50 @@
+{
+  "company_name_ja": "HENNGE",
+  "company_name_en": "HENNGE",
+  "description": "「テクノロジーの解放で世の中を変えていく」を理念に掲げるクラウドセキュリティSaaS企業。主力製品「HENNGE One」は国内シェアNo.1のIDaaS・クラウドセキュリティサービスでMicrosoft 365・Google Workspace等へのシングルサインオンとアクセス制御を提供。2019年に東証マザーズ（現グロース）上場。社内公用語英語で海外メンバー比率20%超のグローバル組織。",
+  "description_en": "A cloud security SaaS company with the mission of \"transforming the world through the liberation of technology.\" Its flagship product \"HENNGE One\" is Japan's No.1 market share IDaaS and cloud security service, providing single sign-on and access control for Microsoft 365, Google Workspace, and other platforms. Listed on the TSE Mothers (now Growth) Market in 2019. A global organization with English as the official corporate language and over 20% international members.",
+  "hiring_url": "https://recruit.hennge.com/mid-career/",
+  "num_of_employees": "300+",
+  "sales": 7000000000,
+  "foreign_engineers": true,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/hennge.png",
+  "company_url": "https://hennge.com/",
+  "positions": [
+    {
+      "name": "データエンジニア",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=7203683"
+    },
+    {
+      "name": "データベースエンジニア",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=7203717"
+    },
+    {
+      "name": "BIエンジニア",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=7203721"
+    },
+    {
+      "name": "Salesforceエンジニア",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=7203751"
+    },
+    {
+      "name": "Webエンジニア",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=7204090"
+    },
+    {
+      "name": "[HENNGE One] カスタマーサクセスエンジニア / ソリューションアーキテクト",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=7164576"
+    },
+    {
+      "name": "[HENNGE One] カスタマーサクセスエンジニア / テクニカルサポート",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=7164583"
+    },
+    {
+      "name": "プロダクトデザイナー / UI/UX デザイナー",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=2255641"
+    },
+    {
+      "name": "Product Manager / プロダクトマネージャー",
+      "link": "https://recruit.hennge.com/mid-career/apply/?gh_jid=2379048"
+    }
+  ]
+}

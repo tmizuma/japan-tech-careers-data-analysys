@@ -1,0 +1,22 @@
+{
+  "company_name_ja": "WED",
+  "company_name_en": "WED",
+  "description": "レシート買取アプリ「ONE」を2018年より運営し累計600万ダウンロード・10億枚以上のレシートを買取。レシート1枚を1〜10円で買取り特定商品購入で数十〜数百円還元の「レシート買取ミッション」も提供。2024年には紙・電子レシート両対応の「なんでも電子レシート」をリリース。2025年10月にギフティ・Dawn Capitalから資金調達を実施しギフティの法人ネットワークと購買データを組み合わせた新サービスを共同開発予定。購買データを活用した企業向けマーケティング支援も展開。",
+  "description_en": "Operates receipt purchase app \"ONE\" since 2018 with 6 million cumulative downloads and over 1 billion receipts purchased. Buys receipts for 1-10 yen each, also offers \"Receipt Purchase Missions\" returning tens to hundreds of yen for specific product purchases. Released \"Any Electronic Receipt\" supporting both paper and electronic receipts in 2024. Raised funding from giftee and Dawn Capital in October 2025, planning to co-develop new service combining giftee's corporate network with purchase data. Also provides enterprise marketing support utilizing purchase data.",
+  "hiring_url": "https://wed.company/recruit/",
+  "num_of_employees": "100",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/wed.png",
+  "company_url": "https://wed.company/",
+  "positions": [
+    {
+      "name": "既存事業/エンジニア/SRE/正社員/中途",
+      "link": "https://herp.careers/v1/wedinc/EHEPamMmD8Eu"
+    },
+    {
+      "name": "既存事業/エンジニア/ネイティブアプリエンジニア/正社員/中途",
+      "link": "https://herp.careers/v1/wedinc/ZqQAO4knNJ8y"
+    }
+  ]
+}

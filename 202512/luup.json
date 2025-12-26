@@ -1,0 +1,62 @@
+{
+  "company_name_ja": "Luup",
+  "company_name_en": "Luup",
+  "description": "電動キックボード・電動アシスト自転車のシェアリングサービス「LUUP」を運営。街じゅうを「駅前化」する新しい短距離移動インフラの構築をミッションに掲げる。東京・大阪・京都・横浜・名古屋・福岡など全国主要都市で展開しポート数1.2万カ所以上・車両台数3万台超。2024年に30億円のデットファイナンスを実施。高齢者向け電動モビリティの開発も視野に入れ都市交通のDXを推進。",
+  "description_en": "Operates \"LUUP,\" a sharing service for electric kickboards and electric-assist bicycles. Its mission is to build new short-distance transportation infrastructure that brings \"station-front convenience\" throughout cities. Deployed across major cities nationwide including Tokyo, Osaka, Kyoto, Yokohama, Nagoya, and Fukuoka, with over 12,000 ports and more than 30,000 vehicles. Executed 3 billion yen in debt financing in 2024. Driving urban transportation DX with plans to develop electric mobility for seniors.",
+  "hiring_url": "https://recruit.luup.sc/",
+  "num_of_employees": "100+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/luup.png",
+  "company_url": "https://luup.sc/",
+  "positions": [
+    {
+      "name": "Androidエンジニア",
+      "link": "https://herp.careers/v1/luup/mKUfln_h7ynP"
+    },
+    {
+      "name": "iOSエンジニア",
+      "link": "https://herp.careers/v1/luup/tL7k0mlByI3t"
+    },
+    {
+      "name": "IoTバックエンドエンジニア",
+      "link": "https://herp.careers/v1/luup/QSs3nF1tkmdW"
+    },
+    {
+      "name": "Webフロントエンジニア",
+      "link": "https://herp.careers/v1/luup/fVTNUOj03QkQ"
+    },
+    {
+      "name": "シニアインフラエンジニア",
+      "link": "https://herp.careers/v1/luup/iT17p2Q7jLjD"
+    },
+    {
+      "name": "バックエンドエンジニア（ユーザー向けアプリ）",
+      "link": "https://herp.careers/v1/luup/xxozgchBPutp"
+    },
+    {
+      "name": "バックエンドエンジニア（業務オペレーション向けシステム）",
+      "link": "https://herp.careers/v1/luup/s6AI_b1Bk-z4"
+    },
+    {
+      "name": "MLエンジニア / データサイエンティスト",
+      "link": "https://herp.careers/v1/luup/kl1O8ZtVgqZT"
+    },
+    {
+      "name": "データエンジニア",
+      "link": "https://herp.careers/v1/luup/4aBjBHhtI39b"
+    },
+    {
+      "name": "ハードウェア エレキエンジニア",
+      "link": "https://herp.careers/v1/luup/ho9sqybucbzh"
+    },
+    {
+      "name": "ハードウェア エレキエンジニア（リーダー候補）",
+      "link": "https://herp.careers/v1/luup/esrukMhGuwsy"
+    },
+    {
+      "name": "ハードウェアプロジェクトマネージャー",
+      "link": "https://herp.careers/v1/luup/DpjLqO4FrjgI"
+    }
+  ]
+}

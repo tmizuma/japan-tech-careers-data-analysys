@@ -1,0 +1,18 @@
+{
+  "company_name_ja": "Cluster",
+  "company_name_en": "Cluster",
+  "description": "日本最大級のメタバースプラットフォーム「cluster」を運営。累計動員数3000万人超・ワールド投稿数130万件・イベント開催数100万件を突破。スマホ・PC・VRからアクセス可能でポケモンやサンリオ等の大型IPイベントを開催。ワールドクラフト機能でユーザーが3D空間を制作・共有。2024年にはAI機能「Cluster Script Editor」でメタバース開発を効率化。法人向けバーチャルイベント支援も展開。",
+  "description_en": "Operates \"cluster,\" one of Japan's largest metaverse platforms. Surpassed 30 million cumulative attendees, 1.3 million world submissions, and 1 million events hosted. Accessible from smartphone, PC, and VR, hosting major IP events like Pokemon and Sanrio. World Craft feature enables users to create and share 3D spaces. Streamlined metaverse development with AI feature \"Cluster Script Editor\" in 2024. Also provides virtual event support for enterprises.",
+  "hiring_url": "https://herp.careers/v1/clustervr",
+  "num_of_employees": "200+",
+  "sales": -1,
+  "foreign_engineers": false,
+  "logo_url": "https://d3342ivjc266xr.cloudfront.net/cluster.png",
+  "company_url": "https://corp.cluster.mu/",
+  "positions": [
+    {
+      "name": "VR/HCI インターンシップ(リサーチアシスタント)",
+      "link": "https://herp.careers/v1/clustervr/vjpNhKKlLNJS"
+    }
+  ]
+}
