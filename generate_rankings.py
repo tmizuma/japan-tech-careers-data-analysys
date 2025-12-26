@@ -18,60 +18,28 @@ def load_company_data(json_dir: str) -> dict:
         with open(json_file, encoding="utf-8") as f:
             data = json.load(f)
 
-        # リスト形式のファイルはスキップ（フォーマットが異なる）
-        if not isinstance(data, dict):
-            print(f"  Warning: Skipping {json_file.name} (not a dict)")
-            continue
-
         # positionsの数を計算し、positions配列を削除
-        positions = data.get("positions", [])
-        if "positions" in data:
-            del data["positions"]
-        data["num_of_positions"] = len(positions)
-
+        data["num_of_positions"] = len(data.pop("positions", []))
         companies[company_key] = data
 
     return companies
 
 
-def get_valid_sales(sales):
-    """salesの値を検証し、有効な数値を返す。無効な場合はNoneを返す"""
-    if sales is None:
-        return None
-    # 文字列の場合は数値に変換を試みる
-    if isinstance(sales, str):
-        try:
-            sales = int(sales)
-        except ValueError:
-            return None
-    # -1は不明を意味する
-    if sales == -1:
-        return None
-    return sales
+def is_valid_sales(sales: int) -> bool:
+    """salesが有効な値かどうかを返す（-1は不明を意味する）"""
+    return sales != -1
 
 
 def sort_by_sales(companies: dict) -> list:
     """salesの降順でソート（無効なsalesは除外）"""
-    # 有効なsalesを持つ企業のみをフィルタリング
-    valid_companies = {
-        k: v for k, v in companies.items() if get_valid_sales(v.get("sales")) is not None
-    }
-
-    return sorted(
-        valid_companies.items(),
-        key=lambda x: get_valid_sales(x[1].get("sales")),
-        reverse=True,
-    )
+    valid_companies = [(k, v) for k, v in companies.items() if is_valid_sales(v["sales"])]
+    return sorted(valid_companies, key=lambda x: x[1]["sales"], reverse=True)
 
 
 def sort_by_positions(companies: dict) -> list:
     """num_of_positionsの降順でソート（0件は除外）"""
-    # position数が1以上の企業のみをフィルタリング
-    valid_companies = {k: v for k, v in companies.items() if v.get("num_of_positions", 0) > 0}
-
-    return sorted(
-        valid_companies.items(), key=lambda x: x[1].get("num_of_positions", 0), reverse=True
-    )
+    valid_companies = [(k, v) for k, v in companies.items() if v["num_of_positions"] > 0]
+    return sorted(valid_companies, key=lambda x: x[1]["num_of_positions"], reverse=True)
 
 
 def create_ranking_json(sorted_companies: list) -> dict:
